@@ -1,4 +1,4 @@
-# GeoVista official documentation translations
+# Scientific Python Lectures translations
 
 [![Contributor Covenant](https://img.shields.io/badge/contributor%20covenant-2.1-4baaaa.svg)](https://github.com/tkoyama010/scientific-python-lectures-translations/blob/main/CODE_OF_CONDUCT.md)
 ![All Contributors](https://img.shields.io/github/all-contributors/tkoyama010/scientific-python-lectures-translations?color=ee8449)
