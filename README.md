@@ -2,7 +2,7 @@
 
 ![All Contributors](https://img.shields.io/github/all-contributors/tkoyama010/scientific-python-lectures-translations?color=ee8449)
 
-[GeoVista official documentation translations](https://github.com/tkoyama010/scientific-python-lectures-translations) is a project to provide GeoVista official documentation, hosted on
+[scientific-python-lectures official documentation translations](https://github.com/tkoyama010/scientific-python-lectures-translations) is a project to provide scientific-python-lectures official documentation, hosted on
 the Read The Docs platform, in multiple languages.
 
 > [!NOTE]
@@ -12,7 +12,7 @@ the Read The Docs platform, in multiple languages.
 > The current procedure is bit tricky because Read The Docs
 > doesn't have a way to specify options for `sphinx-build` command.
 > **conf.py** files for each languages have `language` and `locale_dirs`
-> values without having full copy of **conf.py** of GeoVista doc. If we want
+> values without having full copy of **conf.py** of scientific-python-lectures doc. If we want
 > to specify **conf.py** file that is out of source directory, we will use
 > `-c` option for the `sphinx-build` command. Unfortunately Read the Docs
 > doesn't support that. If there is a better way, open an issue.
@@ -32,8 +32,7 @@ Key points:
 
 | Language                 | Build Status                                                                                                                                              | RTD Project                                                                                                                  | Transifex                                                                                                                             |
 | :----------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
-| English (parent project) | [![Documentation Status](https://readthedocs.org/projects/geovista/badge/?version=latest)](https://geovista.readthedocs.io/en/latest/?badge=latest)       | [![readthedocs.org](https://img.shields.io/badge/readthedocs-en-ff7964.svg?)](https://readthedocs.org/projects/geovista/)    |                                                                                                                                       |
-| 日本語                   | [![Documentation Status](https://readthedocs.org/projects/geovista-ja/badge/?version=latest)](https://geovista-ja.readthedocs.io/ja/latest/?badge=latest) | [![readthedocs.org](https://img.shields.io/badge/readthedocs-ja-ff7964.svg?)](https://readthedocs.org/projects/geovista-ja/) | [![Transifex](https://img.shields.io/badge/Transifex-ja-blue.svg?)](https://app.transifex.com/tkoyama010/geovista-doc/translate/#/ja) |
+| 日本語                   | [![Documentation Status](https://readthedocs.org/projects/scientific-python-lectures-ja/badge/?version=latest)](https://scientific-python-lectures-ja.readthedocs.io/ja/latest/?badge=latest) | [![readthedocs.org](https://img.shields.io/badge/readthedocs-ja-ff7964.svg?)](https://readthedocs.org/projects/scientific-python-lectures-ja/) | [![Transifex](https://img.shields.io/badge/Transifex-ja-blue.svg?)](https://app.transifex.com/tkoyama010/scientific-python-lectures-doc/translate/#/ja) |
 
 ## How to add a new language translation
 
@@ -56,16 +55,16 @@ sh ./locale/update.sh
 
 4.  Add new project on Read The Docs. For example, for `pt_BR`:
 
-    https://readthedocs.org/projects/geovista-pt-br/
+    https://readthedocs.org/projects/scientific-python-lectures-pt-br/
 
 > [!NOTE]
 > If a RTD project name for a translation is already taken,
-> create a unique project name instead. For example, when `geovista-ru`
-> was taken, `geovista-doc-ru` was used instead.
+> create a unique project name instead. For example, when `scientific-python-lectures-ru`
+> was taken, `scientific-python-lectures-doc-ru` was used instead.
 
 5.  Add new translation project to parent project:
 
-    https://readthedocs.org/dashboard/geovista/translations/
+    https://readthedocs.org/dashboard/scientific-python-lectures/translations/
 
 ## Contributors ✨
 
