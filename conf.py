@@ -17,7 +17,7 @@ from pathlib import Path
 
 basedir = Path(__file__).resolve().parent / "scientific-python-lectures"
 exec((basedir / "conf.py").read_text(), globals())  # noqa: S102
-locale_dirs = [basedir / "../../locale/"]
+locale_dirs = [basedir / "../locale/"]
 
 
 def setup(app) -> None:  # noqa: D103,ANN001
