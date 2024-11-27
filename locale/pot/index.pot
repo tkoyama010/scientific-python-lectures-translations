@@ -1,0 +1,65 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024
+# This file is distributed under the same license as the Scientific Python Lectures package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Scientific Python Lectures 2024.2rc0.dev0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-27 19:17+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../scientific-python-lectures/index.rst:2
+msgid "Scientific Python Lectures"
+msgstr ""
+
+#: ../../scientific-python-lectures/index.rst:7
+msgid "One document to learn numerics, science, and data with Python"
+msgstr ""
+
+#: ../../scientific-python-lectures/index.rst:-1
+msgid "Download"
+msgstr ""
+
+#: ../../scientific-python-lectures/index.rst:93
+msgid "|pdf-icon| `PDF, 2 pages per side <./_downloads/ScientificPythonLectures.pdf>`_"
+msgstr ""
+
+#: ../../scientific-python-lectures/index.rst:72
+msgid "PDF icon"
+msgstr ""
+
+#: ../../scientific-python-lectures/index.rst:95
+msgid "|pdf-icon| `PDF, 1 page per side <./_downloads/ScientificPythonLectures-simple.pdf>`_"
+msgstr ""
+
+#: ../../scientific-python-lectures/index.rst:97
+msgid "|github-icon| `Source code (github) <https://github.com/scipy-lectures/scientific-python-lectures>`_"
+msgstr ""
+
+#: ../../scientific-python-lectures/index.rst:83
+msgid "GitHub icon"
+msgstr ""
+
+#: ../../scientific-python-lectures/index.rst:100
+msgid "Tutorials on the scientific Python ecosystem: a quick introduction to central tools and techniques. The different chapters each correspond to a 1 to 2 hours course with increasing level of expertise, from beginner to expert."
+msgstr ""
+
+#: ../../scientific-python-lectures/index.rst:105
+msgid "Release: |release|"
+msgstr ""
+
+#: ../../scientific-python-lectures/index.rst:138
+msgid ":download:`ScientificPythonLectures.pdf` :download:`ScientificPythonLectures-simple.pdf`"
+msgstr ""
+
+#: ../../../../../../../tmp/<rst_epilog>:9
+msgid "|clear-floats|"
+msgstr ""

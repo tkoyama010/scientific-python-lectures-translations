@@ -1,0 +1,521 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2024
+# This file is distributed under the same license as the Scientific Python Lectures package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Scientific Python Lectures 2024.2rc0.dev0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-11-27 19:13+0000\n"
+"PO-Revision-Date: 2024-11-27 19:15+0000\n"
+"Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../scientific-python-lectures/AUTHORS.rst:3
+msgid "Authors"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:6
+msgid "Editors"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:8
+#: ../../scientific-python-lectures/AUTHORS.rst:46
+#: ../../scientific-python-lectures/AUTHORS.rst:265
+msgid "Gaël Varoquaux"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:10
+#: ../../scientific-python-lectures/AUTHORS.rst:36
+#: ../../scientific-python-lectures/AUTHORS.rst:125
+msgid "Emmanuelle Gouillart"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:12
+#: ../../scientific-python-lectures/AUTHORS.rst:261
+msgid "Olav Vahtras"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:14
+#: ../../scientific-python-lectures/AUTHORS.rst:81
+msgid "Pierre de Buyl"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:16
+#: ../../scientific-python-lectures/AUTHORS.rst:185
+msgid "K\\. Jarrod Millman"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:18
+#: ../../scientific-python-lectures/AUTHORS.rst:263
+msgid "Stéfan van der Walt"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:22
+msgid "Chapter authors"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:24
+msgid "Listed by alphabetical order."
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:26
+msgid "Christopher Burns"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:28
+msgid "Adrian Chauve"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:30
+#: ../../scientific-python-lectures/AUTHORS.rst:89
+msgid "Robert Cimrman"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:32
+#: ../../scientific-python-lectures/AUTHORS.rst:91
+msgid "Christophe Combelles"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:34
+#: ../../scientific-python-lectures/AUTHORS.rst:105
+msgid "André Espaze"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:38
+msgid "Mike Müller"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:40
+#: ../../scientific-python-lectures/AUTHORS.rst:205
+msgid "Fabian Pedregosa"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:42
+#: ../../scientific-python-lectures/AUTHORS.rst:213
+msgid "Didrik Pinte"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:44
+msgid "Nicolas Rougier"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:48
+#: ../../scientific-python-lectures/AUTHORS.rst:273
+msgid "Pauli Virtanen"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:50
+#: ../../scientific-python-lectures/AUTHORS.rst:157
+msgid "Zbigniew Jędrzejewski-Szmek"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:52
+msgid "Valentin Haenel (editor from 2011 to 2015)"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:55
+msgid "Additional Contributions"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:57
+msgid "Listed by alphabetical order"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:59
+msgid "Osayd Abdu"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:61
+msgid "arunpersaud"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:63
+msgid "Ross Barnowski"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:65
+msgid "Sebastian Berg"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:67
+msgid "Lilian Besson"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:69
+msgid "Matthieu Boileau"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:71
+msgid "Joris Van den Bossche"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:73
+msgid "Michael Boyle"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:75
+msgid "Matthew Brett"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:77
+msgid "BSGalvan"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:79
+msgid "Lars Buitinck"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:83
+msgid "Ozan Çağlayan"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:85
+msgid "Lawrence Chan"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:87
+msgid "Adrien Chauve"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:93
+msgid "David Cournapeau"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:95
+msgid "Dave"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:97
+msgid "dogacan dugmeci"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:99
+msgid "Török Edwin"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:101
+msgid "egens"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:103
+msgid "Andre Espaze"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:107
+msgid "Loïc Estève"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:109
+msgid "Corey Farwell"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:111
+msgid "Tim Gates"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:113
+msgid "Stuart Geiger"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:115
+msgid "Olivier Georg"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:117
+msgid "Daniel Gerigk"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:119
+msgid "Robert Gieseke"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:121
+msgid "Philip Gillißen"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:123
+msgid "Ralf Gommers"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:127
+msgid "Julia Gustavsen"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:129
+msgid "Omar Gutiérrez"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:131
+msgid "Matt Haberland"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:133
+msgid "Valentin Haenel"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:135
+msgid "Pierre Haessig"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:137
+msgid "Bruno Hanzen"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:139
+msgid "Michael Hartmann"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:141
+msgid "Jonathan Helmus"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:143
+msgid "Andreas Hilboll"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:145
+msgid "Himanshu"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:147
+msgid "Julian Hofer"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:149
+msgid "Tim Hoffmann"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:151
+msgid "B\\. Hohl"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:153
+msgid "Tarek Hoteit"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:155
+msgid "Gert-Ludwig Ingold"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:159
+msgid "Thouis (Ray) Jones"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:161
+msgid "jorgeprietoarranz"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:163
+msgid "josephsalmon"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:165
+msgid "Greg Kiar"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:167
+msgid "kikocorreoso"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:169
+msgid "Vince Knight"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:171
+msgid "LFP6"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:173
+msgid "Manuel López-Ibáñez"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:175
+msgid "Marco Mangan"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:177
+msgid "Nicola Masarone"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:179
+msgid "John McLaughlin"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:181
+msgid "mhemantha"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:183
+msgid "michelemaroni89"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:187
+msgid "Mohammad"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:189
+msgid "Zachary Moon"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:191
+msgid "Mike Mueller"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:193
+msgid "negm"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:195
+msgid "John B Nelson"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:197
+msgid "nicoguaro"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:199
+msgid "Sergio Oller"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:201
+msgid "Theofilos Papapanagiotou"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:203
+msgid "patniharshit"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:207
+msgid "Philippe Pepiot"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:209
+msgid "Tiago M. D. Pereira"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:211
+msgid "Nicolas Pettiaux"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:215
+msgid "Evgeny Pogrebnyak"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:217
+msgid "reverland"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:219
+msgid "Maximilien Riehl"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:221
+msgid "Kristian Rother"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:223
+msgid "Nicolas P. Rougier"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:225
+msgid "Pamphile Roy"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:227
+msgid "Rutzmoser"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:229
+msgid "Sander"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:231
+msgid "João Felipe Santos"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:233
+msgid "Mark Setchell"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:235
+msgid "Helen Sherwood-Taylor"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:237
+msgid "Shoeboxam"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:239
+msgid "Simon"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:241
+msgid "solarjoe"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:243
+msgid "ssmiller"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:245
+msgid "Scott Staniewicz"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:247
+msgid "strpeter"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:249
+msgid "surfer190"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:251
+msgid "Bartosz Telenczuk"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:253
+msgid "tommyod"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:255
+msgid "Wes Turner"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:257
+msgid "Akihiro Uchida"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:259
+msgid "Utkarsh Upadhyay"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:267
+msgid "Nelle Varoquaux"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:269
+msgid "Olivier Verdier"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:271
+msgid "VirgileFritsch"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:275
+msgid "Yosh Wakeham"
+msgstr ""
+
+#: ../../scientific-python-lectures/AUTHORS.rst:277
+msgid "yasutomo57jp"
+msgstr ""
+
+#: ../../../../../../../tmp/<rst_epilog>:9
+msgid "|clear-floats|"
+msgstr ""
