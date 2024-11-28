@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the Scientific Python Lectures package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2024.2rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-27 19:13+0000\n"
+"POT-Creation-Date: 2024-11-27 19:17+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,11 +23,11 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/help/help.rst:4
 msgid "Getting help and finding documentation"
-msgstr ""
+msgstr "ヘルプの入手とドキュメントの検索"
 
 #: ../../scientific-python-lectures/intro/help/help.rst:6
 msgid "**Author**: *Emmanuelle Gouillart*"
-msgstr ""
+msgstr "**Author**: *Emmanuelle Gouillart*"
 
 #: ../../scientific-python-lectures/intro/help/help.rst:8
 msgid ""
@@ -31,6 +35,8 @@ msgid ""
 "find rapidly information throughout the documentation and the available "
 "help. Here are some ways to get information:"
 msgstr ""
+"NumPyとSciPyのすべての関数を知ることよりも、ドキュメントや利用可能なヘルプを通して迅速に情報を見つけることが重要です。 "
+"ここでは、情報を得るためのいくつかの方法を紹介します:"
 
 #: ../../scientific-python-lectures/intro/help/help.rst:12
 msgid ""
