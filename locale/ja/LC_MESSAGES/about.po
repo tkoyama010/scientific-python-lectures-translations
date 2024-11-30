@@ -2,10 +2,10 @@
 # Copyright (C) 2024
 # This file is distributed under the same license as the Scientific Python Lectures package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 # Translators:
 # Tetsuo Koyama <tkoyama010@gmail.com>, 2024
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
