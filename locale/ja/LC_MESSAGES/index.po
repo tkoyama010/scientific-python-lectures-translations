@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the Scientific Python Lectures package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2024.2rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-27 19:13+0000\n"
+"POT-Creation-Date: 2024-11-27 19:17+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -62,6 +66,8 @@ msgid ""
 "to 2 hours course with increasing level of expertise, from beginner to "
 "expert."
 msgstr ""
+"科学的Pythonエコシステムのチュートリアル: "
+"中心的なツールとテクニックのクイックイントロダクション。各章は1時間から2時間のコースに対応しており、初級者から上級者までレベルアップしていきます。"
 
 #: ../../scientific-python-lectures/index.rst:105
 msgid "Release: |release|"
