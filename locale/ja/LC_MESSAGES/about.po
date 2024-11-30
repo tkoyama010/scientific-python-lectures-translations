@@ -28,19 +28,21 @@ msgstr "Scientific Python Lecturesについて"
 
 #: ../../scientific-python-lectures/about.rst:11
 msgid "Release: |release|"
-msgstr ""
+msgstr "リリース: |release|"
 
 #: ../../scientific-python-lectures/about.rst:13
 msgid ""
 "The lectures are archived on zenodo: http://dx.doi.org/10.5281/zenodo.594102"
-msgstr ""
+msgstr "講義はzenodoにアーカイブされています: http://dx.doi.org/10.5281/zenodo.594102"
 
 #: ../../scientific-python-lectures/about.rst:15
 msgid ""
 "All code and material is licensed under a Creative Commons Attribution 4.0 "
 "International License (CC-by) http://creativecommons.org/licenses/by/4.0/"
 msgstr ""
+"すべてのコードと素材は、 Creative Commons Attribution 4.0 International License (CC-by) "
+"http://creativecommons.org/licenses/by/4.0/ の下でライセンスされています。"
 
 #: ../../../../../../../tmp/<rst_epilog>:9
 msgid "|clear-floats|"
-msgstr ""
+msgstr "|clear-floats|"

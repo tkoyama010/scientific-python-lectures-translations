@@ -132,7 +132,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/index.rst:2
 msgid "Getting started with Python for science"
-msgstr ""
+msgstr "科学のためのPython入門"
 
 #: ../../scientific-python-lectures/intro/index.rst:4
 msgid ""
@@ -140,10 +140,12 @@ msgid ""
 "introduction to everything that is needed to use Python for science, from "
 "the language itself, to numerical computing or plotting."
 msgstr ""
+"*Scientific Python Lectures* "
+"のこのパートは、言語そのものから数値計算やプロットまで、科学にPythonを使うために必要なすべてを自己完結的に紹介しています。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:2
 msgid "Python scientific computing ecosystem"
-msgstr ""
+msgstr "Python科学計算エコシステム"
 
 #: ../../scientific-python-lectures/intro/intro.rst:4
 msgid ""
@@ -153,7 +155,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/intro.rst:8
 msgid "Why Python?"
-msgstr ""
+msgstr "なぜ Python?"
 
 #: ../../scientific-python-lectures/intro/intro.rst:11
 msgid "The scientist's needs"

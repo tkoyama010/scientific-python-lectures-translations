@@ -23,41 +23,44 @@ msgstr ""
 
 #: ../../scientific-python-lectures/index.rst:2
 msgid "Scientific Python Lectures"
-msgstr ""
+msgstr "Scientific Python Lectures"
 
 #: ../../scientific-python-lectures/index.rst:7
 msgid "One document to learn numerics, science, and data with Python"
-msgstr ""
+msgstr "Pythonで数値計算、科学、データを学ぶための1つのドキュメント"
 
 #: ../../scientific-python-lectures/index.rst-1
 msgid "Download"
-msgstr ""
+msgstr "ダウンロード"
 
 #: ../../scientific-python-lectures/index.rst:93
 msgid ""
 "|pdf-icon| `PDF, 2 pages per side "
 "<./_downloads/ScientificPythonLectures.pdf>`_"
-msgstr ""
+msgstr "|pdf-icon| `PDF、片側2ページ <./_downloads/ScientificPythonLectures.pdf>`_"
 
 #: ../../scientific-python-lectures/index.rst:72
 msgid "PDF icon"
-msgstr ""
+msgstr "PDF アイコン"
 
 #: ../../scientific-python-lectures/index.rst:95
 msgid ""
 "|pdf-icon| `PDF, 1 page per side <./_downloads/ScientificPythonLectures-"
 "simple.pdf>`_"
 msgstr ""
+"|pdf-icon| `PDF、片側1ページ <./_downloads/ScientificPythonLectures-simple.pdf>`_"
 
 #: ../../scientific-python-lectures/index.rst:97
 msgid ""
 "|github-icon| `Source code (github) <https://github.com/scipy-"
 "lectures/scientific-python-lectures>`_"
 msgstr ""
+"|github-icon| `ソースコード (github) <https://github.com/scipy-"
+"lectures/scientific-python-lectures>`_"
 
 #: ../../scientific-python-lectures/index.rst:83
 msgid "GitHub icon"
-msgstr ""
+msgstr "GitHub アイコン"
 
 #: ../../scientific-python-lectures/index.rst:100
 msgid ""
@@ -71,14 +74,16 @@ msgstr ""
 
 #: ../../scientific-python-lectures/index.rst:105
 msgid "Release: |release|"
-msgstr ""
+msgstr "リリース: |release|"
 
 #: ../../scientific-python-lectures/index.rst:138
 msgid ""
 ":download:`ScientificPythonLectures.pdf` "
 ":download:`ScientificPythonLectures-simple.pdf`"
 msgstr ""
+":download:`ScientificPythonLectures.pdf` "
+":download:`ScientificPythonLectures-simple.pdf`"
 
 #: ../../../../../../../tmp/<rst_epilog>:9
 msgid "|clear-floats|"
-msgstr ""
+msgstr "|clear-floats|"

@@ -31,6 +31,8 @@ msgid ""
 "constant maintenance and improvements. New contributions such as wording "
 "improvements or inclusion of new topics are welcome."
 msgstr ""
+"Scientific Python Lecturesはコミュニティベースの取り組みであり、常にメンテナンスと改善が必要です。 "
+"文言の改善や新しいトピックの追加など、新しい貢献を歓迎します。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:8
 msgid ""
@@ -44,26 +46,28 @@ msgid ""
 "project <https://github.com/scipy-lectures/scientific-python-"
 "lectures/issues>`_ to discuss it with the editors."
 msgstr ""
+"新しいトピックについては、まず目的を読み、 `GitHubプロジェクト<https://github.com/scipy-"
+"lectures/scientific-python-lectures/issues>`_ にissueを発行して編集者と議論してください。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:17
 msgid "Objectives and design choices for the lectures"
-msgstr ""
+msgstr "講義の目的とデザインの選択"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:19
 msgid ""
 "Contributors should keep the following objectives and design choices of the "
 "Scientific Python Lectures in mind."
-msgstr ""
+msgstr "投稿者は、Scientific Python Lecturesの以下の目的とデザインの選択に留意してください。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:22
 msgid "Objectives:"
-msgstr ""
+msgstr "目的:"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:24
 msgid ""
 "Provide a self-contained introduction to Python and its primary "
 "computational packages, the ”Scientific Python stack“."
-msgstr ""
+msgstr "Pythonとその主要な計算パッケージである \"Scientific Python stack\" の自己完結型の入門書を提供します。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:26
 msgid ""
@@ -71,32 +75,35 @@ msgid ""
 "libraries. Currently, we cover pandas, statmodels, seaborn, scikit-image, "
 "scikit-learn, and sympy."
 msgstr ""
+"広く使われている安定した計算ライブラリのチュートリアルを提供します。 現在、pandas、statmodels、seaborn、scikit-"
+"image、scikit-learn、sympyを扱っています。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:30
 msgid "Automated testing is applied to the code examples as much as possible."
-msgstr ""
+msgstr "自動テストは、可能な限りコード例に適用されます。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:32
 msgid "Design choices:"
-msgstr ""
+msgstr "デザインの選択:"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:34
 msgid "Each chapter should provide a useful basis for a 1‒2 h tutorial."
-msgstr ""
+msgstr "各章は、1-2時間のチュートリアルに役立つ基礎となるはずです。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:35
 msgid "The code should be readable."
-msgstr ""
+msgstr "コードは読めるものでなければなりません。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:36
 msgid ""
 "An idomatic style should be followed, e.g. ``import numpy as np``, "
 "preference for array operations, PEP8 coding conventions."
 msgstr ""
+"配列操作の優先順位、PEP8のコーディング規約など、慣用的なスタイル例えば  ``import numpy as np`` に従うべきです。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:41
 msgid "Contributing guide"
-msgstr ""
+msgstr "貢献ガイド"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:43
 msgid "The directory ``guide`` contains instructions on how to contribute:"
