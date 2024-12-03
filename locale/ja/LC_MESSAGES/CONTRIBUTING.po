@@ -119,17 +119,17 @@ msgstr ""
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:54
 msgid "To generate the html output for on-screen display, Type::"
-msgstr ""
+msgstr "画面表示用のhtml出力を生成するには、以下をタイプしてください::"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:58
 msgid "the generated html files can be found in ``build/html``"
-msgstr ""
+msgstr "生成されたhtmlファイルは ``build/html`` にあります。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:60
 msgid ""
 "The first build takes a long time, but information is cached and subsequent "
 "builds will be faster."
-msgstr ""
+msgstr "最初のビルドには時間がかかりますが、情報はキャッシュされ、その後のビルドは速くなります。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:63
 msgid "To generate the pdf file for printing::"
