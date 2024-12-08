@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2024.2rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-27 19:17+0000\n"
+"POT-Creation-Date: 2024-12-08 00:14+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -96,10 +96,9 @@ msgstr "コードは読めるものでなければなりません。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:36
 msgid ""
-"An idomatic style should be followed, e.g. ``import numpy as np``, "
+"An idiomatic style should be followed, e.g. ``import numpy as np``, "
 "preference for array operations, PEP8 coding conventions."
 msgstr ""
-"配列操作の優先順位、PEP8のコーディング規約など、慣用的なスタイル例えば  ``import numpy as np`` に従うべきです。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:41
 msgid "Contributing guide"

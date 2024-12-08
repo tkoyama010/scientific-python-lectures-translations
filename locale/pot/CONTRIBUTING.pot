@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2024.2rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-27 19:17+0000\n"
+"POT-Creation-Date: 2024-12-08 00:14+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -69,7 +69,7 @@ msgid "The code should be readable."
 msgstr ""
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:36
-msgid "An idomatic style should be followed, e.g. ``import numpy as np``, preference for array operations, PEP8 coding conventions."
+msgid "An idiomatic style should be followed, e.g. ``import numpy as np``, preference for array operations, PEP8 coding conventions."
 msgstr ""
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:41
