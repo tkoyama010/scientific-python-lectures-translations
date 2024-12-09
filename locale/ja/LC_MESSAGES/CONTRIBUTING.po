@@ -99,6 +99,7 @@ msgid ""
 "An idiomatic style should be followed, e.g. ``import numpy as np``, "
 "preference for array operations, PEP8 coding conventions."
 msgstr ""
+"配列操作の優先順位、PEP8のコーディング規約など、慣用的なスタイル例えば  ``import numpy as np`` に従うべきです。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:41
 msgid "Contributing guide"
@@ -106,15 +107,15 @@ msgstr "貢献ガイド"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:43
 msgid "The directory ``guide`` contains instructions on how to contribute:"
-msgstr ""
+msgstr "ディレクトリ ``guide`` には投稿の方法が書かれています:"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:41
 msgid "**Example chapter**"
-msgstr ""
+msgstr "**例章**"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:52
 msgid "Building instructions"
-msgstr ""
+msgstr "ビルディングの指導"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:54
 msgid "To generate the html output for on-screen display, Type::"
