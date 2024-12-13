@@ -5,8 +5,8 @@ build:
   tools:
     python: "3.12"
   apt_packages:
-    - libopenblas-dev
     - gfortran
+    - libopenblas-dev
 
 submodules:
   include:
