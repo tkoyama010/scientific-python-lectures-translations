@@ -1,5 +1,5 @@
 coverage>=7.6
-git+https://github.com/tkoyama010/scipy/tree/rtd-pooch
+git+https://github.com/tkoyama010/scipy.git@rtd-pooch
 ipython
 matplotlib==3.9.3
 numpy==2.1.3
