@@ -133,7 +133,7 @@ msgstr "最初のビルドには時間がかかりますが、情報はキャッ
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:63
 msgid "To generate the pdf file for printing::"
-msgstr ""
+msgstr "印刷用のpdfファイルを作成するには::"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:67
 msgid ""
@@ -141,10 +141,12 @@ msgid ""
 "Tweaking the layout in the ``*.rst`` files is usually enough to work around "
 "these problems."
 msgstr ""
+"pdfビルダーは少し難しく、TeXのエラーが出るかもしれません。 通常、 ``*.rst`` "
+"ファイルのレイアウトを調整することで、これらの問題を回避することができます。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:72
 msgid "Requirements"
-msgstr ""
+msgstr "必要条件"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:74
 msgid ""
@@ -161,7 +163,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:85
 msgid "Note that you will also need the following system packages:"
-msgstr ""
+msgstr "以下のシステムパッケージも必要であることに注意してください:"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:87
 msgid ""
