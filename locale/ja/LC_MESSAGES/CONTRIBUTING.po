@@ -176,7 +176,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:89
 msgid "`GNU Make <https://www.gnu.org/software/make/>`__,"
-msgstr ""
+msgstr "`GNU Make <https://www.gnu.org/software/make/>`__,"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:90
 msgid ""
@@ -187,19 +187,19 @@ msgstr ""
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:94
 msgid "`dvipng <http://savannah.nongnu.org/projects/dvipng/>`__,"
-msgstr ""
+msgstr "`dvipng <http://savannah.nongnu.org/projects/dvipng/>`__,"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:95
 msgid "`latexmk <https://personal.psu.edu/~jcc8/software/latexmk/>`__,"
-msgstr ""
+msgstr "`latexmk <https://personal.psu.edu/~jcc8/software/latexmk/>`__,"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:96
 msgid "`git <https://git-scm.com/>`__."
-msgstr ""
+msgstr "`git <https://git-scm.com/>`__."
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:99
 msgid "Updating the cover"
-msgstr ""
+msgstr "カバーの更新"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:101
 msgid "Use inkscape to modify the cover in ``images/``, then export to PDF::"
