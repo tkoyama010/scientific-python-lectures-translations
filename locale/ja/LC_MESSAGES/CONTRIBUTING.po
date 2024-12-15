@@ -152,7 +152,7 @@ msgstr "必要条件"
 msgid ""
 "Build requirements are listed in the :download:`requirements file "
 "<requirements.txt>`:"
-msgstr ""
+msgstr "ビルド要件は :download:`requirements ファイル <requirements.txt>` に記載されています:"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:79
 msgid ""
@@ -160,6 +160,8 @@ msgid ""
 "<https://docs.python.org/3/library/venv.html>`__ or conda environment set "
 "up, then install requirements with::"
 msgstr ""
+"`仮想環境 <https://docs.python.org/3/library/venv.html>`__ または conda "
+"環境がセットアップされていることを確認し、次のように要件をインストールします::"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:85
 msgid "Note that you will also need the following system packages:"
@@ -168,11 +170,11 @@ msgstr "以下のシステムパッケージも必要であることに注意し
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:87
 msgid ""
 "Python C development headers (the `python3-dev` package on Debian, e.g.),"
-msgstr ""
+msgstr "Python C 開発ヘッダー (Debian の `python3-dev` パッケージなど)、"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:88
 msgid "a C compiler like gcc,"
-msgstr ""
+msgstr "gccのようなCコンパイラー、"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:89
 msgid "`GNU Make <https://www.gnu.org/software/make/>`__,"
@@ -184,6 +186,9 @@ msgid ""
 "<https://www.tug.org/texlive/>`__ (``texlive-latex-base``, ``texlive-latex-"
 "extra``, ``texlive-fonts-extra``, and ``latexmk`` on Debian/Ubuntu),"
 msgstr ""
+"`TeX Live <https://www.tug.org/texlive/>`__ (Debian/Ubuntuでは ``texlive-"
+"latex-base`` 、 ``texlive-latex-extra`` 、 ``texlive-fonts-extra`` 、 "
+"``latexmk``) のような完全なLaTeXディストリビューション、"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:94
 msgid "`dvipng <http://savannah.nongnu.org/projects/dvipng/>`__,"
@@ -203,13 +208,13 @@ msgstr "カバーの更新"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:101
 msgid "Use inkscape to modify the cover in ``images/``, then export to PDF::"
-msgstr ""
+msgstr "inkscape を使って ``images/`` で表紙を修正し、PDFにエクスポートします::"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:105
 msgid ""
 "Ensure that the ``images/cover.pdf`` symlink points to the correct file."
-msgstr ""
+msgstr "``images/cover.pdf`` のシンボリックリンクが正しいファイルを指していることを確認してください。"
 
 #: ../../../../../../../tmp/<rst_epilog>:9
 msgid "|clear-floats|"
-msgstr ""
+msgstr "|clear-floats|"

@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the Scientific Python Lectures package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2024.2rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-27 19:13+0000\n"
+"POT-Creation-Date: 2024-11-27 19:17+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -721,7 +725,7 @@ msgstr ""
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:38
 #: ../../scientific-python-lectures/packages/sympy.rst:35
 msgid "Chapters contents"
-msgstr ""
+msgstr "各章の内容"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:39
 msgid "Introduction and concepts"
@@ -1120,7 +1124,7 @@ msgstr ""
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst-1
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:624
 msgid "Exercise"
-msgstr ""
+msgstr "例題"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:330
 msgid "Open a color image on your disk as a NumPy array."
@@ -1390,7 +1394,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst-1
 msgid "Exercise (continued)"
-msgstr ""
+msgstr "例題 (続き)"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:685
 msgid ""
@@ -1480,7 +1484,7 @@ msgstr ""
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:3
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:4
 msgid "Examples for the scikit-learn chapter"
-msgstr ""
+msgstr "scikit-learnの章の例"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:22
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:23
@@ -2628,7 +2632,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:5
 msgid "scikit-learn: machine learning in Python"
-msgstr ""
+msgstr "scikit-learn: Pythonで機械学習"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:7
 msgid "**Authors**: *Gael Varoquaux*"
@@ -2636,27 +2640,27 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:5
 msgid "Prerequisites"
-msgstr ""
+msgstr "前提条件"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:17
 msgid ":ref:`numpy <numpy>`"
-msgstr ""
+msgstr ":ref:`numpy <numpy>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:18
 msgid ":ref:`scipy <scipy>`"
-msgstr ""
+msgstr ":ref:`scipy <scipy>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:19
 msgid ":ref:`matplotlib (optional) <matplotlib>`"
-msgstr ""
+msgstr ":ref:`matplotlib (オプション) <matplotlib>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:20
 msgid ":ref:`ipython (the enhancements come handy) <interactive_work>`"
-msgstr ""
+msgstr ":ref:`ipython (機能拡張は便利) <interactive_work>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst-1
 msgid "**Acknowledgements**"
-msgstr ""
+msgstr "**謝辞**"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:24
 msgid ""
@@ -2664,30 +2668,34 @@ msgid ""
 "<https://www.youtube.com/watch?v=r4bRUvvlaBw>`__ given by Gaël Varoquaux, "
 "Jake Vanderplas, Olivier Grisel."
 msgstr ""
+"この章は、Gaël Varoquaux、Jake Vanderplas、Olivier Griselによる `チュートリアル "
+"<https://www.youtube.com/watch?v=r4bRUvvlaBw>`__ から抜粋したものである。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:28
 msgid "**Data science in Python**"
-msgstr ""
+msgstr "**Pythonでデータサイエンス**"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:30
 msgid ""
 "The :ref:`statistics` chapter may also be of interest for readers looking "
 "into machine learning."
-msgstr ""
+msgstr ":ref:`statistics` の章は、機械学習を研究している読者にとっても興味深いものでしょう。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:33
 msgid ""
 "The `documentation of scikit-learn <https://scikit-learn.org>`_ is very "
 "complete and didactic."
 msgstr ""
+"`documentation of scikit-learn <https://scikit-learn.org>`_ "
+"は非常に完成度が高く、教訓的です。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:48
 msgid "Introduction: problem settings"
-msgstr ""
+msgstr "はじめに: 問題設定"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:51
 msgid "What is machine learning?"
-msgstr ""
+msgstr "機械学習とは何か？"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:55
 msgid ""
@@ -2695,6 +2703,8 @@ msgid ""
 " are adjusted automatically so as to improve their behavior by **adapting to"
 " previously seen data.**"
 msgstr ""
+"機械学習とは、 **調整可能なパラメータ** を持つプログラムを構築することであり、そのプログラムは、 **過去に見たデータに適応することによって** "
+"、動作を改善するように自動的に調整されます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:59
 msgid ""
@@ -2716,6 +2726,9 @@ msgid ""
 "classification algorithm may be used to draw a dividing boundary between the"
 " two clusters of points:"
 msgstr ""
+"ここでは2つの非常に単純な機械学習タスクを見てみましょう。 1つ目は、 **分類** タスクです: "
+"図は、2つの異なるクラスラベルに従って色分けされた2次元データの集合を示しています。 "
+"分類アルゴリズムは、2つの点のクラスター間の境界線を引くために使うことができます:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:78
 msgid ""
@@ -2733,7 +2746,7 @@ msgstr ""
 msgid ""
 "The next simple task we'll look at is a **regression** task: a simple best-"
 "fit line to a set of data."
-msgstr ""
+msgstr "次の簡単なタスクは、 **回帰** タスクです: データ集合の単純なベストフィットの直線。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:99
 msgid ""
@@ -2743,14 +2756,17 @@ msgid ""
 " test data: here, we might be given an x-value, and the model would allow us"
 " to predict the y value."
 msgstr ""
+"繰り返しますが、これはモデルをデータに当てはめる例ですが、ここでの焦点は、モデルが新しいデータについて一般化を行うことができるということです。 "
+"モデルは学習データから **学習** され、テストデータの結果を予測するために使われます: "
+"ここでは、x値が与えられ、モデルによってy値を予測することができます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:106
 msgid "Data in scikit-learn"
-msgstr ""
+msgstr "scikit-learnのデータ"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:109
 msgid "The data matrix"
-msgstr ""
+msgstr "データマトリックス"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:111
 msgid ""
@@ -2759,6 +2775,9 @@ msgid ""
 "``numpy`` arrays, or in some cases ``scipy.sparse`` matrices. The size of "
 "the array is expected to be ``[n_samples, n_features]``"
 msgstr ""
+"scikit-learnで実装されている機械学習アルゴリズムは、データが **2次元の配列または行列** に格納されていることを期待します。 配列は "
+"``numpy`` 配列か、場合によっては ``scipy.sparse`` 行列です。配列のサイズは ``[n_samples, "
+"n_features]`` となります。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:116
 msgid ""
@@ -2767,6 +2786,8 @@ msgid ""
 " astronomical object, a row in database or CSV file, or whatever you can "
 "describe with a fixed set of quantitative traits."
 msgstr ""
+"**n\\_samples:** サンプルの数: 各サンプルは、 (分類などの) 処理をする項目です。 "
+"サンプルは、文書、画像、サウンド、ビデオ、天体、データベースやCSVファイルの行、または定量的な特徴の固定セットで記述できるものであれば何でもかまいません。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:121
 msgid ""
@@ -2774,6 +2795,8 @@ msgid ""
 " to describe each item in a quantitative manner. Features are generally "
 "real-valued, but may be boolean or discrete-valued in some cases."
 msgstr ""
+"**n\\_features:** 各項目を定量的に記述するために使用できる特徴または明確な形質の数。 "
+"特徴は一般に実数値ですが、場合によってはブーリアン値や離散値であることもあります。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:128
 msgid ""
@@ -2782,10 +2805,13 @@ msgid ""
 " given sample. This is a case where ``scipy.sparse`` matrices can be useful,"
 " in that they are much more memory-efficient than NumPy arrays."
 msgstr ""
+"特徴の数はあらかじめ決まっていなければなりません。 しかし、それは非常に高次元 (例えば数百万の特徴量) "
+"である可能性があり、与えられたサンプルに対してそのほとんどがゼロである可能性があります。 このような場合に ``scipy.sparse`` "
+"行列が役に立ちます。これは、NumPyの配列よりもはるかにメモリ効率がよいからです。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:135
 msgid "A Simple Example: the Iris Dataset"
-msgstr ""
+msgstr "簡単な例: アヤメの花データセット"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:138
 msgid "The application problem"
@@ -2797,6 +2823,8 @@ msgid ""
 "scikit-learn. Suppose we want to recognize species of irises. The data "
 "consists of measurements of three different species of irises:"
 msgstr ""
+"単純なデータセットの例として、 scikit-learn "
+"が保存しているアヤメのデータを見てみましょう。アヤメの種類を認識したいとします。データは3つの異なる種類のアヤメの測定値からなります:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:152
 msgid "|setosa_picture|"
@@ -2816,132 +2844,134 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:152
 msgid "|virginica_picture|"
-msgstr ""
+msgstr "|virginica_picture|"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:149
 msgid "virginica_picture"
-msgstr ""
+msgstr "virginica_picture"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:154
 msgid "Setosa Iris"
-msgstr ""
+msgstr "ヒオウギアヤメ"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:154
 msgid "Versicolor Iris"
-msgstr ""
+msgstr "ブルーフラッグ"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:154
 msgid "Virginica Iris"
-msgstr ""
+msgstr "バージニアアイリス"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst-1
 msgid "**Quick Question:**"
-msgstr ""
+msgstr "**簡単な質問:**"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:161
 msgid ""
 "**If we want to design an algorithm to recognize iris species, what might "
 "the data be?**"
-msgstr ""
+msgstr "**虹彩の種類を認識するアルゴリズムを設計する場合、どのようなデータが考えられるでしょう？**"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:164
 msgid "Remember: we need a 2D array of size ``[n_samples x n_features]``."
-msgstr ""
+msgstr "覚えておいてほしいのは:  ``[n_samples x n_features]`` サイズの2次元配列が必要だということです。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:166
 msgid "What would the ``n_samples`` refer to?"
-msgstr ""
+msgstr "``n_samples`` は何を指すのでしょうか？"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:168
 msgid "What might the ``n_features`` refer to?"
-msgstr ""
+msgstr "``n_features`` は何を指すのでしょうか？"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:170
 msgid ""
 "Remember that there must be a **fixed** number of features for each sample, "
 "and feature number ``i`` must be a similar kind of quantity for each sample."
 msgstr ""
+"各サンプルには **固定** 個の特徴がなければならず、特徴番号 ``i`` は各サンプルで同種の量でなければならないことを覚えておいてください。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:175
 msgid "Loading the Iris Data with Scikit-learn"
-msgstr ""
+msgstr "Scikit-learnでアヤメの花データを読み込む"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:177
 msgid ""
 "Scikit-learn has a very straightforward set of data on these iris species. "
 "The data consist of the following:"
-msgstr ""
+msgstr "Scikit-learnには、これらのアヤメの種に関する非常にわかりやすいデータセットがあります。データの構成は以下の通りです:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:180
 msgid "Features in the Iris dataset:"
-msgstr ""
+msgstr "アヤメの花データセットの特徴:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:184
 msgid "sepal length (cm)"
-msgstr ""
+msgstr "がく片長さ (cm)"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:185
 msgid "sepal width (cm)"
-msgstr ""
+msgstr "がく片幅 (cm)"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:186
 msgid "petal length (cm)"
-msgstr ""
+msgstr "花弁の長さ (cm)"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:187
 msgid "petal width (cm)"
-msgstr ""
+msgstr "花弁の幅 (cm)"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:189
 msgid "Target classes to predict:"
-msgstr ""
+msgstr "予測する対象クラス:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:193
 msgid "Setosa"
-msgstr ""
+msgstr "ヒオウギ"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:194
 msgid "Versicolour"
-msgstr ""
+msgstr "ブルーフラッグ"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:195
 msgid "Virginica"
-msgstr ""
+msgstr "バージニア"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:197
 msgid ""
 ":mod:`scikit-learn` embeds a copy of the iris CSV file along with a function"
 " to load it into NumPy arrays::"
-msgstr ""
+msgstr ":mod:`scikit-learn` は、アヤメのCSVファイルのコピーと、それをNumPyの配列にロードする関数を埋め込んでいます::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:205
 msgid ""
 "**Import sklearn** Note that scikit-learn is imported as :mod:`sklearn`"
 msgstr ""
+"**sklearn をインポートします** scikit-learnは :mod:`sklearn` としてインポートされることに注意してください。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:207
 msgid ""
 "The features of each sample flower are stored in the ``data`` attribute of "
 "the dataset::"
-msgstr ""
+msgstr "各サンプルの花の特徴は、データセットの ``data`` 属性に格納されます::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:220
 msgid ""
 "The information about the class of each sample is stored in the ``target`` "
 "attribute of the dataset::"
-msgstr ""
+msgstr "各サンプルのクラスに関する情報は、データセットの ``target`` 属性に格納される::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:232
 msgid ""
 "The names of the classes are stored in the last attribute, namely "
 "``target_names``::"
-msgstr ""
+msgstr "クラス名は最後の属性である ``target_names`` に格納されます::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:238
 msgid ""
 "This data is four-dimensional, but we can visualize two of the dimensions at"
 " a time using a scatter plot:"
-msgstr ""
+msgstr "このデータは4次元ですが、散布図を使って一度に2つの次元を視覚化できます:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst-1
 msgid "**Exercise**:"
@@ -2951,21 +2981,21 @@ msgstr ""
 msgid ""
 "Can you choose 2 features to find a plot where it is easier to separate the "
 "different classes of irises?"
-msgstr ""
+msgstr "アヤメの異なるクラスを分けるのがより簡単なプロットを見つけるために、2つの特徴を選ぶことができますか？"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:251
 msgid ""
 "**Hint**: click on the figure above to see the code that generates it, and "
 "modify this code."
-msgstr ""
+msgstr "**ヒント**: 上の図をクリックすると、それを生成するコードが表示されるので、このコードを修正してください。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:256
 msgid "Basic principles of machine learning with scikit-learn"
-msgstr ""
+msgstr "scikit-learnによる機械学習の基本原理"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:259
 msgid "Introducing the scikit-learn estimator object"
-msgstr ""
+msgstr "scikit-learnのestimatorオブジェクトの紹介"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:261
 msgid ""
@@ -2973,20 +3003,22 @@ msgid ""
 "instance a linear regression is: "
 ":class:`sklearn.linear_model.LinearRegression` ::"
 msgstr ""
+"scikit-learn ではすべてのアルゴリズムが ''Estimator'' オブジェクトを通して公開されます。 "
+"例えば線形回帰は次のようになります: :class:`sklearn.linear_model.LinearRegression` ::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:266
 msgid ""
 "**Estimator parameters**: All the parameters of an estimator can be set when"
 " it is instantiated::"
-msgstr ""
+msgstr "**推定パラメータ**: 推定量のすべてのパラメータはインスタンス化時に設定できます::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:274
 msgid "Fitting on data"
-msgstr ""
+msgstr "データへのフィッティング"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:276
 msgid "Let's create some simple data with :ref:`numpy <numpy>`::"
-msgstr ""
+msgstr ":ref:`numpy <numpy>` で簡単なデータを作ってみましょう::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:291
 msgid ""
@@ -3232,7 +3264,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:482
 msgid "Supervised Learning: Classification of Handwritten Digits"
-msgstr ""
+msgstr "教師あり学習: 手書き文字の分類"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:485
 msgid "The nature of the data"
@@ -3320,6 +3352,8 @@ msgid ""
 ":func:`~sklearn.model_selection.train_test_split` is imported from "
 "``sklearn.cross_validation``"
 msgstr ""
+":func:`~sklearn.model_selection.train_test_split` は "
+"``sklearn.cross_validation`` からインポートされています。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:562
 msgid ""
@@ -3379,7 +3413,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:667
 msgid "Supervised Learning: Regression of Housing Data"
-msgstr ""
+msgstr "教師あり学習: 住宅データの回帰"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:669
 msgid ""
@@ -3494,7 +3528,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:860
 msgid "Measuring prediction performance"
-msgstr ""
+msgstr "予測性能の測定"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:863
 msgid "A quick test on the K-neighbors classifier"
@@ -3753,13 +3787,13 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1214
 msgid "Unsupervised Learning: Dimensionality Reduction and Visualization"
-msgstr ""
+msgstr "教師なし学習: 次元削減と可視化"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1216
 msgid ""
 "Unsupervised learning is applied on X without y: data without labels. A "
 "typical use case is to find hidden structure in the data."
-msgstr ""
+msgstr "教師なし学習は、yのないX: つまりラベルのないデータに適用されます。 典型的な使用例は、データの隠れた構造を見つけることです。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1220
 msgid "Dimensionality Reduction: PCA"
@@ -3866,7 +3900,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1360
 msgid "Parameter selection, Validation, and Testing"
-msgstr ""
+msgstr "パラメータの選択、検証、テスト"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1363
 msgid "Hyperparameters, Over-fitting, and Under-fitting"
@@ -4336,6 +4370,8 @@ msgid ""
 "The `documentation of scikit-learn <https://scikit-learn.org>`__ is very "
 "complete and didactic."
 msgstr ""
+"`documentation of scikit-learn <https://scikit-learn.org>`__ "
+"は非常に完成度が高く、教訓的です。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1753
 msgid ""
