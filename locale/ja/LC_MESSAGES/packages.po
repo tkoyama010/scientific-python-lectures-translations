@@ -3026,10 +3026,12 @@ msgid ""
 "are estimated from the data at hand. All the estimated parameters are "
 "attributes of the estimator object ending by an underscore::"
 msgstr ""
+"**推定パラメータ**: "
+"データに推定量を当てはめる場合、手元のデータからパラメータが推定されます。推定されたパラメータはすべてestimatorオブジェクトの属性であり、アンダースコアで終わります::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:300
 msgid "Supervised Learning: Classification and regression"
-msgstr ""
+msgstr "教師あり学習: 分類と回帰"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:302
 msgid ""
@@ -3040,6 +3042,9 @@ msgid ""
 " flower. This is a relatively simple task. Some more complicated examples "
 "are:"
 msgstr ""
+"**教師あり学習** "
+"では、特徴量とラベルの両方からなるデータセットがあります。課題は、特徴量の集合が与えられたときに、オブジェクトのラベルを予測できる推定器を構築することです。"
+" 比較的単純な例として、アヤメの花の測定値の集合からアヤメの種類を予測することができます。 これは比較的単純な作業です。もっと複雑な例としては:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:309
 msgid ""
@@ -3077,6 +3082,10 @@ msgid ""
 "object based on such observations: this would be a regression problem, "
 "because the label (age) is a continuous quantity."
 msgstr ""
+"教師あり学習はさらに、 **分類** と **回帰** の2つのカテゴリーに分けられます。分類ではラベルは離散的であり、回帰ではラベルは連続的です。 "
+"例えば天文学では、ある物体が星なのか、銀河なのか、クエーサーなのかを判断する作業は、分類の問題です: "
+"ラベルは3つのカテゴリーに分かれています。一方、このような観測に基づいて天体の年齢を推定したいと思うかもしれません: これは回帰の問題でしょう, "
+"なぜなら、ラベル (年齢) は連続量だからです。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:332
 msgid ""
@@ -3085,24 +3094,26 @@ msgid ""
 "reference database which ones have the closest features and assign the "
 "predominant class. Let's try it out on our iris classification problem::"
 msgstr ""
+"**分類**: K最近傍(kNN)は最も単純な学習戦略の一つです: "
+"新しい未知の観測が与えられたら、どの観測が最も近い特徴を持っているかを参照データベースで調べ、優勢なクラスを割り当てます。アヤメ分類の問題で試してみましょう::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:350
 msgid "A plot of the sepal space and the prediction of the KNN"
-msgstr ""
+msgstr "がく片の空間とKNNの予測値のプロット"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:352
 msgid ""
 "**Regression**: The simplest possible regression setting is the linear "
 "regression one:"
-msgstr ""
+msgstr "**回帰**: 最も簡単な回帰設定は線形回帰です:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:363
 msgid "A plot of a simple linear regression."
-msgstr ""
+msgstr "単純な線形回帰のプロット。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:366
 msgid "A recap on Scikit-learn's estimator interface"
-msgstr ""
+msgstr "Scikit-learnのestimatorインターフェイスのまとめ"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:368
 msgid ""
@@ -3110,10 +3121,12 @@ msgid ""
 "we’ll see examples of these below. Given a scikit-learn *estimator* object "
 "named ``model``, the following methods are available:"
 msgstr ""
+"Scikit-learn は全てのメソッドで統一されたインターフェイスを持つように努めており、以下にその例を示します。 ``model`` という名前の"
+" scikit-learn *estimator* オブジェクトが与えられた場合、以下のメソッドが利用できます:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:0
 msgid "In **all Estimators**"
-msgstr ""
+msgstr "**すべての Estimator** の場合"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:374
 msgid ""
@@ -3122,10 +3135,13 @@ msgid ""
 "``model.fit(X, y)``). For unsupervised learning applications, this accepts "
 "only a single argument, the data ``X`` (e.g. ``model.fit(X)``)."
 msgstr ""
+"``model.fit()`` : トレーニングデータに適合します。教師あり学習アプリケーションでは、データ ``X`` とラベル ``y`` "
+"の2つの引数を受け付けます(例 ``model.fit(X, y)`` )。 教師なし学習アプリケーションの場合、引数はデータ ``X`` だけです(例"
+" ``model.fit(X)`` )。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:0
 msgid "In **supervised estimators**"
-msgstr ""
+msgstr "**教師あり推定量** の場合"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:382
 msgid ""
@@ -3134,6 +3150,9 @@ msgid ""
 "``model.predict(X_new)``), and returns the learned label for each object in "
 "the array."
 msgstr ""
+"``model.predict()`` : "
+"訓練済みのモデルが与えられた場合、新しいデータセットのラベルを予測します。このメソッドは1つの引数、新しいデータ ``X_new`` (例えば "
+"``model.predict(X_new)``) を受け取り、配列内の各オブジェクトの学習済みラベルを返します。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:386
 msgid ""
@@ -3142,6 +3161,9 @@ msgid ""
 "observation has each categorical label. In this case, the label with the "
 "highest probability is returned by ``model.predict()``."
 msgstr ""
+"``model.predict_proba()`` : "
+"分類問題については、いくつかの推定器もこの方法を提供しており、新しい観測値が各カテゴリラベルを持つ確率を返します。この場合、最も確率の高いラベルが "
+"``model.predict()`` によって返されます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:391
 msgid ""
@@ -3149,10 +3171,12 @@ msgid ""
 "estimators implement a score method. Scores are between 0 and 1, with a "
 "larger score indicating a better fit."
 msgstr ""
+"``model.score()`` : 分類や回帰の問題では、ほとんど (すべて？) "
+"の推定器がスコア法を実装しています。スコアは0から1の間で、大きいほどフィットしていることを示す。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:0
 msgid "In **unsupervised estimators**"
-msgstr ""
+msgstr "**教師なし推定量** の場合"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:397
 msgid ""
@@ -3160,12 +3184,14 @@ msgid ""
 " the new basis. This also accepts one argument ``X_new``, and returns the "
 "new representation of the data based on the unsupervised model."
 msgstr ""
+"``model.transform()`` : 教師なしモデルが与えられた場合、新しいデータを新しい基底に変換します。これも ``X_new`` "
+"を引数にとり、教師なしモデルに基づいたデータの新しい表現を返します。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:401
 msgid ""
 "``model.fit_transform()`` : some estimators implement this method, which "
 "more efficiently performs a fit and a transform on the same input data."
-msgstr ""
+msgstr "``model.fit_transform()`` : この方法は、同じ入力データに対してフィットと変換をより効率的に実行します。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:406
 msgid "Regularization: what it is and why it is necessary"
@@ -3362,6 +3388,7 @@ msgid ""
 "classification. It is generally not sufficiently accurate for real-world "
 "data, but can perform surprisingly well, for instance on text data."
 msgstr ""
+"ガウシアン・ナイーブ・ベイズは、各特徴について、各学習ラベルにガウス分布を個別に当てはめ、これを用いて素早く大まかな分類を行います。一般的に、実世界のデータに対しては十分な精度が得られませんが、テキストデータなどでは驚くほど高い精度を発揮することがあります。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:589
 msgid ""
@@ -5449,7 +5476,7 @@ msgstr ""
 msgid ""
 "Retrieve the estimated parameters from the model above. **Hint**: use tab-"
 "completion to find the relevant attribute."
-msgstr ""
+msgstr "上記のモデルから推定されたパラメータを取得します。 **ヒント**: タブ補完を使って関連する属性を見つけます。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:546
 msgid "Categorical variables: comparing groups or multiple categories"
