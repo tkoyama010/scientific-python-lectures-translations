@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2024.2rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-27 19:17+0000\n"
+"POT-Creation-Date: 2024-12-17 01:28+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2067,7 +2067,7 @@ msgstr ""
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_imshow_ext.rst:114
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_multiplot_ext.rst:109
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_pie_ext.rst:113
-#: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_plot3d_ext.rst:97
+#: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_plot3d_ext.rst:99
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_plot_ext.rst:109
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_polar_ext.rst:102
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_quiver_ext.rst:114
@@ -2709,12 +2709,12 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:283
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:284
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_subplot-grid.py`"
+msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_bar.py`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:300
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:301
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_bar.py`"
+msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_subplot-grid.py`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:317
@@ -4130,15 +4130,15 @@ msgstr ""
 msgid "Demo 3D plotting with matplotlib and decorate the figure."
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_plot3d_ext.rst:82
+#: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_plot3d_ext.rst:84
 msgid ":download:`Download Jupyter notebook: plot_plot3d_ext.ipynb <plot_plot3d_ext.ipynb>`"
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_plot3d_ext.rst:86
+#: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_plot3d_ext.rst:88
 msgid ":download:`Download Python source code: plot_plot3d_ext.py <plot_plot3d_ext.py>`"
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_plot3d_ext.rst:90
+#: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_plot3d_ext.rst:92
 msgid ":download:`Download zipped: plot_plot3d_ext.zip <plot_plot3d_ext.zip>`"
 msgstr ""
 

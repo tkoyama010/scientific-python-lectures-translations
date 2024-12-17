@@ -3195,7 +3195,7 @@ msgstr "``model.fit_transform()`` : この方法は、同じ入力データに�
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:406
 msgid "Regularization: what it is and why it is necessary"
-msgstr ""
+msgstr "正則化: 正則化とは何か、なぜ必要なのか"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:409
 msgid "Preferring simpler models"
