@@ -3199,23 +3199,23 @@ msgstr "正則化: 正則化とは何か、なぜ必要なのか"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:409
 msgid "Preferring simpler models"
-msgstr ""
+msgstr "シンプルなモデルを好む"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:411
 msgid ""
 "**Train errors** Suppose you are using a 1-nearest neighbor estimator. How "
 "many errors do you expect on your train set?"
-msgstr ""
+msgstr "**訓練誤差** 1-最近傍推定量を使用しているとします。 訓練セットにはいくつの誤差が予想されますか？"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:414
 msgid ""
 "Train set error is not a good measurement of prediction performance. You "
 "need to leave out a test set."
-msgstr ""
+msgstr "訓練セットの誤差は予測性能の測定には適していません。 テストセットを除外する必要があります。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:416
 msgid "In general, we should accept errors on the train set."
-msgstr ""
+msgstr "一般的には、訓練セットの誤差は受け入れるべきです。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:418
 msgid ""
@@ -3223,24 +3223,26 @@ msgid ""
 " we are going to prefer models that are simpler, for a certain definition of"
 " ''simpler'', even if they lead to more errors on the train set."
 msgstr ""
+"**正則化の例** 正則化の背後にある核となる考え方は、ある ''単純化'' "
+"の定義では、たとえ訓練セットでより多くの誤差をもたらすとしても、より単純なモデルを選好するということです。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:423
 msgid "As an example, let's generate with a 9th order polynomial, with noise:"
-msgstr ""
+msgstr "例として、9次の多項式にノイズを入れて生成してみましょう:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:430
 msgid "And now, let's fit a 4th order and a 9th order polynomial to the data."
-msgstr ""
+msgstr "次に、4次と9次の多項式をデータに当てはめてみましょう。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:437
 msgid ""
 "With your naked eyes, which model do you prefer, the 4th order one, or the "
 "9th order one?"
-msgstr ""
+msgstr "あなたの肉眼では、4次と9次、どちらのモデルが好きですか？"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:440
 msgid "Let's look at the ground truth:"
-msgstr ""
+msgstr "真実を見てみましょう:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:449
 msgid ""
@@ -5480,11 +5482,11 @@ msgstr "上記のモデルから推定されたパラメータを取得します
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:546
 msgid "Categorical variables: comparing groups or multiple categories"
-msgstr ""
+msgstr "カテゴリー変数: グループまたは複数のカテゴリーを比較する"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:548
 msgid "Let us go back the data on brain size::"
-msgstr ""
+msgstr "脳の大きさに関するデータに戻りましょう::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:552
 msgid ""
