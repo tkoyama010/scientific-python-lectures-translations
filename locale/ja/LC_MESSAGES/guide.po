@@ -263,6 +263,9 @@ msgid ""
 "refer to, please use the ``tip`` sphinx directive. It creates collapsible "
 "paragraphs, that can be hidden during an oral presentation::"
 msgstr ""
+"HTML出力は、授業中にスクリーンに表示するために使用します。目標は、ノートと同じ内容を表示することです。 "
+"そのため、本格的な段落や文章ではなく、箇条書きで非常に簡潔に表示する必要があります。 人々が読んだり参照したりできるような、より詳細な議論には "
+"``tip`` sphinx ディレクティブを使ってください。 これは折りたたみ可能な段落を作成し、口頭発表の際に隠すことができます::"
 
 #: ../../scientific-python-lectures/guide/index.rst:92
 msgid "This renders as:"
