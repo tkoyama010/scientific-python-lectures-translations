@@ -269,13 +269,13 @@ msgstr ""
 
 #: ../../scientific-python-lectures/guide/index.rst:92
 msgid "This renders as:"
-msgstr ""
+msgstr "これは以下のようにレンダリングされます:"
 
 #: ../../scientific-python-lectures/guide/index.rst:96
 msgid ""
 "Here insert a full-blown discussion, that will be collapsible in the HTML "
 "version."
-msgstr ""
+msgstr "ここに本格的な議論を挿入します、そしてHTML版では折りたたみ式になります。"
 
 #: ../../scientific-python-lectures/guide/index.rst:99
 msgid "It can span on multiple paragraphs"
@@ -283,7 +283,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/guide/index.rst:102
 msgid "Figures and code examples"
-msgstr ""
+msgstr "図とコード例"
 
 #: ../../scientific-python-lectures/guide/index.rst:104
 msgid ""
@@ -292,16 +292,19 @@ msgid ""
 "anything of course) and put into the ``examples`` directory. The generated "
 "image will be named from the script name."
 msgstr ""
+" **リポジトリ内の数値はチェックしていません** 。どの図も ``plot_xxx.py`` という名前の python "
+"スクリプトから生成されなければなりません (xxx はもちろん何でもかまいません) そして、 ``examples`` ディレクトリに置きます。 "
+"生成される画像はスクリプト名から命名されます。"
 
 #: ../../scientific-python-lectures/guide/index.rst:113
 msgid "This is the way to include your image and link it to the code:"
-msgstr ""
+msgstr "これは、画像を入れてコードにリンクする方法です:"
 
 #: ../../scientific-python-lectures/guide/index.rst:120
 msgid ""
 "You can display the corresponding code using the ``literal-include`` "
 "directive."
-msgstr ""
+msgstr "``literal-include`` ディレクティブを使えば、対応するコードを表示することができます。"
 
 #: ../../scientific-python-lectures/guide/index.rst:127
 msgid ""
@@ -309,10 +312,12 @@ msgid ""
 "is provided by the `sphinx-gallery <https://sphinx-"
 "gallery.readthedocs.io/>`_ package."
 msgstr ""
+"Pythonスクリプトを図や例のギャラリーに変換する機能は、 `sphinx-gallery <https://sphinx-"
+"gallery.readthedocs.io/>`_ パッケージによって提供されます。"
 
 #: ../../scientific-python-lectures/guide/index.rst:132
 msgid "Using Markup"
-msgstr ""
+msgstr "Markup を使用する"
 
 #: ../../scientific-python-lectures/guide/index.rst:134
 msgid ""
@@ -365,7 +370,7 @@ msgstr ""
 msgid ""
 "Try to avoid to go below paragraph granularity or your document might become"
 " difficult to read:"
-msgstr ""
+msgstr "段落の粒度を下回ると、文書が読みづらくなる可能性があるので、なるべく避けてください:"
 
 #: ../../scientific-python-lectures/guide/index.rst:189
 msgid "Admonitions"
