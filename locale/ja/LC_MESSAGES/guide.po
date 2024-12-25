@@ -279,7 +279,7 @@ msgstr "ここに本格的な議論を挿入します、そしてHTML版では�
 
 #: ../../scientific-python-lectures/guide/index.rst:99
 msgid "It can span on multiple paragraphs"
-msgstr ""
+msgstr "複数の段落にまたがることができます"
 
 #: ../../scientific-python-lectures/guide/index.rst:102
 msgid "Figures and code examples"
