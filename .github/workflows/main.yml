@@ -8,12 +8,12 @@ on:
   pull_request:
     branches:
       - main
-permissions:
-  pull-requests: write
-  issues: write
-  repository-projects: write
 jobs:
   script:
+    permissions:
+      pull-requests: write
+      issues: write
+      repository-projects: write
     runs-on: ubuntu-latest
     steps:
       - name: Setup Python
@@ -29,6 +29,7 @@ jobs:
       - name: checkout with submodule
         uses: actions/checkout@v4
         with:
+          persist-credentials: false
           submodules: true
           token: ${{ secrets.PERSONAL_ACCESSTOKEN }}
       - name: Setup SSH
