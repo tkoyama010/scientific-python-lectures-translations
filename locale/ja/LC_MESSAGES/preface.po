@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the Scientific Python Lectures package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2024.2rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-27 19:13+0000\n"
+"POT-Creation-Date: 2024-12-08 00:14+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +23,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/preface.rst:3
 msgid "About the Scientific Python Lectures"
-msgstr ""
+msgstr "Scientific Python Lecturesについて"
 
 #: ../../scientific-python-lectures/preface.rst:11
 msgid "*Release:* |release|"
@@ -1085,7 +1089,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:36
 msgid ""
-"An idomatic style should be followed, e.g. ``import numpy as np``, "
+"An idiomatic style should be followed, e.g. ``import numpy as np``, "
 "preference for array operations, PEP8 coding conventions."
 msgstr ""
 

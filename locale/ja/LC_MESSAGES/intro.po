@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the Scientific Python Lectures package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2024.2rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-27 19:13+0000\n"
+"POT-Creation-Date: 2024-12-17 01:28+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,11 +23,11 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/help/help.rst:4
 msgid "Getting help and finding documentation"
-msgstr ""
+msgstr "ヘルプの入手とドキュメントの検索"
 
 #: ../../scientific-python-lectures/intro/help/help.rst:6
 msgid "**Author**: *Emmanuelle Gouillart*"
-msgstr ""
+msgstr "**Author**: *Emmanuelle Gouillart*"
 
 #: ../../scientific-python-lectures/intro/help/help.rst:8
 msgid ""
@@ -31,6 +35,8 @@ msgid ""
 "find rapidly information throughout the documentation and the available "
 "help. Here are some ways to get information:"
 msgstr ""
+"NumPyとSciPyのすべての関数を知ることよりも、ドキュメントや利用可能なヘルプを通して迅速に情報を見つけることが重要です。 "
+"ここでは、情報を得るためのいくつかの方法を紹介します:"
 
 #: ../../scientific-python-lectures/intro/help/help.rst:12
 msgid ""
@@ -126,7 +132,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/index.rst:2
 msgid "Getting started with Python for science"
-msgstr ""
+msgstr "科学のためのPython入門"
 
 #: ../../scientific-python-lectures/intro/index.rst:4
 msgid ""
@@ -134,10 +140,12 @@ msgid ""
 "introduction to everything that is needed to use Python for science, from "
 "the language itself, to numerical computing or plotting."
 msgstr ""
+"*Scientific Python Lectures* "
+"のこのパートは、言語そのものから数値計算やプロットまで、科学にPythonを使うために必要なすべてを自己完結的に紹介しています。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:2
 msgid "Python scientific computing ecosystem"
-msgstr ""
+msgstr "Python科学計算エコシステム"
 
 #: ../../scientific-python-lectures/intro/intro.rst:4
 msgid ""
@@ -147,7 +155,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/intro.rst:8
 msgid "Why Python?"
-msgstr ""
+msgstr "なぜ Python?"
 
 #: ../../scientific-python-lectures/intro/intro.rst:11
 msgid "The scientist's needs"
@@ -2590,7 +2598,7 @@ msgstr ""
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_imshow_ext.rst:114
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_multiplot_ext.rst:109
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_pie_ext.rst:113
-#: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_plot3d_ext.rst:97
+#: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_plot3d_ext.rst:99
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_plot_ext.rst:109
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_polar_ext.rst:102
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_quiver_ext.rst:114
@@ -3324,12 +3332,12 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:283
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:284
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_subplot-grid.py`"
+msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_bar.py`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:300
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:301
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_bar.py`"
+msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_subplot-grid.py`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:317
@@ -5084,19 +5092,19 @@ msgstr ""
 msgid "Demo 3D plotting with matplotlib and decorate the figure."
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_plot3d_ext.rst:82
+#: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_plot3d_ext.rst:84
 msgid ""
 ":download:`Download Jupyter notebook: plot_plot3d_ext.ipynb "
 "<plot_plot3d_ext.ipynb>`"
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_plot3d_ext.rst:86
+#: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_plot3d_ext.rst:88
 msgid ""
 ":download:`Download Python source code: plot_plot3d_ext.py "
 "<plot_plot3d_ext.py>`"
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_plot3d_ext.rst:90
+#: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_plot3d_ext.rst:92
 msgid ":download:`Download zipped: plot_plot3d_ext.zip <plot_plot3d_ext.zip>`"
 msgstr ""
 
