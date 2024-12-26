@@ -329,7 +329,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/guide/index.rst-1
 msgid "Example:"
-msgstr ""
+msgstr "例:"
 
 #: ../../scientific-python-lectures/guide/index.rst:140
 msgid ""
