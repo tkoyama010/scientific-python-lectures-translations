@@ -3,6 +3,9 @@
 # This file is distributed under the same license as the Scientific Python Lectures package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-11-27 19:17+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,30 +23,33 @@ msgstr ""
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:8
 msgid "Computation times"
-msgstr ""
+msgstr "計算時間"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:9
 msgid ""
 "**00:00.000** total execution time for 173 files **from all galleries**:"
 msgstr ""
+"**00:00.000** total execution time for 173 files **from all galleries**:"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:32
 msgid "Example"
-msgstr ""
+msgstr "例"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:33
 msgid "Time"
-msgstr ""
+msgstr "時間"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:34
 msgid "Mem (MB)"
-msgstr ""
+msgstr "Mem (MB)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:35
 msgid ""
 ":ref:`sphx_glr_advanced_advanced_numpy_auto_examples_plot_maskedstats.py` "
 "(``advanced/advanced_numpy/examples/plots/plot_maskedstats.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_advanced_numpy_auto_examples_plot_maskedstats.py` "
+"(``advanced/advanced_numpy/examples/plots/plot_maskedstats.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:36
 #: ../../scientific-python-lectures/sg_execution_times.rst:39
@@ -218,7 +225,7 @@ msgstr ""
 #: ../../scientific-python-lectures/sg_execution_times.rst:549
 #: ../../scientific-python-lectures/sg_execution_times.rst:552
 msgid "00:00.000"
-msgstr ""
+msgstr "00:00.000"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:37
 #: ../../scientific-python-lectures/sg_execution_times.rst:40
@@ -394,157 +401,207 @@ msgstr ""
 #: ../../scientific-python-lectures/sg_execution_times.rst:550
 #: ../../scientific-python-lectures/sg_execution_times.rst:553
 msgid "0.0"
-msgstr ""
+msgstr "0.0"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:38
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_GMM.py` "
 "(``advanced/image_processing/examples/plot_GMM.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_GMM.py` "
+"(``advanced/image_processing/examples/plot_GMM.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:41
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_block_mean.py` "
 "(``advanced/image_processing/examples/plot_block_mean.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_block_mean.py` "
+"(``advanced/image_processing/examples/plot_block_mean.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:44
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_blur.py` "
 "(``advanced/image_processing/examples/plot_blur.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_blur.py` "
+"(``advanced/image_processing/examples/plot_blur.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:47
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_clean_morpho.py`"
 " (``advanced/image_processing/examples/plot_clean_morpho.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_clean_morpho.py`"
+" (``advanced/image_processing/examples/plot_clean_morpho.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:50
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_denoising.py` "
 "(``advanced/image_processing/examples/plot_denoising.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_denoising.py` "
+"(``advanced/image_processing/examples/plot_denoising.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:53
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_display_face.py`"
 " (``advanced/image_processing/examples/plot_display_face.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_display_face.py`"
+" (``advanced/image_processing/examples/plot_display_face.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:56
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_face.py` "
 "(``advanced/image_processing/examples/plot_face.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_face.py` "
+"(``advanced/image_processing/examples/plot_face.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:59
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_face_denoise.py`"
 " (``advanced/image_processing/examples/plot_face_denoise.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_face_denoise.py`"
+" (``advanced/image_processing/examples/plot_face_denoise.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:62
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_face_tv_denoise.py`"
 " (``advanced/image_processing/examples/plot_face_tv_denoise.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_face_tv_denoise.py`"
+" (``advanced/image_processing/examples/plot_face_tv_denoise.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:65
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_find_edges.py` "
 "(``advanced/image_processing/examples/plot_find_edges.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_find_edges.py` "
+"(``advanced/image_processing/examples/plot_find_edges.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:68
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_find_object.py` "
 "(``advanced/image_processing/examples/plot_find_object.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_find_object.py` "
+"(``advanced/image_processing/examples/plot_find_object.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:71
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_geom_face.py` "
 "(``advanced/image_processing/examples/plot_geom_face.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_geom_face.py` "
+"(``advanced/image_processing/examples/plot_geom_face.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:74
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_granulo.py` "
 "(``advanced/image_processing/examples/plot_granulo.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_granulo.py` "
+"(``advanced/image_processing/examples/plot_granulo.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:77
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_greyscale_dilation.py`"
 " (``advanced/image_processing/examples/plot_greyscale_dilation.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_greyscale_dilation.py`"
+" (``advanced/image_processing/examples/plot_greyscale_dilation.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:80
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_histo_segmentation.py`"
 " (``advanced/image_processing/examples/plot_histo_segmentation.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_histo_segmentation.py`"
+" (``advanced/image_processing/examples/plot_histo_segmentation.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:83
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_interpolation_face.py`"
 " (``advanced/image_processing/examples/plot_interpolation_face.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_interpolation_face.py`"
+" (``advanced/image_processing/examples/plot_interpolation_face.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:86
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_measure_data.py`"
 " (``advanced/image_processing/examples/plot_measure_data.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_measure_data.py`"
+" (``advanced/image_processing/examples/plot_measure_data.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:89
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_numpy_array.py` "
 "(``advanced/image_processing/examples/plot_numpy_array.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_numpy_array.py` "
+"(``advanced/image_processing/examples/plot_numpy_array.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:92
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_propagation.py` "
 "(``advanced/image_processing/examples/plot_propagation.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_propagation.py` "
+"(``advanced/image_processing/examples/plot_propagation.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:95
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_radial_mean.py` "
 "(``advanced/image_processing/examples/plot_radial_mean.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_radial_mean.py` "
+"(``advanced/image_processing/examples/plot_radial_mean.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:98
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_sharpen.py` "
 "(``advanced/image_processing/examples/plot_sharpen.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_sharpen.py` "
+"(``advanced/image_processing/examples/plot_sharpen.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:101
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_spectral_clustering.py`"
 " (``advanced/image_processing/examples/plot_spectral_clustering.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_spectral_clustering.py`"
+" (``advanced/image_processing/examples/plot_spectral_clustering.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:104
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_synthetic_data.py`"
 " (``advanced/image_processing/examples/plot_synthetic_data.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_synthetic_data.py`"
+" (``advanced/image_processing/examples/plot_synthetic_data.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:107
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_watershed_segmentation.py`"
 " (``advanced/image_processing/examples/plot_watershed_segmentation.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_watershed_segmentation.py`"
+" (``advanced/image_processing/examples/plot_watershed_segmentation.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:110
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_1d_optim.py`"
 " (``advanced/mathematical_optimization/examples/plot_1d_optim.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_1d_optim.py`"
+" (``advanced/mathematical_optimization/examples/plot_1d_optim.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:113
 msgid ""
@@ -552,24 +609,33 @@ msgid ""
 " "
 "(``advanced/mathematical_optimization/examples/plot_compare_optimizers.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_compare_optimizers.py`"
+" "
+"(``advanced/mathematical_optimization/examples/plot_compare_optimizers.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:116
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_constraints.py`"
 " (``advanced/mathematical_optimization/examples/plot_constraints.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_constraints.py`"
+" (``advanced/mathematical_optimization/examples/plot_constraints.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:119
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_convex.py`"
 " (``advanced/mathematical_optimization/examples/plot_convex.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_convex.py`"
+" (``advanced/mathematical_optimization/examples/plot_convex.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:122
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_curve_fitting.py`"
 " (``advanced/mathematical_optimization/examples/plot_curve_fitting.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_curve_fitting.py`"
+" (``advanced/mathematical_optimization/examples/plot_curve_fitting.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:125
 msgid ""
@@ -577,6 +643,9 @@ msgid ""
 " "
 "(``advanced/mathematical_optimization/examples/plot_exercise_flat_minimum.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_exercise_flat_minimum.py`"
+" "
+"(``advanced/mathematical_optimization/examples/plot_exercise_flat_minimum.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:128
 msgid ""
@@ -584,18 +653,25 @@ msgid ""
 " "
 "(``advanced/mathematical_optimization/examples/plot_exercise_ill_conditioned.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_exercise_ill_conditioned.py`"
+" "
+"(``advanced/mathematical_optimization/examples/plot_exercise_ill_conditioned.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:131
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_gradient_descent.py`"
 " (``advanced/mathematical_optimization/examples/plot_gradient_descent.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_gradient_descent.py`"
+" (``advanced/mathematical_optimization/examples/plot_gradient_descent.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:134
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_noisy.py`"
 " (``advanced/mathematical_optimization/examples/plot_noisy.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_noisy.py`"
+" (``advanced/mathematical_optimization/examples/plot_noisy.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:137
 msgid ""
@@ -603,570 +679,761 @@ msgid ""
 " "
 "(``advanced/mathematical_optimization/examples/plot_non_bounds_constraints.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_non_bounds_constraints.py`"
+" "
+"(``advanced/mathematical_optimization/examples/plot_non_bounds_constraints.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:140
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_smooth.py`"
 " (``advanced/mathematical_optimization/examples/plot_smooth.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_smooth.py`"
+" (``advanced/mathematical_optimization/examples/plot_smooth.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:143
 msgid ""
 ":ref:`sphx_glr_guide_auto_examples_plot_simple.py` "
 "(``guide/examples/plot_simple.py``)"
 msgstr ""
+":ref:`sphx_glr_guide_auto_examples_plot_simple.py` "
+"(``guide/examples/plot_simple.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:146
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_1.py` "
 "(``intro/matplotlib/examples/exercises/plot_exercise_1.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_1.py` "
+"(``intro/matplotlib/examples/exercises/plot_exercise_1.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:149
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_10.py`"
 " (``intro/matplotlib/examples/exercises/plot_exercise_10.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_10.py`"
+" (``intro/matplotlib/examples/exercises/plot_exercise_10.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:152
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_2.py` "
 "(``intro/matplotlib/examples/exercises/plot_exercise_2.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_2.py` "
+"(``intro/matplotlib/examples/exercises/plot_exercise_2.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:155
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_3.py` "
 "(``intro/matplotlib/examples/exercises/plot_exercise_3.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_3.py` "
+"(``intro/matplotlib/examples/exercises/plot_exercise_3.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:158
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_4.py` "
 "(``intro/matplotlib/examples/exercises/plot_exercise_4.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_4.py` "
+"(``intro/matplotlib/examples/exercises/plot_exercise_4.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:161
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_5.py` "
 "(``intro/matplotlib/examples/exercises/plot_exercise_5.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_5.py` "
+"(``intro/matplotlib/examples/exercises/plot_exercise_5.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:164
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_6.py` "
 "(``intro/matplotlib/examples/exercises/plot_exercise_6.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_6.py` "
+"(``intro/matplotlib/examples/exercises/plot_exercise_6.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:167
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_7.py` "
 "(``intro/matplotlib/examples/exercises/plot_exercise_7.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_7.py` "
+"(``intro/matplotlib/examples/exercises/plot_exercise_7.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:170
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_8.py` "
 "(``intro/matplotlib/examples/exercises/plot_exercise_8.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_8.py` "
+"(``intro/matplotlib/examples/exercises/plot_exercise_8.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:173
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_9.py` "
 "(``intro/matplotlib/examples/exercises/plot_exercise_9.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_9.py` "
+"(``intro/matplotlib/examples/exercises/plot_exercise_9.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:176
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_aliased.py` "
 "(``intro/matplotlib/examples/options/plot_aliased.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_aliased.py` "
+"(``intro/matplotlib/examples/options/plot_aliased.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:179
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_alpha.py` "
 "(``intro/matplotlib/examples/options/plot_alpha.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_alpha.py` "
+"(``intro/matplotlib/examples/options/plot_alpha.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:182
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_antialiased.py` "
 "(``intro/matplotlib/examples/options/plot_antialiased.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_antialiased.py` "
+"(``intro/matplotlib/examples/options/plot_antialiased.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:185
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_color.py` "
 "(``intro/matplotlib/examples/options/plot_color.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_color.py` "
+"(``intro/matplotlib/examples/options/plot_color.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:188
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_colormaps.py` "
 "(``intro/matplotlib/examples/options/plot_colormaps.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_colormaps.py` "
+"(``intro/matplotlib/examples/options/plot_colormaps.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:191
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_dash_capstyle.py`"
 " (``intro/matplotlib/examples/options/plot_dash_capstyle.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_dash_capstyle.py`"
+" (``intro/matplotlib/examples/options/plot_dash_capstyle.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:194
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_dash_joinstyle.py`"
 " (``intro/matplotlib/examples/options/plot_dash_joinstyle.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_dash_joinstyle.py`"
+" (``intro/matplotlib/examples/options/plot_dash_joinstyle.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:197
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_linestyles.py` "
 "(``intro/matplotlib/examples/options/plot_linestyles.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_linestyles.py` "
+"(``intro/matplotlib/examples/options/plot_linestyles.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:200
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_linewidth.py` "
 "(``intro/matplotlib/examples/options/plot_linewidth.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_linewidth.py` "
+"(``intro/matplotlib/examples/options/plot_linewidth.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:203
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_markers.py` "
 "(``intro/matplotlib/examples/options/plot_markers.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_markers.py` "
+"(``intro/matplotlib/examples/options/plot_markers.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:206
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_mec.py` "
 "(``intro/matplotlib/examples/options/plot_mec.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_mec.py` "
+"(``intro/matplotlib/examples/options/plot_mec.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:209
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_mew.py` "
 "(``intro/matplotlib/examples/options/plot_mew.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_mew.py` "
+"(``intro/matplotlib/examples/options/plot_mew.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:212
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_mfc.py` "
 "(``intro/matplotlib/examples/options/plot_mfc.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_mfc.py` "
+"(``intro/matplotlib/examples/options/plot_mfc.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:215
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_ms.py` "
 "(``intro/matplotlib/examples/options/plot_ms.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_ms.py` "
+"(``intro/matplotlib/examples/options/plot_ms.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:218
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_solid_capstyle.py`"
 " (``intro/matplotlib/examples/options/plot_solid_capstyle.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_solid_capstyle.py`"
+" (``intro/matplotlib/examples/options/plot_solid_capstyle.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:221
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_solid_joinstyle.py`"
 " (``intro/matplotlib/examples/options/plot_solid_joinstyle.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_solid_joinstyle.py`"
+" (``intro/matplotlib/examples/options/plot_solid_joinstyle.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:224
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_ticks.py` "
 "(``intro/matplotlib/examples/options/plot_ticks.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_ticks.py` "
+"(``intro/matplotlib/examples/options/plot_ticks.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:227
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_axes-2.py` "
 "(``intro/matplotlib/examples/plot_axes-2.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_axes-2.py` "
+"(``intro/matplotlib/examples/plot_axes-2.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:230
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_axes.py` "
 "(``intro/matplotlib/examples/plot_axes.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_axes.py` "
+"(``intro/matplotlib/examples/plot_axes.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:233
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_bad.py` "
 "(``intro/matplotlib/examples/plot_bad.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_bad.py` "
+"(``intro/matplotlib/examples/plot_bad.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:236
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_bar.py` "
 "(``intro/matplotlib/examples/plot_bar.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_bar.py` "
+"(``intro/matplotlib/examples/plot_bar.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:239
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_contour.py` "
 "(``intro/matplotlib/examples/plot_contour.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_contour.py` "
+"(``intro/matplotlib/examples/plot_contour.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:242
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_good.py` "
 "(``intro/matplotlib/examples/plot_good.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_good.py` "
+"(``intro/matplotlib/examples/plot_good.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:245
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_grid.py` "
 "(``intro/matplotlib/examples/plot_grid.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_grid.py` "
+"(``intro/matplotlib/examples/plot_grid.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:248
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_gridspec.py` "
 "(``intro/matplotlib/examples/plot_gridspec.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_gridspec.py` "
+"(``intro/matplotlib/examples/plot_gridspec.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:251
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_imshow.py` "
 "(``intro/matplotlib/examples/plot_imshow.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_imshow.py` "
+"(``intro/matplotlib/examples/plot_imshow.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:254
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_multiplot.py` "
 "(``intro/matplotlib/examples/plot_multiplot.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_multiplot.py` "
+"(``intro/matplotlib/examples/plot_multiplot.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:257
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_pie.py` "
 "(``intro/matplotlib/examples/plot_pie.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_pie.py` "
+"(``intro/matplotlib/examples/plot_pie.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:260
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_plot.py` "
 "(``intro/matplotlib/examples/plot_plot.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_plot.py` "
+"(``intro/matplotlib/examples/plot_plot.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:263
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_plot3d-2.py` "
 "(``intro/matplotlib/examples/plot_plot3d-2.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_plot3d-2.py` "
+"(``intro/matplotlib/examples/plot_plot3d-2.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:266
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_plot3d.py` "
 "(``intro/matplotlib/examples/plot_plot3d.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_plot3d.py` "
+"(``intro/matplotlib/examples/plot_plot3d.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:269
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_polar.py` "
 "(``intro/matplotlib/examples/plot_polar.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_polar.py` "
+"(``intro/matplotlib/examples/plot_polar.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:272
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_quiver.py` "
 "(``intro/matplotlib/examples/plot_quiver.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_quiver.py` "
+"(``intro/matplotlib/examples/plot_quiver.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:275
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_scatter.py` "
 "(``intro/matplotlib/examples/plot_scatter.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_scatter.py` "
+"(``intro/matplotlib/examples/plot_scatter.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:278
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_subplot-grid.py` "
 "(``intro/matplotlib/examples/plot_subplot-grid.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_subplot-grid.py` "
+"(``intro/matplotlib/examples/plot_subplot-grid.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:281
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_subplot-horizontal.py` "
 "(``intro/matplotlib/examples/plot_subplot-horizontal.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_subplot-horizontal.py` "
+"(``intro/matplotlib/examples/plot_subplot-horizontal.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:284
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_subplot-vertical.py` "
 "(``intro/matplotlib/examples/plot_subplot-vertical.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_subplot-vertical.py` "
+"(``intro/matplotlib/examples/plot_subplot-vertical.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:287
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_text.py` "
 "(``intro/matplotlib/examples/plot_text.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_text.py` "
+"(``intro/matplotlib/examples/plot_text.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:290
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_ugly.py` "
 "(``intro/matplotlib/examples/plot_ugly.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_ugly.py` "
+"(``intro/matplotlib/examples/plot_ugly.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:293
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_bar_ext.py` "
 "(``intro/matplotlib/examples/pretty_plots/plot_bar_ext.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_bar_ext.py` "
+"(``intro/matplotlib/examples/pretty_plots/plot_bar_ext.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:296
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_boxplot_ext.py`"
 " (``intro/matplotlib/examples/pretty_plots/plot_boxplot_ext.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_boxplot_ext.py`"
+" (``intro/matplotlib/examples/pretty_plots/plot_boxplot_ext.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:299
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_contour_ext.py`"
 " (``intro/matplotlib/examples/pretty_plots/plot_contour_ext.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_contour_ext.py`"
+" (``intro/matplotlib/examples/pretty_plots/plot_contour_ext.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:302
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_grid_ext.py`"
 " (``intro/matplotlib/examples/pretty_plots/plot_grid_ext.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_grid_ext.py`"
+" (``intro/matplotlib/examples/pretty_plots/plot_grid_ext.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:305
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_imshow_ext.py`"
 " (``intro/matplotlib/examples/pretty_plots/plot_imshow_ext.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_imshow_ext.py`"
+" (``intro/matplotlib/examples/pretty_plots/plot_imshow_ext.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:308
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_multiplot_ext.py`"
 " (``intro/matplotlib/examples/pretty_plots/plot_multiplot_ext.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_multiplot_ext.py`"
+" (``intro/matplotlib/examples/pretty_plots/plot_multiplot_ext.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:311
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_pie_ext.py` "
 "(``intro/matplotlib/examples/pretty_plots/plot_pie_ext.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_pie_ext.py` "
+"(``intro/matplotlib/examples/pretty_plots/plot_pie_ext.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:314
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_plot3d_ext.py`"
 " (``intro/matplotlib/examples/pretty_plots/plot_plot3d_ext.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_plot3d_ext.py`"
+" (``intro/matplotlib/examples/pretty_plots/plot_plot3d_ext.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:317
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_plot_ext.py`"
 " (``intro/matplotlib/examples/pretty_plots/plot_plot_ext.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_plot_ext.py`"
+" (``intro/matplotlib/examples/pretty_plots/plot_plot_ext.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:320
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_polar_ext.py`"
 " (``intro/matplotlib/examples/pretty_plots/plot_polar_ext.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_polar_ext.py`"
+" (``intro/matplotlib/examples/pretty_plots/plot_polar_ext.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:323
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_quiver_ext.py`"
 " (``intro/matplotlib/examples/pretty_plots/plot_quiver_ext.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_quiver_ext.py`"
+" (``intro/matplotlib/examples/pretty_plots/plot_quiver_ext.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:326
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_scatter_ext.py`"
 " (``intro/matplotlib/examples/pretty_plots/plot_scatter_ext.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_scatter_ext.py`"
+" (``intro/matplotlib/examples/pretty_plots/plot_scatter_ext.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:329
 msgid ""
 ":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_text_ext.py`"
 " (``intro/matplotlib/examples/pretty_plots/plot_text_ext.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_text_ext.py`"
+" (``intro/matplotlib/examples/pretty_plots/plot_text_ext.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:332
 msgid ""
 ":ref:`sphx_glr_intro_numpy_auto_examples_plot_basic1dplot.py` "
 "(``intro/numpy/examples/plot_basic1dplot.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_numpy_auto_examples_plot_basic1dplot.py` "
+"(``intro/numpy/examples/plot_basic1dplot.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:335
 msgid ""
 ":ref:`sphx_glr_intro_numpy_auto_examples_plot_basic2dplot.py` "
 "(``intro/numpy/examples/plot_basic2dplot.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_numpy_auto_examples_plot_basic2dplot.py` "
+"(``intro/numpy/examples/plot_basic2dplot.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:338
 msgid ""
 ":ref:`sphx_glr_intro_numpy_auto_examples_plot_chebyfit.py` "
 "(``intro/numpy/examples/plot_chebyfit.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_numpy_auto_examples_plot_chebyfit.py` "
+"(``intro/numpy/examples/plot_chebyfit.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:341
 msgid ""
 ":ref:`sphx_glr_intro_numpy_auto_examples_plot_distances.py` "
 "(``intro/numpy/examples/plot_distances.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_numpy_auto_examples_plot_distances.py` "
+"(``intro/numpy/examples/plot_distances.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:344
 msgid ""
 ":ref:`sphx_glr_intro_numpy_auto_examples_plot_elephant.py` "
 "(``intro/numpy/examples/plot_elephant.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_numpy_auto_examples_plot_elephant.py` "
+"(``intro/numpy/examples/plot_elephant.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:347
 msgid ""
 ":ref:`sphx_glr_intro_numpy_auto_examples_plot_mandelbrot.py` "
 "(``intro/numpy/examples/plot_mandelbrot.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_numpy_auto_examples_plot_mandelbrot.py` "
+"(``intro/numpy/examples/plot_mandelbrot.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:350
 msgid ""
 ":ref:`sphx_glr_intro_numpy_auto_examples_plot_polyfit.py` "
 "(``intro/numpy/examples/plot_polyfit.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_numpy_auto_examples_plot_polyfit.py` "
+"(``intro/numpy/examples/plot_polyfit.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:353
 msgid ""
 ":ref:`sphx_glr_intro_numpy_auto_examples_plot_populations.py` "
 "(``intro/numpy/examples/plot_populations.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_numpy_auto_examples_plot_populations.py` "
+"(``intro/numpy/examples/plot_populations.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:356
 msgid ""
 ":ref:`sphx_glr_intro_numpy_auto_examples_plot_randomwalk.py` "
 "(``intro/numpy/examples/plot_randomwalk.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_numpy_auto_examples_plot_randomwalk.py` "
+"(``intro/numpy/examples/plot_randomwalk.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:359
 msgid ""
 ":ref:`sphx_glr_intro_scipy_auto_examples_plot_2d_minimization.py` "
 "(``intro/scipy/examples/plot_2d_minimization.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_auto_examples_plot_2d_minimization.py` "
+"(``intro/scipy/examples/plot_2d_minimization.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:362
 msgid ""
 ":ref:`sphx_glr_intro_scipy_auto_examples_plot_connect_measurements.py` "
 "(``intro/scipy/examples/plot_connect_measurements.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_auto_examples_plot_connect_measurements.py` "
+"(``intro/scipy/examples/plot_connect_measurements.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:365
 msgid ""
 ":ref:`sphx_glr_intro_scipy_auto_examples_plot_curve_fit.py` "
 "(``intro/scipy/examples/plot_curve_fit.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_auto_examples_plot_curve_fit.py` "
+"(``intro/scipy/examples/plot_curve_fit.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:368
 msgid ""
 ":ref:`sphx_glr_intro_scipy_auto_examples_plot_detrend.py` "
 "(``intro/scipy/examples/plot_detrend.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_auto_examples_plot_detrend.py` "
+"(``intro/scipy/examples/plot_detrend.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:371
 msgid ""
 ":ref:`sphx_glr_intro_scipy_auto_examples_plot_fftpack.py` "
 "(``intro/scipy/examples/plot_fftpack.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_auto_examples_plot_fftpack.py` "
+"(``intro/scipy/examples/plot_fftpack.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:374
 msgid ""
 ":ref:`sphx_glr_intro_scipy_auto_examples_plot_image_filters.py` "
 "(``intro/scipy/examples/plot_image_filters.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_auto_examples_plot_image_filters.py` "
+"(``intro/scipy/examples/plot_image_filters.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:377
 msgid ""
 ":ref:`sphx_glr_intro_scipy_auto_examples_plot_image_transform.py` "
 "(``intro/scipy/examples/plot_image_transform.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_auto_examples_plot_image_transform.py` "
+"(``intro/scipy/examples/plot_image_transform.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:380
 msgid ""
 ":ref:`sphx_glr_intro_scipy_auto_examples_plot_interpolation.py` "
 "(``intro/scipy/examples/plot_interpolation.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_auto_examples_plot_interpolation.py` "
+"(``intro/scipy/examples/plot_interpolation.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:383
 msgid ""
 ":ref:`sphx_glr_intro_scipy_auto_examples_plot_mathematical_morpho.py` "
 "(``intro/scipy/examples/plot_mathematical_morpho.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_auto_examples_plot_mathematical_morpho.py` "
+"(``intro/scipy/examples/plot_mathematical_morpho.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:386
 msgid ""
 ":ref:`sphx_glr_intro_scipy_auto_examples_plot_normal_distribution.py` "
 "(``intro/scipy/examples/plot_normal_distribution.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_auto_examples_plot_normal_distribution.py` "
+"(``intro/scipy/examples/plot_normal_distribution.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:389
 msgid ""
 ":ref:`sphx_glr_intro_scipy_auto_examples_plot_optimize_example1.py` "
 "(``intro/scipy/examples/plot_optimize_example1.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_auto_examples_plot_optimize_example1.py` "
+"(``intro/scipy/examples/plot_optimize_example1.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:392
 msgid ""
 ":ref:`sphx_glr_intro_scipy_auto_examples_plot_optimize_example2.py` "
 "(``intro/scipy/examples/plot_optimize_example2.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_auto_examples_plot_optimize_example2.py` "
+"(``intro/scipy/examples/plot_optimize_example2.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:395
 msgid ""
 ":ref:`sphx_glr_intro_scipy_auto_examples_plot_resample.py` "
 "(``intro/scipy/examples/plot_resample.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_auto_examples_plot_resample.py` "
+"(``intro/scipy/examples/plot_resample.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:398
 msgid ""
 ":ref:`sphx_glr_intro_scipy_auto_examples_plot_solve_ivp_damped_spring_mass.py`"
 " (``intro/scipy/examples/plot_solve_ivp_damped_spring_mass.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_auto_examples_plot_solve_ivp_damped_spring_mass.py`"
+" (``intro/scipy/examples/plot_solve_ivp_damped_spring_mass.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:401
 msgid ""
 ":ref:`sphx_glr_intro_scipy_auto_examples_plot_solve_ivp_simple.py` "
 "(``intro/scipy/examples/plot_solve_ivp_simple.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_auto_examples_plot_solve_ivp_simple.py` "
+"(``intro/scipy/examples/plot_solve_ivp_simple.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:404
 msgid ""
 ":ref:`sphx_glr_intro_scipy_auto_examples_plot_spectrogram.py` "
 "(``intro/scipy/examples/plot_spectrogram.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_auto_examples_plot_spectrogram.py` "
+"(``intro/scipy/examples/plot_spectrogram.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:407
 msgid ""
 ":ref:`sphx_glr_intro_scipy_auto_examples_plot_t_test.py` "
 "(``intro/scipy/examples/plot_t_test.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_auto_examples_plot_t_test.py` "
+"(``intro/scipy/examples/plot_t_test.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:410
 msgid ""
 ":ref:`sphx_glr_intro_scipy_auto_examples_solutions_plot_curvefit_temperature_data.py`"
 " (``intro/scipy/examples/solutions/plot_curvefit_temperature_data.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_auto_examples_solutions_plot_curvefit_temperature_data.py`"
+" (``intro/scipy/examples/solutions/plot_curvefit_temperature_data.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:413
 msgid ""
 ":ref:`sphx_glr_intro_scipy_auto_examples_solutions_plot_fft_image_denoise.py`"
 " (``intro/scipy/examples/solutions/plot_fft_image_denoise.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_auto_examples_solutions_plot_fft_image_denoise.py`"
+" (``intro/scipy/examples/solutions/plot_fft_image_denoise.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:416
 msgid ""
 ":ref:`sphx_glr_intro_scipy_auto_examples_solutions_plot_image_blur.py` "
 "(``intro/scipy/examples/solutions/plot_image_blur.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_auto_examples_solutions_plot_image_blur.py` "
+"(``intro/scipy/examples/solutions/plot_image_blur.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:419
 msgid ""
 ":ref:`sphx_glr_intro_scipy_auto_examples_solutions_plot_periodicity_finder.py`"
 " (``intro/scipy/examples/solutions/plot_periodicity_finder.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_auto_examples_solutions_plot_periodicity_finder.py`"
+" (``intro/scipy/examples/solutions/plot_periodicity_finder.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:422
 msgid ""
@@ -1175,6 +1442,10 @@ msgid ""
 "(``intro/scipy/summary-"
 "exercises/examples/plot_cumulative_wind_speed_prediction.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_summary-"
+"exercises_auto_examples_plot_cumulative_wind_speed_prediction.py` "
+"(``intro/scipy/summary-"
+"exercises/examples/plot_cumulative_wind_speed_prediction.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:425
 msgid ""
@@ -1183,6 +1454,10 @@ msgid ""
 "(``intro/scipy/summary-"
 "exercises/examples/plot_gumbell_wind_speed_prediction.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_summary-"
+"exercises_auto_examples_plot_gumbell_wind_speed_prediction.py` "
+"(``intro/scipy/summary-"
+"exercises/examples/plot_gumbell_wind_speed_prediction.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:428
 msgid ""
@@ -1191,6 +1466,10 @@ msgid ""
 "(``intro/scipy/summary-"
 "exercises/examples/plot_optimize_lidar_complex_data.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_summary-"
+"exercises_auto_examples_plot_optimize_lidar_complex_data.py` "
+"(``intro/scipy/summary-"
+"exercises/examples/plot_optimize_lidar_complex_data.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:431
 msgid ""
@@ -1199,6 +1478,10 @@ msgid ""
 "(``intro/scipy/summary-"
 "exercises/examples/plot_optimize_lidar_complex_data_fit.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_summary-"
+"exercises_auto_examples_plot_optimize_lidar_complex_data_fit.py` "
+"(``intro/scipy/summary-"
+"exercises/examples/plot_optimize_lidar_complex_data_fit.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:434
 msgid ""
@@ -1206,6 +1489,9 @@ msgid ""
 "exercises_auto_examples_plot_optimize_lidar_data.py` (``intro/scipy/summary-"
 "exercises/examples/plot_optimize_lidar_data.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_summary-"
+"exercises_auto_examples_plot_optimize_lidar_data.py` (``intro/scipy/summary-"
+"exercises/examples/plot_optimize_lidar_data.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:437
 msgid ""
@@ -1213,6 +1499,9 @@ msgid ""
 "exercises_auto_examples_plot_optimize_lidar_data_fit.py` "
 "(``intro/scipy/summary-exercises/examples/plot_optimize_lidar_data_fit.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_summary-"
+"exercises_auto_examples_plot_optimize_lidar_data_fit.py` "
+"(``intro/scipy/summary-exercises/examples/plot_optimize_lidar_data_fit.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:440
 msgid ""
@@ -1220,84 +1509,113 @@ msgid ""
 "exercises_auto_examples_plot_sprog_annual_maxima.py` (``intro/scipy/summary-"
 "exercises/examples/plot_sprog_annual_maxima.py``)"
 msgstr ""
+":ref:`sphx_glr_intro_scipy_summary-"
+"exercises_auto_examples_plot_sprog_annual_maxima.py` (``intro/scipy/summary-"
+"exercises/examples/plot_sprog_annual_maxima.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:443
 msgid ""
 ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_boundaries.py` "
 "(``packages/scikit-image/examples/plot_boundaries.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_boundaries.py` "
+"(``packages/scikit-image/examples/plot_boundaries.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:446
 msgid ""
 ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_camera.py` "
 "(``packages/scikit-image/examples/plot_camera.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_camera.py` "
+"(``packages/scikit-image/examples/plot_camera.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:449
 msgid ""
 ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_camera_uint.py` "
 "(``packages/scikit-image/examples/plot_camera_uint.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_camera_uint.py` "
+"(``packages/scikit-image/examples/plot_camera_uint.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:452
 msgid ""
 ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_check.py` "
 "(``packages/scikit-image/examples/plot_check.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_check.py` "
+"(``packages/scikit-image/examples/plot_check.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:455
 msgid ""
 ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_equalize_hist.py` "
 "(``packages/scikit-image/examples/plot_equalize_hist.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_equalize_hist.py` "
+"(``packages/scikit-image/examples/plot_equalize_hist.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:458
 msgid ""
 ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_features.py` "
 "(``packages/scikit-image/examples/plot_features.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_features.py` "
+"(``packages/scikit-image/examples/plot_features.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:461
 msgid ""
 ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_filter_coins.py` "
 "(``packages/scikit-image/examples/plot_filter_coins.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_filter_coins.py` "
+"(``packages/scikit-image/examples/plot_filter_coins.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:464
 msgid ""
 ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_labels.py` "
 "(``packages/scikit-image/examples/plot_labels.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_labels.py` "
+"(``packages/scikit-image/examples/plot_labels.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:467
 msgid ""
 ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_segmentations.py` "
 "(``packages/scikit-image/examples/plot_segmentations.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_segmentations.py` "
+"(``packages/scikit-image/examples/plot_segmentations.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:470
 msgid ""
 ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_sobel.py` "
 "(``packages/scikit-image/examples/plot_sobel.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_sobel.py` "
+"(``packages/scikit-image/examples/plot_sobel.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:473
 msgid ""
 ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_threshold.py` "
 "(``packages/scikit-image/examples/plot_threshold.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_threshold.py` "
+"(``packages/scikit-image/examples/plot_threshold.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:476
 msgid ""
 ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_ML_flow_chart.py` "
 "(``packages/scikit-learn/examples/plot_ML_flow_chart.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_ML_flow_chart.py` "
+"(``packages/scikit-learn/examples/plot_ML_flow_chart.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:479
 msgid ""
 ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_bias_variance.py` "
 "(``packages/scikit-learn/examples/plot_bias_variance.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_bias_variance.py` "
+"(``packages/scikit-learn/examples/plot_bias_variance.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:482
 msgid ""
@@ -1305,6 +1623,9 @@ msgid ""
 "learn_auto_examples_plot_california_prediction.py` (``packages/scikit-"
 "learn/examples/plot_california_prediction.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-"
+"learn_auto_examples_plot_california_prediction.py` (``packages/scikit-"
+"learn/examples/plot_california_prediction.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:485
 msgid ""
@@ -1312,6 +1633,9 @@ msgid ""
 "learn_auto_examples_plot_compare_classifiers.py` (``packages/scikit-"
 "learn/examples/plot_compare_classifiers.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-"
+"learn_auto_examples_plot_compare_classifiers.py` (``packages/scikit-"
+"learn/examples/plot_compare_classifiers.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:488
 msgid ""
@@ -1319,30 +1643,41 @@ msgid ""
 "learn_auto_examples_plot_digits_simple_classif.py` (``packages/scikit-"
 "learn/examples/plot_digits_simple_classif.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-"
+"learn_auto_examples_plot_digits_simple_classif.py` (``packages/scikit-"
+"learn/examples/plot_digits_simple_classif.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:491
 msgid ""
 ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_eigenfaces.py` "
 "(``packages/scikit-learn/examples/plot_eigenfaces.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_eigenfaces.py` "
+"(``packages/scikit-learn/examples/plot_eigenfaces.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:494
 msgid ""
 ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_iris_knn.py` "
 "(``packages/scikit-learn/examples/plot_iris_knn.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_iris_knn.py` "
+"(``packages/scikit-learn/examples/plot_iris_knn.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:497
 msgid ""
 ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_iris_scatter.py` "
 "(``packages/scikit-learn/examples/plot_iris_scatter.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_iris_scatter.py` "
+"(``packages/scikit-learn/examples/plot_iris_scatter.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:500
 msgid ""
 ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_linear_model_cv.py` "
 "(``packages/scikit-learn/examples/plot_linear_model_cv.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_linear_model_cv.py` "
+"(``packages/scikit-learn/examples/plot_linear_model_cv.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:503
 msgid ""
@@ -1350,6 +1685,9 @@ msgid ""
 "learn_auto_examples_plot_linear_regression.py` (``packages/scikit-"
 "learn/examples/plot_linear_regression.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-"
+"learn_auto_examples_plot_linear_regression.py` (``packages/scikit-"
+"learn/examples/plot_linear_regression.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:506
 msgid ""
@@ -1357,12 +1695,17 @@ msgid ""
 "learn_auto_examples_plot_measuring_performance.py` (``packages/scikit-"
 "learn/examples/plot_measuring_performance.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-"
+"learn_auto_examples_plot_measuring_performance.py` (``packages/scikit-"
+"learn/examples/plot_measuring_performance.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:509
 msgid ""
 ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_pca.py` "
 "(``packages/scikit-learn/examples/plot_pca.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_pca.py` "
+"(``packages/scikit-learn/examples/plot_pca.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:512
 msgid ""
@@ -1370,24 +1713,33 @@ msgid ""
 "learn_auto_examples_plot_polynomial_regression.py` (``packages/scikit-"
 "learn/examples/plot_polynomial_regression.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-"
+"learn_auto_examples_plot_polynomial_regression.py` (``packages/scikit-"
+"learn/examples/plot_polynomial_regression.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:515
 msgid ""
 ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_separator.py` "
 "(``packages/scikit-learn/examples/plot_separator.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_separator.py` "
+"(``packages/scikit-learn/examples/plot_separator.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:518
 msgid ""
 ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_svm_non_linear.py` "
 "(``packages/scikit-learn/examples/plot_svm_non_linear.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_svm_non_linear.py` "
+"(``packages/scikit-learn/examples/plot_svm_non_linear.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:521
 msgid ""
 ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_tsne.py` "
 "(``packages/scikit-learn/examples/plot_tsne.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_tsne.py` "
+"(``packages/scikit-learn/examples/plot_tsne.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:524
 msgid ""
@@ -1395,61 +1747,82 @@ msgid ""
 "learn_auto_examples_plot_variance_linear_regr.py` (``packages/scikit-"
 "learn/examples/plot_variance_linear_regr.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-"
+"learn_auto_examples_plot_variance_linear_regr.py` (``packages/scikit-"
+"learn/examples/plot_variance_linear_regr.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:527
 msgid ""
 ":ref:`sphx_glr_packages_statistics_auto_examples_plot_airfare.py` "
 "(``packages/statistics/examples/plot_airfare.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_statistics_auto_examples_plot_airfare.py` "
+"(``packages/statistics/examples/plot_airfare.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:530
 msgid ""
 ":ref:`sphx_glr_packages_statistics_auto_examples_plot_iris_analysis.py` "
 "(``packages/statistics/examples/plot_iris_analysis.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_statistics_auto_examples_plot_iris_analysis.py` "
+"(``packages/statistics/examples/plot_iris_analysis.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:533
 msgid ""
 ":ref:`sphx_glr_packages_statistics_auto_examples_plot_paired_boxplots.py` "
 "(``packages/statistics/examples/plot_paired_boxplots.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_statistics_auto_examples_plot_paired_boxplots.py` "
+"(``packages/statistics/examples/plot_paired_boxplots.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:536
 msgid ""
 ":ref:`sphx_glr_packages_statistics_auto_examples_plot_pandas.py` "
 "(``packages/statistics/examples/plot_pandas.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_statistics_auto_examples_plot_pandas.py` "
+"(``packages/statistics/examples/plot_pandas.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:539
 msgid ""
 ":ref:`sphx_glr_packages_statistics_auto_examples_plot_regression.py` "
 "(``packages/statistics/examples/plot_regression.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_statistics_auto_examples_plot_regression.py` "
+"(``packages/statistics/examples/plot_regression.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:542
 msgid ""
 ":ref:`sphx_glr_packages_statistics_auto_examples_plot_regression_3d.py` "
 "(``packages/statistics/examples/plot_regression_3d.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_statistics_auto_examples_plot_regression_3d.py` "
+"(``packages/statistics/examples/plot_regression_3d.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:545
 msgid ""
 ":ref:`sphx_glr_packages_statistics_auto_examples_plot_wage_data.py` "
 "(``packages/statistics/examples/plot_wage_data.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_statistics_auto_examples_plot_wage_data.py` "
+"(``packages/statistics/examples/plot_wage_data.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:548
 msgid ""
 ":ref:`sphx_glr_packages_statistics_auto_examples_plot_wage_education_gender.py`"
 " (``packages/statistics/examples/plot_wage_education_gender.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_statistics_auto_examples_plot_wage_education_gender.py`"
+" (``packages/statistics/examples/plot_wage_education_gender.py``)"
 
 #: ../../scientific-python-lectures/sg_execution_times.rst:551
 msgid ""
 ":ref:`sphx_glr_packages_statistics_auto_examples_solutions_plot_brain_size.py`"
 " (``packages/statistics/examples/solutions/plot_brain_size.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_statistics_auto_examples_solutions_plot_brain_size.py`"
+" (``packages/statistics/examples/solutions/plot_brain_size.py``)"
 
 #: ../../../../../../../tmp/<rst_epilog>:9
 msgid "|clear-floats|"
-msgstr ""
+msgstr "|clear-floats|"
