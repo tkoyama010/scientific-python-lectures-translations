@@ -35,58 +35,58 @@ msgstr "Python 3.10, 3.11, 3.12"
 
 #: ../../scientific-python-lectures/CHANGES.rst:9
 msgid "Renamed Scientific Python Lectures"
-msgstr ""
+msgstr "Scientific Python Lecturesに改名"
 
 #: ../../scientific-python-lectures/CHANGES.rst:11
 msgid "Removed old content"
-msgstr ""
+msgstr "古いコンテンツを削除"
 
 #: ../../scientific-python-lectures/CHANGES.rst:13
 msgid "Major updates to support recent packages"
-msgstr ""
+msgstr "最近のパッケージをサポートするためのメジャーアップデート"
 
 #: ../../scientific-python-lectures/CHANGES.rst:15
 msgid "Updates to the SciPy and scikit-image chapters"
-msgstr ""
+msgstr "SciPyとscikit-imageの章の更新"
 
 #: ../../scientific-python-lectures/CHANGES.rst:19
 msgid "Release 2022.1 (August 2022)"
-msgstr ""
+msgstr "リリース2022.1 (2022年8月)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:21
 msgid ""
 "Replace scikit-learn housing example with California data (Marco Mangan)"
-msgstr ""
+msgstr "scikit-learnの住宅例をカリフォルニアのデータで置き換え(Marco Mangan)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:23
 msgid ""
 "Fix links and typos (Zachary Moon, Tim Gates, Marco Mangan, Gert-Ludwig "
 "Ingold)"
-msgstr ""
+msgstr "リンクと誤字の修正 (Zachary Moon, Tim Gates, Marco Mangan, Gert-Ludwig Ingold)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:25
 msgid "Fix fftpack figure (Osayd Abdu)"
-msgstr ""
+msgstr "fftpackの図を修正 (Osayd Abdu)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:27
 msgid "Update software version (Pierre de Buyl)"
-msgstr ""
+msgstr "ソフトウェアのバージョンを更新 (Pierre de Buyl)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:30
 msgid "Release 2020.2 (September 2020)"
-msgstr ""
+msgstr "リリース2020.2 (2020年9月)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:32
 msgid "Replace image i/o from scipy.misc by imageio (Pierre de Buyl)"
-msgstr ""
+msgstr "scipy.miscの画像入出力をimageioで置き換え (Pierre de Buyl)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:34
 msgid "Update information on dict ordering (Bharath Saiguhan)"
-msgstr ""
+msgstr "ディクティッドオーダーに関する情報を更新 (Bharath Saiguhan)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:36
 msgid "Suppress warnings for mandelbrot example (Pierre de Buyl)"
-msgstr ""
+msgstr "mandelbrotの例に対する警告を抑制(Pierre de Buyl)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:38
 msgid ""
@@ -96,19 +96,19 @@ msgstr ""
 
 #: ../../scientific-python-lectures/CHANGES.rst:41
 msgid "Fix links to NumPy documentation to use numpy.org (Ross Barnowski)"
-msgstr ""
+msgstr "NumPyドキュメントへのリンクをnumpy.orgを使用するように修正 (Ross Barnowski)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:43
 msgid "Update note on transposed arrays (Ross Barnowski with Eric Wieser)"
-msgstr ""
+msgstr "転置配列に関する情報を更新 (Ross Barnowski と Eric Wieser)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:45
 msgid "Use generated figure file for lidar data processing (Lawrence Chan)"
-msgstr ""
+msgstr "生成された図ファイルをライダーデータ処理に使用 (Lawrence Chan)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:47
 msgid "Update link from PyMC2 to PyMC3 (B. Hohl)"
-msgstr ""
+msgstr "PyMC2からPyMC3へのリンクの更新 (B. Hohl)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:49
 msgid "Fix transparent popup menu to have a background (Pierre de Buyl)"
@@ -495,4 +495,4 @@ msgstr ""
 
 #: ../../../../../../../tmp/<rst_epilog>:9
 msgid "|clear-floats|"
-msgstr ""
+msgstr "|clear-floats|"
