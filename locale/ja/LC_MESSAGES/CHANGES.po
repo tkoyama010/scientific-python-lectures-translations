@@ -112,44 +112,44 @@ msgstr "PyMC2からPyMC3へのリンクの更新 (B. Hohl)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:49
 msgid "Fix transparent popup menu to have a background (Pierre de Buyl)"
-msgstr ""
+msgstr "透明ポップアップメニューの背景を修正 (Pierre de Buyl)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:53
 msgid "Release 2020.1 (March 2020)"
-msgstr ""
+msgstr "リリース2020.1 (2024年3月)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:55
 msgid "Fix outdated URLs (Gert-Ludwig Ingold)"
-msgstr ""
+msgstr "古くなったURLを修正 (Gert-Ludwig Ingold)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:57
 msgid "Update packages (Pierre de Buyl)"
-msgstr ""
+msgstr "パッケージの更新 (Pierre de Buyl)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:59
 msgid ""
 "Remove Python 2 continuous integration (Olav Vahtras - EuroSciPy 2019 "
 "sprint)"
-msgstr ""
+msgstr "Python 2の継続的インテグレーションの削除 (Olav Vahtras - EuroSciPy 2019 sprint)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:61
 msgid "Fix chessboard size (Mark Setchell)"
-msgstr ""
+msgstr "チェス盤のサイズを修正 (Mark Setchell)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:63
 msgid ""
 "Add objectives and design choices (Gert-Ludwig Ingold and Pierre de Buyl)"
-msgstr ""
+msgstr "目標とデザインの選択を追加 (Gert-Ludwig Ingold と Pierre de Buyl)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:65
 msgid ""
 "Make the numpy advanced iterator example more elaborate (Sebastian Berg)"
-msgstr ""
+msgstr "numpyの高度なイテレータの例をより精巧にする (Sebastian Berg)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:67
 msgid ""
 "Use empty list instead of empty tuple to deactivate ticks (Tim Hoffmann)"
-msgstr ""
+msgstr "ティックの無効化には空のタプルの代わりに空のリストを使用 (Tim Hoffmann)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:69
 msgid ""
@@ -248,21 +248,23 @@ msgstr ""
 
 #: ../../scientific-python-lectures/CHANGES.rst:123
 msgid "Update SciPy chapter (Gaël Varoquaux)"
-msgstr ""
+msgstr "SciPyの章を更新 (Gaël Varoquaux)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:125
 msgid "Make '>>>' in the prompts unselectable (Pierre de Buyl)"
-msgstr ""
+msgstr "プロンプトの' >>>' を選択不可能にした (Pierre de Buyl)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:127
 msgid ""
 "Use common package requirements for pip and conda and improve the build "
 "instructions (Gert-Ludwig Ingold, Vince Knight, Pierre de Buyl)"
 msgstr ""
+"pipとcondaに共通のパッケージ要件を使用し、ビルド手順を改善しました (Gert-Ludwig Ingold, Vince Knight, "
+"Pierre de Buyl)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:130
 msgid "Set up Circle CI (Loïc Estève)"
-msgstr ""
+msgstr "Circle の設定 (Loïc Estève)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:132
 msgid ""
