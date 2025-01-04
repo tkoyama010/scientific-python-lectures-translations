@@ -1,19 +1,19 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2024
+# Copyright (C) 2025
 # This file is distributed under the same license as the Scientific Python Lectures package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2025
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2024.2rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-12-08 00:14+0000\n"
+"POT-Creation-Date: 2025-01-01 00:13+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
-"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,15 +27,15 @@ msgstr "Scientific Python Lecturesについて"
 
 #: ../../scientific-python-lectures/preface.rst:11
 msgid "*Release:* |release|"
-msgstr ""
+msgstr "*リリース:* |release|"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:3
 msgid "Authors"
-msgstr ""
+msgstr "著者紹介"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:6
 msgid "Editors"
-msgstr ""
+msgstr "編集者紹介"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:8
 #: ../../scientific-python-lectures/AUTHORS.rst:46

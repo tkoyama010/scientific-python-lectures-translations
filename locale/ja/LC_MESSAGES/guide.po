@@ -326,6 +326,8 @@ msgid ""
 " technical term, **bold** should be used for emphasis and ``fixed-font`` for"
 " source code."
 msgstr ""
+"使用すべきマークアップには、主に次の3種類があります。 *イタリック体* 、 **太字** 、そして ``固定フォント`` です。 *イタリック体* "
+"は新しい専門用語を導入する際に、 **太字** は強調する際に、そして ``固定フォント`` はソースコードに使用します。"
 
 #: ../../scientific-python-lectures/guide/index.rst-1
 msgid "Example:"
@@ -336,14 +338,16 @@ msgid ""
 "When using *object-oriented programming* in Python you **must** use the "
 "``class`` keyword to define your *classes*."
 msgstr ""
+"Pythonで *オブジェクト指向プログラミング* を使う場合、 **必ず** ``class`` キーワードを使って *クラス* "
+"を定義しなければなりません。"
 
 #: ../../scientific-python-lectures/guide/index.rst:143
 msgid "In restructured-text markup this is::"
-msgstr ""
+msgstr "restructuredテキストマークアップでは次のようになります::"
 
 #: ../../scientific-python-lectures/guide/index.rst:150
 msgid "Linking to package documentations"
-msgstr ""
+msgstr "パッケージドキュメントへのリンク"
 
 #: ../../scientific-python-lectures/guide/index.rst:152
 msgid ""
@@ -351,6 +355,7 @@ msgid ""
 "the documentation of the various packages. You should link as much as "
 "possible to the original documentation."
 msgstr ""
+"科学的Python講義の目的は、様々なパッケージのドキュメントを複製したり置き換えたりすることではありません。できるだけオリジナルのドキュメントにリンクしてください。"
 
 #: ../../scientific-python-lectures/guide/index.rst:156
 msgid ""
@@ -361,10 +366,15 @@ msgid ""
 "to modules, classes and functions respectively. For example the "
 "``:func:`numpy.var``` will create a link like :func:`numpy.var`."
 msgstr ""
+"APIドキュメントを相互参照するために、私たちは `interphinx extension <https://www.sphinx-"
+"doc.org/en/master/usage/extensions/index.html#built-in-extensions>`_ "
+"を使うことを好みます。これは ``:mod:``, ``:class:``, ``:func:`` "
+"というディレクティブを提供し、それぞれモジュール、クラス、関数にクロスリンクします。 例えば、 ``:func:`numpy.var`` は "
+":func:`numpy.var` のようなリンクを作成します。"
 
 #: ../../scientific-python-lectures/guide/index.rst:163
 msgid "Chapter, section, subsection, paragraph"
-msgstr ""
+msgstr "チャプター、セクション、サブセクション、パラグラフ"
 
 #: ../../scientific-python-lectures/guide/index.rst:165
 msgid ""
@@ -374,25 +384,25 @@ msgstr "段落の粒度を下回ると、文書が読みづらくなる可能性
 
 #: ../../scientific-python-lectures/guide/index.rst:189
 msgid "Admonitions"
-msgstr ""
+msgstr "警告"
 
 #: ../../scientific-python-lectures/guide/index.rst:193
 msgid "This is a note"
-msgstr ""
+msgstr "これは注釈です"
 
 #: ../../scientific-python-lectures/guide/index.rst:197
 msgid "This is a warning"
-msgstr ""
+msgstr "これは警告です"
 
 #: ../../scientific-python-lectures/guide/index.rst:200
 msgid "Clearing floats"
-msgstr ""
+msgstr "浮動をクリアする"
 
 #: ../../scientific-python-lectures/guide/index.rst:202
 msgid ""
 "Figures positioned with `:align: right` are float. To flush them, use::"
-msgstr ""
+msgstr "`:align: right` で配置された図形は浮動します。 それらをフラッシュするには:を使用します::"
 
 #: ../../scientific-python-lectures/guide/index.rst:207
 msgid "References"
-msgstr ""
+msgstr "参考文献"
