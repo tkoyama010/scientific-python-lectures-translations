@@ -41,654 +41,659 @@ msgstr "編集者紹介"
 #: ../../scientific-python-lectures/AUTHORS.rst:46
 #: ../../scientific-python-lectures/AUTHORS.rst:265
 msgid "Gaël Varoquaux"
-msgstr ""
+msgstr "Gaël Varoquaux"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:10
 #: ../../scientific-python-lectures/AUTHORS.rst:36
 #: ../../scientific-python-lectures/AUTHORS.rst:125
 msgid "Emmanuelle Gouillart"
-msgstr ""
+msgstr "Emmanuelle Gouillart"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:12
 #: ../../scientific-python-lectures/AUTHORS.rst:261
 msgid "Olav Vahtras"
-msgstr ""
+msgstr "Olav Vahtras"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:14
 #: ../../scientific-python-lectures/AUTHORS.rst:81
 msgid "Pierre de Buyl"
-msgstr ""
+msgstr "Pierre de Buyl"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:16
 #: ../../scientific-python-lectures/AUTHORS.rst:185
 msgid "K\\. Jarrod Millman"
-msgstr ""
+msgstr "K\\. Jarrod Millman"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:18
 #: ../../scientific-python-lectures/AUTHORS.rst:263
 msgid "Stéfan van der Walt"
-msgstr ""
+msgstr "Stéfan van der Walt"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:22
 msgid "Chapter authors"
-msgstr ""
+msgstr "章執筆陣"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:24
 msgid "Listed by alphabetical order."
-msgstr ""
+msgstr "アルファベット順。"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:26
 msgid "Christopher Burns"
-msgstr ""
+msgstr "Christopher Burns"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:28
 msgid "Adrian Chauve"
-msgstr ""
+msgstr "Adrian Chauve"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:30
 #: ../../scientific-python-lectures/AUTHORS.rst:89
 msgid "Robert Cimrman"
-msgstr ""
+msgstr "Robert Cimrman"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:32
 #: ../../scientific-python-lectures/AUTHORS.rst:91
 msgid "Christophe Combelles"
-msgstr ""
+msgstr "Christophe Combelles"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:34
 #: ../../scientific-python-lectures/AUTHORS.rst:105
 msgid "André Espaze"
-msgstr ""
+msgstr "André Espaze"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:38
 msgid "Mike Müller"
-msgstr ""
+msgstr "Mike Müller"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:40
 #: ../../scientific-python-lectures/AUTHORS.rst:205
 msgid "Fabian Pedregosa"
-msgstr ""
+msgstr "Fabian Pedregosa"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:42
 #: ../../scientific-python-lectures/AUTHORS.rst:213
 msgid "Didrik Pinte"
-msgstr ""
+msgstr "Didrik Pinte"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:44
 msgid "Nicolas Rougier"
-msgstr ""
+msgstr "Nicolas Rougier"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:48
 #: ../../scientific-python-lectures/AUTHORS.rst:273
 msgid "Pauli Virtanen"
-msgstr ""
+msgstr "Pauli Virtanen"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:50
 #: ../../scientific-python-lectures/AUTHORS.rst:157
 msgid "Zbigniew Jędrzejewski-Szmek"
-msgstr ""
+msgstr "Zbigniew Jędrzejewski-Szmek"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:52
 msgid "Valentin Haenel (editor from 2011 to 2015)"
-msgstr ""
+msgstr "Valentin Haenel (2011年から2015年まで編集者)"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:55
 msgid "Additional Contributions"
-msgstr ""
+msgstr "追加貢献"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:57
 msgid "Listed by alphabetical order"
-msgstr ""
+msgstr "アルファベット順"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:59
 msgid "Osayd Abdu"
-msgstr ""
+msgstr "Osayd Abdu"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:61
 msgid "arunpersaud"
-msgstr ""
+msgstr "arunpersaud"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:63
 msgid "Ross Barnowski"
-msgstr ""
+msgstr "Ross Barnowski"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:65
 msgid "Sebastian Berg"
-msgstr ""
+msgstr "Sebastian Berg"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:67
 msgid "Lilian Besson"
-msgstr ""
+msgstr "Lilian Besson"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:69
 msgid "Matthieu Boileau"
-msgstr ""
+msgstr "Matthieu Boileau"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:71
 msgid "Joris Van den Bossche"
-msgstr ""
+msgstr "Joris Van den Bossche"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:73
 msgid "Michael Boyle"
-msgstr ""
+msgstr "Michael Boyle"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:75
 msgid "Matthew Brett"
-msgstr ""
+msgstr "Matthew Brett"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:77
 msgid "BSGalvan"
-msgstr ""
+msgstr "BSGalvan"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:79
 msgid "Lars Buitinck"
-msgstr ""
+msgstr "Lars Buitinck"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:83
 msgid "Ozan Çağlayan"
-msgstr ""
+msgstr "Ozan Çağlayan"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:85
 msgid "Lawrence Chan"
-msgstr ""
+msgstr "Lawrence Chan"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:87
 msgid "Adrien Chauve"
-msgstr ""
+msgstr "Adrien Chauve"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:93
 msgid "David Cournapeau"
-msgstr ""
+msgstr "David Cournapeau"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:95
 msgid "Dave"
-msgstr ""
+msgstr "Dave"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:97
 msgid "dogacan dugmeci"
-msgstr ""
+msgstr "dogacan dugmeci"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:99
 msgid "Török Edwin"
-msgstr ""
+msgstr "Török Edwin"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:101
 msgid "egens"
-msgstr ""
+msgstr "egens"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:103
 msgid "Andre Espaze"
-msgstr ""
+msgstr "Andre Espaze"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:107
 msgid "Loïc Estève"
-msgstr ""
+msgstr "Loïc Estève"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:109
 msgid "Corey Farwell"
-msgstr ""
+msgstr "Corey Farwell"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:111
 msgid "Tim Gates"
-msgstr ""
+msgstr "Tim Gates"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:113
 msgid "Stuart Geiger"
-msgstr ""
+msgstr "Stuart Geiger"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:115
 msgid "Olivier Georg"
-msgstr ""
+msgstr "Olivier Georg"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:117
 msgid "Daniel Gerigk"
-msgstr ""
+msgstr "Daniel Gerigk"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:119
 msgid "Robert Gieseke"
-msgstr ""
+msgstr "Robert Gieseke"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:121
 msgid "Philip Gillißen"
-msgstr ""
+msgstr "Philip Gillißen"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:123
 msgid "Ralf Gommers"
-msgstr ""
+msgstr "Ralf Gommers"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:127
 msgid "Julia Gustavsen"
-msgstr ""
+msgstr "Julia Gustavsen"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:129
 msgid "Omar Gutiérrez"
-msgstr ""
+msgstr "Omar Gutiérrez"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:131
 msgid "Matt Haberland"
-msgstr ""
+msgstr "Matt Haberland"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:133
 msgid "Valentin Haenel"
-msgstr ""
+msgstr "Valentin Haenel"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:135
 msgid "Pierre Haessig"
-msgstr ""
+msgstr "Pierre Haessig"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:137
 msgid "Bruno Hanzen"
-msgstr ""
+msgstr "Bruno Hanzen"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:139
 msgid "Michael Hartmann"
-msgstr ""
+msgstr "Michael Hartmann"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:141
 msgid "Jonathan Helmus"
-msgstr ""
+msgstr "Jonathan Helmus"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:143
 msgid "Andreas Hilboll"
-msgstr ""
+msgstr "Andreas Hilboll"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:145
 msgid "Himanshu"
-msgstr ""
+msgstr "Himanshu"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:147
 msgid "Julian Hofer"
-msgstr ""
+msgstr "Julian Hofer"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:149
 msgid "Tim Hoffmann"
-msgstr ""
+msgstr "Tim Hoffmann"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:151
 msgid "B\\. Hohl"
-msgstr ""
+msgstr "B\\. Hohl"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:153
 msgid "Tarek Hoteit"
-msgstr ""
+msgstr "Tarek Hoteit"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:155
 msgid "Gert-Ludwig Ingold"
-msgstr ""
+msgstr "Gert-Ludwig Ingold"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:159
 msgid "Thouis (Ray) Jones"
-msgstr ""
+msgstr "Thouis (Ray) Jones"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:161
 msgid "jorgeprietoarranz"
-msgstr ""
+msgstr "jorgeprietoarranz"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:163
 msgid "josephsalmon"
-msgstr ""
+msgstr "josephsalmon"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:165
 msgid "Greg Kiar"
-msgstr ""
+msgstr "Greg Kiar"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:167
 msgid "kikocorreoso"
-msgstr ""
+msgstr "kikocorreoso"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:169
 msgid "Vince Knight"
-msgstr ""
+msgstr "Vince Knight"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:171
 msgid "LFP6"
-msgstr ""
+msgstr "LFP6"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:173
 msgid "Manuel López-Ibáñez"
-msgstr ""
+msgstr "Manuel López-Ibáñez"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:175
 msgid "Marco Mangan"
-msgstr ""
+msgstr "Marco Mangan"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:177
 msgid "Nicola Masarone"
-msgstr ""
+msgstr "Nicola Masarone"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:179
 msgid "John McLaughlin"
-msgstr ""
+msgstr "John McLaughlin"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:181
 msgid "mhemantha"
-msgstr ""
+msgstr "mhemantha"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:183
 msgid "michelemaroni89"
-msgstr ""
+msgstr "michelemaroni89"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:187
 msgid "Mohammad"
-msgstr ""
+msgstr "Mohammad"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:189
 msgid "Zachary Moon"
-msgstr ""
+msgstr "Zachary Moon"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:191
 msgid "Mike Mueller"
-msgstr ""
+msgstr "Mike Mueller"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:193
 msgid "negm"
-msgstr ""
+msgstr "negm"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:195
 msgid "John B Nelson"
-msgstr ""
+msgstr "John B Nelson"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:197
 msgid "nicoguaro"
-msgstr ""
+msgstr "nicoguaro"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:199
 msgid "Sergio Oller"
-msgstr ""
+msgstr "Sergio Oller"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:201
 msgid "Theofilos Papapanagiotou"
-msgstr ""
+msgstr "Theofilos Papapanagiotou"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:203
 msgid "patniharshit"
-msgstr ""
+msgstr "patniharshit"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:207
 msgid "Philippe Pepiot"
-msgstr ""
+msgstr "Philippe Pepiot"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:209
 msgid "Tiago M. D. Pereira"
-msgstr ""
+msgstr "Tiago M. D. Pereira"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:211
 msgid "Nicolas Pettiaux"
-msgstr ""
+msgstr "Nicolas Pettiaux"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:215
 msgid "Evgeny Pogrebnyak"
-msgstr ""
+msgstr "Evgeny Pogrebnyak"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:217
 msgid "reverland"
-msgstr ""
+msgstr "reverland"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:219
 msgid "Maximilien Riehl"
-msgstr ""
+msgstr "Maximilien Riehl"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:221
 msgid "Kristian Rother"
-msgstr ""
+msgstr "Kristian Rother"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:223
 msgid "Nicolas P. Rougier"
-msgstr ""
+msgstr "Nicolas P. Rougier"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:225
 msgid "Pamphile Roy"
-msgstr ""
+msgstr "Pamphile Roy"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:227
 msgid "Rutzmoser"
-msgstr ""
+msgstr "Rutzmoser"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:229
 msgid "Sander"
-msgstr ""
+msgstr "Sander"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:231
 msgid "João Felipe Santos"
-msgstr ""
+msgstr "João Felipe Santos"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:233
 msgid "Mark Setchell"
-msgstr ""
+msgstr "Mark Setchell"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:235
 msgid "Helen Sherwood-Taylor"
-msgstr ""
+msgstr "Helen Sherwood-Taylor"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:237
 msgid "Shoeboxam"
-msgstr ""
+msgstr "Shoeboxam"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:239
 msgid "Simon"
-msgstr ""
+msgstr "Simon"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:241
 msgid "solarjoe"
-msgstr ""
+msgstr "solarjoe"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:243
 msgid "ssmiller"
-msgstr ""
+msgstr "ssmiller"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:245
 msgid "Scott Staniewicz"
-msgstr ""
+msgstr "Scott Staniewicz"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:247
 msgid "strpeter"
-msgstr ""
+msgstr "strpeter"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:249
 msgid "surfer190"
-msgstr ""
+msgstr "surfer190"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:251
 msgid "Bartosz Telenczuk"
-msgstr ""
+msgstr "Bartosz Telenczuk"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:253
 msgid "tommyod"
-msgstr ""
+msgstr "tommyod"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:255
 msgid "Wes Turner"
-msgstr ""
+msgstr "Wes Turner"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:257
 msgid "Akihiro Uchida"
-msgstr ""
+msgstr "Akihiro Uchida"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:259
 msgid "Utkarsh Upadhyay"
-msgstr ""
+msgstr "Utkarsh Upadhyay"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:267
 msgid "Nelle Varoquaux"
-msgstr ""
+msgstr "Nelle Varoquaux"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:269
 msgid "Olivier Verdier"
-msgstr ""
+msgstr "Olivier Verdier"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:271
 msgid "VirgileFritsch"
-msgstr ""
+msgstr "VirgileFritsch"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:275
 msgid "Yosh Wakeham"
-msgstr ""
+msgstr "Yosh Wakeham"
 
 #: ../../scientific-python-lectures/AUTHORS.rst:277
 msgid "yasutomo57jp"
-msgstr ""
+msgstr "yasutomo57jp"
 
 #: ../../scientific-python-lectures/CHANGES.rst:2
 msgid "What's new"
-msgstr ""
+msgstr "新着情報"
 
 #: ../../scientific-python-lectures/CHANGES.rst:5
 msgid "Release 2024.1 (April 2024)"
-msgstr ""
+msgstr "リリース2024.1 (2024年4月)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:7
 msgid "Python 3.10, 3.11, 3.12"
-msgstr ""
+msgstr "Python 3.10, 3.11, 3.12"
 
 #: ../../scientific-python-lectures/CHANGES.rst:9
 msgid "Renamed Scientific Python Lectures"
-msgstr ""
+msgstr "Scientific Python Lecturesに改名"
 
 #: ../../scientific-python-lectures/CHANGES.rst:11
 msgid "Removed old content"
-msgstr ""
+msgstr "古いコンテンツを削除"
 
 #: ../../scientific-python-lectures/CHANGES.rst:13
 msgid "Major updates to support recent packages"
-msgstr ""
+msgstr "最近のパッケージをサポートするためのメジャーアップデート"
 
 #: ../../scientific-python-lectures/CHANGES.rst:15
 msgid "Updates to the SciPy and scikit-image chapters"
-msgstr ""
+msgstr "SciPyとscikit-imageの章の更新"
 
 #: ../../scientific-python-lectures/CHANGES.rst:19
 msgid "Release 2022.1 (August 2022)"
-msgstr ""
+msgstr "リリース2022.1 (2022年8月)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:21
 msgid ""
 "Replace scikit-learn housing example with California data (Marco Mangan)"
-msgstr ""
+msgstr "scikit-learnの住宅例をカリフォルニアのデータで置き換え(Marco Mangan)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:23
 msgid ""
 "Fix links and typos (Zachary Moon, Tim Gates, Marco Mangan, Gert-Ludwig "
 "Ingold)"
-msgstr ""
+msgstr "リンクと誤字の修正 (Zachary Moon, Tim Gates, Marco Mangan, Gert-Ludwig Ingold)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:25
 msgid "Fix fftpack figure (Osayd Abdu)"
-msgstr ""
+msgstr "fftpackの図を修正 (Osayd Abdu)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:27
 msgid "Update software version (Pierre de Buyl)"
-msgstr ""
+msgstr "ソフトウェアのバージョンを更新 (Pierre de Buyl)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:30
 msgid "Release 2020.2 (September 2020)"
-msgstr ""
+msgstr "リリース2020.2 (2020年9月)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:32
 msgid "Replace image i/o from scipy.misc by imageio (Pierre de Buyl)"
-msgstr ""
+msgstr "scipy.miscの画像入出力をimageioで置き換え (Pierre de Buyl)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:34
 msgid "Update information on dict ordering (Bharath Saiguhan)"
-msgstr ""
+msgstr "ディクティッドオーダーに関する情報を更新 (Bharath Saiguhan)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:36
 msgid "Suppress warnings for mandelbrot example (Pierre de Buyl)"
-msgstr ""
+msgstr "mandelbrotの例に対する警告を抑制(Pierre de Buyl)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:38
 msgid ""
 "Update NumPy introduction and advanced usage for changes to NumPy: wording, "
 "bytes representation, floating point argument to np.zeros (Ross Barnowski)"
 msgstr ""
+"NumPyの変更に合わせて、NumPyの紹介と高度な使い方を更新しました: 文法、バイト表現、np.zerosへの浮動小数点数引数 (Ross "
+"Barnowski)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:41
 msgid "Fix links to NumPy documentation to use numpy.org (Ross Barnowski)"
-msgstr ""
+msgstr "NumPyドキュメントへのリンクをnumpy.orgを使用するように修正 (Ross Barnowski)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:43
 msgid "Update note on transposed arrays (Ross Barnowski with Eric Wieser)"
-msgstr ""
+msgstr "転置配列に関する情報を更新 (Ross Barnowski と Eric Wieser)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:45
 msgid "Use generated figure file for lidar data processing (Lawrence Chan)"
-msgstr ""
+msgstr "生成された図ファイルをライダーデータ処理に使用 (Lawrence Chan)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:47
 msgid "Update link from PyMC2 to PyMC3 (B. Hohl)"
-msgstr ""
+msgstr "PyMC2からPyMC3へのリンクの更新 (B. Hohl)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:49
 msgid "Fix transparent popup menu to have a background (Pierre de Buyl)"
-msgstr ""
+msgstr "透明ポップアップメニューの背景を修正 (Pierre de Buyl)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:53
 msgid "Release 2020.1 (March 2020)"
-msgstr ""
+msgstr "リリース2020.1 (2024年3月)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:55
 msgid "Fix outdated URLs (Gert-Ludwig Ingold)"
-msgstr ""
+msgstr "古くなったURLを修正 (Gert-Ludwig Ingold)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:57
 msgid "Update packages (Pierre de Buyl)"
-msgstr ""
+msgstr "パッケージの更新 (Pierre de Buyl)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:59
 msgid ""
 "Remove Python 2 continuous integration (Olav Vahtras - EuroSciPy 2019 "
 "sprint)"
-msgstr ""
+msgstr "Python 2の継続的インテグレーションの削除 (Olav Vahtras - EuroSciPy 2019 sprint)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:61
 msgid "Fix chessboard size (Mark Setchell)"
-msgstr ""
+msgstr "チェス盤のサイズを修正 (Mark Setchell)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:63
 msgid ""
 "Add objectives and design choices (Gert-Ludwig Ingold and Pierre de Buyl)"
-msgstr ""
+msgstr "目標とデザインの選択を追加 (Gert-Ludwig Ingold と Pierre de Buyl)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:65
 msgid ""
 "Make the numpy advanced iterator example more elaborate (Sebastian Berg)"
-msgstr ""
+msgstr "numpyの高度なイテレータの例をより精巧にする (Sebastian Berg)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:67
 msgid ""
 "Use empty list instead of empty tuple to deactivate ticks (Tim Hoffmann)"
-msgstr ""
+msgstr "ティックの無効化には空のタプルの代わりに空のリストを使用 (Tim Hoffmann)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:69
 msgid ""
 "Fix typos (Sander van Rijn, cydave, Michel Corne) and off by 2 errors "
 "(Andreas Hilboll)"
 msgstr ""
+"誤字の修正 (Sander van Rijn, cydave, Michel Corne) 、2つのエラーの修正 (Andreas Hilboll)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:72
 msgid "Improve readability of Polynomials example code (Michel Corne)"
-msgstr ""
+msgstr "多項式のサンプルコードの可読性を向上 (Michel Corne)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:74
 msgid "Replace suggestions for debugging environments (Gert-Ludwig Ingold)"
-msgstr ""
+msgstr "デバッグ環境に関する提案の置き換えました (Gert-Ludwig Ingold)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:76
 msgid "Add section on Python 2 vs Python 3 (Pierre de Buyl)"
-msgstr ""
+msgstr "Python 2とPython 3に関するセクションを追加しました (Pierre de Buyl)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:80
 msgid "Release 2019.1 (May 2019)"
-msgstr ""
+msgstr "リリース2019.1 (2019年5月)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:82
 msgid ""
 "Update matplotlib compatibility to version 2.2 (Mike Mueller, Joris Van den "
 "Bossche, Pierre de Buyl)"
 msgstr ""
+"matplotlibの互換性をバージョン2.2に更新しました (Mike Mueller, Joris Van den Bossche, Pierre "
+"de Buyl)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:85
 msgid "Make C-API example cos_module_np Python 2/3 compatible (Michael Boyle)"
-msgstr ""
+msgstr "C-APIサンプルcos_module_npをPython 2/3に対応させました (Michael Boyle)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:87
 msgid ""
@@ -696,175 +701,187 @@ msgid ""
 "Geiger, Omar Gutiérrez, Himanshu, Julian Hofer, Joseph Salmon, Manuel López-"
 "Ibáñez, Nicola Masarone, michelemaroni89, Evgeny Pogrebnyak, tommyod)"
 msgstr ""
+"誤字や古いURLを修正しました (Dogacan Dugmeci, Matthieu Boileau, Stuart Geiger, Omar "
+"Gutiérrez, Himanshu, Julian Hofer, Joseph Salmon, Manuel López-Ibáñez, "
+"Nicola Masarone, michelemaroni89, Evgeny Pogrebnyak, tommyod)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:93
 msgid "Release 2018.1 (September 2018)"
-msgstr ""
+msgstr "リリース2018.1 (2018年9月)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:95
 msgid ""
 "Fix wordings, typos, colours (Pierre de Buyl, Greg Kiar, Olav Vahtras "
 "Kristian Rother)"
 msgstr ""
+"字句、誤字、色の修正をしました (Pierre de Buyl, Greg Kiar, Olav Vahtras Kristian Rother)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:98
 msgid "Fix interpolation example code (Scott Staniewicz)"
-msgstr ""
+msgstr "補間例のコードを修正しました (Scott Staniewicz)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:100
 msgid "Fix CSS for high density displays (Gaël Varoquaux)"
-msgstr ""
+msgstr "高密度ディスプレイ用のCSSを修正しました (Gaël Varoquaux)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:102
 msgid "Generate indexing figures with PyX (Gert Ingold)"
-msgstr ""
+msgstr "PyXで索引図を生成しました (Gert Ingold)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:104
 msgid "Warn clearly against the use of Python 2 (Bruno Hanzen)"
-msgstr ""
+msgstr "Python 2の使用を明確に警告します (Bruno Hanzen)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:106
 msgid "Update external links (Bruno Hanzen)"
-msgstr ""
+msgstr "外部リンクの更新をしました (Bruno Hanzen)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:108
 msgid ""
 "Update versions of dependencies: sphinx-gallery, pandas, statsmodels (Gaël "
 "Varoquaux)"
 msgstr ""
+"依存関係のバージョンを更新しました: sphinx-gallery, pandas, statsmodels (Gaël Varoquaux)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:113
 msgid "Release 2017.1 (October 2017)"
-msgstr ""
+msgstr "リリース2017.1 (2017年10月)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:115
 msgid "Update optimization chapter (Michael Hartmann, Gaël Varoquaux)"
-msgstr ""
+msgstr "最適化の章を更新しました (Michael Hartmann, Gaël Varoquaux)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:117
 msgid "Update SymPy chapter (Vince Knight)"
-msgstr ""
+msgstr "SymPyの章を更新しました (Vince Knight)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:119
 msgid "Update advanced NumPy (Bartosz Teleńczuk)"
-msgstr ""
+msgstr "高度なNumPyの更新しました (Bartosz Teleńczuk)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:121
 msgid "Update scikit-learn chapter (Gaël Varoquaux)"
-msgstr ""
+msgstr "scikit-learnの章を更新しました (Gaël Varoquaux)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:123
 msgid "Update SciPy chapter (Gaël Varoquaux)"
-msgstr ""
+msgstr "SciPyの章を更新しました (Gaël Varoquaux)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:125
 msgid "Make '>>>' in the prompts unselectable (Pierre de Buyl)"
-msgstr ""
+msgstr "プロンプトの' >>>' を選択不可能にしました (Pierre de Buyl)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:127
 msgid ""
 "Use common package requirements for pip and conda and improve the build "
 "instructions (Gert-Ludwig Ingold, Vince Knight, Pierre de Buyl)"
 msgstr ""
+"pipとcondaに共通のパッケージ要件を使用し、ビルド手順を改善しました (Gert-Ludwig Ingold, Vince Knight, "
+"Pierre de Buyl)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:130
 msgid "Set up Circle CI (Loïc Estève)"
-msgstr ""
+msgstr "Circle の設定 (Loïc Estève)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:132
 msgid ""
 "Improved support for Python 3 integer divisions and calls to print (Loïc "
 "Estève, Gert-Ludwig Ingold, Pierre de Buyl, Gaël Varoquaux)"
 msgstr ""
+"Python 3 の整数除算と print 呼び出しのサポートを改善しました (Loïc Estève, Gert-Ludwig Ingold, "
+"Pierre de Buyl, Gaël Varoquaux)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:135
 msgid "Change test runner to pytest (Pierre de Buyl)"
-msgstr ""
+msgstr "テストランナーをpytestに変更しました (Pierre de Buyl)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:137
 msgid "Replace the plot directive by sphinx-gallery (Gert-Ludwig Ingold)"
-msgstr ""
+msgstr "plotディレクティブをsphinx-galleryに置き換えました (Gert-Ludwig Ingold)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:140
 msgid "Release 2016.1 (September 2016)"
-msgstr ""
+msgstr "リリース2016.1 (2016年9月)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:142
 msgid "Rework of intro chapter (Gaël Varoquaux)"
-msgstr ""
+msgstr "序章の手直をしました (Gaël Varoquaux)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:144
 msgid ""
 "Integrate sphinx-gallery: examples are now Jupyter notebooks (Gaël "
 "Varoquaux, Gert-Ludwig Ingold, Óscar Nájera)"
 msgstr ""
+"sphinx-galleryの統合: サンプルがJupyterノートブックになりました (Gaël Varoquaux, Gert-Ludwig "
+"Ingold, Óscar Nájera)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:147
 msgid "Better Python 3 tests and support (Gert-Ludwig Ingold)"
-msgstr ""
+msgstr "より良いPython 3のテストとサポート (Gert-Ludwig Ingold)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:149
 msgid "Adapt examples to Matplotlib 1.5 (Gaël Varoquaux)"
-msgstr ""
+msgstr "Matplotlib 1.5にサンプルを適応しました (Gaël Varoquaux)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:151
 msgid "Modernize numpy chapter (Bartosz Telenczuk)"
-msgstr ""
+msgstr "numpyの章の近代化 (Bartosz Telenczuk)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:154
 msgid "Release 2015.3 (November 2015)"
-msgstr ""
+msgstr "リリース2015.3 (2015年11月)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:156
 msgid ""
 "Collapsed sidebar can now pop up for mid-sized display (Gaël Varoquaux)"
-msgstr ""
+msgstr "中型ディスプレイ用に折りたたんだサイドバーをポップアップできるようになりました (Gaël Varoquaux)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:158
 msgid "Replaced pictures of Lena by raccoon face (Thouis Jones)"
-msgstr ""
+msgstr "Lenaの写真をアライグマ顔に差し替え (Thouis Jones)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:161
 msgid "Release 2015.2 (October 2015)"
-msgstr ""
+msgstr "リリース2015.2 (2015年10月)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:163
 msgid "Authors on cover ordered as in bibtex entry (Nicolas Rougier)"
-msgstr ""
+msgstr "表紙の著者をbibtexエントリーと同じ順番にしました (Nicolas Rougier)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:165
 msgid "Better rendering on mobile (Gaël Varoquaux)"
-msgstr ""
+msgstr "モバイルでのより良いレンダリング (Gaël Varoquaux)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:167
 msgid "Fix restructured text markup errors (Olav Vahtras)"
-msgstr ""
+msgstr "restructuredテキストのmarkupエラーを修正しました (Olav Vahtras)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:170
 msgid "Release 2015.1 (September 2015)"
-msgstr ""
+msgstr "リリース2015.1 (2015年9月)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:172
 msgid "New chapter on statistics with Python (Gaël Varoquaux)"
-msgstr ""
+msgstr "Pythonによる統計に関する新しい章 (Gaël Varoquaux)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:174
 msgid "Better layout in PDF (Gaël Varoquaux)"
-msgstr ""
+msgstr "PDFのレイアウトを改善しました (Gaël Varoquaux)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:176
 msgid ""
 "New HTML layout, simplified formatting, mobile-friendly and sidebar (Gaël "
 "Varoquaux, Nelle Varoquaux)"
 msgstr ""
+"新しいHTMLレイアウト、シンプルなフォーマット、モバイルフレンドリー、サイドバー (Gaël Varoquaux, Nelle Varoquaux)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:179
 msgid "Logos on the HTML front page and on the PDF cover (Nicolas Rougier)"
-msgstr ""
+msgstr "HTMLのフロントページとPDFの表紙にロゴを掲載しました (Nicolas Rougier)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:181
 msgid "Python 3 compatible code (Gaël Varoquaux, Olav Vahtras)"
-msgstr ""
+msgstr "Python 3互換コード (Gaël Varoquaux, Olav Vahtras)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:183
 msgid ""
@@ -872,89 +889,94 @@ msgid ""
 "Emmanuelle Gouillart, Gert-Ludwig Ingold, Nicolas Pettiaux, Olav Vahtras, "
 "Gaël Varoquaux, Nelle Varoquaux)"
 msgstr ""
+"プロジェクトの最新バージョンに対応したコードに更新しました (Pierre de Buyl, Emmanuelle Gouillart, Gert-"
+"Ludwig Ingold, Nicolas Pettiaux, Olav Vahtras, Gaël Varoquaux, Nelle "
+"Varoquaux)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:187
 msgid ""
 "Matplotlib updated with removal of deprecated pylab interface (Nicolas "
 "Rougier)"
-msgstr ""
+msgstr "Matplotlibが更新され、非推奨のpylabインターフェースが削除されました (Nicolas Rougier)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:191
 msgid "Release 2013.2 (21 August 2013)"
-msgstr ""
+msgstr "リリース2013.2 (2013年8月21日)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:193
 msgid "NumPy chapter simplified (Valentin Haenel)"
-msgstr ""
+msgstr "NumPyの章の簡略化をしました (Valentin Haenel)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:195
 msgid "New layout for the HTML rendering (Gaël Varoquaux)"
-msgstr ""
+msgstr "HTMLレンダリングの新しいレイアウト (Gaël Varoquaux)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:198
 msgid "Release 2013.1 (10 Feb 2013)"
-msgstr ""
+msgstr "リリース2013.1 (2013年2月10日)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:200
 msgid ""
 "Improvements to the advanced image manipulation chapter (Emmanuelle "
 "Gouillart)"
-msgstr ""
+msgstr "高度な画像操作の章の改善 (Emmanuelle Gouillart)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:202
 msgid "Upgrade of the introductory language chapter (Valentin Haenel)"
-msgstr ""
+msgstr "言語入門の章をアップグレードしました (Valentin Haenel)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:204
 msgid "Upgrade of the introductory numpy chapter (Valentin Haenel)"
-msgstr ""
+msgstr "numpy入門の章をアップグレードしました (Valentin Haenel)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:206
 msgid "New advanced chapter on interfacing with C (Valentin Haenel)"
-msgstr ""
+msgstr "C言語とのインターフェイスに関する新しい上級編 (Valentin Haenel)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:208
 msgid ""
 "Minor fixes and improvements in various places (Robert Gieseke, Ozan "
 "Çağlayan, Sergio Oller, kikocorreo, Valentin Haenel)"
 msgstr ""
+"各所のマイナーな修正と改善をしました (Robert Gieseke, Ozan Çağlayan, Sergio Oller, kikocorreo,"
+" Valentin Haenel)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:213
 msgid "Release 2012.3 (26 Nov 2012)"
-msgstr ""
+msgstr "リリース2012.3 (2012年11月26日)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:215
 msgid ""
 "This release integrates the changes written for the Euroscipy conference:"
-msgstr ""
+msgstr "このリリースは、Euroscipy会議のために書かれた変更を統合したものです:"
 
 #: ../../scientific-python-lectures/CHANGES.rst:217
 msgid "Matplotlib chapter completely redone (Nicolas Rougier, Gaël Varoquaux)"
-msgstr ""
+msgstr "Matplotlibの章を一新しました (Nicolas Rougier, Gaël Varoquaux)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:219
 msgid "New advanced chapter on mathematical optimization (Gaël Varoquaux)"
-msgstr ""
+msgstr "数学的最適化に関する新しい上級編 (Gaël Varoquaux)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:221
 msgid "Mayavi chapter redone (Gaël Varoquaux)"
-msgstr ""
+msgstr "Mayaviの章を再編成しました (Gaël Varoquaux)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:223
 msgid "Front page layout slightly improved: folding TOC (Gaël Varoquaux)"
-msgstr ""
+msgstr "フロントページのレイアウトを若干改善しました: TOCを折りたたみます (Gaël Varoquaux)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:226
 msgid "Release 2012.2 (22 Jun 2012)"
-msgstr ""
+msgstr "リリース2012.2 (2012年6月22日)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:228
 msgid "Minor release with a few clean ups (Gael Varoquaux)."
-msgstr ""
+msgstr "いくつかのクリーンアップを伴うマイナーリリース (Gael Varoquaux) 。"
 
 #: ../../scientific-python-lectures/CHANGES.rst:231
 msgid "Release 2012.1 (20 Jun 2012)"
-msgstr ""
+msgstr "リリース2012.1 (2012年6月20日)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:233
 msgid ""
@@ -963,10 +985,13 @@ msgid ""
 " across the intro and advanced chapters (Gael Varoquaux) and doctesting of "
 "all the code (Gael Varoquaux)."
 msgstr ""
+"これは多くのクリーンアップを伴うマイナーリリースです。 特に、レイアウトのクリーンアップ(Gael Varoquaux), "
+"numpyの章の短縮と、入門編と上級編の章にわたる重複部分の削除 (Gael Varoquaux) とすべてのコードのドキュメントテスト (Gael "
+"Varoquaux) 。"
 
 #: ../../scientific-python-lectures/CHANGES.rst:239
 msgid "Release 2012.0 (22 Apr 2012)"
-msgstr ""
+msgstr "リリース2012.0 (2012年4月22日)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:241
 msgid ""
@@ -974,10 +999,13 @@ msgid ""
 "scikit-learn chapter (Lars Buitinck), more informative section titles (Gael "
 "Varoquaux), and misc fixes (Valentin Haenel, Virgile Fritsch)."
 msgstr ""
+"これは、いくつかのクリーンアップを含むマイナーリリースです。 特に、scikit-learnの章のクリーンアップ (Lars Buitinck) "
+"、より情報量の多いセクションタイトル (Gael Varoquaux) 、および雑多な修正 (Valentin Haenel, Virgile "
+"Fritsch) 。"
 
 #: ../../scientific-python-lectures/CHANGES.rst:246
 msgid "Release 2011.1 (16 Oct 2011)"
-msgstr ""
+msgstr "リリース2011.1 (2011年10月16日)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:248
 msgid ""
@@ -985,10 +1013,12 @@ msgid ""
 "has been cleaned and optimized (Valentin Haenel and many others), the Traits"
 " chapter has been merged in (Didrik Pinte)"
 msgstr ""
+"このリリースはEuroscipy 2011のチュートリアルを再編集したものです。 レイアウトがきれいになり、最適化されました (Valentin "
+"Haenel とその他多数), Traitsの章が統合されました (Didrik Pinte)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:253
 msgid "Release 2011 (1 Sept 2011)"
-msgstr ""
+msgstr "リリース2011 (2011年9月1日)"
 
 #: ../../scientific-python-lectures/CHANGES.rst:255
 msgid ""
@@ -999,30 +1029,34 @@ msgid ""
 "code (Gaël Varoquaux), optimizing code (Gaël Varoquaux), image processing "
 "(Emmanuelle Gouillart), scikit-learn (Fabian Pedregosa)."
 msgstr ""
+"このリリースはEuroscipy 2011のチュートリアルで使用されます。 numpy入門の章が書き直されました (Pauli Virtanen) "
+"。序章のアウトラインが簡素化されました (Gaël Varoquaux) 。高度な章が追加されました: 高度なPythonの構成要素 (Zbigniew"
+" Jędrzejewski-Szmek), デバッグコード (Gaël Varoquaux) , コードの最適化 (Gaël Varoquaux) , "
+"画像処理 (Emmanuelle Gouillart), scikit-learn (Fabian Pedregosa) 。"
 
 #: ../../scientific-python-lectures/LICENSE.rst:2
 msgid "License"
-msgstr ""
+msgstr "ライセンス"
 
 #: ../../scientific-python-lectures/LICENSE.rst:4
 msgid "All code and material is licensed under a"
-msgstr ""
+msgstr "すべてのコードと素材は以下のライセンスのもと公開されています"
 
 #: ../../scientific-python-lectures/LICENSE.rst:6
 msgid "Creative Commons Attribution 4.0 International License (CC-by)"
-msgstr ""
+msgstr "Creative Commons Attribution 4.0 International License (CC-by)"
 
 #: ../../scientific-python-lectures/LICENSE.rst:8
 msgid "https://creativecommons.org/licenses/by/4.0/"
-msgstr ""
+msgstr "https://creativecommons.org/licenses/by/4.0/"
 
 #: ../../scientific-python-lectures/LICENSE.rst:10
 msgid "See the AUTHORS.rst file for a list of contributors."
-msgstr ""
+msgstr "寄稿者のリストは AUTHORS.rst ファイルを参照してください。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:2
 msgid "Contributing"
-msgstr ""
+msgstr "貢献"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:4
 msgid ""
@@ -1030,12 +1064,14 @@ msgid ""
 "constant maintenance and improvements. New contributions such as wording "
 "improvements or inclusion of new topics are welcome."
 msgstr ""
+"Scientific Python Lecturesはコミュニティベースの取り組みであり、常にメンテナンスと改善が必要です。 "
+"文言の改善や新しいトピックの追加など、新しい貢献を歓迎します。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:8
 msgid ""
 "To propose bugfixes or straightforward improvements to the lectures, see the"
 " contribution guide below."
-msgstr ""
+msgstr "講義のバグフィックスや簡単な改良を提案するには、以下の投稿ガイドをご覧ください。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:11
 msgid ""
@@ -1043,26 +1079,28 @@ msgid ""
 "project <https://github.com/scipy-lectures/scientific-python-"
 "lectures/issues>`_ to discuss it with the editors."
 msgstr ""
+"新しいトピックについては、まず目的を読み、 `GitHubプロジェクト<https://github.com/scipy-"
+"lectures/scientific-python-lectures/issues>`_ にissueを発行して編集者と議論してください。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:17
 msgid "Objectives and design choices for the lectures"
-msgstr ""
+msgstr "講義の目的とデザインの選択"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:19
 msgid ""
 "Contributors should keep the following objectives and design choices of the "
 "Scientific Python Lectures in mind."
-msgstr ""
+msgstr "投稿者は、Scientific Python Lecturesの以下の目的とデザインの選択に留意してください。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:22
 msgid "Objectives:"
-msgstr ""
+msgstr "目的:"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:24
 msgid ""
 "Provide a self-contained introduction to Python and its primary "
 "computational packages, the ”Scientific Python stack“."
-msgstr ""
+msgstr "Pythonとその主要な計算パッケージである \"Scientific Python stack\" の自己完結型の入門書を提供します。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:26
 msgid ""
@@ -1070,62 +1108,65 @@ msgid ""
 "libraries. Currently, we cover pandas, statmodels, seaborn, scikit-image, "
 "scikit-learn, and sympy."
 msgstr ""
+"広く使われている安定した計算ライブラリのチュートリアルを提供します。 現在、pandas、statmodels、seaborn、scikit-"
+"image、scikit-learn、sympyを扱っています。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:30
 msgid "Automated testing is applied to the code examples as much as possible."
-msgstr ""
+msgstr "自動テストは、可能な限りコード例に適用されます。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:32
 msgid "Design choices:"
-msgstr ""
+msgstr "デザインの選択:"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:34
 msgid "Each chapter should provide a useful basis for a 1‒2 h tutorial."
-msgstr ""
+msgstr "各章は、1-2時間のチュートリアルに役立つ基礎となるはずです。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:35
 msgid "The code should be readable."
-msgstr ""
+msgstr "コードは読めるものでなければなりません。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:36
 msgid ""
 "An idiomatic style should be followed, e.g. ``import numpy as np``, "
 "preference for array operations, PEP8 coding conventions."
 msgstr ""
+"配列操作の優先順位、PEP8のコーディング規約など、慣用的なスタイル例えば  ``import numpy as np`` に従うべきです。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:41
 msgid "Contributing guide"
-msgstr ""
+msgstr "貢献ガイド"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:43
 msgid "The directory ``guide`` contains instructions on how to contribute:"
-msgstr ""
+msgstr "ディレクトリ ``guide`` には投稿の方法が書かれています:"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:41
 msgid "**Example chapter**"
-msgstr ""
+msgstr "**例章**"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:52
 msgid "Building instructions"
-msgstr ""
+msgstr "ビルディングの指導"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:54
 msgid "To generate the html output for on-screen display, Type::"
-msgstr ""
+msgstr "画面表示用のhtml出力を生成するには、以下をタイプしてください::"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:58
 msgid "the generated html files can be found in ``build/html``"
-msgstr ""
+msgstr "生成されたhtmlファイルは ``build/html`` にあります。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:60
 msgid ""
 "The first build takes a long time, but information is cached and subsequent "
 "builds will be faster."
-msgstr ""
+msgstr "最初のビルドには時間がかかりますが、情報はキャッシュされ、その後のビルドは速くなります。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:63
 msgid "To generate the pdf file for printing::"
-msgstr ""
+msgstr "印刷用のpdfファイルを作成するには::"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:67
 msgid ""
@@ -1133,16 +1174,18 @@ msgid ""
 "Tweaking the layout in the ``*.rst`` files is usually enough to work around "
 "these problems."
 msgstr ""
+"pdfビルダーは少し難しく、TeXのエラーが出るかもしれません。 通常、 ``*.rst`` "
+"ファイルのレイアウトを調整することで、これらの問題を回避することができます。"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:72
 msgid "Requirements"
-msgstr ""
+msgstr "必要条件"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:74
 msgid ""
 "Build requirements are listed in the :download:`requirements file "
 "<requirements.txt>`:"
-msgstr ""
+msgstr "ビルド要件は :download:`requirements ファイル <requirements.txt>` に記載されています:"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:79
 msgid ""
@@ -1150,23 +1193,25 @@ msgid ""
 "<https://docs.python.org/3/library/venv.html>`__ or conda environment set "
 "up, then install requirements with::"
 msgstr ""
+"`仮想環境 <https://docs.python.org/3/library/venv.html>`__ または conda "
+"環境がセットアップされていることを確認し、次のように要件をインストールします::"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:85
 msgid "Note that you will also need the following system packages:"
-msgstr ""
+msgstr "以下のシステムパッケージも必要であることに注意してください:"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:87
 msgid ""
 "Python C development headers (the `python3-dev` package on Debian, e.g.),"
-msgstr ""
+msgstr "Python C 開発ヘッダー (Debian の `python3-dev` パッケージなど)、"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:88
 msgid "a C compiler like gcc,"
-msgstr ""
+msgstr "gccのようなCコンパイラー、"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:89
 msgid "`GNU Make <https://www.gnu.org/software/make/>`__,"
-msgstr ""
+msgstr "`GNU Make <https://www.gnu.org/software/make/>`__,"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:90
 msgid ""
@@ -1174,32 +1219,35 @@ msgid ""
 "<https://www.tug.org/texlive/>`__ (``texlive-latex-base``, ``texlive-latex-"
 "extra``, ``texlive-fonts-extra``, and ``latexmk`` on Debian/Ubuntu),"
 msgstr ""
+"`TeX Live <https://www.tug.org/texlive/>`__ (Debian/Ubuntuでは ``texlive-"
+"latex-base`` 、 ``texlive-latex-extra`` 、 ``texlive-fonts-extra`` 、 "
+"``latexmk``) のような完全なLaTeXディストリビューション、"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:94
 msgid "`dvipng <http://savannah.nongnu.org/projects/dvipng/>`__,"
-msgstr ""
+msgstr "`dvipng <http://savannah.nongnu.org/projects/dvipng/>`__,"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:95
 msgid "`latexmk <https://personal.psu.edu/~jcc8/software/latexmk/>`__,"
-msgstr ""
+msgstr "`latexmk <https://personal.psu.edu/~jcc8/software/latexmk/>`__,"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:96
 msgid "`git <https://git-scm.com/>`__."
-msgstr ""
+msgstr "`git <https://git-scm.com/>`__."
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:99
 msgid "Updating the cover"
-msgstr ""
+msgstr "カバーの更新"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:101
 msgid "Use inkscape to modify the cover in ``images/``, then export to PDF::"
-msgstr ""
+msgstr "inkscape を使って ``images/`` で表紙を修正し、PDFにエクスポートします::"
 
 #: ../../scientific-python-lectures/CONTRIBUTING.rst:105
 msgid ""
 "Ensure that the ``images/cover.pdf`` symlink points to the correct file."
-msgstr ""
+msgstr "``images/cover.pdf`` のシンボリックリンクが正しいファイルを指していることを確認してください。"
 
 #: ../../../../../../../tmp/<rst_epilog>:9
 msgid "|clear-floats|"
-msgstr ""
+msgstr "|clear-floats|"

@@ -1,19 +1,19 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2024
+# Copyright (C) 2025
 # This file is distributed under the same license as the Scientific Python Lectures package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Tetsuo Koyama <tkoyama010@gmail.com>, 2024
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2025
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2024.2rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2024-11-27 19:17+0000\n"
+"POT-Creation-Date: 2025-01-01 00:13+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
-"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,83 +23,89 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/index.rst:4
 msgid "Packages and applications"
-msgstr ""
+msgstr "パッケージとアプリケーション"
 
 #: ../../scientific-python-lectures/packages/index.rst:6
 msgid ""
 "This part of the *Scientific Python Lectures* is dedicated to various "
 "scientific packages useful for extended needs."
 msgstr ""
+"このパートでは、 *Scientific Python Lectures* の一環として、拡張ニーズに役立つ様々な科学パッケージを紹介します。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1612
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1644
 #: ../../../../../../../tmp/<rst_epilog>:9
 msgid "|clear-floats|"
-msgstr ""
+msgstr "|clear-floats|"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:3
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:4
 msgid "Examples for the scikit-image chapter"
-msgstr ""
+msgstr "scikit-imageの章の例"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:22
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:23
 msgid ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_check.py`"
-msgstr ""
+msgstr ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_check.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:39
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:40
 msgid ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_camera.py`"
-msgstr ""
+msgstr ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_camera.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:56
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:57
 msgid ""
 ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_camera_uint.py`"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_camera_uint.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:73
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:74
 msgid ""
 ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_equalize_hist.py`"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_equalize_hist.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:90
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:91
 msgid ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_sobel.py`"
-msgstr ""
+msgstr ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_sobel.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:107
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:108
 msgid ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_boundaries.py`"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_boundaries.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:124
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:125
 msgid ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_threshold.py`"
-msgstr ""
+msgstr ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_threshold.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:141
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:142
 msgid ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_features.py`"
-msgstr ""
+msgstr ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_features.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:158
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:159
 msgid ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_labels.py`"
-msgstr ""
+msgstr ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_labels.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:175
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:176
 msgid ""
 ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_filter_coins.py`"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_filter_coins.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:192
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:193
 msgid ""
 ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_segmentations.py`"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_segmentations.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:229
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:230
@@ -108,6 +114,9 @@ msgid ""
 "auto_examples_python.zip </packages/scikit-"
 "image/auto_examples/auto_examples_python.zip>`"
 msgstr ""
+":download:`Download all examples in Python source code: "
+"auto_examples_python.zip </packages/scikit-"
+"image/auto_examples/auto_examples_python.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:233
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:234
@@ -116,6 +125,9 @@ msgid ""
 "auto_examples_jupyter.zip </packages/scikit-"
 "image/auto_examples/auto_examples_jupyter.zip>`"
 msgstr ""
+":download:`Download all examples in Jupyter notebooks: "
+"auto_examples_jupyter.zip </packages/scikit-"
+"image/auto_examples/auto_examples_jupyter.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:240
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:241
@@ -163,105 +175,126 @@ msgstr ""
 msgid ""
 "`Gallery generated by Sphinx-Gallery <https://sphinx-gallery.github.io>`_"
 msgstr ""
+"`Gallery generated by Sphinx-Gallery <https://sphinx-gallery.github.io>`_"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_boundaries.rst:13
 msgid ""
 ":ref:`Go to the end <sphx_glr_download_packages_scikit-"
 "image_auto_examples_plot_boundaries.py>` to download the full example code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"image_auto_examples_plot_boundaries.py>` をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_boundaries.rst:22
 msgid "Segmentation contours"
-msgstr ""
+msgstr "輪郭セグメンテーション"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_boundaries.rst:24
 msgid "Visualize segmentation contours on original grayscale image."
-msgstr ""
+msgstr "元のグレースケール画像上でセグメンテーションの輪郭を可視化します。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_boundaries.rst:62
 msgid ""
 ":download:`Download Jupyter notebook: plot_boundaries.ipynb "
 "<plot_boundaries.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_boundaries.ipynb "
+"<plot_boundaries.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_boundaries.rst:66
 msgid ""
 ":download:`Download Python source code: plot_boundaries.py "
 "<plot_boundaries.py>`"
 msgstr ""
+":download:`Download Python source code: plot_boundaries.py "
+"<plot_boundaries.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_boundaries.rst:70
 msgid ":download:`Download zipped: plot_boundaries.zip <plot_boundaries.zip>`"
 msgstr ""
+":download:`Download zipped: plot_boundaries.zip <plot_boundaries.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_camera.rst:13
 msgid ""
 ":ref:`Go to the end <sphx_glr_download_packages_scikit-"
 "image_auto_examples_plot_camera.py>` to download the full example code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"image_auto_examples_plot_camera.py>` をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_camera.rst:22
 msgid "Displaying a simple image"
-msgstr ""
+msgstr "シンプルな画像の表示"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_camera.rst:24
 msgid "Load and display an image"
-msgstr ""
+msgstr "画像を読み込んで表示します"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_camera.rst:53
 msgid ""
 ":download:`Download Jupyter notebook: plot_camera.ipynb <plot_camera.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_camera.ipynb <plot_camera.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_camera.rst:57
 msgid ""
 ":download:`Download Python source code: plot_camera.py <plot_camera.py>`"
 msgstr ""
+":download:`Download Python source code: plot_camera.py <plot_camera.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_camera.rst:61
 msgid ":download:`Download zipped: plot_camera.zip <plot_camera.zip>`"
-msgstr ""
+msgstr ":download:`Download zipped: plot_camera.zip <plot_camera.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_camera_uint.rst:13
 msgid ""
 ":ref:`Go to the end <sphx_glr_download_packages_scikit-"
 "image_auto_examples_plot_camera_uint.py>` to download the full example code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"image_auto_examples_plot_camera_uint.py>` をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_camera_uint.rst:22
 msgid "Integers can overflow"
-msgstr ""
+msgstr "整数はオーバーフローすることがある"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_camera_uint.rst:24
 msgid "An illustration of overflow problem arising when working with integers"
-msgstr ""
+msgstr "整数を扱う場合のオーバーフロー問題の例"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_camera_uint.rst:57
 msgid ""
 ":download:`Download Jupyter notebook: plot_camera_uint.ipynb "
 "<plot_camera_uint.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_camera_uint.ipynb "
+"<plot_camera_uint.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_camera_uint.rst:61
 msgid ""
 ":download:`Download Python source code: plot_camera_uint.py "
 "<plot_camera_uint.py>`"
 msgstr ""
+":download:`Download Python source code: plot_camera_uint.py "
+"<plot_camera_uint.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_camera_uint.rst:65
 msgid ""
 ":download:`Download zipped: plot_camera_uint.zip <plot_camera_uint.zip>`"
 msgstr ""
+":download:`Download zipped: plot_camera_uint.zip <plot_camera_uint.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_check.rst:13
 msgid ""
 ":ref:`Go to the end <sphx_glr_download_packages_scikit-"
 "image_auto_examples_plot_check.py>` to download the full example code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"image_auto_examples_plot_check.py>` をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_check.rst:22
 msgid "Creating an image"
-msgstr ""
+msgstr "画像の作成"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_check.rst:24
 msgid ""
@@ -276,14 +309,16 @@ msgstr ""
 msgid ""
 ":download:`Download Jupyter notebook: plot_check.ipynb <plot_check.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_check.ipynb <plot_check.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_check.rst:55
 msgid ":download:`Download Python source code: plot_check.py <plot_check.py>`"
 msgstr ""
+":download:`Download Python source code: plot_check.py <plot_check.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_check.rst:59
 msgid ":download:`Download zipped: plot_check.zip <plot_check.zip>`"
-msgstr ""
+msgstr ":download:`Download zipped: plot_check.zip <plot_check.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_equalize_hist.rst:13
 msgid ""
@@ -305,17 +340,22 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_equalize_hist.ipynb "
 "<plot_equalize_hist.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_equalize_hist.ipynb "
+"<plot_equalize_hist.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_equalize_hist.rst:61
 msgid ""
 ":download:`Download Python source code: plot_equalize_hist.py "
 "<plot_equalize_hist.py>`"
 msgstr ""
+":download:`Download Python source code: plot_equalize_hist.py "
+"<plot_equalize_hist.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_equalize_hist.rst:65
 msgid ""
 ":download:`Download zipped: plot_equalize_hist.zip <plot_equalize_hist.zip>`"
 msgstr ""
+":download:`Download zipped: plot_equalize_hist.zip <plot_equalize_hist.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_features.rst:13
 msgid ""
@@ -336,15 +376,18 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_features.ipynb "
 "<plot_features.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_features.ipynb "
+"<plot_features.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_features.rst:64
 msgid ""
 ":download:`Download Python source code: plot_features.py <plot_features.py>`"
 msgstr ""
+":download:`Download Python source code: plot_features.py <plot_features.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_features.rst:68
 msgid ":download:`Download zipped: plot_features.zip <plot_features.zip>`"
-msgstr ""
+msgstr ":download:`Download zipped: plot_features.zip <plot_features.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_filter_coins.rst:13
 msgid ""
@@ -368,17 +411,22 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_filter_coins.ipynb "
 "<plot_filter_coins.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_filter_coins.ipynb "
+"<plot_filter_coins.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_filter_coins.rst:75
 msgid ""
 ":download:`Download Python source code: plot_filter_coins.py "
 "<plot_filter_coins.py>`"
 msgstr ""
+":download:`Download Python source code: plot_filter_coins.py "
+"<plot_filter_coins.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_filter_coins.rst:79
 msgid ""
 ":download:`Download zipped: plot_filter_coins.zip <plot_filter_coins.zip>`"
 msgstr ""
+":download:`Download zipped: plot_filter_coins.zip <plot_filter_coins.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_labels.rst:13
 msgid ""
@@ -400,15 +448,17 @@ msgstr ""
 msgid ""
 ":download:`Download Jupyter notebook: plot_labels.ipynb <plot_labels.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_labels.ipynb <plot_labels.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_labels.rst:76
 msgid ""
 ":download:`Download Python source code: plot_labels.py <plot_labels.py>`"
 msgstr ""
+":download:`Download Python source code: plot_labels.py <plot_labels.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_labels.rst:80
 msgid ":download:`Download zipped: plot_labels.zip <plot_labels.zip>`"
-msgstr ""
+msgstr ":download:`Download zipped: plot_labels.zip <plot_labels.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_segmentations.rst:13
 msgid ""
@@ -439,17 +489,22 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_segmentations.ipynb "
 "<plot_segmentations.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_segmentations.ipynb "
+"<plot_segmentations.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_segmentations.rst:98
 msgid ""
 ":download:`Download Python source code: plot_segmentations.py "
 "<plot_segmentations.py>`"
 msgstr ""
+":download:`Download Python source code: plot_segmentations.py "
+"<plot_segmentations.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_segmentations.rst:102
 msgid ""
 ":download:`Download zipped: plot_segmentations.zip <plot_segmentations.zip>`"
 msgstr ""
+":download:`Download zipped: plot_segmentations.zip <plot_segmentations.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_sobel.rst:13
 msgid ""
@@ -471,14 +526,16 @@ msgstr ""
 msgid ""
 ":download:`Download Jupyter notebook: plot_sobel.ipynb <plot_sobel.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_sobel.ipynb <plot_sobel.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_sobel.rst:63
 msgid ":download:`Download Python source code: plot_sobel.py <plot_sobel.py>`"
 msgstr ""
+":download:`Download Python source code: plot_sobel.py <plot_sobel.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_sobel.rst:67
 msgid ":download:`Download zipped: plot_sobel.zip <plot_sobel.zip>`"
-msgstr ""
+msgstr ":download:`Download zipped: plot_sobel.zip <plot_sobel.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_threshold.rst:13
 msgid ""
@@ -499,23 +556,27 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_threshold.ipynb "
 "<plot_threshold.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_threshold.ipynb "
+"<plot_threshold.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_threshold.rst:68
 msgid ""
 ":download:`Download Python source code: plot_threshold.py "
 "<plot_threshold.py>`"
 msgstr ""
+":download:`Download Python source code: plot_threshold.py "
+"<plot_threshold.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_threshold.rst:72
 msgid ":download:`Download zipped: plot_threshold.zip <plot_threshold.zip>`"
-msgstr ""
+msgstr ":download:`Download zipped: plot_threshold.zip <plot_threshold.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/sg_execution_times.rst:8
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/sg_execution_times.rst:8
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/sg_execution_times.rst:8
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/solutions/sg_execution_times.rst:8
 msgid "Computation times"
-msgstr ""
+msgstr "計算時間"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/sg_execution_times.rst:9
 msgid ""
@@ -528,27 +589,29 @@ msgstr ""
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/sg_execution_times.rst:32
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/solutions/sg_execution_times.rst:32
 msgid "Example"
-msgstr ""
+msgstr "例"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/sg_execution_times.rst:33
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/sg_execution_times.rst:33
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/sg_execution_times.rst:33
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/solutions/sg_execution_times.rst:33
 msgid "Time"
-msgstr ""
+msgstr "時間"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/sg_execution_times.rst:34
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/sg_execution_times.rst:34
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/sg_execution_times.rst:34
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/solutions/sg_execution_times.rst:34
 msgid "Mem (MB)"
-msgstr ""
+msgstr "Mem (MB)"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/sg_execution_times.rst:35
 msgid ""
 ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_boundaries.py` "
 "(``plot_boundaries.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_boundaries.py` "
+"(``plot_boundaries.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/sg_execution_times.rst:36
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/sg_execution_times.rst:39
@@ -588,7 +651,7 @@ msgstr ""
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/sg_execution_times.rst:57
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/solutions/sg_execution_times.rst:36
 msgid "00:00.000"
-msgstr ""
+msgstr "00:00.000"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/sg_execution_times.rst:37
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/sg_execution_times.rst:40
@@ -628,67 +691,87 @@ msgstr ""
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/sg_execution_times.rst:58
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/solutions/sg_execution_times.rst:37
 msgid "0.0"
-msgstr ""
+msgstr "0.0"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/sg_execution_times.rst:38
 msgid ""
 ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_camera.py` "
 "(``plot_camera.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_camera.py` "
+"(``plot_camera.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/sg_execution_times.rst:41
 msgid ""
 ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_camera_uint.py` "
 "(``plot_camera_uint.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_camera_uint.py` "
+"(``plot_camera_uint.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/sg_execution_times.rst:44
 msgid ""
 ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_check.py` "
 "(``plot_check.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_check.py` "
+"(``plot_check.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/sg_execution_times.rst:47
 msgid ""
 ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_equalize_hist.py` "
 "(``plot_equalize_hist.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_equalize_hist.py` "
+"(``plot_equalize_hist.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/sg_execution_times.rst:50
 msgid ""
 ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_features.py` "
 "(``plot_features.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_features.py` "
+"(``plot_features.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/sg_execution_times.rst:53
 msgid ""
 ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_filter_coins.py` "
 "(``plot_filter_coins.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_filter_coins.py` "
+"(``plot_filter_coins.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/sg_execution_times.rst:56
 msgid ""
 ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_labels.py` "
 "(``plot_labels.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_labels.py` "
+"(``plot_labels.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/sg_execution_times.rst:59
 msgid ""
 ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_segmentations.py` "
 "(``plot_segmentations.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_segmentations.py` "
+"(``plot_segmentations.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/sg_execution_times.rst:62
 msgid ""
 ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_sobel.py` "
 "(``plot_sobel.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_sobel.py` "
+"(``plot_sobel.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/sg_execution_times.rst:65
 msgid ""
 ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_threshold.py` "
 "(``plot_threshold.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_threshold.py` "
+"(``plot_threshold.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:10
 msgid "``scikit-image``: image processing"
@@ -696,7 +779,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:15
 msgid "**Author**: *Emmanuelle Gouillart*"
-msgstr ""
+msgstr "**Author**: *Emmanuelle Gouillart*"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:17
 msgid ""
@@ -1489,7 +1572,7 @@ msgstr "scikit-learnの章の例"
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:22
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:23
 msgid ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_pca.py`"
-msgstr ""
+msgstr ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_pca.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:39
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:40
@@ -1497,6 +1580,8 @@ msgid ""
 ":ref:`sphx_glr_packages_scikit-"
 "learn_auto_examples_plot_measuring_performance.py`"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-"
+"learn_auto_examples_plot_measuring_performance.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:56
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:57
@@ -1504,23 +1589,27 @@ msgid ""
 ":ref:`sphx_glr_packages_scikit-"
 "learn_auto_examples_plot_linear_regression.py`"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-"
+"learn_auto_examples_plot_linear_regression.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:73
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:74
 msgid ""
 ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_iris_scatter.py`"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_iris_scatter.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:90
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:91
 msgid ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_tsne.py`"
-msgstr ""
+msgstr ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_tsne.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:107
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:108
 msgid ""
 ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_linear_model_cv.py`"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_linear_model_cv.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:124
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:125
@@ -1528,11 +1617,13 @@ msgid ""
 ":ref:`sphx_glr_packages_scikit-"
 "learn_auto_examples_plot_variance_linear_regr.py`"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-"
+"learn_auto_examples_plot_variance_linear_regr.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:141
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:142
 msgid ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_separator.py`"
-msgstr ""
+msgstr ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_separator.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:158
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:159
@@ -1540,6 +1631,8 @@ msgid ""
 ":ref:`sphx_glr_packages_scikit-"
 "learn_auto_examples_plot_compare_classifiers.py`"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-"
+"learn_auto_examples_plot_compare_classifiers.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:175
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:176
@@ -1547,6 +1640,8 @@ msgid ""
 ":ref:`sphx_glr_packages_scikit-"
 "learn_auto_examples_plot_polynomial_regression.py`"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-"
+"learn_auto_examples_plot_polynomial_regression.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:192
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:193
@@ -1554,11 +1649,13 @@ msgid ""
 ":ref:`sphx_glr_packages_scikit-"
 "learn_auto_examples_plot_california_prediction.py`"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-"
+"learn_auto_examples_plot_california_prediction.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:209
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:210
 msgid ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_iris_knn.py`"
-msgstr ""
+msgstr ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_iris_knn.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:226
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:227
@@ -1566,29 +1663,35 @@ msgid ""
 ":ref:`sphx_glr_packages_scikit-"
 "learn_auto_examples_plot_digits_simple_classif.py`"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-"
+"learn_auto_examples_plot_digits_simple_classif.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:243
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:244
 msgid ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_eigenfaces.py`"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_eigenfaces.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:260
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:261
 msgid ""
 ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_svm_non_linear.py`"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_svm_non_linear.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:277
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:278
 msgid ""
 ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_bias_variance.py`"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_bias_variance.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:294
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:295
 msgid ""
 ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_ML_flow_chart.py`"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_ML_flow_chart.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:337
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:338
@@ -1597,6 +1700,9 @@ msgid ""
 "auto_examples_python.zip </packages/scikit-"
 "learn/auto_examples/auto_examples_python.zip>`"
 msgstr ""
+":download:`Download all examples in Python source code: "
+"auto_examples_python.zip </packages/scikit-"
+"learn/auto_examples/auto_examples_python.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:341
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:342
@@ -1605,6 +1711,9 @@ msgid ""
 "auto_examples_jupyter.zip </packages/scikit-"
 "learn/auto_examples/auto_examples_jupyter.zip>`"
 msgstr ""
+":download:`Download all examples in Jupyter notebooks: "
+"auto_examples_jupyter.zip </packages/scikit-"
+"learn/auto_examples/auto_examples_jupyter.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_ML_flow_chart.rst:13
 msgid ""
@@ -1626,17 +1735,22 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_ML_flow_chart.ipynb "
 "<plot_ML_flow_chart.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_ML_flow_chart.ipynb "
+"<plot_ML_flow_chart.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_ML_flow_chart.rst:204
 msgid ""
 ":download:`Download Python source code: plot_ML_flow_chart.py "
 "<plot_ML_flow_chart.py>`"
 msgstr ""
+":download:`Download Python source code: plot_ML_flow_chart.py "
+"<plot_ML_flow_chart.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_ML_flow_chart.rst:208
 msgid ""
 ":download:`Download zipped: plot_ML_flow_chart.zip <plot_ML_flow_chart.zip>`"
 msgstr ""
+":download:`Download zipped: plot_ML_flow_chart.zip <plot_ML_flow_chart.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_bias_variance.rst:13
 msgid ""
@@ -1690,17 +1804,22 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_bias_variance.ipynb "
 "<plot_bias_variance.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_bias_variance.ipynb "
+"<plot_bias_variance.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_bias_variance.rst:218
 msgid ""
 ":download:`Download Python source code: plot_bias_variance.py "
 "<plot_bias_variance.py>`"
 msgstr ""
+":download:`Download Python source code: plot_bias_variance.py "
+"<plot_bias_variance.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_bias_variance.rst:222
 msgid ""
 ":download:`Download zipped: plot_bias_variance.zip <plot_bias_variance.zip>`"
 msgstr ""
+":download:`Download zipped: plot_bias_variance.zip <plot_bias_variance.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_california_prediction.rst:13
 msgid ""
@@ -1744,18 +1863,24 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_california_prediction.ipynb "
 "<plot_california_prediction.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_california_prediction.ipynb "
+"<plot_california_prediction.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_california_prediction.rst:155
 msgid ""
 ":download:`Download Python source code: plot_california_prediction.py "
 "<plot_california_prediction.py>`"
 msgstr ""
+":download:`Download Python source code: plot_california_prediction.py "
+"<plot_california_prediction.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_california_prediction.rst:159
 msgid ""
 ":download:`Download zipped: plot_california_prediction.zip "
 "<plot_california_prediction.zip>`"
 msgstr ""
+":download:`Download zipped: plot_california_prediction.zip "
+"<plot_california_prediction.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_compare_classifiers.rst:13
 msgid ""
@@ -1779,18 +1904,24 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_compare_classifiers.ipynb "
 "<plot_compare_classifiers.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_compare_classifiers.ipynb "
+"<plot_compare_classifiers.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_compare_classifiers.rst:82
 msgid ""
 ":download:`Download Python source code: plot_compare_classifiers.py "
 "<plot_compare_classifiers.py>`"
 msgstr ""
+":download:`Download Python source code: plot_compare_classifiers.py "
+"<plot_compare_classifiers.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_compare_classifiers.rst:86
 msgid ""
 ":download:`Download zipped: plot_compare_classifiers.zip "
 "<plot_compare_classifiers.zip>`"
 msgstr ""
+":download:`Download zipped: plot_compare_classifiers.zip "
+"<plot_compare_classifiers.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_digits_simple_classif.rst:13
 msgid ""
@@ -1854,18 +1985,24 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_digits_simple_classif.ipynb "
 "<plot_digits_simple_classif.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_digits_simple_classif.ipynb "
+"<plot_digits_simple_classif.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_digits_simple_classif.rst:196
 msgid ""
 ":download:`Download Python source code: plot_digits_simple_classif.py "
 "<plot_digits_simple_classif.py>`"
 msgstr ""
+":download:`Download Python source code: plot_digits_simple_classif.py "
+"<plot_digits_simple_classif.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_digits_simple_classif.rst:200
 msgid ""
 ":download:`Download zipped: plot_digits_simple_classif.zip "
 "<plot_digits_simple_classif.zip>`"
 msgstr ""
+":download:`Download zipped: plot_digits_simple_classif.zip "
+"<plot_digits_simple_classif.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:13
 msgid ""
@@ -2035,16 +2172,21 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_eigenfaces.ipynb "
 "<plot_eigenfaces.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_eigenfaces.ipynb "
+"<plot_eigenfaces.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:324
 msgid ""
 ":download:`Download Python source code: plot_eigenfaces.py "
 "<plot_eigenfaces.py>`"
 msgstr ""
+":download:`Download Python source code: plot_eigenfaces.py "
+"<plot_eigenfaces.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:328
 msgid ":download:`Download zipped: plot_eigenfaces.zip <plot_eigenfaces.zip>`"
 msgstr ""
+":download:`Download zipped: plot_eigenfaces.zip <plot_eigenfaces.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_iris_knn.rst:13
 msgid ""
@@ -2075,15 +2217,18 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_iris_knn.ipynb "
 "<plot_iris_knn.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_iris_knn.ipynb "
+"<plot_iris_knn.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_iris_knn.rst:115
 msgid ""
 ":download:`Download Python source code: plot_iris_knn.py <plot_iris_knn.py>`"
 msgstr ""
+":download:`Download Python source code: plot_iris_knn.py <plot_iris_knn.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_iris_knn.rst:119
 msgid ":download:`Download zipped: plot_iris_knn.zip <plot_iris_knn.zip>`"
-msgstr ""
+msgstr ":download:`Download zipped: plot_iris_knn.zip <plot_iris_knn.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_iris_scatter.rst:13
 msgid ""
@@ -2111,17 +2256,22 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_iris_scatter.ipynb "
 "<plot_iris_scatter.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_iris_scatter.ipynb "
+"<plot_iris_scatter.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_iris_scatter.rst:71
 msgid ""
 ":download:`Download Python source code: plot_iris_scatter.py "
 "<plot_iris_scatter.py>`"
 msgstr ""
+":download:`Download Python source code: plot_iris_scatter.py "
+"<plot_iris_scatter.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_iris_scatter.rst:75
 msgid ""
 ":download:`Download zipped: plot_iris_scatter.zip <plot_iris_scatter.zip>`"
 msgstr ""
+":download:`Download zipped: plot_iris_scatter.zip <plot_iris_scatter.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_linear_model_cv.rst:13
 msgid ""
@@ -2153,18 +2303,24 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_linear_model_cv.ipynb "
 "<plot_linear_model_cv.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_linear_model_cv.ipynb "
+"<plot_linear_model_cv.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_linear_model_cv.rst:95
 msgid ""
 ":download:`Download Python source code: plot_linear_model_cv.py "
 "<plot_linear_model_cv.py>`"
 msgstr ""
+":download:`Download Python source code: plot_linear_model_cv.py "
+"<plot_linear_model_cv.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_linear_model_cv.rst:99
 msgid ""
 ":download:`Download zipped: plot_linear_model_cv.zip "
 "<plot_linear_model_cv.zip>`"
 msgstr ""
+":download:`Download zipped: plot_linear_model_cv.zip "
+"<plot_linear_model_cv.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_linear_regression.rst:13
 msgid ""
@@ -2183,18 +2339,24 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_linear_regression.ipynb "
 "<plot_linear_regression.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_linear_regression.ipynb "
+"<plot_linear_regression.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_linear_regression.rst:75
 msgid ""
 ":download:`Download Python source code: plot_linear_regression.py "
 "<plot_linear_regression.py>`"
 msgstr ""
+":download:`Download Python source code: plot_linear_regression.py "
+"<plot_linear_regression.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_linear_regression.rst:79
 msgid ""
 ":download:`Download zipped: plot_linear_regression.zip "
 "<plot_linear_regression.zip>`"
 msgstr ""
+":download:`Download zipped: plot_linear_regression.zip "
+"<plot_linear_regression.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_measuring_performance.rst:13
 msgid ""
@@ -2242,18 +2404,24 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_measuring_performance.ipynb "
 "<plot_measuring_performance.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_measuring_performance.ipynb "
+"<plot_measuring_performance.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_measuring_performance.rst:98
 msgid ""
 ":download:`Download Python source code: plot_measuring_performance.py "
 "<plot_measuring_performance.py>`"
 msgstr ""
+":download:`Download Python source code: plot_measuring_performance.py "
+"<plot_measuring_performance.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_measuring_performance.rst:102
 msgid ""
 ":download:`Download zipped: plot_measuring_performance.zip "
 "<plot_measuring_performance.zip>`"
 msgstr ""
+":download:`Download zipped: plot_measuring_performance.zip "
+"<plot_measuring_performance.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_pca.rst:13
 msgid ""
@@ -2287,14 +2455,15 @@ msgstr ""
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_pca.rst:92
 msgid ":download:`Download Jupyter notebook: plot_pca.ipynb <plot_pca.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_pca.ipynb <plot_pca.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_pca.rst:96
 msgid ":download:`Download Python source code: plot_pca.py <plot_pca.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: plot_pca.py <plot_pca.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_pca.rst:100
 msgid ":download:`Download zipped: plot_pca.zip <plot_pca.zip>`"
-msgstr ""
+msgstr ":download:`Download zipped: plot_pca.zip <plot_pca.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_polynomial_regression.rst:13
 msgid ""
@@ -2335,18 +2504,24 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_polynomial_regression.ipynb "
 "<plot_polynomial_regression.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_polynomial_regression.ipynb "
+"<plot_polynomial_regression.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_polynomial_regression.rst:124
 msgid ""
 ":download:`Download Python source code: plot_polynomial_regression.py "
 "<plot_polynomial_regression.py>`"
 msgstr ""
+":download:`Download Python source code: plot_polynomial_regression.py "
+"<plot_polynomial_regression.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_polynomial_regression.rst:128
 msgid ""
 ":download:`Download zipped: plot_polynomial_regression.zip "
 "<plot_polynomial_regression.zip>`"
 msgstr ""
+":download:`Download zipped: plot_polynomial_regression.zip "
+"<plot_polynomial_regression.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_separator.rst:13
 msgid ""
@@ -2369,16 +2544,20 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_separator.ipynb "
 "<plot_separator.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_separator.ipynb "
+"<plot_separator.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_separator.rst:81
 msgid ""
 ":download:`Download Python source code: plot_separator.py "
 "<plot_separator.py>`"
 msgstr ""
+":download:`Download Python source code: plot_separator.py "
+"<plot_separator.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_separator.rst:85
 msgid ":download:`Download zipped: plot_separator.zip <plot_separator.zip>`"
-msgstr ""
+msgstr ":download:`Download zipped: plot_separator.zip <plot_separator.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_svm_non_linear.rst:13
 msgid ""
@@ -2410,18 +2589,24 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_svm_non_linear.ipynb "
 "<plot_svm_non_linear.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_svm_non_linear.ipynb "
+"<plot_svm_non_linear.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_svm_non_linear.rst:176
 msgid ""
 ":download:`Download Python source code: plot_svm_non_linear.py "
 "<plot_svm_non_linear.py>`"
 msgstr ""
+":download:`Download Python source code: plot_svm_non_linear.py "
+"<plot_svm_non_linear.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_svm_non_linear.rst:180
 msgid ""
 ":download:`Download zipped: plot_svm_non_linear.zip "
 "<plot_svm_non_linear.zip>`"
 msgstr ""
+":download:`Download zipped: plot_svm_non_linear.zip "
+"<plot_svm_non_linear.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_tsne.rst:13
 msgid ""
@@ -2449,14 +2634,15 @@ msgstr ""
 msgid ""
 ":download:`Download Jupyter notebook: plot_tsne.ipynb <plot_tsne.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_tsne.ipynb <plot_tsne.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_tsne.rst:103
 msgid ":download:`Download Python source code: plot_tsne.py <plot_tsne.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: plot_tsne.py <plot_tsne.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_tsne.rst:107
 msgid ":download:`Download zipped: plot_tsne.zip <plot_tsne.zip>`"
-msgstr ""
+msgstr ":download:`Download zipped: plot_tsne.zip <plot_tsne.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_variance_linear_regr.rst:13
 msgid ""
@@ -2502,18 +2688,24 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_variance_linear_regr.ipynb "
 "<plot_variance_linear_regr.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_variance_linear_regr.ipynb "
+"<plot_variance_linear_regr.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_variance_linear_regr.rst:122
 msgid ""
 ":download:`Download Python source code: plot_variance_linear_regr.py "
 "<plot_variance_linear_regr.py>`"
 msgstr ""
+":download:`Download Python source code: plot_variance_linear_regr.py "
+"<plot_variance_linear_regr.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_variance_linear_regr.rst:126
 msgid ""
 ":download:`Download zipped: plot_variance_linear_regr.zip "
 "<plot_variance_linear_regr.zip>`"
 msgstr ""
+":download:`Download zipped: plot_variance_linear_regr.zip "
+"<plot_variance_linear_regr.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/sg_execution_times.rst:9
 msgid ""
@@ -2526,12 +2718,16 @@ msgid ""
 ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_ML_flow_chart.py` "
 "(``plot_ML_flow_chart.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_ML_flow_chart.py` "
+"(``plot_ML_flow_chart.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/sg_execution_times.rst:38
 msgid ""
 ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_bias_variance.py` "
 "(``plot_bias_variance.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_bias_variance.py` "
+"(``plot_bias_variance.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/sg_execution_times.rst:41
 msgid ""
@@ -2539,6 +2735,9 @@ msgid ""
 "learn_auto_examples_plot_california_prediction.py` "
 "(``plot_california_prediction.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-"
+"learn_auto_examples_plot_california_prediction.py` "
+"(``plot_california_prediction.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/sg_execution_times.rst:44
 msgid ""
@@ -2546,6 +2745,9 @@ msgid ""
 "learn_auto_examples_plot_compare_classifiers.py` "
 "(``plot_compare_classifiers.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-"
+"learn_auto_examples_plot_compare_classifiers.py` "
+"(``plot_compare_classifiers.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/sg_execution_times.rst:47
 msgid ""
@@ -2553,30 +2755,41 @@ msgid ""
 "learn_auto_examples_plot_digits_simple_classif.py` "
 "(``plot_digits_simple_classif.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-"
+"learn_auto_examples_plot_digits_simple_classif.py` "
+"(``plot_digits_simple_classif.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/sg_execution_times.rst:50
 msgid ""
 ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_eigenfaces.py` "
 "(``plot_eigenfaces.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_eigenfaces.py` "
+"(``plot_eigenfaces.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/sg_execution_times.rst:53
 msgid ""
 ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_iris_knn.py` "
 "(``plot_iris_knn.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_iris_knn.py` "
+"(``plot_iris_knn.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/sg_execution_times.rst:56
 msgid ""
 ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_iris_scatter.py` "
 "(``plot_iris_scatter.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_iris_scatter.py` "
+"(``plot_iris_scatter.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/sg_execution_times.rst:59
 msgid ""
 ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_linear_model_cv.py` "
 "(``plot_linear_model_cv.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_linear_model_cv.py` "
+"(``plot_linear_model_cv.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/sg_execution_times.rst:62
 msgid ""
@@ -2584,6 +2797,9 @@ msgid ""
 "learn_auto_examples_plot_linear_regression.py` "
 "(``plot_linear_regression.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-"
+"learn_auto_examples_plot_linear_regression.py` "
+"(``plot_linear_regression.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/sg_execution_times.rst:65
 msgid ""
@@ -2591,12 +2807,17 @@ msgid ""
 "learn_auto_examples_plot_measuring_performance.py` "
 "(``plot_measuring_performance.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-"
+"learn_auto_examples_plot_measuring_performance.py` "
+"(``plot_measuring_performance.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/sg_execution_times.rst:68
 msgid ""
 ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_pca.py` "
 "(``plot_pca.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_pca.py` "
+"(``plot_pca.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/sg_execution_times.rst:71
 msgid ""
@@ -2604,24 +2825,33 @@ msgid ""
 "learn_auto_examples_plot_polynomial_regression.py` "
 "(``plot_polynomial_regression.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-"
+"learn_auto_examples_plot_polynomial_regression.py` "
+"(``plot_polynomial_regression.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/sg_execution_times.rst:74
 msgid ""
 ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_separator.py` "
 "(``plot_separator.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_separator.py` "
+"(``plot_separator.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/sg_execution_times.rst:77
 msgid ""
 ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_svm_non_linear.py` "
 "(``plot_svm_non_linear.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_svm_non_linear.py` "
+"(``plot_svm_non_linear.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/sg_execution_times.rst:80
 msgid ""
 ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_tsne.py` "
 "(``plot_tsne.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_tsne.py` "
+"(``plot_tsne.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/sg_execution_times.rst:83
 msgid ""
@@ -2629,6 +2859,9 @@ msgid ""
 "learn_auto_examples_plot_variance_linear_regr.py` "
 "(``plot_variance_linear_regr.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_scikit-"
+"learn_auto_examples_plot_variance_linear_regr.py` "
+"(``plot_variance_linear_regr.py``)"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:5
 msgid "scikit-learn: machine learning in Python"
@@ -4425,44 +4658,48 @@ msgstr ""
 msgid ""
 ":ref:`sphx_glr_packages_statistics_auto_examples_plot_paired_boxplots.py`"
 msgstr ""
+":ref:`sphx_glr_packages_statistics_auto_examples_plot_paired_boxplots.py`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:41
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:42
 msgid ":ref:`sphx_glr_packages_statistics_auto_examples_plot_pandas.py`"
-msgstr ""
+msgstr ":ref:`sphx_glr_packages_statistics_auto_examples_plot_pandas.py`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:58
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:59
 msgid ""
 ":ref:`sphx_glr_packages_statistics_auto_examples_plot_iris_analysis.py`"
 msgstr ""
+":ref:`sphx_glr_packages_statistics_auto_examples_plot_iris_analysis.py`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:75
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:76
 msgid ":ref:`sphx_glr_packages_statistics_auto_examples_plot_regression.py`"
-msgstr ""
+msgstr ":ref:`sphx_glr_packages_statistics_auto_examples_plot_regression.py`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:92
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:93
 msgid ""
 ":ref:`sphx_glr_packages_statistics_auto_examples_plot_regression_3d.py`"
 msgstr ""
+":ref:`sphx_glr_packages_statistics_auto_examples_plot_regression_3d.py`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:109
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:110
 msgid ""
 ":ref:`sphx_glr_packages_statistics_auto_examples_plot_wage_education_gender.py`"
 msgstr ""
+":ref:`sphx_glr_packages_statistics_auto_examples_plot_wage_education_gender.py`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:126
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:127
 msgid ":ref:`sphx_glr_packages_statistics_auto_examples_plot_wage_data.py`"
-msgstr ""
+msgstr ":ref:`sphx_glr_packages_statistics_auto_examples_plot_wage_data.py`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:143
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:144
 msgid ":ref:`sphx_glr_packages_statistics_auto_examples_plot_airfare.py`"
-msgstr ""
+msgstr ":ref:`sphx_glr_packages_statistics_auto_examples_plot_airfare.py`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:171
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:172
@@ -4476,6 +4713,7 @@ msgstr ""
 msgid ""
 ":ref:`sphx_glr_packages_statistics_auto_examples_solutions_plot_brain_size.py`"
 msgstr ""
+":ref:`sphx_glr_packages_statistics_auto_examples_solutions_plot_brain_size.py`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:219
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:220
@@ -4484,6 +4722,9 @@ msgid ""
 "auto_examples_python.zip "
 "</packages/statistics/auto_examples/auto_examples_python.zip>`"
 msgstr ""
+":download:`Download all examples in Python source code: "
+"auto_examples_python.zip "
+"</packages/statistics/auto_examples/auto_examples_python.zip>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:223
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:224
@@ -4492,6 +4733,9 @@ msgid ""
 "auto_examples_jupyter.zip "
 "</packages/statistics/auto_examples/auto_examples_jupyter.zip>`"
 msgstr ""
+":download:`Download all examples in Jupyter notebooks: "
+"auto_examples_jupyter.zip "
+"</packages/statistics/auto_examples/auto_examples_jupyter.zip>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_airfare.rst:13
 msgid ""
@@ -4557,15 +4801,18 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_airfare.ipynb "
 "<plot_airfare.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_airfare.ipynb "
+"<plot_airfare.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_airfare.rst:230
 msgid ""
 ":download:`Download Python source code: plot_airfare.py <plot_airfare.py>`"
 msgstr ""
+":download:`Download Python source code: plot_airfare.py <plot_airfare.py>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_airfare.rst:234
 msgid ":download:`Download zipped: plot_airfare.zip <plot_airfare.zip>`"
-msgstr ""
+msgstr ":download:`Download zipped: plot_airfare.zip <plot_airfare.zip>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_iris_analysis.rst:13
 msgid ""
@@ -4609,17 +4856,22 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_iris_analysis.ipynb "
 "<plot_iris_analysis.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_iris_analysis.ipynb "
+"<plot_iris_analysis.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_iris_analysis.rst:101
 msgid ""
 ":download:`Download Python source code: plot_iris_analysis.py "
 "<plot_iris_analysis.py>`"
 msgstr ""
+":download:`Download Python source code: plot_iris_analysis.py "
+"<plot_iris_analysis.py>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_iris_analysis.rst:105
 msgid ""
 ":download:`Download zipped: plot_iris_analysis.zip <plot_iris_analysis.zip>`"
 msgstr ""
+":download:`Download zipped: plot_iris_analysis.zip <plot_iris_analysis.zip>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_paired_boxplots.rst:13
 msgid ""
@@ -4646,18 +4898,24 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_paired_boxplots.ipynb "
 "<plot_paired_boxplots.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_paired_boxplots.ipynb "
+"<plot_paired_boxplots.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_paired_boxplots.rst:65
 msgid ""
 ":download:`Download Python source code: plot_paired_boxplots.py "
 "<plot_paired_boxplots.py>`"
 msgstr ""
+":download:`Download Python source code: plot_paired_boxplots.py "
+"<plot_paired_boxplots.py>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_paired_boxplots.rst:69
 msgid ""
 ":download:`Download zipped: plot_paired_boxplots.zip "
 "<plot_paired_boxplots.zip>`"
 msgstr ""
+":download:`Download zipped: plot_paired_boxplots.zip "
+"<plot_paired_boxplots.zip>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_pandas.rst:13
 msgid ""
@@ -4686,15 +4944,17 @@ msgstr ""
 msgid ""
 ":download:`Download Jupyter notebook: plot_pandas.ipynb <plot_pandas.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_pandas.ipynb <plot_pandas.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_pandas.rst:67
 msgid ""
 ":download:`Download Python source code: plot_pandas.py <plot_pandas.py>`"
 msgstr ""
+":download:`Download Python source code: plot_pandas.py <plot_pandas.py>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_pandas.rst:71
 msgid ":download:`Download zipped: plot_pandas.zip <plot_pandas.zip>`"
-msgstr ""
+msgstr ":download:`Download zipped: plot_pandas.zip <plot_pandas.zip>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_regression.rst:13
 msgid ""
@@ -4734,16 +4994,21 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_regression.ipynb "
 "<plot_regression.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_regression.ipynb "
+"<plot_regression.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_regression.rst:122
 msgid ""
 ":download:`Download Python source code: plot_regression.py "
 "<plot_regression.py>`"
 msgstr ""
+":download:`Download Python source code: plot_regression.py "
+"<plot_regression.py>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_regression.rst:126
 msgid ":download:`Download zipped: plot_regression.zip <plot_regression.zip>`"
 msgstr ""
+":download:`Download zipped: plot_regression.zip <plot_regression.zip>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_regression_3d.rst:13
 msgid ""
@@ -4771,17 +5036,22 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_regression_3d.ipynb "
 "<plot_regression_3d.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_regression_3d.ipynb "
+"<plot_regression_3d.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_regression_3d.rst:128
 msgid ""
 ":download:`Download Python source code: plot_regression_3d.py "
 "<plot_regression_3d.py>`"
 msgstr ""
+":download:`Download Python source code: plot_regression_3d.py "
+"<plot_regression_3d.py>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_regression_3d.rst:132
 msgid ""
 ":download:`Download zipped: plot_regression_3d.zip <plot_regression_3d.zip>`"
 msgstr ""
+":download:`Download zipped: plot_regression_3d.zip <plot_regression_3d.zip>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_wage_data.rst:13
 msgid ""
@@ -4822,16 +5092,20 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_wage_data.ipynb "
 "<plot_wage_data.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_wage_data.ipynb "
+"<plot_wage_data.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_wage_data.rst:142
 msgid ""
 ":download:`Download Python source code: plot_wage_data.py "
 "<plot_wage_data.py>`"
 msgstr ""
+":download:`Download Python source code: plot_wage_data.py "
+"<plot_wage_data.py>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_wage_data.rst:146
 msgid ":download:`Download zipped: plot_wage_data.zip <plot_wage_data.zip>`"
-msgstr ""
+msgstr ":download:`Download zipped: plot_wage_data.zip <plot_wage_data.zip>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_wage_education_gender.rst:13
 msgid ""
@@ -4892,18 +5166,24 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_wage_education_gender.ipynb "
 "<plot_wage_education_gender.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_wage_education_gender.ipynb "
+"<plot_wage_education_gender.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_wage_education_gender.rst:157
 msgid ""
 ":download:`Download Python source code: plot_wage_education_gender.py "
 "<plot_wage_education_gender.py>`"
 msgstr ""
+":download:`Download Python source code: plot_wage_education_gender.py "
+"<plot_wage_education_gender.py>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_wage_education_gender.rst:161
 msgid ""
 ":download:`Download zipped: plot_wage_education_gender.zip "
 "<plot_wage_education_gender.zip>`"
 msgstr ""
+":download:`Download zipped: plot_wage_education_gender.zip "
+"<plot_wage_education_gender.zip>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/sg_execution_times.rst:9
 msgid ""
@@ -4916,48 +5196,64 @@ msgid ""
 ":ref:`sphx_glr_packages_statistics_auto_examples_plot_airfare.py` "
 "(``plot_airfare.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_statistics_auto_examples_plot_airfare.py` "
+"(``plot_airfare.py``)"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/sg_execution_times.rst:38
 msgid ""
 ":ref:`sphx_glr_packages_statistics_auto_examples_plot_iris_analysis.py` "
 "(``plot_iris_analysis.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_statistics_auto_examples_plot_iris_analysis.py` "
+"(``plot_iris_analysis.py``)"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/sg_execution_times.rst:41
 msgid ""
 ":ref:`sphx_glr_packages_statistics_auto_examples_plot_paired_boxplots.py` "
 "(``plot_paired_boxplots.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_statistics_auto_examples_plot_paired_boxplots.py` "
+"(``plot_paired_boxplots.py``)"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/sg_execution_times.rst:44
 msgid ""
 ":ref:`sphx_glr_packages_statistics_auto_examples_plot_pandas.py` "
 "(``plot_pandas.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_statistics_auto_examples_plot_pandas.py` "
+"(``plot_pandas.py``)"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/sg_execution_times.rst:47
 msgid ""
 ":ref:`sphx_glr_packages_statistics_auto_examples_plot_regression.py` "
 "(``plot_regression.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_statistics_auto_examples_plot_regression.py` "
+"(``plot_regression.py``)"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/sg_execution_times.rst:50
 msgid ""
 ":ref:`sphx_glr_packages_statistics_auto_examples_plot_regression_3d.py` "
 "(``plot_regression_3d.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_statistics_auto_examples_plot_regression_3d.py` "
+"(``plot_regression_3d.py``)"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/sg_execution_times.rst:53
 msgid ""
 ":ref:`sphx_glr_packages_statistics_auto_examples_plot_wage_data.py` "
 "(``plot_wage_data.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_statistics_auto_examples_plot_wage_data.py` "
+"(``plot_wage_data.py``)"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/sg_execution_times.rst:56
 msgid ""
 ":ref:`sphx_glr_packages_statistics_auto_examples_plot_wage_education_gender.py`"
 " (``plot_wage_education_gender.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_statistics_auto_examples_plot_wage_education_gender.py`"
+" (``plot_wage_education_gender.py``)"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/solutions/plot_brain_size.rst:13
 msgid ""
@@ -4994,16 +5290,21 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_brain_size.ipynb "
 "<plot_brain_size.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_brain_size.ipynb "
+"<plot_brain_size.ipynb>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/solutions/plot_brain_size.rst:100
 msgid ""
 ":download:`Download Python source code: plot_brain_size.py "
 "<plot_brain_size.py>`"
 msgstr ""
+":download:`Download Python source code: plot_brain_size.py "
+"<plot_brain_size.py>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/solutions/plot_brain_size.rst:104
 msgid ":download:`Download zipped: plot_brain_size.zip <plot_brain_size.zip>`"
 msgstr ""
+":download:`Download zipped: plot_brain_size.zip <plot_brain_size.zip>`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/solutions/sg_execution_times.rst:9
 msgid ""
@@ -5016,6 +5317,8 @@ msgid ""
 ":ref:`sphx_glr_packages_statistics_auto_examples_solutions_plot_brain_size.py`"
 " (``plot_brain_size.py``)"
 msgstr ""
+":ref:`sphx_glr_packages_statistics_auto_examples_solutions_plot_brain_size.py`"
+" (``plot_brain_size.py``)"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:17
 msgid "Statistics in Python"
