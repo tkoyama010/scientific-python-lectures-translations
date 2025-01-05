@@ -299,11 +299,11 @@ msgstr "画像の作成"
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_check.rst:24
 msgid ""
 "How to create an image with basic NumPy commands : ``np.zeros``, slicing..."
-msgstr ""
+msgstr "NumPyの基本的なコマンドで画像を作成する方法 : ``np.zeros``, スライシング..."
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_check.rst:26
 msgid "This examples show how to create a simple checkerboard."
-msgstr ""
+msgstr "この例では、シンプルなチェッカーボードの作り方を紹介します。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_check.rst:51
 msgid ""
@@ -326,10 +326,12 @@ msgid ""
 "image_auto_examples_plot_equalize_hist.py>` to download the full example "
 "code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"image_auto_examples_plot_equalize_hist.py>` をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_equalize_hist.rst:22
 msgid "Equalizing the histogram of an image"
-msgstr ""
+msgstr "画像のヒストグラムを均等化する"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_equalize_hist.rst:24
 msgid "Histogram equalizing makes images have a uniform histogram."
@@ -362,6 +364,8 @@ msgid ""
 ":ref:`Go to the end <sphx_glr_download_packages_scikit-"
 "image_auto_examples_plot_features.py>` to download the full example code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"image_auto_examples_plot_features.py>` をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_features.rst:22
 msgid "Affine transform"
@@ -395,6 +399,8 @@ msgid ""
 "image_auto_examples_plot_filter_coins.py>` to download the full example "
 "code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"image_auto_examples_plot_filter_coins.py>` をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_filter_coins.rst:22
 msgid "Various denoising filters"
@@ -433,6 +439,8 @@ msgid ""
 ":ref:`Go to the end <sphx_glr_download_packages_scikit-"
 "image_auto_examples_plot_labels.py>` to download the full example code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"image_auto_examples_plot_labels.py>` をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_labels.rst:22
 msgid "Labelling connected components of an image"
@@ -466,6 +474,8 @@ msgid ""
 "image_auto_examples_plot_segmentations.py>` to download the full example "
 "code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"image_auto_examples_plot_segmentations.py>` をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_segmentations.rst:22
 msgid "Watershed and random walker for segmentation"
@@ -511,6 +521,8 @@ msgid ""
 ":ref:`Go to the end <sphx_glr_download_packages_scikit-"
 "image_auto_examples_plot_sobel.py>` to download the full example code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"image_auto_examples_plot_sobel.py>` をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_sobel.rst:22
 msgid "Computing horizontal gradients with the Sobel filter"
@@ -542,6 +554,8 @@ msgid ""
 ":ref:`Go to the end <sphx_glr_download_packages_scikit-"
 "image_auto_examples_plot_threshold.py>` to download the full example code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"image_auto_examples_plot_threshold.py>` をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_threshold.rst:22
 msgid "Otsu thresholding"
@@ -1721,6 +1735,8 @@ msgid ""
 "learn_auto_examples_plot_ML_flow_chart.py>` to download the full example "
 "code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"learn_auto_examples_plot_ML_flow_chart.py>` をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_ML_flow_chart.rst:22
 msgid "Tutorial Diagrams"
@@ -1758,6 +1774,8 @@ msgid ""
 "learn_auto_examples_plot_bias_variance.py>` to download the full example "
 "code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"learn_auto_examples_plot_bias_variance.py>` をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_bias_variance.rst:23
 msgid "Bias and variance of polynomial fit"
@@ -1827,6 +1845,9 @@ msgid ""
 "learn_auto_examples_plot_california_prediction.py>` to download the full "
 "example code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"learn_auto_examples_plot_california_prediction.py>` "
+"をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_california_prediction.rst:22
 msgid "A simple regression analysis on the California housing data"
@@ -1888,6 +1909,9 @@ msgid ""
 "learn_auto_examples_plot_compare_classifiers.py>` to download the full "
 "example code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"learn_auto_examples_plot_compare_classifiers.py>` "
+"をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_compare_classifiers.rst:22
 msgid "Compare classifiers on the digits data"
@@ -1929,6 +1953,9 @@ msgid ""
 "learn_auto_examples_plot_digits_simple_classif.py>` to download the full "
 "example code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"learn_auto_examples_plot_digits_simple_classif.py>` "
+"をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_digits_simple_classif.rst:22
 msgid "Simple visualization and classification of the digits dataset"
@@ -2009,6 +2036,8 @@ msgid ""
 ":ref:`Go to the end <sphx_glr_download_packages_scikit-"
 "learn_auto_examples_plot_eigenfaces.py>` to download the full example code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"learn_auto_examples_plot_eigenfaces.py>` をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:22
 msgid "The eigenfaces example: chaining PCA and SVMs"
@@ -2193,6 +2222,8 @@ msgid ""
 ":ref:`Go to the end <sphx_glr_download_packages_scikit-"
 "learn_auto_examples_plot_iris_knn.py>` to download the full example code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"learn_auto_examples_plot_iris_knn.py>` をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_iris_knn.rst:22
 msgid "Nearest-neighbor prediction on iris"
@@ -2236,6 +2267,8 @@ msgid ""
 "learn_auto_examples_plot_iris_scatter.py>` to download the full example "
 "code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"learn_auto_examples_plot_iris_scatter.py>` をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_iris_scatter.rst:22
 msgid "Plot 2D views of the iris dataset"
@@ -2279,6 +2312,8 @@ msgid ""
 "learn_auto_examples_plot_linear_model_cv.py>` to download the full example "
 "code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"learn_auto_examples_plot_linear_model_cv.py>` をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_linear_model_cv.rst:23
 msgid "Use the RidgeCV and LassoCV to set the regularization parameter"
@@ -2328,6 +2363,9 @@ msgid ""
 "learn_auto_examples_plot_linear_regression.py>` to download the full example"
 " code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"learn_auto_examples_plot_linear_regression.py>` "
+"をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_linear_regression.rst:22
 #: ../../scientific-python-lectures/packages/statistics/index.rst:451
@@ -2364,6 +2402,9 @@ msgid ""
 "learn_auto_examples_plot_measuring_performance.py>` to download the full "
 "example code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"learn_auto_examples_plot_measuring_performance.py>` "
+"をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_measuring_performance.rst:22
 msgid "Measuring Decision Tree performance"
@@ -2428,6 +2469,8 @@ msgid ""
 ":ref:`Go to the end <sphx_glr_download_packages_scikit-"
 "learn_auto_examples_plot_pca.py>` to download the full example code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"learn_auto_examples_plot_pca.py>` をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_pca.rst:23
 msgid "Demo PCA in 2D"
@@ -2471,6 +2514,9 @@ msgid ""
 "learn_auto_examples_plot_polynomial_regression.py>` to download the full "
 "example code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"learn_auto_examples_plot_polynomial_regression.py>` "
+"をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_polynomial_regression.rst:22
 msgid "Plot fitting a 9th order polynomial"
@@ -2528,6 +2574,8 @@ msgid ""
 ":ref:`Go to the end <sphx_glr_download_packages_scikit-"
 "learn_auto_examples_plot_separator.py>` to download the full example code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"learn_auto_examples_plot_separator.py>` をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_separator.rst:22
 msgid "Simple picture of the formal problem of machine learning"
@@ -2565,6 +2613,8 @@ msgid ""
 "learn_auto_examples_plot_svm_non_linear.py>` to download the full example "
 "code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"learn_auto_examples_plot_svm_non_linear.py>` をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_svm_non_linear.rst:22
 msgid "Example of linear and non-linear models"
@@ -2613,6 +2663,8 @@ msgid ""
 ":ref:`Go to the end <sphx_glr_download_packages_scikit-"
 "learn_auto_examples_plot_tsne.py>` to download the full example code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"learn_auto_examples_plot_tsne.py>` をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_tsne.rst:23
 msgid "tSNE to visualize digits"
@@ -2650,6 +2702,9 @@ msgid ""
 "learn_auto_examples_plot_variance_linear_regr.py>` to download the full "
 "example code."
 msgstr ""
+":ref:`Go to the end <sphx_glr_download_packages_scikit-"
+"learn_auto_examples_plot_variance_linear_regr.py>` "
+"をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_variance_linear_regr.rst:23
 msgid "Plot variance and regularization in linear models"
@@ -4743,6 +4798,9 @@ msgid ""
 "<sphx_glr_download_packages_statistics_auto_examples_plot_airfare.py>` to "
 "download the full example code."
 msgstr ""
+":ref:`Go to the end "
+"<sphx_glr_download_packages_statistics_auto_examples_plot_airfare.py>` "
+"をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_airfare.rst:22
 msgid "Air fares before and after 9/11"
@@ -4820,6 +4878,9 @@ msgid ""
 "<sphx_glr_download_packages_statistics_auto_examples_plot_iris_analysis.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`Go to the end "
+"<sphx_glr_download_packages_statistics_auto_examples_plot_iris_analysis.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_iris_analysis.rst:22
 msgid "Analysis of Iris petal and sepal sizes"
@@ -4879,6 +4940,9 @@ msgid ""
 "<sphx_glr_download_packages_statistics_auto_examples_plot_paired_boxplots.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`Go to the end "
+"<sphx_glr_download_packages_statistics_auto_examples_plot_paired_boxplots.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_paired_boxplots.rst:22
 msgid "Boxplots and paired differences"
@@ -4923,6 +4987,9 @@ msgid ""
 "<sphx_glr_download_packages_statistics_auto_examples_plot_pandas.py>` to "
 "download the full example code."
 msgstr ""
+":ref:`Go to the end "
+"<sphx_glr_download_packages_statistics_auto_examples_plot_pandas.py>` "
+"をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_pandas.rst:22
 msgid "Plotting simple quantities of a pandas dataframe"
@@ -4962,6 +5029,9 @@ msgid ""
 "<sphx_glr_download_packages_statistics_auto_examples_plot_regression.py>` to"
 " download the full example code."
 msgstr ""
+":ref:`Go to the end "
+"<sphx_glr_download_packages_statistics_auto_examples_plot_regression.py>` "
+"をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_regression.rst:22
 msgid "Simple Regression"
@@ -5016,6 +5086,9 @@ msgid ""
 "<sphx_glr_download_packages_statistics_auto_examples_plot_regression_3d.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`Go to the end "
+"<sphx_glr_download_packages_statistics_auto_examples_plot_regression_3d.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_regression_3d.rst:22
 msgid "Multiple Regression"
@@ -5059,6 +5132,9 @@ msgid ""
 "<sphx_glr_download_packages_statistics_auto_examples_plot_wage_data.py>` to "
 "download the full example code."
 msgstr ""
+":ref:`Go to the end "
+"<sphx_glr_download_packages_statistics_auto_examples_plot_wage_data.py>` "
+"をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_wage_data.rst:22
 msgid "Visualizing factors influencing wages"
@@ -5113,6 +5189,9 @@ msgid ""
 "<sphx_glr_download_packages_statistics_auto_examples_plot_wage_education_gender.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`Go to the end "
+"<sphx_glr_download_packages_statistics_auto_examples_plot_wage_education_gender.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_wage_education_gender.rst:22
 msgid "Test for an education/gender interaction in wages"
@@ -5261,6 +5340,9 @@ msgid ""
 "<sphx_glr_download_packages_statistics_auto_examples_solutions_plot_brain_size.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`Go to the end "
+"<sphx_glr_download_packages_statistics_auto_examples_solutions_plot_brain_size.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/solutions/plot_brain_size.rst:22
 msgid "Relating Gender and IQ"
