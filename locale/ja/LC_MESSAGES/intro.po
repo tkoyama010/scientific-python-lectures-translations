@@ -62,12 +62,14 @@ msgid ""
 "https://scipy.org and https://numpy.org. The ``search`` button is quite "
 "useful inside the reference documentation of the two packages."
 msgstr ""
+"Numpyのドキュメントは https://scipy.org 、Scipyのドキュメントは https://numpy.org 。 "
+"この2つのパッケージのリファレンスドキュメントは ``search`` ボタンがとても便利です。"
 
 #: ../../scientific-python-lectures/intro/help/help.rst:32
 msgid ""
 "Tutorials on various topics as well as the complete API with all docstrings "
 "are found on this website."
-msgstr ""
+msgstr "様々なトピックに関するチュートリアルや、すべての docstring を含む完全なAPIは、このウェブサイトにあります。"
 
 #: ../../scientific-python-lectures/intro/help/help.rst:35
 msgid ""
@@ -79,6 +81,11 @@ msgid ""
 "and write better documentation; this is an easy way to contribute to an "
 "open-source project and improve the tools you are using!"
 msgstr ""
+"NumpyとScipyのドキュメントは、wiki https://numpy.org/doc/stable/ "
+"のユーザーによって定期的に充実され、更新されています。 その結果、いくつかの docstring "
+"はwikiの方がわかりやすかったり詳しかったりするので、公式ドキュメントのウェブサイトではなく、wikiのドキュメントを直接読むことをお勧めします。 "
+"誰でもwikiにアカウントを作成し、より良いドキュメントを書くことができることに注意してください。 "
+"これはオープンソースプロジェクトに貢献し、あなたが使っているツールを改善する簡単な方法です！"
 
 #: ../../scientific-python-lectures/intro/help/help.rst:44
 msgid ""
@@ -86,6 +93,8 @@ msgid ""
 "many common problems frequently encountered, such as fitting data points, "
 "solving ODE, etc."
 msgstr ""
+"SciPy クックブック https://scipy-cookbook.readthedocs.io は、データポイントのフィッティング、ODE "
+"の解法など、頻繁に遭遇する多くの一般的な問題についてのレシピを提供しています。"
 
 #: ../../scientific-python-lectures/intro/help/help.rst:48
 msgid ""
@@ -94,6 +103,9 @@ msgid ""
 " code and the resulting plot. This is very useful for learning by example. "
 "More standard documentation is also available."
 msgstr ""
+"Matplotlibのウェブサイト https://matplotlib.org/ 、多数のプロットが掲載されたとても素晴らしい **ギャラリー** "
+"があり、それぞれのプロットはソースコードと結果のプロットの両方を表示しています。 これは見本で学ぶのにとても便利です。 "
+"より標準的な文書も用意されています。"
 
 #: ../../scientific-python-lectures/intro/help/help.rst:54
 msgid ""
@@ -101,6 +113,8 @@ msgid ""
 "patterns. This is useful if, for example, one does not know the exact name  "
 "of a function."
 msgstr ""
+"Ipythonでは、パターンにマッチするオブジェクトを検索する魔法の関数 ``%psearch`` があります。 "
+"これは、例えば関数の正確な名前がわからない場合に便利です。"
 
 #: ../../scientific-python-lectures/intro/help/help.rst:64
 msgid ""
@@ -109,6 +123,9 @@ msgid ""
 "Python is present on various platform. https://scientific-"
 "python.org/community/"
 msgstr ""
+"もし上記のすべてが失敗しても (そしてGoogleが答えを持っていなくても) ...絶望しないでください！ 活気あるScientific "
+"Pythonコミュニティがあります。 Scientific Pythonは様々なプラットフォームに存在します。 https://scientific-"
+"python.org/community/"
 
 #: ../../scientific-python-lectures/intro/help/help.rst:70
 msgid ""
@@ -116,6 +133,7 @@ msgid ""
 "their respective websites to find out how to engage with users and "
 "maintainers."
 msgstr ""
+"SciPyやNumPyのようなパッケージにも独自のチャンネルがあります。 それぞれのウェブサイトを見て、ユーザやメンテナとの関わり方を見つけてください。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:218
 #: ../../scientific-python-lectures/intro/matplotlib/index.rst:138
@@ -156,6 +174,8 @@ msgid ""
 "**Authors**: *Fernando Perez, Emmanuelle Gouillart, Gaël Varoquaux, Valentin"
 " Haenel*"
 msgstr ""
+"**著者**: *Fernando Perez, Emmanuelle Gouillart, Gaël Varoquaux, Valentin "
+"Haenel*"
 
 #: ../../scientific-python-lectures/intro/intro.rst:8
 msgid "Why Python?"
@@ -163,25 +183,25 @@ msgstr "なぜ Python?"
 
 #: ../../scientific-python-lectures/intro/intro.rst:11
 msgid "The scientist's needs"
-msgstr ""
+msgstr "科学者のニーズ"
 
 #: ../../scientific-python-lectures/intro/intro.rst:13
 msgid "Get data (simulation, experiment control),"
-msgstr ""
+msgstr "データを取得する (シミュレーション、実験コントロール)、"
 
 #: ../../scientific-python-lectures/intro/intro.rst:15
 msgid "Manipulate and process data,"
-msgstr ""
+msgstr "データを操作し、処理する、"
 
 #: ../../scientific-python-lectures/intro/intro.rst:17
 msgid ""
 "Visualize results, quickly to understand, but also with high quality "
 "figures, for reports or publications."
-msgstr ""
+msgstr "報告書や出版物用に、結果を素早く理解できるように視覚化するだけでなく、高品質な図も作成できます。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:21
 msgid "Python's strengths"
-msgstr ""
+msgstr "Pythonの強み"
 
 #: ../../scientific-python-lectures/intro/intro.rst:23
 msgid ""
@@ -190,6 +210,8 @@ msgid ""
 "to re-program the plotting of a curve, a Fourier transform or a fitting "
 "algorithm. Don't reinvent the wheel!"
 msgstr ""
+"**バッテリーを含む** 古典的な数値手法、プロット、データ処理ツールの既存の **ブリック** の豊富なコレクション。 "
+"曲線のプロット、フーリエ変換、フィッティングアルゴリズムを再プログラムする必要はありません。 車輪の再発明はやめよう！"
 
 #: ../../scientific-python-lectures/intro/intro.rst:28
 msgid ""
@@ -197,6 +219,8 @@ msgid ""
 "they been trained so. They need to be able to draw a curve, smooth a signal,"
 " do a Fourier transform in a few minutes."
 msgstr ""
+"**学びやすい** ほとんどの科学者はプログラマーとして給料をもらっているわけではないし、そのような訓練も受けていません。 "
+"彼らが必要とするのは、曲線を描き、信号を平滑化し、フーリエ変換を数分で行えることです。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:32
 msgid ""
@@ -206,6 +230,9 @@ msgid ""
 "routine specifications that would divert the reader from mathematical or "
 "scientific understanding of the code."
 msgstr ""
+"**簡単なコミュニケーション** "
+"研究室や企業内でコードを存続させるためには、共同研究者や学生、あるいは顧客が本と同じように読めるものでなければなりません。 "
+"Pythonの文法はシンプルで、読者をコードの数学的・科学的理解から逸脱させるような奇妙な記号や長いルーチン仕様は避けています。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:38
 msgid ""
@@ -214,34 +241,37 @@ msgid ""
 "is spent writing it. Python aims for quick development times and quick "
 "execution times."
 msgstr ""
+"**効率的なコード** Pythonの数値計算モジュールは計算効率が高いです。 "
+"しかし、言うまでもなく、非常に高速なコードであっても、それを書くのに多くの時間を費やしてしまっては意味がありません。Pythonは素早い開発時間と素早い実行時間を目指しています。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:43
 msgid ""
 "**Universal** Python is a language used for many different problems. "
 "Learning Python avoids learning a new software for each new problem."
 msgstr ""
+"**普遍的** Pythonは様々な問題に使われる言語です。 Pythonを学ぶことで、新しい問題ごとに新しいソフトウェアを学ぶ必要がなくなります。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:47
 msgid "How does Python compare to other solutions?"
-msgstr ""
+msgstr "Pythonは他のソリューションと比べてどうですか？"
 
 #: ../../scientific-python-lectures/intro/intro.rst:50
 msgid "Compiled languages: C, C++, Fortran..."
-msgstr ""
+msgstr "コンパイル言語: C、C++、Fortran..."
 
 #: ../../scientific-python-lectures/intro/intro.rst:0
 msgid "Pros"
-msgstr ""
+msgstr "長所"
 
 #: ../../scientific-python-lectures/intro/intro.rst:54
 msgid ""
 "Very fast. For heavy computations, it's difficult to outperform these "
 "languages."
-msgstr ""
+msgstr "非常に速いです。重い計算では、これらの言語を上回るのは難しいです。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:0
 msgid "Cons"
-msgstr ""
+msgstr "短所"
 
 #: ../../scientific-python-lectures/intro/intro.rst:59
 msgid ""
@@ -249,10 +279,12 @@ msgid ""
 "steps, verbose syntax, manual memory management. These are **difficult "
 "languages** for non programmers."
 msgstr ""
+"使いずらい: 開発中のインタラクティブ性なし、必須コンパイルステップ、冗長な構文、手動でのメモリー管理。 これらは非プログラマーにとって "
+"**難しい言語** です。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:64
 msgid "Matlab scripting language"
-msgstr ""
+msgstr "Matlabスクリプト言語"
 
 #: ../../scientific-python-lectures/intro/intro.rst:68
 msgid ""
@@ -260,45 +292,47 @@ msgid ""
 "different domains. Fast execution because these libraries are often written "
 "in a compiled language."
 msgstr ""
+"多くの異なるドメインに対応する、多数のアルゴリズムを持つライブラリの非常に豊富なコレクションです。 "
+"これらのライブラリは多くの場合コンパイル言語で書かれているため、実行速度が速いです。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:72
 msgid ""
 "Pleasant development environment: comprehensive and help, integrated editor,"
 " etc."
-msgstr ""
+msgstr "快適な開発環境: 包括的なヘルプ、統合エディターなど。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:75
 msgid "Commercial support is available."
-msgstr ""
+msgstr "商用サポートがあります。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:79
 msgid ""
 "Base language is quite poor and can become restrictive for advanced users."
-msgstr ""
+msgstr "ベースとなる言語はかなり貧弱で、上級ユーザーにとっては制約になりかねません。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:81
 msgid "Not free and not everything is open sourced."
-msgstr ""
+msgstr "無料ではないし、すべてがオープンソースというわけでもありません。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:84
 msgid "Julia"
-msgstr ""
+msgstr "Julia"
 
 #: ../../scientific-python-lectures/intro/intro.rst:88
 msgid "Fast code, yet interactive and simple."
-msgstr ""
+msgstr "高速なコードでありながら、インタラクティブでシンプルです。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:90
 msgid "Easily connects to Python or C."
-msgstr ""
+msgstr "PythonやC言語に簡単に接続できます。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:94
 msgid "Ecosystem limited to numerical computing."
-msgstr ""
+msgstr "数値計算に限定したエコシステム。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:96
 msgid "Still young."
-msgstr ""
+msgstr "まだ若いです。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:99
 msgid "Other scripting languages: Scilab, Octave, R, IDL, etc."
