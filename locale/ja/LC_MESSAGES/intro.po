@@ -44,6 +44,8 @@ msgid ""
 " the beginning of the function's name and use tab completion to display the "
 "matching functions."
 msgstr ""
+"Ipython では、``help function`` で関数の docstring が開きます。 "
+"関数名の先頭だけを入力し、一致する関数を表示するにはタブ補完を使ってください。"
 
 #: ../../scientific-python-lectures/intro/help/help.rst:23
 msgid ""
@@ -51,6 +53,8 @@ msgid ""
 "documentation; however one can always open a second ``Ipython`` shell just "
 "to display help and docstrings..."
 msgstr ""
+"Ipythonでは、ヘルプとドキュメント用のウィンドウを分けて開くことはできません; しかし、ヘルプとdocstringを表示するためだけに、2番目の "
+"``Ipython`` シェルを開くことはできます..."
 
 #: ../../scientific-python-lectures/intro/help/help.rst:27
 msgid ""
@@ -10339,7 +10343,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/index.rst:58
 msgid ":mod:`scipy.ndimage`"
-msgstr ""
+msgstr ":mod:`scipy.ndimage`"
 
 #: ../../scientific-python-lectures/intro/scipy/index.rst:58
 msgid "n-dimensional image package"

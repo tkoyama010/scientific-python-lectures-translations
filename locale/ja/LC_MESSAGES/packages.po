@@ -335,7 +335,7 @@ msgstr "画像のヒストグラムを均等化する"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_equalize_hist.rst:24
 msgid "Histogram equalizing makes images have a uniform histogram."
-msgstr ""
+msgstr "ヒストグラム均等化 は、画像を均一なヒストグラムにします。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_equalize_hist.rst:57
 msgid ""
@@ -369,11 +369,11 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_features.rst:22
 msgid "Affine transform"
-msgstr ""
+msgstr "アフィン変換"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_features.rst:24
 msgid "Warping and affine transforms of images."
-msgstr ""
+msgstr "画像の幾何学歪補正とアフィン変換。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_features.rst:60
 msgid ""
@@ -404,13 +404,14 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_filter_coins.rst:22
 msgid "Various denoising filters"
-msgstr ""
+msgstr "様々なノイズ除去フィルター"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_filter_coins.rst:24
 msgid ""
 "This example compares several denoising filters available in scikit-image: a"
 " Gaussian filter, a median filter, and total variation denoising."
 msgstr ""
+"この例では、scikit-imageで利用可能ないくつかのノイズ除去フィルタ:ガウシアンフィルタ、メディアンフィルタ、全変動ノイズ除去を比較します。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_filter_coins.rst:71
 msgid ""
@@ -444,13 +445,13 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_labels.rst:22
 msgid "Labelling connected components of an image"
-msgstr ""
+msgstr "画像の連結成分にラベルを付ける"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_labels.rst:24
 msgid ""
 "This example shows how to label connected components of a binary image, "
 "using the dedicated skimage.measure.label function."
-msgstr ""
+msgstr "この例では、専用の skimage.measure.label 関数を使用して、2値画像の連結成分にラベルを付ける方法を示します。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_labels.rst:72
 msgid ""
@@ -479,13 +480,14 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_segmentations.rst:22
 msgid "Watershed and random walker for segmentation"
-msgstr ""
+msgstr "セグメンテーションのための分水嶺とランダムウォーカー"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_segmentations.rst:24
 msgid ""
 "This example compares two segmentation methods in order to separate two "
 "connected disks: the watershed algorithm, and the random walker algorithm."
 msgstr ""
+"この例では、2つの連結した円盤を分離するために、2つのセグメンテーション法を比較します: 分水嶺アルゴリズムとランダムウォーカーアルゴリズム。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_segmentations.rst:27
 msgid ""
@@ -493,6 +495,7 @@ msgid ""
 "unambigusouly to a reagion. Here, local maxima of the distance map to the "
 "background are used as seeds."
 msgstr ""
+"どちらのセグメンテーション手法も、曖昧性のない領域に属する画素であるシードを必要とします。ここでは、背景との距離マップの局所最大値がシードとして使用されます。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_segmentations.rst:94
 msgid ""
@@ -526,13 +529,13 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_sobel.rst:22
 msgid "Computing horizontal gradients with the Sobel filter"
-msgstr ""
+msgstr "Sobelフィルタによる水平勾配の計算"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_sobel.rst:24
 msgid ""
 "This example illustrates the use of the horizontal Sobel filter, to compute "
 "horizontal gradients."
-msgstr ""
+msgstr "この例では、水平方向のグラデーションを計算するための水平Sobelフィルターの使い方を説明します。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_sobel.rst:59
 msgid ""
@@ -559,11 +562,11 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_threshold.rst:22
 msgid "Otsu thresholding"
-msgstr ""
+msgstr "大津の二値化法"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_threshold.rst:24
 msgid "This example illustrates automatic Otsu thresholding."
-msgstr ""
+msgstr "この例は、大津の二値化法を示しています。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_threshold.rst:64
 msgid ""
@@ -597,6 +600,8 @@ msgid ""
 "**00:00.000** total execution time for 11 files **from packages/scikit-"
 "image/auto_examples**:"
 msgstr ""
+"**00:00.000** total execution time for 11 files **from packages/scikit-"
+"image/auto_examples**:"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/sg_execution_times.rst:32
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/sg_execution_times.rst:32
@@ -789,7 +794,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:10
 msgid "``scikit-image``: image processing"
-msgstr ""
+msgstr "``scikit-image``: 画像処理"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:15
 msgid "**Author**: *Emmanuelle Gouillart*"
@@ -803,6 +808,9 @@ msgid ""
 "and how it relates to other scientific Python modules such as NumPy and "
 "SciPy."
 msgstr ""
+"`scikit-image <https://scikit-image.org/>`_ "
+"は画像処理専用のPythonパッケージで、NumPyの配列を画像オブジェクトとして使用します。 この章では、様々な画像処理タスクのために "
+"``scikit-image`` を使用する方法と、NumPyやSciPyのような他の科学的なPythonモジュールとの関係について説明します。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:25
 msgid ""
@@ -810,6 +818,8 @@ msgid ""
 "large number of simple operations can be realized with NumPy and SciPy only."
 " See :ref:`basic_image`."
 msgstr ""
+"画像の切り抜きや簡単なフィルタリングのような基本的な画像操作については、NumPyとSciPyだけで多くの簡単な操作を実現することができます。  "
+":ref:`basic_image` を参照してください。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:29
 msgid ""
@@ -817,6 +827,7 @@ msgid ""
 "before reading the current one, as basic operations such as masking and "
 "labeling are a prerequisite."
 msgstr ""
+"マスキングやラベリングといった基本的な操作が前提になるので、この章を読む前に、前の章の内容をよく理解しておく必要があることに注意してください。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:36
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:38
@@ -826,19 +837,19 @@ msgstr "各章の内容"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:39
 msgid "Introduction and concepts"
-msgstr ""
+msgstr "イントロダクションとコンセプト"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:41
 msgid "Images are NumPy's arrays ``np.ndarray``"
-msgstr ""
+msgstr "画像はNumPyの配列 ``np.ndarray`` です。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:0
 msgid "image"
-msgstr ""
+msgstr "画像"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:45
 msgid "``np.ndarray``"
-msgstr ""
+msgstr "``np.ndarray``"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:0
 msgid "pixels"
@@ -883,69 +894,72 @@ msgid ""
 "packages for image processing & visualization that operate on NumPy arrays "
 "include:"
 msgstr ""
+"``scikit-image`` は ``pip`` と ``conda`` ベースの Python インストーラ、およびほとんどの Linux "
+"ディストリビューションでパッケージ化されています。 NumPy 配列を操作する画像処理と可視化のための他の Python "
+"パッケージには以下のものがあります:"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:88
 msgid ":mod:`scipy.ndimage`"
-msgstr ""
+msgstr ":mod:`scipy.ndimage`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:89
 msgid ""
 "For N-dimensional arrays. Basic filtering, mathematical morphology, regions "
 "properties"
-msgstr ""
+msgstr "N次元配列の場合 基本的なフィルタリング、数理形態学、領域の特性"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:92
 msgid "`Mahotas <https://mahotas.readthedocs.io>`_"
-msgstr ""
+msgstr "`Mahotas <https://mahotas.readthedocs.io>`_"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:93
 msgid "With a focus on high-speed implementations."
-msgstr ""
+msgstr "高速実装に焦点を当てています。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:95
 msgid "`Napari <https://napari.org>`_"
-msgstr ""
+msgstr "`Napari <https://napari.org>`_"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:96
 msgid "A fast, interactive, multi-dimensional image viewer built in Qt."
-msgstr ""
+msgstr "Qt で作られた高速でインタラクティブな多次元画像ビューア。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:98
 msgid ""
 "Some powerful C++ image processing libraries also have Python bindings:"
-msgstr ""
+msgstr "いくつかの強力なC++画像処理ライブラリには、Pythonバインディングもあります:"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:100
 msgid "`OpenCV <https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html>`_"
-msgstr ""
+msgstr "`OpenCV <https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html>`_"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:101
 msgid ""
 "A highly optimized computer vision library with a focus on real-time "
 "applications."
-msgstr ""
+msgstr "リアルタイムアプリケーションに焦点を当てた、高度に最適化されたコンピュータビジョンライブラリ。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:104
 msgid "`ITK <https://www.itk.org>`_"
-msgstr ""
+msgstr "`ITK <https://www.itk.org>`_"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:105
 msgid ""
 "The Insight ToolKit, especially useful for registration and working with 3D "
 "images."
-msgstr ""
+msgstr "Insight ToolKitは、レジストレーションや3D画像の操作に特に便利です。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:108
 msgid "To varying degrees, these tend to be less Pythonic and NumPy-friendly."
-msgstr ""
+msgstr "程度の差こそあれ、これらはあまりPythonicでなくNumPyに優しくない傾向があります。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:111
 msgid "What is included in scikit-image"
-msgstr ""
+msgstr "scikit-imageに含まれるもの"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:113
 msgid "Website: https://scikit-image.org/"
-msgstr ""
+msgstr "Webサイト: https://scikit-image.org/"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:115
 msgid ""
@@ -2767,6 +2781,8 @@ msgid ""
 "**00:00.000** total execution time for 17 files **from packages/scikit-"
 "learn/auto_examples**:"
 msgstr ""
+"**00:00.000** total execution time for 17 files **from packages/scikit-"
+"learn/auto_examples**:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/sg_execution_times.rst:35
 msgid ""
@@ -5269,6 +5285,8 @@ msgid ""
 "**00:00.000** total execution time for 8 files **from "
 "packages/statistics/auto_examples**:"
 msgstr ""
+"**00:00.000** total execution time for 8 files **from "
+"packages/statistics/auto_examples**:"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/sg_execution_times.rst:35
 msgid ""
@@ -5393,6 +5411,8 @@ msgid ""
 "**00:00.000** total execution time for 1 file **from "
 "packages/statistics/auto_examples/solutions**:"
 msgstr ""
+"**00:00.000** total execution time for 1 file **from "
+"packages/statistics/auto_examples/solutions**:"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/solutions/sg_execution_times.rst:35
 msgid ""
