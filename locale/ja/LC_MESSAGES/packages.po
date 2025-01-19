@@ -1223,7 +1223,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst-1
 msgid "3D images"
-msgstr ""
+msgstr "3D画像"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:321
 msgid ""
