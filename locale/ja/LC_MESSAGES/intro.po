@@ -10154,7 +10154,7 @@ msgstr ""
 #: ../../scientific-python-lectures/intro/scipy/image_processing/image_processing.rst:81
 #: ../../scientific-python-lectures/intro/scipy/image_processing/image_processing.rst:82
 msgid "Mathematical morphology"
-msgstr ""
+msgstr "数学的形態学"
 
 #: ../../scientific-python-lectures/intro/scipy/image_processing/image_processing.rst:85
 #: ../../scientific-python-lectures/intro/scipy/image_processing/image_processing.rst:86
