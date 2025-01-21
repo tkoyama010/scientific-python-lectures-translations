@@ -1223,7 +1223,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst-1
 msgid "3D images"
-msgstr ""
+msgstr "3D画像"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:321
 msgid ""
@@ -1231,6 +1231,8 @@ msgid ""
 "the docstring to know if a function can be used on 3D images (for example "
 "MRI or CT images)."
 msgstr ""
+"``skimage`` "
+"のほとんどの関数は、入力引数として3D画像を受け取ることができます。ある関数が3D画像（例えばMRIやCT画像）に使用できるかどうかは、docstringを確認してください。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst-1
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:624
@@ -1239,79 +1241,83 @@ msgstr "例題"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:330
 msgid "Open a color image on your disk as a NumPy array."
-msgstr ""
+msgstr "ディスク上のカラー画像をNumPyの配列として開きます。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:332
 msgid ""
 "Find a skimage function computing the histogram of an image and plot the "
 "histogram of each color channel"
-msgstr ""
+msgstr "画像のヒストグラムを計算するskimage関数を見つけ、各色チャンネルのヒストグラムをプロットします。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:335
 msgid "Convert the image to grayscale and plot its histogram."
-msgstr ""
+msgstr "画像をグレースケールに変換し、そのヒストグラムをプロットします。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:338
 msgid "Image preprocessing / enhancement"
-msgstr ""
+msgstr "画像の前処理/改良"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:340
 msgid "Goals: denoising, feature (edges) extraction, ..."
-msgstr ""
+msgstr "目標: ノイズ除去、特徴（エッジ）抽出、..."
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:344
 msgid "Local filters"
-msgstr ""
+msgstr "局所フィルター"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:346
 msgid ""
 "Local filters replace the value of pixels by a function of the values of "
 "neighboring pixels. The function can be linear or non-linear."
-msgstr ""
+msgstr "局所フィルターは、ピクセルの値を局所ピクセルの値の関数で置き換えます。この関数は線形でも非線形でもよいです。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:349
 msgid ""
 "Neighbourhood: square (choose size), disk, or more complicated *structuring "
 "element*."
-msgstr ""
+msgstr "局所: 正方形（サイズを選択）、円盤、またはより複雑な *構造要素* 。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:356
 msgid "Example : horizontal Sobel filter ::"
-msgstr ""
+msgstr "例: 水平Sobelフィルター"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:362
 msgid "Uses the following linear kernel for computing horizontal gradients::"
-msgstr ""
+msgstr "水平勾配の計算には次の線形カーネルを使用します::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:375
 msgid "Non-local filters"
-msgstr ""
+msgstr "非局所フィルター"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:377
 msgid ""
 "Non-local filters use a large region of the image (or all the image) to "
 "transform the value of one pixel::"
-msgstr ""
+msgstr "非局所フィルターは、画像の広い領域（または画像全体）を使って、あるピクセルの値を変換します::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:383
 msgid "Enhances contrast in large almost uniform regions."
-msgstr ""
+msgstr "ほぼ均一な広い領域のコントラストを高めます。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:391
 msgid "Mathematical morphology"
-msgstr ""
+msgstr "数学的形態学"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:393
 msgid ""
 "See `wikipedia <https://en.wikipedia.org/wiki/Mathematical_morphology>`_ for"
 " an introduction on mathematical morphology."
 msgstr ""
+"数学的形態学については `wikipedia "
+"<https://en.wikipedia.org/wiki/Mathematical_morphology>`_ を参照してください。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:396
 msgid ""
 "Probe an image with a simple shape (a **structuring element**), and modify "
 "this image according to how the shape locally fits or misses the image."
 msgstr ""
+"単純な形状（ **構造化要素** "
+"）で画像を探査し、その形状が局所的に画像にどのようにフィットするか、あるいは画像をどのように外すかによって、この画像を修正します。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:400
 msgid "Default structuring element: 4-connectivity of a pixel ::"

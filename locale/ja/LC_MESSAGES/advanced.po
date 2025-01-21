@@ -4913,7 +4913,7 @@ msgstr ""
 msgid ""
 "Neighbourhood: square (choose size), disk, or more complicated *structuring "
 "element*."
-msgstr ""
+msgstr "局所: 正方形（サイズを選択）、円盤、またはより複雑な *構造要素* 。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/index.rst:295
 msgid "Blurring/smoothing"
@@ -5040,7 +5040,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/advanced/image_processing/index.rst:416
 msgid "Mathematical morphology"
-msgstr ""
+msgstr "数学的形態学"
 
 #: ../../scientific-python-lectures/advanced/image_processing/index.rst:418
 msgid ""
@@ -5053,6 +5053,8 @@ msgid ""
 "Probe an image with a simple shape (a **structuring element**), and modify "
 "this image according to how the shape locally fits or misses the image."
 msgstr ""
+"単純な形状（ **構造化要素** "
+"）で画像を探査し、その形状が局所的に画像にどのようにフィットするか、あるいは画像をどのように外すかによって、この画像を修正します。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/index.rst:425
 msgid "**Structuring element**::"
