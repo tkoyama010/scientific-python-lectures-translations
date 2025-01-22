@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2024.2rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-01-01 00:13+0000\n"
+"POT-Creation-Date: 2025-01-22 00:12+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -5278,7 +5278,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/advanced/image_processing/index.rst:891
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:544
-#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:1028
+#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:1027
 msgid "Full code examples"
 msgstr ""
 
@@ -6473,7 +6473,7 @@ msgid ""
 msgstr ""
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_curve_fitting.rst:22
-#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:916
+#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:915
 msgid "Curve fitting"
 msgstr ""
 
@@ -6674,7 +6674,7 @@ msgid ""
 msgstr ""
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_non_bounds_constraints.rst:22
-#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:947
+#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:946
 msgid "Optimization with constraints"
 msgstr ""
 
@@ -7876,28 +7876,28 @@ msgstr ""
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:892
 msgid ""
-"This took 67 function evaluations (check it with 'full_output=1'). What if "
-"we compute the norm ourselves and use a good generic optimizer (BFGS)::"
+"This took 67 function evaluations (check it with 'full_output=True'). What "
+"if we compute the norm ourselves and use a good generic optimizer (BFGS)::"
 msgstr ""
 
-#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:902
+#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:901
 msgid "BFGS needs more function calls, and gives a less precise result."
 msgstr ""
 
-#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:906
+#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:905
 msgid ""
 "`leastsq` is interesting compared to BFGS only if the dimensionality of the "
 "output vector is large, and larger than the number of parameters to "
 "optimize."
 msgstr ""
 
-#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:912
+#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:911
 msgid ""
 "If the function is linear, this is a linear-algebra problem, and should be "
 "solved with :func:`scipy.linalg.lstsq`."
 msgstr ""
 
-#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:923
+#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:922
 msgid ""
 "Least square problems occur often when fitting a non-linear to data. While "
 "it is possible to construct our optimization problem ourselves, SciPy "
@@ -7905,15 +7905,15 @@ msgid ""
 ":func:`scipy.optimize.curve_fit`::"
 msgstr ""
 
-#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:944
+#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:943
 msgid "Do the same with omega = 3. What is the difficulty?"
 msgstr ""
 
-#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:950
+#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:949
 msgid "Box bounds"
 msgstr ""
 
-#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:952
+#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:951
 msgid ""
 "Box bounds correspond to limiting each of the individual parameters of the "
 "optimization. Note that some problems that are not originally written as box"
@@ -7922,23 +7922,23 @@ msgid ""
 "support bound constraints with the parameter ``bounds``::"
 msgstr ""
 
-#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:979
+#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:978
 msgid "General constraints"
 msgstr ""
 
-#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:981
+#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:980
 msgid ""
 "Equality and inequality constraints specified as functions: :math:`f(x) = 0`"
 " and :math:`g(x) < 0`."
 msgstr ""
 
-#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:984
+#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:983
 msgid ""
 ":func:`scipy.optimize.fmin_slsqp` Sequential least square programming: "
 "equality and inequality constraints:"
 msgstr ""
 
-#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:1014
+#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:1013
 msgid ""
 "The above problem is known as the `Lasso "
 "<https://en.wikipedia.org/wiki/Lasso_(statistics)>`_ problem in statistics, "
@@ -7951,7 +7951,7 @@ msgstr ""
 msgid "**Lagrange multipliers**"
 msgstr ""
 
-#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:1022
+#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:1021
 msgid ""
 "If you are ready to do a bit of math, many constrained optimization problems"
 " can be converted to non-constrained optimization problems using a "
@@ -7959,11 +7959,11 @@ msgid ""
 "<https://en.wikipedia.org/wiki/Lagrange_multiplier>`_."
 msgstr ""
 
-#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:1036
+#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:1035
 msgid "**Other Software**"
 msgstr ""
 
-#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:1038
+#: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:1037
 msgid ""
 "SciPy tries to include the best well-established, general-use, and "
 "permissively-licensed optimization algorithms available. However, even "
