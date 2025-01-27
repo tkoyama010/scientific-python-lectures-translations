@@ -6640,7 +6640,7 @@ msgstr ""
 #: ../../scientific-python-lectures/intro/matplotlib/index.rst:1259
 #: ../../scientific-python-lectures/intro/numpy/gallery.rst:2
 msgid "Full code examples"
-msgstr ""
+msgstr "全コード例"
 
 #: ../../scientific-python-lectures/intro/numpy/advanced_operations.rst:13
 msgid "Advanced operations"

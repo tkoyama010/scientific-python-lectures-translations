@@ -5111,7 +5111,7 @@ msgstr ""
 #: ../../scientific-python-lectures/advanced/image_processing/index.rst:574
 #: ../../scientific-python-lectures/advanced/image_processing/index.rst:727
 msgid "Synthetic data::"
-msgstr ""
+msgstr "合成データ::"
 
 #: ../../scientific-python-lectures/advanced/image_processing/index.rst:582
 msgid ""
@@ -5280,7 +5280,7 @@ msgstr ""
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:544
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:1027
 msgid "Full code examples"
-msgstr ""
+msgstr "全コード例"
 
 #: ../../scientific-python-lectures/advanced/image_processing/index.rst:902
 msgid "More on image-processing:"

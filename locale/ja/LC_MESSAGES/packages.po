@@ -975,7 +975,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:122
 msgid ":mod:`color`"
-msgstr ""
+msgstr ":mod:`color`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:123
 msgid "Color space conversion."
@@ -983,7 +983,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:125
 msgid ":mod:`data`"
-msgstr ""
+msgstr ":mod:`data`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:126
 msgid "Test images and example data."
@@ -991,7 +991,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:128
 msgid ":mod:`draw`"
-msgstr ""
+msgstr ":mod:`draw`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:129
 msgid "Drawing primitives (lines, text, etc.) that operate on NumPy arrays."
@@ -999,7 +999,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:132
 msgid ":mod:`exposure`"
-msgstr ""
+msgstr ":mod:`exposure`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:133
 msgid "Image intensity adjustment, e.g., histogram equalization, etc."
@@ -1007,7 +1007,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:135
 msgid ":mod:`feature`"
-msgstr ""
+msgstr ":mod:`feature`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:136
 msgid "Feature detection and extraction, e.g., texture analysis corners, etc."
@@ -1015,7 +1015,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:138
 msgid ":mod:`filters`"
-msgstr ""
+msgstr ":mod:`filters`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:139
 msgid "Sharpening, edge finding, rank filters, thresholding, etc."
@@ -1023,7 +1023,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:141
 msgid ":mod:`graph`"
-msgstr ""
+msgstr ":mod:`graph`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:142
 msgid "Graph-theoretic operations, e.g., shortest paths."
@@ -1031,7 +1031,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:144
 msgid ":mod:`io`"
-msgstr ""
+msgstr ":mod:`io`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:145
 msgid "Reading, saving, and displaying images and video."
@@ -1039,7 +1039,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:147
 msgid ":mod:`measure`"
-msgstr ""
+msgstr ":mod:`measure`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:148
 msgid "Measurement of image properties, e.g., region properties and contours."
@@ -1047,7 +1047,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:150
 msgid ":mod:`metrics`"
-msgstr ""
+msgstr ":mod:`metrics`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:151
 msgid ""
@@ -1056,7 +1056,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:153
 msgid ":mod:`morphology`"
-msgstr ""
+msgstr ":mod:`morphology`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:154
 msgid "Morphological operations, e.g., opening or skeletonization."
@@ -1064,7 +1064,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:156
 msgid ":mod:`restoration`"
-msgstr ""
+msgstr ":mod:`restoration`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:157
 msgid ""
@@ -1073,7 +1073,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:159
 msgid ":mod:`segmentation`"
-msgstr ""
+msgstr ":mod:`segmentation`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:160
 msgid "Partitioning an image into multiple regions."
@@ -1081,7 +1081,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:162
 msgid ":mod:`transform`"
-msgstr ""
+msgstr ":mod:`transform`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:163
 msgid "Geometric and other transforms, e.g., rotation or the Radon transform."
@@ -1089,7 +1089,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:165
 msgid ":mod:`util`"
-msgstr ""
+msgstr ":mod:`util`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:166
 msgid "Generic utilities."
@@ -1128,7 +1128,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:221
 msgid ":mod:`skimage.data` ::"
-msgstr ""
+msgstr ":mod:`skimage.data` ::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:228
 msgid "Input/output, data types and colorspaces"
@@ -1136,7 +1136,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:230
 msgid "I/O: :mod:`skimage.io`"
-msgstr ""
+msgstr "I/O: :mod:`skimage.io`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:232
 msgid "Save an image to disk: :func:`skimage.io.imsave` ::"
@@ -1168,7 +1168,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:264
 msgid "Careful with overflows with integer data types"
-msgstr ""
+msgstr "整数データ型でのオーバーフローに注意してください"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:273
 msgid ""
@@ -1351,12 +1351,14 @@ msgid ""
 "grayscale images (int or float type). Erosion and dilation correspond to "
 "minimum (resp. maximum) filters."
 msgstr ""
+"数理形態学演算は、 (2値でない) グレースケール画像 (int型またはfloat型) でも利用できます。 erosionとdilationは最小 "
+"(あるいは最大) フィルタに対応します。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:486
 msgid ""
 "Higher-level mathematical morphology are available: tophat, skeletonization,"
 " etc."
-msgstr ""
+msgstr "より高度な数学的形態学が利用できます: tophat、skeletonizationなど。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:491
 msgid ""
@@ -1364,14 +1366,16 @@ msgid ""
 ":mod:`scipy.ndimage.morphology`. The ``scipy.ndimage`` implementation works "
 "on arbitrary-dimensional arrays."
 msgstr ""
+"基本的な数理形態学は :mod:`scipy.ndimage.morphology` にも実装されています。 "
+"``scipy.ndimage``の実装は任意の次元の配列に対して動作します。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:391
 msgid "Example of filters comparison: image denoising"
-msgstr ""
+msgstr "フィルターの比較例: 画像のノイズ除去"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:516
 msgid "Image segmentation"
-msgstr ""
+msgstr "画像分割"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:518
 msgid ""
@@ -1379,14 +1383,15 @@ msgid ""
 "regions of the image, for example in order to extract the pixels of an "
 "object of interest."
 msgstr ""
+"画像セグメンテーションとは、画像の異なる領域に異なるラベルを付けることであり、例えば、関心のあるオブジェクトのピクセルを抽出するために行われます。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:523
 msgid "Binary segmentation: foreground + background"
-msgstr ""
+msgstr "バイナリセグメンテーション: 前景＋背景"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:526
 msgid "Histogram-based method: **Otsu thresholding**"
-msgstr ""
+msgstr "ヒストグラムに基づく方法: **Otsu thresholding**"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:530
 msgid ""
@@ -1394,68 +1399,74 @@ msgid ""
 "simple heuristic to find a threshold to separate the foreground from the "
 "background."
 msgstr ""
+"`Otsu method <https://en.wikipedia.org/wiki/Otsu%27s_method>`_ "
+"は、前景と背景を分離する閾値を見つけるための単純なヒューリスティックである。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst-1
 msgid "Earlier scikit-image versions"
-msgstr ""
+msgstr "以前の scikit-image バージョン"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:536
 msgid ""
 ":mod:`skimage.filters` is called :mod:`skimage.filter` in earlier versions "
 "of scikit-image"
 msgstr ""
+":mod:`skimage.filters` は、以前のバージョンの scikit-image では :mod:`skimage.filter` "
+"と呼ばれていた。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:551
 msgid "Labeling connected components of a discrete image"
-msgstr ""
+msgstr "離散画像の連結成分にラベルを付ける"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:555
 msgid ""
 "Once you have separated foreground objects, it is use to separate them from "
 "each other. For this, we can assign a different integer labels to each one."
-msgstr ""
+msgstr "前景オブジェクトを分離したら、それらを互いに分離するのに使います。 そのために、それぞれに異なる整数ラベルを割り当てることができます。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:559
 msgid "Synthetic data::"
-msgstr ""
+msgstr "合成データ::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:570
 msgid "Label all connected components::"
-msgstr ""
+msgstr "接続されているすべてのコンポーネントにラベルを貼ります::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:574
 msgid "Label only foreground connected components::"
-msgstr ""
+msgstr "接続されているすべての前景コンポーネントにラベルを貼ります::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:586
 msgid ""
 ":func:`scipy.ndimage.find_objects` is useful to return slices on object in "
 "an image."
-msgstr ""
+msgstr ":func:`scipy.ndimage.find_objects` は、画像内のオブジェクトのスライスを返すのに便利です。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:590
 msgid "Marker based methods"
-msgstr ""
+msgstr "マーカーに基づく方法"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:592
 msgid ""
 "If you have markers inside a set of regions, you can use these to segment "
 "the regions."
-msgstr ""
+msgstr "リージョンのセットの中にマーカーがあれば、それを使ってリージョンを分割することができます。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:596
 msgid "*Watershed* segmentation"
-msgstr ""
+msgstr "*Watershed* セグメンテーション"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:598
 msgid ""
 "The Watershed (:func:`skimage.segmentation.watershed`) is a region-growing "
 "approach that fills \"basins\" in the image ::"
 msgstr ""
+"Watershed (:func:`skimage.segmentation.watershed`) は、画像の \"basins \" "
+"を埋める領域拡大アプローチです ::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:624
 msgid "*Random walker* segmentation"
-msgstr ""
+msgstr "*ランダムウォーカー* セグメンテーション"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:626
 msgid ""
@@ -1463,10 +1474,12 @@ msgid ""
 "similar to the Watershed, but with a more \"probabilistic\" approach. It is "
 "based on the idea of the diffusion of labels in the image::"
 msgstr ""
+"ランダムウォーカーアルゴリズム (:func:`skimage.segmentation.random_walker`) "
+"はWatershedに似ていますが、より \"確率的\" なアプローチです。 画像内のラベルの拡散という考えに基づいています::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst-1
 msgid "Postprocessing label images"
-msgstr ""
+msgstr "ラベル画像の後処理"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:643
 msgid ""
@@ -1477,10 +1490,14 @@ msgid ""
 ":func:`skimage.segmentation.relabel_from_one`, "
 ":func:`skimage.morphology.remove_small_objects`, etc."
 msgstr ""
+"skimage`` はラベル画像 (つまり、異なる離散値が異なる領域を識別する画像) に使用できるユーティリティ関数をいくつか提供しています。 "
+"関数名は説明不要な場合が多いです: :func:`skimage.segmentation.clear_border`, "
+":func:`skimage.segmentation.relabel_from_one`, "
+":func:`skimage.morphology.remove_small_objects`, etc."
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:654
 msgid "Load the ``coins`` image from the ``data`` submodule."
-msgstr ""
+msgstr "サブモジュール ``data`` から ``coins`` イメージをロードします。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:656
 msgid ""
@@ -1488,26 +1505,30 @@ msgid ""
 "methods: Otsu thresholding, adaptive thresholding, and watershed or random "
 "walker segmentation."
 msgstr ""
+"いくつかのセグメンテーション方法をテストして、背景からコインを分離します: Otsu "
+"thresholding、適応閾値処理、watershedセグメンテーション、ランダムウォーカーセグメンテーション。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:660
 msgid ""
 "If necessary, use a postprocessing function to improve the coins / "
 "background segmentation."
-msgstr ""
+msgstr "必要であれば、後処理機能を使って、コイン/バックグラウンドのセグメンテーションを改善します。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:665
 msgid "Measuring regions' properties"
-msgstr ""
+msgstr "領域の特性を測定する"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:667
 msgid "Example: compute the size and perimeter of the two segmented regions::"
-msgstr ""
+msgstr "例: 2つの分割された領域のサイズと周囲を計算します::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:677
 msgid ""
 "for some properties, functions are available as well in "
 ":mod:`scipy.ndimage.measurements` with a different API (a list is returned)."
 msgstr ""
+"プロパティによっては、別のAPIで :mod:`scipy.ndimage.measurements` に関数が用意されています (リストが返されます)"
+" 。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst-1
 msgid "Exercise (continued)"
@@ -1516,68 +1537,70 @@ msgstr "例題 (続き)"
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:685
 msgid ""
 "Use the binary image of the coins and background from the previous exercise."
-msgstr ""
+msgstr "前の練習で使用したコインと背景の2値画像を使用します。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:688
 msgid "Compute an image of labels for the different coins."
-msgstr ""
+msgstr "異なるコインのラベルのイメージを計算します。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:690
 msgid "Compute the size and eccentricity of all coins."
-msgstr ""
+msgstr "すべてのコインの大きさと偏心を計算します。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:693
 msgid "Data visualization and interaction"
-msgstr ""
+msgstr "データの可視化とインタラクション"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:695
 msgid ""
 "Meaningful visualizations are useful when testing a given processing "
 "pipeline."
-msgstr ""
+msgstr "意味のある可視化は、与えられた処理パイプラインをテストするときに役立ちます。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:698
 msgid "Some image processing operations::"
-msgstr ""
+msgstr "いくつかの画像処理操作::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:704
 msgid "Visualize binary result::"
-msgstr ""
+msgstr "バイナリ結果の可視化::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:711
 msgid "Visualize contour ::"
-msgstr ""
+msgstr "輪郭の視覚化 ::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:720
 msgid "Use ``skimage`` dedicated utility function::"
-msgstr ""
+msgstr "専用ユーティリティ関数 ``skimage`` を使用します::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:732
 msgid "Feature extraction for computer vision"
-msgstr ""
+msgstr "コンピュータビジョンのための特徴抽出"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:734
 msgid ""
 "Geometric or textural descriptor can be extracted from images in order to"
-msgstr ""
+msgstr "幾何学的記述子やテクスチャ記述子は、以下の目的で画像から抽出することができます"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:736
 msgid "classify parts of the image (e.g. sky vs. buildings)"
-msgstr ""
+msgstr "画像の一部を分類する (例：空と建物)"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:738
 msgid "match parts of different images (e.g. for object detection)"
-msgstr ""
+msgstr "異なる画像の一部を一致させます (例：物体検出)"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:740
 msgid ""
 "and many other applications of `Computer Vision "
 "<https://en.wikipedia.org/wiki/Computer_vision>`_"
 msgstr ""
+"`コンピュータビジョン <https://en.wikipedia.org/wiki/Computer_vision>`_ "
+"の他の多くのアプリケーション。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:743
 msgid "Example: detecting corners using Harris detector ::"
-msgstr ""
+msgstr "例: Harris検出器によるコーナー検出::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:765
 msgid ""
@@ -1585,6 +1608,9 @@ msgid ""
 "image.org/docs/stable/auto_examples/features_detection/plot_corner.html>`_ "
 "example in scikit-image)"
 msgstr ""
+"(この例はscikit-imageの `plot_corner <https://scikit-"
+"image.org/docs/stable/auto_examples/features_detection/plot_corner.html>`_ "
+"の例から引用しています)"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:769
 msgid ""
@@ -1593,10 +1619,13 @@ msgid ""
 "image.org/docs/stable/auto_examples/transform/plot_matching.html>`_ example "
 "of scikit-image."
 msgstr ""
+"scikit-imageの `plot_matching <https://scikit-"
+"image.org/docs/stable/auto_examples/transform/plot_matching.html>`_ "
+"の例で説明されているように、角のような注目点は、異なる画像内のオブジェクトをマッチングするために使用することができます。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:775
 msgid "Full code examples"
-msgstr ""
+msgstr "全コード例"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:3
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:4
@@ -1760,11 +1789,11 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_ML_flow_chart.rst:22
 msgid "Tutorial Diagrams"
-msgstr ""
+msgstr "チュートリアルダイアグラム"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_ML_flow_chart.rst:24
 msgid "This script plots the flow-charts used in the scikit-learn tutorials."
-msgstr ""
+msgstr "このスクリプトは scikit-learn のチュートリアルで使用されるフローチャートをプロットします。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_ML_flow_chart.rst:200
 msgid ""
@@ -1799,43 +1828,44 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_bias_variance.rst:23
 msgid "Bias and variance of polynomial fit"
-msgstr ""
+msgstr "多項式フィットのバイアスと分散"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_bias_variance.rst:25
 msgid ""
 "Demo overfitting, underfitting, and validation and learning curves with "
 "polynomial regression."
-msgstr ""
+msgstr "多項式回帰のオーバーフィット、アンダーフィット、検証、学習曲線のデモです。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_bias_variance.rst:28
 msgid ""
 "Fit polynomes of different degrees to a dataset: for too small a degree, the"
 " model *underfits*, while for too large a degree, it overfits."
 msgstr ""
+"次数の異なる多項式をデータセットにフィットさせます。次数が小さすぎるとモデルは *アンダーフィット* し、次数が大きすぎるとオーバーフィットします。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_bias_variance.rst:48
 msgid "A polynomial regression"
-msgstr ""
+msgstr "多項回帰"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_bias_variance.rst:61
 msgid "A simple figure to illustrate the problem"
-msgstr ""
+msgstr "問題を説明するための簡単な図"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_bias_variance.rst:102
 msgid "Generate a larger dataset"
-msgstr ""
+msgstr "より大きなデータセットを作成します"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_bias_variance.rst:131
 msgid "Plot a validation curve"
-msgstr ""
+msgstr "検証曲線をプロットします"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_bias_variance.rst:169
 msgid "Learning curves"
-msgstr ""
+msgstr "学習曲線"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_bias_variance.rst:171
 msgid "Plot train and test error with an increasing number of samples"
-msgstr ""
+msgstr "サンプル数の増加に伴う訓練誤差とテスト誤差のプロット"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_bias_variance.rst:214
 msgid ""
@@ -1871,33 +1901,33 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_california_prediction.rst:22
 msgid "A simple regression analysis on the California housing data"
-msgstr ""
+msgstr "カリフォルニア州の住宅データに対する単純回帰分析"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_california_prediction.rst:24
 msgid ""
 "Here we perform a simple regression analysis on the California housing data,"
 " exploring two types of regressors."
-msgstr ""
+msgstr "ここでは，カリフォルニア州の住宅データについて，単純回帰分析を行い，2種類の回帰因子を探索します。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_california_prediction.rst:39
 msgid "Print a histogram of the quantity to predict: price"
-msgstr ""
+msgstr "予測する数量のヒストグラムを表示: 価格"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_california_prediction.rst:56
 msgid "Print the join histogram for each feature"
-msgstr ""
+msgstr "各特徴の結合ヒストグラムを表示します"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_california_prediction.rst:74
 msgid "Simple prediction"
-msgstr ""
+msgstr "単純な予測をします"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_california_prediction.rst:104
 msgid "Prediction with gradient boosted tree"
-msgstr ""
+msgstr "勾配ブースティング木による予測"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_california_prediction.rst:130
 msgid "Print the error rate"
-msgstr ""
+msgstr "エラー率を表示します"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_california_prediction.rst:151
 msgid ""
@@ -1935,13 +1965,13 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_compare_classifiers.rst:22
 msgid "Compare classifiers on the digits data"
-msgstr ""
+msgstr "ディジットのデータで分類子を比較"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_compare_classifiers.rst:24
 msgid ""
 "Compare the performance of a variety of classifiers on a test set for the "
 "digits data."
-msgstr ""
+msgstr "数字データのテストセットで、様々な分類器の性能を比較します。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_compare_classifiers.rst:78
 msgid ""
@@ -1979,53 +2009,53 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_digits_simple_classif.rst:22
 msgid "Simple visualization and classification of the digits dataset"
-msgstr ""
+msgstr "数字データセットの簡単な視覚化と分類"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_digits_simple_classif.rst:24
 msgid ""
 "Plot the first few samples of the digits dataset and a 2D representation "
 "built using PCA, then do a simple classification"
-msgstr ""
+msgstr "数字データセットの最初の数サンプルと、PCAを使って作成した2次元表現をプロットし、簡単な分類を行います。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_digits_simple_classif.rst:40
 msgid "Plot the data: images of digits"
-msgstr ""
+msgstr "データのプロット: 数字の画像"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_digits_simple_classif.rst:42
 msgid "Each data in a 8x8 image"
-msgstr ""
+msgstr "8x8画像の各データ"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_digits_simple_classif.rst:64
 msgid "Plot a projection on the 2 first principal axis"
-msgstr ""
+msgstr "2つの第一主軸に投影図を描きます"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_digits_simple_classif.rst:85
 msgid "Classify with Gaussian naive Bayes"
-msgstr ""
+msgstr "Gaussian naive Bayesによる分類"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_digits_simple_classif.rst:126
 msgid "Quantify the performance"
-msgstr ""
+msgstr "パフォーマンスの定量化"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_digits_simple_classif.rst:128
 msgid "First print the number of correct matches"
-msgstr ""
+msgstr "最初に正しいマッチの数を表示します"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_digits_simple_classif.rst:139
 msgid "The total number of data points"
-msgstr ""
+msgstr "データポイントの総数"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_digits_simple_classif.rst:149
 msgid "And now, the ration of correct predictions"
-msgstr ""
+msgstr "そして、予想的中率です。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_digits_simple_classif.rst:160
 msgid "Print the classification report"
-msgstr ""
+msgstr "分類レポートを表示します"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_digits_simple_classif.rst:173
 msgid "Print the confusion matrix"
-msgstr ""
+msgstr "混同行列を表示します"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_digits_simple_classif.rst:192
 msgid ""
@@ -2061,7 +2091,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:22
 msgid "The eigenfaces example: chaining PCA and SVMs"
-msgstr ""
+msgstr "固有顔の例: PCAとSVMの連鎖"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:24
 msgid ""
@@ -2070,6 +2100,8 @@ msgid ""
 "didactic but lengthy way of doing things, and finishes with the idiomatic "
 "approach to pipelining in scikit-learn."
 msgstr ""
+"この例のゴールは、教師なし手法と教師あり手法をどのように連鎖させればより良い予測ができるかを示すことです。 "
+"教則的ですが長いやり方から始まり、scikit-learn のパイプラインへの慣用的なアプローチで終わります。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:29
 msgid ""
@@ -2083,7 +2115,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:49
 msgid "Let's visualize these faces to see what we're working with"
-msgstr ""
+msgstr "これらの顔を視覚化して、何を扱っているのかを見てみましょう"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:69
 msgid ""
@@ -3654,7 +3686,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst-1
 msgid "**Question**"
-msgstr ""
+msgstr "**質問**"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:540
 msgid ""
@@ -4029,7 +4061,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1102
 msgid "Hyperparameter optimization with cross-validation"
-msgstr ""
+msgstr "クロスバリデーションによるハイパーパラメータの最適化"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1104
 msgid ""
@@ -4065,7 +4097,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst-1
 msgid "Question"
-msgstr ""
+msgstr "質問"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1154
 msgid "Can we trust our results to be actually useful?"
@@ -4073,7 +4105,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1157
 msgid "Automatically Performing Grid Search"
-msgstr ""
+msgstr "自動的にグリッド検索を行う"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1159
 msgid ""
@@ -4212,7 +4244,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst-1
 msgid "fit_transform"
-msgstr ""
+msgstr "fit_transform"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1335
 msgid ""
@@ -4243,7 +4275,7 @@ msgstr "パラメータの選択、検証、テスト"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1363
 msgid "Hyperparameters, Over-fitting, and Under-fitting"
-msgstr ""
+msgstr "ハイパーパラメータ、オーバーフィット、アンダーフィット"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1367
 msgid ""
@@ -4275,7 +4307,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1381
 msgid "Add more training samples?"
-msgstr ""
+msgstr "トレーニングサンプルを増やす？"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1383
 msgid ""
@@ -5446,15 +5478,15 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:25
 msgid "`Pandas <https://pandas.pydata.org/>`__"
-msgstr ""
+msgstr "`Pandas <https://pandas.pydata.org/>`__"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:27
 msgid "`Statsmodels <https://www.statsmodels.org/>`__"
-msgstr ""
+msgstr "`Statsmodels <https://www.statsmodels.org/>`__"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:29
 msgid "`Seaborn <https://seaborn.pydata.org>`__"
-msgstr ""
+msgstr "`Seaborn <https://seaborn.pydata.org>`__"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:31
 msgid ""
