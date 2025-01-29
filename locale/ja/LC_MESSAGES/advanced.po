@@ -23,12 +23,13 @@ msgstr ""
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/auto_examples/index.rst:4
 msgid "Examples for the advanced NumPy chapter"
-msgstr ""
+msgstr "高度なNumPyの章の例"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/auto_examples/index.rst:23
 msgid ""
 ":ref:`sphx_glr_advanced_advanced_numpy_auto_examples_plot_maskedstats.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_advanced_numpy_auto_examples_plot_maskedstats.py`"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/auto_examples/index.rst:50
 msgid ""
@@ -36,6 +37,9 @@ msgid ""
 "auto_examples_python.zip "
 "</advanced/advanced_numpy/auto_examples/auto_examples_python.zip>`"
 msgstr ""
+":download:`Download all examples in Python source code: "
+"auto_examples_python.zip "
+"</advanced/advanced_numpy/auto_examples/auto_examples_python.zip>`"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/auto_examples/index.rst:54
 msgid ""
@@ -43,6 +47,9 @@ msgid ""
 "auto_examples_jupyter.zip "
 "</advanced/advanced_numpy/auto_examples/auto_examples_jupyter.zip>`"
 msgstr ""
+":download:`Download all examples in Jupyter notebooks: "
+"auto_examples_jupyter.zip "
+"</advanced/advanced_numpy/auto_examples/auto_examples_jupyter.zip>`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:474
 #: ../../../../../../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/index.rst:240
@@ -115,17 +122,22 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_maskedstats.ipynb "
 "<plot_maskedstats.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_maskedstats.ipynb "
+"<plot_maskedstats.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/auto_examples/plot_maskedstats.rst:58
 msgid ""
 ":download:`Download Python source code: plot_maskedstats.py "
 "<plot_maskedstats.py>`"
 msgstr ""
+":download:`Download Python source code: plot_maskedstats.py "
+"<plot_maskedstats.py>`"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/auto_examples/plot_maskedstats.rst:62
 msgid ""
 ":download:`Download zipped: plot_maskedstats.zip <plot_maskedstats.zip>`"
 msgstr ""
+":download:`Download zipped: plot_maskedstats.zip <plot_maskedstats.zip>`"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/auto_examples/sg_execution_times.rst:8
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/sg_execution_times.rst:8
@@ -166,6 +178,8 @@ msgid ""
 ":ref:`sphx_glr_advanced_advanced_numpy_auto_examples_plot_maskedstats.py` "
 "(``plot_maskedstats.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_advanced_numpy_auto_examples_plot_maskedstats.py` "
+"(``plot_maskedstats.py``)"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/auto_examples/sg_execution_times.rst:36
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/sg_execution_times.rst:36
@@ -904,6 +918,13 @@ msgid ""
 "\\\\\n"
 "s_j^F &= d_{1} d_{2} ... d_{j-1} \\times \\mathrm{itemsize}"
 msgstr ""
+"\\mathrm{shape} &= (d_1, d_2, ..., d_n)\n"
+"\\\\\n"
+"\\mathrm{strides} &= (s_1, s_2, ..., s_n)\n"
+"\\\\\n"
+"s_j^C &= d_{j+1} d_{j+2} ... d_{n} \\times \\mathrm{itemsize}\n"
+"\\\\\n"
+"s_j^F &= d_{1} d_{2} ... d_{j-1} \\times \\mathrm{itemsize}"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:570
 msgid "Now we can understand the behavior of ``.view()``:"
@@ -3592,143 +3613,164 @@ msgstr ""
 #: ../../../../../../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:22
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:23
 msgid ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_face.py`"
-msgstr ""
+msgstr ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_face.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:39
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:40
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_interpolation_face.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_interpolation_face.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:56
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:57
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_block_mean.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_block_mean.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:73
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:74
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_numpy_array.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_numpy_array.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:90
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:91
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_radial_mean.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_radial_mean.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:107
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:108
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_display_face.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_display_face.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:124
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:125
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_sharpen.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_sharpen.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:141
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:142
 msgid ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_blur.py`"
-msgstr ""
+msgstr ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_blur.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:158
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:159
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_synthetic_data.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_synthetic_data.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:175
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:176
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_propagation.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_propagation.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:192
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:193
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_face_denoise.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_face_denoise.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:209
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:210
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_geom_face.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_geom_face.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:226
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:227
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_face_tv_denoise.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_face_tv_denoise.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:243
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:244
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_measure_data.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_measure_data.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:260
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:261
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_find_object.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_find_object.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:277
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:278
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_denoising.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_denoising.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:294
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:295
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_histo_segmentation.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_histo_segmentation.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:311
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:312
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_greyscale_dilation.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_greyscale_dilation.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:328
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:329
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_find_edges.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_find_edges.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:345
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:346
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_clean_morpho.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_clean_morpho.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:362
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:363
 msgid ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_GMM.py`"
-msgstr ""
+msgstr ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_GMM.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:379
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:380
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_watershed_segmentation.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_watershed_segmentation.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:396
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:397
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_granulo.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_granulo.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:413
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:414
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_spectral_clustering.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_spectral_clustering.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:463
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:464
@@ -3737,6 +3779,9 @@ msgid ""
 "auto_examples_python.zip "
 "</advanced/image_processing/auto_examples/auto_examples_python.zip>`"
 msgstr ""
+":download:`Download all examples in Python source code: "
+"auto_examples_python.zip "
+"</advanced/image_processing/auto_examples/auto_examples_python.zip>`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:467
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/index.rst:468
@@ -3745,6 +3790,9 @@ msgid ""
 "auto_examples_jupyter.zip "
 "</advanced/image_processing/auto_examples/auto_examples_jupyter.zip>`"
 msgstr ""
+":download:`Download all examples in Jupyter notebooks: "
+"auto_examples_jupyter.zip "
+"</advanced/image_processing/auto_examples/auto_examples_jupyter.zip>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_GMM.rst:13
 msgid ""
@@ -3767,14 +3815,15 @@ msgstr ""
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_GMM.rst:87
 msgid ":download:`Download Jupyter notebook: plot_GMM.ipynb <plot_GMM.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_GMM.ipynb <plot_GMM.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_GMM.rst:91
 msgid ":download:`Download Python source code: plot_GMM.py <plot_GMM.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: plot_GMM.py <plot_GMM.py>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_GMM.rst:95
 msgid ":download:`Download zipped: plot_GMM.zip <plot_GMM.zip>`"
-msgstr ""
+msgstr ":download:`Download zipped: plot_GMM.zip <plot_GMM.zip>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_block_mean.rst:13
 msgid ""
@@ -3798,16 +3847,21 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_block_mean.ipynb "
 "<plot_block_mean.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_block_mean.ipynb "
+"<plot_block_mean.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_block_mean.rst:63
 msgid ""
 ":download:`Download Python source code: plot_block_mean.py "
 "<plot_block_mean.py>`"
 msgstr ""
+":download:`Download Python source code: plot_block_mean.py "
+"<plot_block_mean.py>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_block_mean.rst:67
 msgid ":download:`Download zipped: plot_block_mean.zip <plot_block_mean.zip>`"
 msgstr ""
+":download:`Download zipped: plot_block_mean.zip <plot_block_mean.zip>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_blur.rst:13
 msgid ""
@@ -3828,14 +3882,15 @@ msgstr ""
 msgid ""
 ":download:`Download Jupyter notebook: plot_blur.ipynb <plot_blur.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_blur.ipynb <plot_blur.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_blur.rst:67
 msgid ":download:`Download Python source code: plot_blur.py <plot_blur.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: plot_blur.py <plot_blur.py>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_blur.rst:71
 msgid ":download:`Download zipped: plot_blur.zip <plot_blur.zip>`"
-msgstr ""
+msgstr ":download:`Download zipped: plot_blur.zip <plot_blur.zip>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_clean_morpho.rst:13
 msgid ""
@@ -3859,17 +3914,22 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_clean_morpho.ipynb "
 "<plot_clean_morpho.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_clean_morpho.ipynb "
+"<plot_clean_morpho.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_clean_morpho.rst:91
 msgid ""
 ":download:`Download Python source code: plot_clean_morpho.py "
 "<plot_clean_morpho.py>`"
 msgstr ""
+":download:`Download Python source code: plot_clean_morpho.py "
+"<plot_clean_morpho.py>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_clean_morpho.rst:95
 msgid ""
 ":download:`Download zipped: plot_clean_morpho.zip <plot_clean_morpho.zip>`"
 msgstr ""
+":download:`Download zipped: plot_clean_morpho.zip <plot_clean_morpho.zip>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_denoising.rst:13
 msgid ""
@@ -3893,16 +3953,20 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_denoising.ipynb "
 "<plot_denoising.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_denoising.ipynb "
+"<plot_denoising.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_denoising.rst:82
 msgid ""
 ":download:`Download Python source code: plot_denoising.py "
 "<plot_denoising.py>`"
 msgstr ""
+":download:`Download Python source code: plot_denoising.py "
+"<plot_denoising.py>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_denoising.rst:86
 msgid ":download:`Download zipped: plot_denoising.zip <plot_denoising.zip>`"
-msgstr ""
+msgstr ":download:`Download zipped: plot_denoising.zip <plot_denoising.zip>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_display_face.rst:13
 msgid ""
@@ -3924,17 +3988,22 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_display_face.ipynb "
 "<plot_display_face.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_display_face.ipynb "
+"<plot_display_face.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_display_face.rst:66
 msgid ""
 ":download:`Download Python source code: plot_display_face.py "
 "<plot_display_face.py>`"
 msgstr ""
+":download:`Download Python source code: plot_display_face.py "
+"<plot_display_face.py>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_display_face.rst:70
 msgid ""
 ":download:`Download zipped: plot_display_face.zip <plot_display_face.zip>`"
 msgstr ""
+":download:`Download zipped: plot_display_face.zip <plot_display_face.zip>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_face.rst:13
 msgid ""
@@ -3955,14 +4024,15 @@ msgstr ""
 msgid ""
 ":download:`Download Jupyter notebook: plot_face.ipynb <plot_face.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_face.ipynb <plot_face.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_face.rst:55
 msgid ":download:`Download Python source code: plot_face.py <plot_face.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: plot_face.py <plot_face.py>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_face.rst:59
 msgid ":download:`Download zipped: plot_face.zip <plot_face.zip>`"
-msgstr ""
+msgstr ":download:`Download zipped: plot_face.zip <plot_face.zip>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_face_denoise.rst:13
 msgid ""
@@ -3984,17 +4054,22 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_face_denoise.ipynb "
 "<plot_face_denoise.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_face_denoise.ipynb "
+"<plot_face_denoise.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_face_denoise.rst:77
 msgid ""
 ":download:`Download Python source code: plot_face_denoise.py "
 "<plot_face_denoise.py>`"
 msgstr ""
+":download:`Download Python source code: plot_face_denoise.py "
+"<plot_face_denoise.py>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_face_denoise.rst:81
 msgid ""
 ":download:`Download zipped: plot_face_denoise.zip <plot_face_denoise.zip>`"
 msgstr ""
+":download:`Download zipped: plot_face_denoise.zip <plot_face_denoise.zip>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_face_tv_denoise.rst:13
 msgid ""
@@ -4016,18 +4091,24 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_face_tv_denoise.ipynb "
 "<plot_face_tv_denoise.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_face_tv_denoise.ipynb "
+"<plot_face_tv_denoise.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_face_tv_denoise.rst:80
 msgid ""
 ":download:`Download Python source code: plot_face_tv_denoise.py "
 "<plot_face_tv_denoise.py>`"
 msgstr ""
+":download:`Download Python source code: plot_face_tv_denoise.py "
+"<plot_face_tv_denoise.py>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_face_tv_denoise.rst:84
 msgid ""
 ":download:`Download zipped: plot_face_tv_denoise.zip "
 "<plot_face_tv_denoise.zip>`"
 msgstr ""
+":download:`Download zipped: plot_face_tv_denoise.zip "
+"<plot_face_tv_denoise.zip>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_find_edges.rst:13
 msgid ""
@@ -4049,16 +4130,21 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_find_edges.ipynb "
 "<plot_find_edges.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_find_edges.ipynb "
+"<plot_find_edges.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_find_edges.rst:90
 msgid ""
 ":download:`Download Python source code: plot_find_edges.py "
 "<plot_find_edges.py>`"
 msgstr ""
+":download:`Download Python source code: plot_find_edges.py "
+"<plot_find_edges.py>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_find_edges.rst:94
 msgid ":download:`Download zipped: plot_find_edges.zip <plot_find_edges.zip>`"
 msgstr ""
+":download:`Download zipped: plot_find_edges.zip <plot_find_edges.zip>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_find_object.rst:13
 msgid ""
@@ -4081,17 +4167,22 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_find_object.ipynb "
 "<plot_find_object.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_find_object.ipynb "
+"<plot_find_object.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_find_object.rst:79
 msgid ""
 ":download:`Download Python source code: plot_find_object.py "
 "<plot_find_object.py>`"
 msgstr ""
+":download:`Download Python source code: plot_find_object.py "
+"<plot_find_object.py>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_find_object.rst:83
 msgid ""
 ":download:`Download zipped: plot_find_object.zip <plot_find_object.zip>`"
 msgstr ""
+":download:`Download zipped: plot_find_object.zip <plot_find_object.zip>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_geom_face.rst:13
 msgid ""
@@ -4116,16 +4207,20 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_geom_face.ipynb "
 "<plot_geom_face.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_geom_face.ipynb "
+"<plot_geom_face.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_geom_face.rst:81
 msgid ""
 ":download:`Download Python source code: plot_geom_face.py "
 "<plot_geom_face.py>`"
 msgstr ""
+":download:`Download Python source code: plot_geom_face.py "
+"<plot_geom_face.py>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_geom_face.rst:85
 msgid ":download:`Download zipped: plot_geom_face.zip <plot_geom_face.zip>`"
-msgstr ""
+msgstr ":download:`Download zipped: plot_geom_face.zip <plot_geom_face.zip>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_granulo.rst:13
 msgid ""
@@ -4147,15 +4242,18 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_granulo.ipynb "
 "<plot_granulo.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_granulo.ipynb "
+"<plot_granulo.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_granulo.rst:96
 msgid ""
 ":download:`Download Python source code: plot_granulo.py <plot_granulo.py>`"
 msgstr ""
+":download:`Download Python source code: plot_granulo.py <plot_granulo.py>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_granulo.rst:100
 msgid ":download:`Download zipped: plot_granulo.zip <plot_granulo.zip>`"
-msgstr ""
+msgstr ":download:`Download zipped: plot_granulo.zip <plot_granulo.zip>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_greyscale_dilation.rst:13
 msgid ""
@@ -4177,18 +4275,24 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_greyscale_dilation.ipynb "
 "<plot_greyscale_dilation.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_greyscale_dilation.ipynb "
+"<plot_greyscale_dilation.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_greyscale_dilation.rst:77
 msgid ""
 ":download:`Download Python source code: plot_greyscale_dilation.py "
 "<plot_greyscale_dilation.py>`"
 msgstr ""
+":download:`Download Python source code: plot_greyscale_dilation.py "
+"<plot_greyscale_dilation.py>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_greyscale_dilation.rst:81
 msgid ""
 ":download:`Download zipped: plot_greyscale_dilation.zip "
 "<plot_greyscale_dilation.zip>`"
 msgstr ""
+":download:`Download zipped: plot_greyscale_dilation.zip "
+"<plot_greyscale_dilation.zip>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_histo_segmentation.rst:13
 msgid ""
@@ -4210,18 +4314,24 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_histo_segmentation.ipynb "
 "<plot_histo_segmentation.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_histo_segmentation.ipynb "
+"<plot_histo_segmentation.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_histo_segmentation.rst:84
 msgid ""
 ":download:`Download Python source code: plot_histo_segmentation.py "
 "<plot_histo_segmentation.py>`"
 msgstr ""
+":download:`Download Python source code: plot_histo_segmentation.py "
+"<plot_histo_segmentation.py>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_histo_segmentation.rst:88
 msgid ""
 ":download:`Download zipped: plot_histo_segmentation.zip "
 "<plot_histo_segmentation.zip>`"
 msgstr ""
+":download:`Download zipped: plot_histo_segmentation.zip "
+"<plot_histo_segmentation.zip>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_interpolation_face.rst:13
 msgid ""
@@ -4243,18 +4353,24 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_interpolation_face.ipynb "
 "<plot_interpolation_face.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_interpolation_face.ipynb "
+"<plot_interpolation_face.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_interpolation_face.rst:62
 msgid ""
 ":download:`Download Python source code: plot_interpolation_face.py "
 "<plot_interpolation_face.py>`"
 msgstr ""
+":download:`Download Python source code: plot_interpolation_face.py "
+"<plot_interpolation_face.py>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_interpolation_face.rst:66
 msgid ""
 ":download:`Download zipped: plot_interpolation_face.zip "
 "<plot_interpolation_face.zip>`"
 msgstr ""
+":download:`Download zipped: plot_interpolation_face.zip "
+"<plot_interpolation_face.zip>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_measure_data.rst:13
 msgid ""
@@ -4276,17 +4392,22 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_measure_data.ipynb "
 "<plot_measure_data.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_measure_data.ipynb "
+"<plot_measure_data.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_measure_data.rst:80
 msgid ""
 ":download:`Download Python source code: plot_measure_data.py "
 "<plot_measure_data.py>`"
 msgstr ""
+":download:`Download Python source code: plot_measure_data.py "
+"<plot_measure_data.py>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_measure_data.rst:84
 msgid ""
 ":download:`Download zipped: plot_measure_data.zip <plot_measure_data.zip>`"
 msgstr ""
+":download:`Download zipped: plot_measure_data.zip <plot_measure_data.zip>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_numpy_array.rst:13
 msgid ""
@@ -4310,17 +4431,22 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_numpy_array.ipynb "
 "<plot_numpy_array.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_numpy_array.ipynb "
+"<plot_numpy_array.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_numpy_array.rst:66
 msgid ""
 ":download:`Download Python source code: plot_numpy_array.py "
 "<plot_numpy_array.py>`"
 msgstr ""
+":download:`Download Python source code: plot_numpy_array.py "
+"<plot_numpy_array.py>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_numpy_array.rst:70
 msgid ""
 ":download:`Download zipped: plot_numpy_array.zip <plot_numpy_array.zip>`"
 msgstr ""
+":download:`Download zipped: plot_numpy_array.zip <plot_numpy_array.zip>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_propagation.rst:13
 msgid ""
@@ -4342,17 +4468,22 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_propagation.ipynb "
 "<plot_propagation.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_propagation.ipynb "
+"<plot_propagation.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_propagation.rst:73
 msgid ""
 ":download:`Download Python source code: plot_propagation.py "
 "<plot_propagation.py>`"
 msgstr ""
+":download:`Download Python source code: plot_propagation.py "
+"<plot_propagation.py>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_propagation.rst:77
 msgid ""
 ":download:`Download zipped: plot_propagation.zip <plot_propagation.zip>`"
 msgstr ""
+":download:`Download zipped: plot_propagation.zip <plot_propagation.zip>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_radial_mean.rst:13
 msgid ""
@@ -4374,17 +4505,22 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_radial_mean.ipynb "
 "<plot_radial_mean.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_radial_mean.ipynb "
+"<plot_radial_mean.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_radial_mean.rst:65
 msgid ""
 ":download:`Download Python source code: plot_radial_mean.py "
 "<plot_radial_mean.py>`"
 msgstr ""
+":download:`Download Python source code: plot_radial_mean.py "
+"<plot_radial_mean.py>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_radial_mean.rst:69
 msgid ""
 ":download:`Download zipped: plot_radial_mean.zip <plot_radial_mean.zip>`"
 msgstr ""
+":download:`Download zipped: plot_radial_mean.zip <plot_radial_mean.zip>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_sharpen.rst:13
 msgid ""
@@ -4408,15 +4544,18 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_sharpen.ipynb "
 "<plot_sharpen.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_sharpen.ipynb "
+"<plot_sharpen.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_sharpen.rst:71
 msgid ""
 ":download:`Download Python source code: plot_sharpen.py <plot_sharpen.py>`"
 msgstr ""
+":download:`Download Python source code: plot_sharpen.py <plot_sharpen.py>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_sharpen.rst:75
 msgid ":download:`Download zipped: plot_sharpen.zip <plot_sharpen.zip>`"
-msgstr ""
+msgstr ":download:`Download zipped: plot_sharpen.zip <plot_sharpen.zip>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_spectral_clustering.rst:13
 msgid ""
@@ -4442,18 +4581,24 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_spectral_clustering.ipynb "
 "<plot_spectral_clustering.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_spectral_clustering.ipynb "
+"<plot_spectral_clustering.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_spectral_clustering.rst:111
 msgid ""
 ":download:`Download Python source code: plot_spectral_clustering.py "
 "<plot_spectral_clustering.py>`"
 msgstr ""
+":download:`Download Python source code: plot_spectral_clustering.py "
+"<plot_spectral_clustering.py>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_spectral_clustering.rst:115
 msgid ""
 ":download:`Download zipped: plot_spectral_clustering.zip "
 "<plot_spectral_clustering.zip>`"
 msgstr ""
+":download:`Download zipped: plot_spectral_clustering.zip "
+"<plot_spectral_clustering.zip>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_synthetic_data.rst:13
 msgid ""
@@ -4475,18 +4620,24 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_synthetic_data.ipynb "
 "<plot_synthetic_data.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_synthetic_data.ipynb "
+"<plot_synthetic_data.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_synthetic_data.rst:75
 msgid ""
 ":download:`Download Python source code: plot_synthetic_data.py "
 "<plot_synthetic_data.py>`"
 msgstr ""
+":download:`Download Python source code: plot_synthetic_data.py "
+"<plot_synthetic_data.py>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_synthetic_data.rst:79
 msgid ""
 ":download:`Download zipped: plot_synthetic_data.zip "
 "<plot_synthetic_data.zip>`"
 msgstr ""
+":download:`Download zipped: plot_synthetic_data.zip "
+"<plot_synthetic_data.zip>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_watershed_segmentation.rst:13
 msgid ""
@@ -4508,18 +4659,24 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_watershed_segmentation.ipynb "
 "<plot_watershed_segmentation.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_watershed_segmentation.ipynb "
+"<plot_watershed_segmentation.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_watershed_segmentation.rst:81
 msgid ""
 ":download:`Download Python source code: plot_watershed_segmentation.py "
 "<plot_watershed_segmentation.py>`"
 msgstr ""
+":download:`Download Python source code: plot_watershed_segmentation.py "
+"<plot_watershed_segmentation.py>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_watershed_segmentation.rst:85
 msgid ""
 ":download:`Download zipped: plot_watershed_segmentation.zip "
 "<plot_watershed_segmentation.zip>`"
 msgstr ""
+":download:`Download zipped: plot_watershed_segmentation.zip "
+"<plot_watershed_segmentation.zip>`"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/sg_execution_times.rst:9
 msgid ""
@@ -4532,144 +4689,192 @@ msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_GMM.py` "
 "(``plot_GMM.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_GMM.py` "
+"(``plot_GMM.py``)"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/sg_execution_times.rst:38
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_block_mean.py` "
 "(``plot_block_mean.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_block_mean.py` "
+"(``plot_block_mean.py``)"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/sg_execution_times.rst:41
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_blur.py` "
 "(``plot_blur.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_blur.py` "
+"(``plot_blur.py``)"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/sg_execution_times.rst:44
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_clean_morpho.py`"
 " (``plot_clean_morpho.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_clean_morpho.py`"
+" (``plot_clean_morpho.py``)"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/sg_execution_times.rst:47
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_denoising.py` "
 "(``plot_denoising.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_denoising.py` "
+"(``plot_denoising.py``)"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/sg_execution_times.rst:50
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_display_face.py`"
 " (``plot_display_face.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_display_face.py`"
+" (``plot_display_face.py``)"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/sg_execution_times.rst:53
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_face.py` "
 "(``plot_face.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_face.py` "
+"(``plot_face.py``)"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/sg_execution_times.rst:56
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_face_denoise.py`"
 " (``plot_face_denoise.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_face_denoise.py`"
+" (``plot_face_denoise.py``)"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/sg_execution_times.rst:59
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_face_tv_denoise.py`"
 " (``plot_face_tv_denoise.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_face_tv_denoise.py`"
+" (``plot_face_tv_denoise.py``)"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/sg_execution_times.rst:62
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_find_edges.py` "
 "(``plot_find_edges.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_find_edges.py` "
+"(``plot_find_edges.py``)"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/sg_execution_times.rst:65
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_find_object.py` "
 "(``plot_find_object.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_find_object.py` "
+"(``plot_find_object.py``)"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/sg_execution_times.rst:68
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_geom_face.py` "
 "(``plot_geom_face.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_geom_face.py` "
+"(``plot_geom_face.py``)"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/sg_execution_times.rst:71
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_granulo.py` "
 "(``plot_granulo.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_granulo.py` "
+"(``plot_granulo.py``)"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/sg_execution_times.rst:74
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_greyscale_dilation.py`"
 " (``plot_greyscale_dilation.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_greyscale_dilation.py`"
+" (``plot_greyscale_dilation.py``)"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/sg_execution_times.rst:77
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_histo_segmentation.py`"
 " (``plot_histo_segmentation.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_histo_segmentation.py`"
+" (``plot_histo_segmentation.py``)"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/sg_execution_times.rst:80
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_interpolation_face.py`"
 " (``plot_interpolation_face.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_interpolation_face.py`"
+" (``plot_interpolation_face.py``)"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/sg_execution_times.rst:83
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_measure_data.py`"
 " (``plot_measure_data.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_measure_data.py`"
+" (``plot_measure_data.py``)"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/sg_execution_times.rst:86
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_numpy_array.py` "
 "(``plot_numpy_array.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_numpy_array.py` "
+"(``plot_numpy_array.py``)"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/sg_execution_times.rst:89
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_propagation.py` "
 "(``plot_propagation.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_propagation.py` "
+"(``plot_propagation.py``)"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/sg_execution_times.rst:92
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_radial_mean.py` "
 "(``plot_radial_mean.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_radial_mean.py` "
+"(``plot_radial_mean.py``)"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/sg_execution_times.rst:95
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_sharpen.py` "
 "(``plot_sharpen.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_sharpen.py` "
+"(``plot_sharpen.py``)"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/sg_execution_times.rst:98
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_spectral_clustering.py`"
 " (``plot_spectral_clustering.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_spectral_clustering.py`"
+" (``plot_spectral_clustering.py``)"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/sg_execution_times.rst:101
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_synthetic_data.py`"
 " (``plot_synthetic_data.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_synthetic_data.py`"
+" (``plot_synthetic_data.py``)"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/sg_execution_times.rst:104
 msgid ""
 ":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_watershed_segmentation.py`"
 " (``plot_watershed_segmentation.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_image_processing_auto_examples_plot_watershed_segmentation.py`"
+" (``plot_watershed_segmentation.py``)"
 
 #: ../../scientific-python-lectures/advanced/image_processing/index.rst:10
 msgid "Image manipulation and processing using NumPy and SciPy"
@@ -6264,66 +6469,77 @@ msgstr ""
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_noisy.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_noisy.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/index.rst:39
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/index.rst:40
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_smooth.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_smooth.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/index.rst:56
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/index.rst:57
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_curve_fitting.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_curve_fitting.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/index.rst:73
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/index.rst:74
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_convex.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_convex.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/index.rst:90
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/index.rst:91
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_exercise_flat_minimum.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_exercise_flat_minimum.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/index.rst:107
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/index.rst:108
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_non_bounds_constraints.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_non_bounds_constraints.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/index.rst:124
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/index.rst:125
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_1d_optim.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_1d_optim.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/index.rst:141
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/index.rst:142
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_constraints.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_constraints.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/index.rst:158
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/index.rst:159
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_exercise_ill_conditioned.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_exercise_ill_conditioned.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/index.rst:175
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/index.rst:176
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_compare_optimizers.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_compare_optimizers.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/index.rst:192
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/index.rst:193
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_gradient_descent.py`"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_gradient_descent.py`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/index.rst:229
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/index.rst:230
@@ -6332,6 +6548,9 @@ msgid ""
 "auto_examples_python.zip "
 "</advanced/mathematical_optimization/auto_examples/auto_examples_python.zip>`"
 msgstr ""
+":download:`Download all examples in Python source code: "
+"auto_examples_python.zip "
+"</advanced/mathematical_optimization/auto_examples/auto_examples_python.zip>`"
 
 #: ../../../../../../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/index.rst:233
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/index.rst:234
@@ -6340,6 +6559,9 @@ msgid ""
 "auto_examples_jupyter.zip "
 "</advanced/mathematical_optimization/auto_examples/auto_examples_jupyter.zip>`"
 msgstr ""
+":download:`Download all examples in Jupyter notebooks: "
+"auto_examples_jupyter.zip "
+"</advanced/mathematical_optimization/auto_examples/auto_examples_jupyter.zip>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_1d_optim.rst:13
 msgid ""
@@ -6361,15 +6583,18 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_1d_optim.ipynb "
 "<plot_1d_optim.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_1d_optim.ipynb "
+"<plot_1d_optim.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_1d_optim.rst:104
 msgid ""
 ":download:`Download Python source code: plot_1d_optim.py <plot_1d_optim.py>`"
 msgstr ""
+":download:`Download Python source code: plot_1d_optim.py <plot_1d_optim.py>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_1d_optim.rst:108
 msgid ":download:`Download zipped: plot_1d_optim.zip <plot_1d_optim.zip>`"
-msgstr ""
+msgstr ":download:`Download zipped: plot_1d_optim.zip <plot_1d_optim.zip>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_compare_optimizers.rst:13
 msgid ""
@@ -6391,18 +6616,24 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_compare_optimizers.ipynb "
 "<plot_compare_optimizers.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_compare_optimizers.ipynb "
+"<plot_compare_optimizers.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_compare_optimizers.rst:142
 msgid ""
 ":download:`Download Python source code: plot_compare_optimizers.py "
 "<plot_compare_optimizers.py>`"
 msgstr ""
+":download:`Download Python source code: plot_compare_optimizers.py "
+"<plot_compare_optimizers.py>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_compare_optimizers.rst:146
 msgid ""
 ":download:`Download zipped: plot_compare_optimizers.zip "
 "<plot_compare_optimizers.zip>`"
 msgstr ""
+":download:`Download zipped: plot_compare_optimizers.zip "
+"<plot_compare_optimizers.zip>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_constraints.rst:13
 msgid ""
@@ -6424,17 +6655,22 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_constraints.ipynb "
 "<plot_constraints.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_constraints.ipynb "
+"<plot_constraints.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_constraints.rst:103
 msgid ""
 ":download:`Download Python source code: plot_constraints.py "
 "<plot_constraints.py>`"
 msgstr ""
+":download:`Download Python source code: plot_constraints.py "
+"<plot_constraints.py>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_constraints.rst:107
 msgid ""
 ":download:`Download zipped: plot_constraints.zip <plot_constraints.zip>`"
 msgstr ""
+":download:`Download zipped: plot_constraints.zip <plot_constraints.zip>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_convex.rst:13
 msgid ""
@@ -6455,15 +6691,17 @@ msgstr ""
 msgid ""
 ":download:`Download Jupyter notebook: plot_convex.ipynb <plot_convex.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_convex.ipynb <plot_convex.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_convex.rst:83
 msgid ""
 ":download:`Download Python source code: plot_convex.py <plot_convex.py>`"
 msgstr ""
+":download:`Download Python source code: plot_convex.py <plot_convex.py>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_convex.rst:87
 msgid ":download:`Download zipped: plot_convex.zip <plot_convex.zip>`"
-msgstr ""
+msgstr ":download:`Download zipped: plot_convex.zip <plot_convex.zip>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_curve_fitting.rst:13
 msgid ""
@@ -6486,17 +6724,22 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_curve_fitting.ipynb "
 "<plot_curve_fitting.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_curve_fitting.ipynb "
+"<plot_curve_fitting.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_curve_fitting.rst:73
 msgid ""
 ":download:`Download Python source code: plot_curve_fitting.py "
 "<plot_curve_fitting.py>`"
 msgstr ""
+":download:`Download Python source code: plot_curve_fitting.py "
+"<plot_curve_fitting.py>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_curve_fitting.rst:77
 msgid ""
 ":download:`Download zipped: plot_curve_fitting.zip <plot_curve_fitting.zip>`"
 msgstr ""
+":download:`Download zipped: plot_curve_fitting.zip <plot_curve_fitting.zip>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_exercise_flat_minimum.rst:13
 msgid ""
@@ -6539,18 +6782,24 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_exercise_flat_minimum.ipynb "
 "<plot_exercise_flat_minimum.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_exercise_flat_minimum.ipynb "
+"<plot_exercise_flat_minimum.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_exercise_flat_minimum.rst:109
 msgid ""
 ":download:`Download Python source code: plot_exercise_flat_minimum.py "
 "<plot_exercise_flat_minimum.py>`"
 msgstr ""
+":download:`Download Python source code: plot_exercise_flat_minimum.py "
+"<plot_exercise_flat_minimum.py>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_exercise_flat_minimum.rst:113
 msgid ""
 ":download:`Download zipped: plot_exercise_flat_minimum.zip "
 "<plot_exercise_flat_minimum.zip>`"
 msgstr ""
+":download:`Download zipped: plot_exercise_flat_minimum.zip "
+"<plot_exercise_flat_minimum.zip>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_exercise_ill_conditioned.rst:13
 msgid ""
@@ -6576,18 +6825,24 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_exercise_ill_conditioned.ipynb "
 "<plot_exercise_ill_conditioned.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_exercise_ill_conditioned.ipynb "
+"<plot_exercise_ill_conditioned.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_exercise_ill_conditioned.rst:134
 msgid ""
 ":download:`Download Python source code: plot_exercise_ill_conditioned.py "
 "<plot_exercise_ill_conditioned.py>`"
 msgstr ""
+":download:`Download Python source code: plot_exercise_ill_conditioned.py "
+"<plot_exercise_ill_conditioned.py>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_exercise_ill_conditioned.rst:138
 msgid ""
 ":download:`Download zipped: plot_exercise_ill_conditioned.zip "
 "<plot_exercise_ill_conditioned.zip>`"
 msgstr ""
+":download:`Download zipped: plot_exercise_ill_conditioned.zip "
+"<plot_exercise_ill_conditioned.zip>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_gradient_descent.rst:13
 msgid ""
@@ -6625,18 +6880,24 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_gradient_descent.ipynb "
 "<plot_gradient_descent.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_gradient_descent.ipynb "
+"<plot_gradient_descent.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_gradient_descent.rst:350
 msgid ""
 ":download:`Download Python source code: plot_gradient_descent.py "
 "<plot_gradient_descent.py>`"
 msgstr ""
+":download:`Download Python source code: plot_gradient_descent.py "
+"<plot_gradient_descent.py>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_gradient_descent.rst:354
 msgid ""
 ":download:`Download zipped: plot_gradient_descent.zip "
 "<plot_gradient_descent.zip>`"
 msgstr ""
+":download:`Download zipped: plot_gradient_descent.zip "
+"<plot_gradient_descent.zip>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_noisy.rst:13
 msgid ""
@@ -6657,14 +6918,16 @@ msgstr ""
 msgid ""
 ":download:`Download Jupyter notebook: plot_noisy.ipynb <plot_noisy.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_noisy.ipynb <plot_noisy.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_noisy.rst:69
 msgid ":download:`Download Python source code: plot_noisy.py <plot_noisy.py>`"
 msgstr ""
+":download:`Download Python source code: plot_noisy.py <plot_noisy.py>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_noisy.rst:73
 msgid ":download:`Download zipped: plot_noisy.zip <plot_noisy.zip>`"
-msgstr ""
+msgstr ":download:`Download zipped: plot_noisy.zip <plot_noisy.zip>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_non_bounds_constraints.rst:13
 msgid ""
@@ -6689,18 +6952,24 @@ msgid ""
 ":download:`Download Jupyter notebook: plot_non_bounds_constraints.ipynb "
 "<plot_non_bounds_constraints.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_non_bounds_constraints.ipynb "
+"<plot_non_bounds_constraints.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_non_bounds_constraints.rst:96
 msgid ""
 ":download:`Download Python source code: plot_non_bounds_constraints.py "
 "<plot_non_bounds_constraints.py>`"
 msgstr ""
+":download:`Download Python source code: plot_non_bounds_constraints.py "
+"<plot_non_bounds_constraints.py>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_non_bounds_constraints.rst:100
 msgid ""
 ":download:`Download zipped: plot_non_bounds_constraints.zip "
 "<plot_non_bounds_constraints.zip>`"
 msgstr ""
+":download:`Download zipped: plot_non_bounds_constraints.zip "
+"<plot_non_bounds_constraints.zip>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_smooth.rst:13
 msgid ""
@@ -6721,15 +6990,17 @@ msgstr ""
 msgid ""
 ":download:`Download Jupyter notebook: plot_smooth.ipynb <plot_smooth.ipynb>`"
 msgstr ""
+":download:`Download Jupyter notebook: plot_smooth.ipynb <plot_smooth.ipynb>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_smooth.rst:71
 msgid ""
 ":download:`Download Python source code: plot_smooth.py <plot_smooth.py>`"
 msgstr ""
+":download:`Download Python source code: plot_smooth.py <plot_smooth.py>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_smooth.rst:75
 msgid ":download:`Download zipped: plot_smooth.zip <plot_smooth.zip>`"
-msgstr ""
+msgstr ":download:`Download zipped: plot_smooth.zip <plot_smooth.zip>`"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/sg_execution_times.rst:9
 msgid ""
@@ -6742,66 +7013,88 @@ msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_1d_optim.py`"
 " (``plot_1d_optim.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_1d_optim.py`"
+" (``plot_1d_optim.py``)"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/sg_execution_times.rst:38
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_compare_optimizers.py`"
 " (``plot_compare_optimizers.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_compare_optimizers.py`"
+" (``plot_compare_optimizers.py``)"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/sg_execution_times.rst:41
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_constraints.py`"
 " (``plot_constraints.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_constraints.py`"
+" (``plot_constraints.py``)"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/sg_execution_times.rst:44
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_convex.py`"
 " (``plot_convex.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_convex.py`"
+" (``plot_convex.py``)"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/sg_execution_times.rst:47
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_curve_fitting.py`"
 " (``plot_curve_fitting.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_curve_fitting.py`"
+" (``plot_curve_fitting.py``)"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/sg_execution_times.rst:50
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_exercise_flat_minimum.py`"
 " (``plot_exercise_flat_minimum.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_exercise_flat_minimum.py`"
+" (``plot_exercise_flat_minimum.py``)"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/sg_execution_times.rst:53
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_exercise_ill_conditioned.py`"
 " (``plot_exercise_ill_conditioned.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_exercise_ill_conditioned.py`"
+" (``plot_exercise_ill_conditioned.py``)"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/sg_execution_times.rst:56
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_gradient_descent.py`"
 " (``plot_gradient_descent.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_gradient_descent.py`"
+" (``plot_gradient_descent.py``)"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/sg_execution_times.rst:59
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_noisy.py`"
 " (``plot_noisy.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_noisy.py`"
+" (``plot_noisy.py``)"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/sg_execution_times.rst:62
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_non_bounds_constraints.py`"
 " (``plot_non_bounds_constraints.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_non_bounds_constraints.py`"
+" (``plot_non_bounds_constraints.py``)"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/sg_execution_times.rst:65
 msgid ""
 ":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_smooth.py`"
 " (``plot_smooth.py``)"
 msgstr ""
+":ref:`sphx_glr_advanced_mathematical_optimization_auto_examples_plot_smooth.py`"
+" (``plot_smooth.py``)"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:9
 msgid "Mathematical optimization: finding minima of functions"
