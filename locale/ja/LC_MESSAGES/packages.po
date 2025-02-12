@@ -964,7 +964,7 @@ msgstr "Webサイト: https://scikit-image.org/"
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:115
 msgid ""
 "Gallery of examples: https://scikit-image.org/docs/stable/auto_examples/"
-msgstr ""
+msgstr "実例ギャラリー: https://scikit-image.org/docs/stable/auto_examples/"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:118
 msgid ""
@@ -972,6 +972,8 @@ msgid ""
 "utility functions to ease data handling and processing. It contains the "
 "following submodules:"
 msgstr ""
+"このライブラリには、主に画像処理アルゴリズムが含まれていますが、データの取り扱いと処理を容易にするユーティリティ関数も含まれています。 "
+"以下のサブモジュールを含みます:"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:122
 msgid ":mod:`color`"
@@ -979,7 +981,7 @@ msgstr ":mod:`color`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:123
 msgid "Color space conversion."
-msgstr ""
+msgstr "色空間の変換。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:125
 msgid ":mod:`data`"
@@ -1085,7 +1087,7 @@ msgstr ":mod:`transform`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:163
 msgid "Geometric and other transforms, e.g., rotation or the Radon transform."
-msgstr ""
+msgstr "幾何学変換やその他の変換、例えば回転やRadon変換など。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:165
 msgid ":mod:`util`"
@@ -1093,7 +1095,7 @@ msgstr ":mod:`util`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:166
 msgid "Generic utilities."
-msgstr ""
+msgstr "汎用ユーティリティ。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:172
 msgid "Importing"
