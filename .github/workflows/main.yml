@@ -39,6 +39,8 @@ jobs:
           private-key: ${{ secrets.SSH_PRIVATE_KEY }}
       - name: install
         run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends libopenblas-dev
           (cd scientific-python-lectures; git fetch origin; git checkout main; git reset --hard origin/main; git branch -a)
           pip3 install -U pip setuptools
           pip3 install -r ./requirements.txt
