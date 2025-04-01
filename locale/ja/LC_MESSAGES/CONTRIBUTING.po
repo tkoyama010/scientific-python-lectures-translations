@@ -1,0 +1,220 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025
+# This file is distributed under the same license as the Scientific Python Lectures package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2025
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Scientific Python Lectures 2024.2rc0.dev0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-01 00:13+0000\n"
+"PO-Revision-Date: 2024-11-27 19:15+0000\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
+"Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:2
+msgid "Contributing"
+msgstr "貢献"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:4
+msgid ""
+"The Scientific Python Lectures are a community-based effort and require "
+"constant maintenance and improvements. New contributions such as wording "
+"improvements or inclusion of new topics are welcome."
+msgstr ""
+"Scientific Python Lecturesはコミュニティベースの取り組みであり、常にメンテナンスと改善が必要です。 "
+"文言の改善や新しいトピックの追加など、新しい貢献を歓迎します。"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:8
+msgid ""
+"To propose bugfixes or straightforward improvements to the lectures, see the"
+" contribution guide below."
+msgstr "講義のバグフィックスや簡単な改良を提案するには、以下の投稿ガイドをご覧ください。"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:11
+msgid ""
+"For new topics, read the objectives first and `open an issue on the GitHub "
+"project <https://github.com/scipy-lectures/scientific-python-"
+"lectures/issues>`_ to discuss it with the editors."
+msgstr ""
+"新しいトピックについては、まず目的を読み、 `GitHubプロジェクト <https://github.com/scipy-"
+"lectures/scientific-python-lectures/issues>`_ にissueを発行して編集者と議論してください。"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:17
+msgid "Objectives and design choices for the lectures"
+msgstr "講義の目的とデザインの選択"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:19
+msgid ""
+"Contributors should keep the following objectives and design choices of the "
+"Scientific Python Lectures in mind."
+msgstr "投稿者は、Scientific Python Lecturesの以下の目的とデザインの選択に留意してください。"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:22
+msgid "Objectives:"
+msgstr "目的:"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:24
+msgid ""
+"Provide a self-contained introduction to Python and its primary "
+"computational packages, the ”Scientific Python stack“."
+msgstr "Pythonとその主要な計算パッケージである \"Scientific Python stack\" の自己完結型の入門書を提供します。"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:26
+msgid ""
+"Provide tutorials for a selection of widely-used and stable computational "
+"libraries. Currently, we cover pandas, statmodels, seaborn, scikit-image, "
+"scikit-learn, and sympy."
+msgstr ""
+"広く使われている安定した計算ライブラリのチュートリアルを提供します。 現在、pandas、statmodels、seaborn、scikit-"
+"image、scikit-learn、sympyを扱っています。"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:30
+msgid "Automated testing is applied to the code examples as much as possible."
+msgstr "自動テストは、可能な限りコード例に適用されます。"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:32
+msgid "Design choices:"
+msgstr "デザインの選択:"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:34
+msgid "Each chapter should provide a useful basis for a 1‒2 h tutorial."
+msgstr "各章は、1-2時間のチュートリアルに役立つ基礎となるはずです。"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:35
+msgid "The code should be readable."
+msgstr "コードは読めるものでなければなりません。"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:36
+msgid ""
+"An idiomatic style should be followed, e.g. ``import numpy as np``, "
+"preference for array operations, PEP8 coding conventions."
+msgstr ""
+"配列操作の優先順位、PEP8のコーディング規約など、慣用的なスタイル例えば  ``import numpy as np`` に従うべきです。"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:41
+msgid "Contributing guide"
+msgstr "貢献ガイド"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:43
+msgid "The directory ``guide`` contains instructions on how to contribute:"
+msgstr "ディレクトリ ``guide`` には投稿の方法が書かれています:"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:41
+msgid "**Example chapter**"
+msgstr "**例章**"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:52
+msgid "Building instructions"
+msgstr "ビルディングの指導"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:54
+msgid "To generate the html output for on-screen display, Type::"
+msgstr "画面表示用のhtml出力を生成するには、以下をタイプしてください::"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:58
+msgid "the generated html files can be found in ``build/html``"
+msgstr "生成されたhtmlファイルは ``build/html`` にあります。"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:60
+msgid ""
+"The first build takes a long time, but information is cached and subsequent "
+"builds will be faster."
+msgstr "最初のビルドには時間がかかりますが、情報はキャッシュされ、その後のビルドは速くなります。"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:63
+msgid "To generate the pdf file for printing::"
+msgstr "印刷用のpdfファイルを作成するには::"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:67
+msgid ""
+"The pdf builder is a bit difficult and you might have some TeX errors. "
+"Tweaking the layout in the ``*.rst`` files is usually enough to work around "
+"these problems."
+msgstr ""
+"pdfビルダーは少し難しく、TeXのエラーが出るかもしれません。 通常、 ``*.rst`` "
+"ファイルのレイアウトを調整することで、これらの問題を回避することができます。"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:72
+msgid "Requirements"
+msgstr "必要条件"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:74
+msgid ""
+"Build requirements are listed in the :download:`requirements file "
+"<requirements.txt>`:"
+msgstr "ビルド要件は :download:`requirements ファイル <requirements.txt>` に記載されています:"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:79
+msgid ""
+"Ensure that you have a `virtual environment "
+"<https://docs.python.org/3/library/venv.html>`__ or conda environment set "
+"up, then install requirements with::"
+msgstr ""
+"`仮想環境 <https://docs.python.org/3/library/venv.html>`__ または conda "
+"環境がセットアップされていることを確認し、次のように要件をインストールします::"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:85
+msgid "Note that you will also need the following system packages:"
+msgstr "以下のシステムパッケージも必要であることに注意してください:"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:87
+msgid ""
+"Python C development headers (the `python3-dev` package on Debian, e.g.),"
+msgstr "Python C 開発ヘッダー (Debian の `python3-dev` パッケージなど)、"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:88
+msgid "a C compiler like gcc,"
+msgstr "gccのようなCコンパイラー、"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:89
+msgid "`GNU Make <https://www.gnu.org/software/make/>`__,"
+msgstr "`GNU Make <https://www.gnu.org/software/make/>`__,"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:90
+msgid ""
+"a full LaTeX distribution such as `TeX Live "
+"<https://www.tug.org/texlive/>`__ (``texlive-latex-base``, ``texlive-latex-"
+"extra``, ``texlive-fonts-extra``, and ``latexmk`` on Debian/Ubuntu),"
+msgstr ""
+"`TeX Live <https://www.tug.org/texlive/>`__ (Debian/Ubuntuでは ``texlive-"
+"latex-base`` 、 ``texlive-latex-extra`` 、 ``texlive-fonts-extra`` 、 "
+"``latexmk``) のような完全なLaTeXディストリビューション、"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:94
+msgid "`dvipng <http://savannah.nongnu.org/projects/dvipng/>`__,"
+msgstr "`dvipng <http://savannah.nongnu.org/projects/dvipng/>`__,"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:95
+msgid "`latexmk <https://personal.psu.edu/~jcc8/software/latexmk/>`__,"
+msgstr "`latexmk <https://personal.psu.edu/~jcc8/software/latexmk/>`__,"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:96
+msgid "`git <https://git-scm.com/>`__."
+msgstr "`git <https://git-scm.com/>`__."
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:99
+msgid "Updating the cover"
+msgstr "カバーの更新"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:101
+msgid "Use inkscape to modify the cover in ``images/``, then export to PDF::"
+msgstr "inkscape を使って ``images/`` で表紙を修正し、PDFにエクスポートします::"
+
+#: ../../scientific-python-lectures/CONTRIBUTING.rst:105
+msgid ""
+"Ensure that the ``images/cover.pdf`` symlink points to the correct file."
+msgstr "``images/cover.pdf`` のシンボリックリンクが正しいファイルを指していることを確認してください。"
+
+#: ../../../../../../../tmp/<rst_epilog>:9
+msgid "|clear-floats|"
+msgstr "|clear-floats|"
