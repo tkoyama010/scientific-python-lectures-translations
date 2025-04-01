@@ -48,3 +48,53 @@ msgid ""
 msgstr ""
 ":download:`Download all examples in Jupyter notebooks: "
 "auto_examples_jupyter.zip </guide/auto_examples/auto_examples_jupyter.zip>`"
+
+#: ../../scientific-python-lectures/guide/index.rst:156
+msgid ""
+"For cross-referencing API documentation we prefer to use the `intersphinx "
+"extension <https://www.sphinx-"
+"doc.org/en/master/usage/extensions/index.html#built-in-extensions>`_. This "
+"provides the directives ``:mod:``, ``:class:`` and ``:func:`` to cross-link "
+"to modules, classes and functions respectively. For example the "
+"``:func:`numpy.var``` will create a link like :func:`numpy.var`."
+msgstr ""
+"APIドキュメントを相互参照するために、私たちは `interphinx extension <https://www.sphinx-"
+"doc.org/en/master/usage/extensions/index.html#built-in-extensions>`_ "
+"を使うことを好みます。これは ``:mod:``, ``:class:``, ``:func:`` "
+"というディレクティブを提供し、それぞれモジュール、クラス、関数にクロスリンクします。 例えば、 ``:func:`numpy.var`` は "
+":func:`numpy.var` のようなリンクを作成します。"
+
+#: ../../scientific-python-lectures/guide/index.rst:163
+msgid "Chapter, section, subsection, paragraph"
+msgstr "チャプター、セクション、サブセクション、パラグラフ"
+
+#: ../../scientific-python-lectures/guide/index.rst:165
+msgid ""
+"Try to avoid to go below paragraph granularity or your document might become"
+" difficult to read:"
+msgstr "段落の粒度を下回ると、文書が読みづらくなる可能性があるので、なるべく避けてください:"
+
+#: ../../scientific-python-lectures/guide/index.rst:189
+msgid "Admonitions"
+msgstr "警告"
+
+#: ../../scientific-python-lectures/guide/index.rst:193
+msgid "This is a note"
+msgstr "これは注釈です"
+
+#: ../../scientific-python-lectures/guide/index.rst:197
+msgid "This is a warning"
+msgstr "これは警告です"
+
+#: ../../scientific-python-lectures/guide/index.rst:200
+msgid "Clearing floats"
+msgstr "浮動をクリアする"
+
+#: ../../scientific-python-lectures/guide/index.rst:202
+msgid ""
+"Figures positioned with `:align: right` are float. To flush them, use::"
+msgstr "`:align: right` で配置された図形は浮動します。 それらをフラッシュするには:を使用します::"
+
+#: ../../scientific-python-lectures/guide/index.rst:207
+msgid "References"
+msgstr "参考文献"
