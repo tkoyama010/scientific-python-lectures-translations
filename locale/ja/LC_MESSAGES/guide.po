@@ -1,0 +1,50 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2025
+# This file is distributed under the same license as the Scientific Python Lectures package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2025
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Scientific Python Lectures 2024.2rc0.dev0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-01-01 00:13+0000\n"
+"PO-Revision-Date: 2024-11-27 19:15+0000\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
+"Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../scientific-python-lectures/guide/auto_examples/index.rst:4
+msgid "Examples for the contribution guide"
+msgstr "コントリビューションガイドの例"
+
+#: ../../scientific-python-lectures/guide/auto_examples/index.rst:6
+msgid "Note that every example directory needs to have a README.txt"
+msgstr "すべてのexampleディレクトリにはREADME.txtが必要です。"
+
+#: ../../scientific-python-lectures/guide/auto_examples/index.rst:25
+msgid ":ref:`sphx_glr_guide_auto_examples_plot_simple.py`"
+msgstr ":ref:`sphx_glr_guide_auto_examples_plot_simple.py`"
+
+#: ../../scientific-python-lectures/guide/auto_examples/index.rst:52
+msgid ""
+":download:`Download all examples in Python source code: "
+"auto_examples_python.zip </guide/auto_examples/auto_examples_python.zip>`"
+msgstr ""
+":download:`Download all examples in Python source code: "
+"auto_examples_python.zip </guide/auto_examples/auto_examples_python.zip>`"
+
+#: ../../scientific-python-lectures/guide/auto_examples/index.rst:56
+msgid ""
+":download:`Download all examples in Jupyter notebooks: "
+"auto_examples_jupyter.zip </guide/auto_examples/auto_examples_jupyter.zip>`"
+msgstr ""
+":download:`Download all examples in Jupyter notebooks: "
+"auto_examples_jupyter.zip </guide/auto_examples/auto_examples_jupyter.zip>`"
