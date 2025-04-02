@@ -148,15 +148,6 @@ msgstr "各章の内容"
 msgid "How to contribute ?"
 msgstr "貢献するには？"
 
-#: ../../scientific-python-lectures/guide/index.rst:127
-msgid ""
-"The transformation of Python scripts into figures and galleries of examples "
-"is provided by the `sphinx-gallery <https://sphinx-"
-"gallery.readthedocs.io/>`_ package."
-msgstr ""
-"Pythonスクリプトを図や例のギャラリーに変換する機能は、 `sphinx-gallery <https://sphinx-"
-"gallery.readthedocs.io/>`_ パッケージによって提供されます。"
-
 #: ../../scientific-python-lectures/guide/index.rst:26
 msgid ""
 "If you spot typos, unclear or clumsy wording in the lectures, please help to"
@@ -306,6 +297,15 @@ msgid ""
 "You can display the corresponding code using the ``literal-include`` "
 "directive."
 msgstr "``literal-include`` ディレクティブを使えば、対応するコードを表示することができます。"
+
+#: ../../scientific-python-lectures/guide/index.rst:127
+msgid ""
+"The transformation of Python scripts into figures and galleries of examples "
+"is provided by the `sphinx-gallery <https://sphinx-"
+"gallery.readthedocs.io/>`_ package."
+msgstr ""
+"Pythonスクリプトを図や例のギャラリーに変換する機能は、 `sphinx-gallery <https://sphinx-"
+"gallery.readthedocs.io/>`_ パッケージによって提供されます。"
 
 #: ../../scientific-python-lectures/guide/index.rst:132
 msgid "Using Markup"
