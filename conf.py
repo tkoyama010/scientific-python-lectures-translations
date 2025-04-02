@@ -6,11 +6,9 @@ For example::
 
     sphinx-build -D language=ja -b html . _build/html
 
-This conf.py do:
-
+This conf.py does:
 - Specify `locale_dirs`.
-- Overrides source directory as 'scientific-python-lectures`.
-
+- Overrides source directory as `scientific-python-lectures`.
 """
 
 from pathlib import Path
