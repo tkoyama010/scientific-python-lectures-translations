@@ -157,6 +157,156 @@ msgstr ""
 "Pythonスクリプトを図や例のギャラリーに変換する機能は、 `sphinx-gallery <https://sphinx-"
 "gallery.readthedocs.io/>`_ パッケージによって提供されます。"
 
+#: ../../scientific-python-lectures/guide/index.rst:26
+msgid ""
+"If you spot typos, unclear or clumsy wording in the lectures, please help to"
+" improve them. Simple text editing can be done by `editing files in your "
+"GitHub fork <https://help.github.com/articles/editing-files-in-your-"
+"repository/>`_ of the lectures. On every html page of the lectures, an "
+"**edit** button on the top right links to the editable source of the page "
+"(you still need to create a fork of the project). Edit the source and choose"
+" \"Create a new branch for this commit and start a pull request\"."
+msgstr ""
+"もし講義中に誤字脱字、不明瞭な表現、不器用な表現を見つけたら、ぜひ改善にご協力ください。 簡単なテキスト編集は、 `GitHubのフォーク "
+"<https://help.github.com/articles/editing-files-in-your-repository/>`_ "
+"にあるファイルを編集することで行えます。 講義の各htmlページでは、右上の **edit** "
+"ボタンが編集可能なページのソースにリンクしています（プロジェクトのフォークを作成する必要があります）。 ソースを編集し、\"Create a new "
+"branch for this commit and start a pull request\" を選択してください。"
+
+#: ../../scientific-python-lectures/guide/index.rst:35
+msgid "Choose a topic that is not yet covered and write it up !"
+msgstr "まだ取り上げられていないトピックを選び、それを書き上げる！"
+
+#: ../../scientific-python-lectures/guide/index.rst:37
+msgid ""
+"First create a new issue on GitHub to explain the topic which you would like"
+" to cover, in order to discuss with editors and contributors about the scope"
+" of the future tutorial."
+msgstr ""
+"将来のチュートリアルの範囲について編集者やコントリビューターと議論するために、まずGitHubに新しいissueを作成し、取り上げたいトピックについて説明してください。"
+
+#: ../../scientific-python-lectures/guide/index.rst:41
+msgid ""
+"Then create a new directory inside one of the chapters directories "
+"(``intro``, ``advanced``, or ``packages``) and create a file ``index.rst`` "
+"for the new tutorial. Add the new file in the table of contents of the "
+"corresponding chapter (in its ``index.rst``)."
+msgstr ""
+"次に、各章のディレクトリ（ ``intro``、```advanced``、``packages`` "
+"）の中に新しいディレクトリを作成し、新しいチュートリアル用のファイル ``index.rst`` を作成します。 新しいファイルを対応する章の目次（ "
+"``index.rst`` 内）に追加してください。"
+
+#: ../../scientific-python-lectures/guide/index.rst:46
+msgid ""
+"Keep in mind that tutorials are to be taught at different places and "
+"different parts may be combined into a course on Python for scientific "
+"computing. Thus you want them to be interactive and reasonably short (one to"
+" two hours)."
+msgstr ""
+"チュートリアルはさまざまな場所で行われ、さまざまな部分が科学計算のためのPythonのコースに統合される可能性があることに留意してください。 "
+"そのため、チュートリアルはインタラクティブで、適度な短さ（1～2時間）にしたいものです。"
+
+#: ../../scientific-python-lectures/guide/index.rst:51
+msgid ""
+"Last but not least, the goal of this material is to provide a concise text "
+"to learn the main features of the scientific Python ecosystem. If you want "
+"to contribute to reference material, we suggest that you contribute to the "
+"documentation of the specific packages that you are interested in."
+msgstr ""
+"最後になりますが、この資料の目的は、科学的なPythonエコシステムの主な機能を学ぶための簡潔なテキストを提供することです。 "
+"参考資料に貢献したい場合は、興味のある特定のパッケージのドキュメントに貢献することをお勧めします。"
+
+#: ../../scientific-python-lectures/guide/index.rst:58
+msgid "Using GitHub"
+msgstr "GitHub を使用する"
+
+#: ../../scientific-python-lectures/guide/index.rst:60
+msgid ""
+"The easiest way to make your own version of this teaching material is to "
+"fork it under GitHub, and use the git version control system to maintain "
+"your own fork. For this, all you have to do is create an account on GitHub "
+"and click on the *fork* button, on the top right of `this page "
+"<https://github.com/scipy-lectures/scientific-python-lectures>`_. You can "
+"use git to pull from your *fork*, and push back to it the changes. If you "
+"want to contribute the changes back, just fill a *pull request*, using the "
+"button on the top of your fork's page."
+msgstr ""
+"この教材の自分のバージョンを作る最も簡単な方法は、GitHubでフォークし、gitバージョン管理システムを使って自分のフォークを管理することです。 "
+"そのためには、GitHubでアカウントを作成し、 `このページ <https://github.com/scipy-"
+"lectures/scientific-python-lectures>`_ の右上にある *fork* ボタンをクリックするだけです。 gitを使って"
+" *fork* からプルし、変更をプッシュバックすることができます。 "
+"もしあなたがその変更点を寄稿して戻したいのであれば、あなたのフォークのページの一番上にあるボタンを使って、 *pull request* "
+"を記入してください。"
+
+#: ../../scientific-python-lectures/guide/index.rst:68
+msgid ""
+"Several resources are available online to learn git and GitHub, such as "
+"https://try.github.io for complete beginners."
+msgstr ""
+"gitとGitHubを学ぶためのリソースは、全くの初心者向けの https://try.github.io など、オンラインでいくつか入手できます。"
+
+#: ../../scientific-python-lectures/guide/index.rst:71
+msgid ""
+"Please refrain from modifying the Makefile unless it is absolutely "
+"necessary."
+msgstr "どうしても必要な場合を除き、Makefileの改変は控えてください。"
+
+#: ../../scientific-python-lectures/guide/index.rst:75
+msgid "Keeping it concise: collapsing paragraphs"
+msgstr "簡潔さを保つ: 段落の折りたたみ"
+
+#: ../../scientific-python-lectures/guide/index.rst:77
+msgid ""
+"The HTML output is used for displaying on screen while teaching. The goal is"
+" to have the same material displayed as in the notes. Thus there needs to be"
+" a very concise display, with bullet-lists rather than full-blown paragraphs"
+" and sentences. For more elaborate discussions that people can read and "
+"refer to, please use the ``tip`` sphinx directive. It creates collapsible "
+"paragraphs, that can be hidden during an oral presentation::"
+msgstr ""
+"HTML出力は、授業中にスクリーンに表示するために使用します。目標は、ノートと同じ内容を表示することです。 "
+"そのため、本格的な段落や文章ではなく、箇条書きで非常に簡潔に表示する必要があります。 人々が読んだり参照したりできるような、より詳細な議論には "
+"``tip`` sphinx ディレクティブを使ってください。 これは折りたたみ可能な段落を作成し、口頭発表の際に隠すことができます::"
+
+#: ../../scientific-python-lectures/guide/index.rst:92
+msgid "This renders as:"
+msgstr "これは以下のようにレンダリングされます:"
+
+#: ../../scientific-python-lectures/guide/index.rst:96
+msgid ""
+"Here insert a full-blown discussion, that will be collapsible in the HTML "
+"version."
+msgstr "ここに本格的な議論を挿入します、そしてHTML版では折りたたみ式になります。"
+
+#: ../../scientific-python-lectures/guide/index.rst:99
+msgid "It can span on multiple paragraphs"
+msgstr "複数の段落にまたがることができます"
+
+#: ../../scientific-python-lectures/guide/index.rst:102
+msgid "Figures and code examples"
+msgstr "図とコード例"
+
+#: ../../scientific-python-lectures/guide/index.rst:104
+msgid ""
+"**We do not check figures in the repository**. Any figure must be generated "
+"from a python script that needs to be named ``plot_xxx.py`` (xxx can be "
+"anything of course) and put into the ``examples`` directory. The generated "
+"image will be named from the script name."
+msgstr ""
+" **リポジトリ内の数値はチェックしていません** 。どの図も ``plot_xxx.py`` という名前の python "
+"スクリプトから生成されなければなりません (xxx はもちろん何でもかまいません) そして、 ``examples`` ディレクトリに置きます。 "
+"生成される画像はスクリプト名から命名されます。"
+
+#: ../../scientific-python-lectures/guide/index.rst:113
+msgid "This is the way to include your image and link it to the code:"
+msgstr "これは、画像を入れてコードにリンクする方法です:"
+
+#: ../../scientific-python-lectures/guide/index.rst:120
+msgid ""
+"You can display the corresponding code using the ``literal-include`` "
+"directive."
+msgstr "``literal-include`` ディレクティブを使えば、対応するコードを表示することができます。"
+
 #: ../../scientific-python-lectures/guide/index.rst:132
 msgid "Using Markup"
 msgstr "Markup を使用する"
