@@ -144,6 +144,12 @@ msgstr "見出し語には ``topic`` キーワードを使用します。"
 msgid "Chapters contents"
 msgstr "各章の内容"
 
+#: ../../scientific-python-lectures/guide/index.rst:19
+msgid ""
+"Make sure to read this `Documentation style guide`_ as well as these `tips, "
+"tricks`_ and conventions about documentation content and workflows."
+msgstr ""
+
 #: ../../scientific-python-lectures/guide/index.rst:24
 msgid "How to contribute ?"
 msgstr "貢献するには？"
