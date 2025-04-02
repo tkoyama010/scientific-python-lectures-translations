@@ -72,6 +72,90 @@ msgstr ""
 msgid "A simple example"
 msgstr "簡単な例"
 
+#: ../../scientific-python-lectures/guide/auto_examples/plot_simple.rst:47
+msgid ""
+":download:`Download Jupyter notebook: plot_simple.ipynb <plot_simple.ipynb>`"
+msgstr ""
+":download:`Download Jupyter notebook: plot_simple.ipynb <plot_simple.ipynb>`"
+
+#: ../../scientific-python-lectures/guide/auto_examples/plot_simple.rst:51
+msgid ""
+":download:`Download Python source code: plot_simple.py <plot_simple.py>`"
+msgstr ""
+":download:`Download Python source code: plot_simple.py <plot_simple.py>`"
+
+#: ../../scientific-python-lectures/guide/auto_examples/plot_simple.rst:55
+msgid ":download:`Download zipped: plot_simple.zip <plot_simple.zip>`"
+msgstr ":download:`Download zipped: plot_simple.zip <plot_simple.zip>`"
+
+#: ../../scientific-python-lectures/guide/auto_examples/sg_execution_times.rst:8
+msgid "Computation times"
+msgstr "計算時間"
+
+#: ../../scientific-python-lectures/guide/auto_examples/sg_execution_times.rst:9
+msgid ""
+"**00:00.000** total execution time for 1 file **from guide/auto_examples**:"
+msgstr ""
+"**00:00.000** total execution time for 1 file **from guide/auto_examples**:"
+
+#: ../../scientific-python-lectures/guide/auto_examples/sg_execution_times.rst:32
+msgid "Example"
+msgstr "例"
+
+#: ../../scientific-python-lectures/guide/auto_examples/sg_execution_times.rst:33
+msgid "Time"
+msgstr "Time"
+
+#: ../../scientific-python-lectures/guide/auto_examples/sg_execution_times.rst:34
+msgid "Mem (MB)"
+msgstr "Mem (MB)"
+
+#: ../../scientific-python-lectures/guide/auto_examples/sg_execution_times.rst:35
+msgid ""
+":ref:`sphx_glr_guide_auto_examples_plot_simple.py` (``plot_simple.py``)"
+msgstr ""
+":ref:`sphx_glr_guide_auto_examples_plot_simple.py` (``plot_simple.py``)"
+
+#: ../../scientific-python-lectures/guide/auto_examples/sg_execution_times.rst:36
+msgid "00:00.000"
+msgstr "00:00.000"
+
+#: ../../scientific-python-lectures/guide/auto_examples/sg_execution_times.rst:37
+msgid "0.0"
+msgstr "0.0"
+
+#: ../../scientific-python-lectures/guide/index.rst:5
+msgid "How to contribute"
+msgstr "貢献方法"
+
+#: ../../scientific-python-lectures/guide/index.rst:7
+msgid "**Author**: *Nicolas Rougier*"
+msgstr "**Author**: *Nicolas Rougier*"
+
+#: ../../scientific-python-lectures/guide/index.rst-1
+msgid "Foreword"
+msgstr "序文"
+
+#: ../../scientific-python-lectures/guide/index.rst:11
+msgid "Use the ``topic`` keyword for any forewords"
+msgstr "見出し語には ``topic`` キーワードを使用します。"
+
+#: ../../scientific-python-lectures/guide/index.rst:17
+msgid "Chapters contents"
+msgstr "各章の内容"
+
+#: ../../scientific-python-lectures/guide/index.rst:19
+msgid ""
+"Make sure to read this `Documentation style guide`_ as well as these `tips, "
+"tricks`_ and conventions about documentation content and workflows."
+msgstr ""
+"`Documentation style guide`_ や、ドキュメンテーションの内容やワークフローに関する `tips, tricks`_ "
+"、規約を必ずお読みください。"
+
+#: ../../scientific-python-lectures/guide/index.rst:24
+msgid "How to contribute ?"
+msgstr "貢献するには？"
+
 #: ../../scientific-python-lectures/guide/index.rst:127
 msgid ""
 "The transformation of Python scripts into figures and galleries of examples "
