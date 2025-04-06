@@ -6218,7 +6218,7 @@ msgstr ""
 msgid ""
 "Sympy documentation and packages for installation can be found on "
 "https://www.sympy.org/"
-msgstr ""
+msgstr "Sympy のドキュメントとインストール用パッケージは https://www.sympy.org/ にあります。"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:38
 msgid "First Steps with SymPy"
