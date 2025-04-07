@@ -7,6 +7,9 @@ build:
   apt_packages:
     - gfortran
     - libopenblas-dev
+  jobs:
+    post_create_environment:
+      - cp -a locales scientific-python-lectures/
 
 submodules:
   include:
@@ -14,7 +17,7 @@ submodules:
   recursive: true
 
 sphinx:
-  configuration: conf.py
+  configuration: scientific-python-lectures/conf.py
 
 python:
   install:
