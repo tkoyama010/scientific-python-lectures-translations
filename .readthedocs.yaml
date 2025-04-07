@@ -9,7 +9,7 @@ build:
     - libopenblas-dev
   jobs:
     post_create_environment:
-      - cp -a locale scientific-python-lectures/
+      - cp -a locales scientific-python-lectures/
 
 submodules:
   include:

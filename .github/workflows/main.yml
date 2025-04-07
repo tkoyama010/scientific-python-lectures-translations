@@ -53,7 +53,7 @@ jobs:
           SPHINXINTL_TRANSIFEX_PROJECT_NAME: scientific-python-lectures-doc
           TX_TOKEN: ${{ secrets.TX_TOKEN }}
         run: |
-          sh ./locale/update.sh
+          sh ./locales/update.sh
       - name: git_config
         run: |
           git config --global user.email $GITHUB_REPOSITORY
