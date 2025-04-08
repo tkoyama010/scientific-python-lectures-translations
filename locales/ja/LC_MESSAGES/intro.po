@@ -371,18 +371,18 @@ msgstr "非常に豊富な科学計算ライブラリ"
 msgid ""
 "Well thought out language, allowing to write very readable and well "
 "structured code: we \"code what we think\"."
-msgstr ""
+msgstr "考え抜かれた言語、非常に読みやすく、構造化されたコードを書くことができます: 私たちは \"自分たちが考えていることをコード化します\" 。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:126
 msgid ""
 "Many libraries beyond scientific computing (web server, serial port access, "
 "etc.)"
-msgstr ""
+msgstr "科学計算以外の多くのライブラリ (ウェブサーバー、シリアルポートアクセスなど)"
 
 #: ../../scientific-python-lectures/intro/intro.rst:129
 msgid ""
 "Free and open-source software, widely spread, with a vibrant community."
-msgstr ""
+msgstr "フリーでオープンソースのソフトウェアで、広く普及し、活気あるコミュニティがあります。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:131
 msgid ""
@@ -392,12 +392,17 @@ msgid ""
 "<https://www.jetbrains.com/pycharm>`__, `Visual Studio Code "
 "<https://code.visualstudio.com/docs/languages/python>`__"
 msgstr ""
+"`IPython <https://ipython.readthedocs.io/en/stable/>`__, `Spyder "
+"<https://www.spyder-ide.org/>`__, `Jupyter notebooks "
+"<https://jupyter.org/>`__, `Pycharm <https://www.jetbrains.com/pycharm>`__, "
+"`Visual Studio Code <https://code.visualstudio.com/docs/languages/python>`__"
+" など、さまざまな強力な環境で仕事ができます"
 
 #: ../../scientific-python-lectures/intro/intro.rst:140
 msgid ""
 "Not all the algorithms that can be found in more specialized software or "
 "toolboxes."
-msgstr ""
+msgstr "より専門的なソフトウェアやツールボックスにあるようなアルゴリズムばかりではありません。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:144
 msgid "The scientific Python ecosystem"
@@ -1779,16 +1784,16 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/language/oop.rst:2
 msgid "Object-oriented programming (OOP)"
-msgstr ""
+msgstr "オブジェクト指向プログラミング (OOP)"
 
 #: ../../scientific-python-lectures/intro/language/oop.rst:4
 msgid ""
 "Python supports object-oriented programming (OOP). The goals of OOP are:"
-msgstr ""
+msgstr "Pythonはオブジェクト指向プログラミング (OOP) をサポートしています。 OOPの目標は以下の通りです:"
 
 #: ../../scientific-python-lectures/intro/language/oop.rst:6
 msgid "to organize the code, and"
-msgstr ""
+msgstr "コードを整理し、"
 
 #: ../../scientific-python-lectures/intro/language/oop.rst:8
 msgid "to reuse code in similar contexts."
