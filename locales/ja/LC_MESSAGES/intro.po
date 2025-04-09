@@ -1797,7 +1797,7 @@ msgstr "コードを整理し、"
 
 #: ../../scientific-python-lectures/intro/language/oop.rst:8
 msgid "to reuse code in similar contexts."
-msgstr ""
+msgstr "同じような文脈でコードを再利用するためです。"
 
 #: ../../scientific-python-lectures/intro/language/oop.rst:11
 msgid ""
