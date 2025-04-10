@@ -5526,7 +5526,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:53
 msgid "**Why Python for statistics?**"
-msgstr ""
+msgstr "**なぜ統計にPythonなのか？**"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:55
 msgid ""
@@ -5537,10 +5537,12 @@ msgid ""
 "text mining, or control of a physical experiment, the richness of Python is "
 "an invaluable asset."
 msgstr ""
+"Rは統計に特化した言語です。 Pythonは統計モジュールを備えた汎用言語です。 RはPythonよりも統計解析機能が豊富で、特殊な構文もあります。 "
+"しかし、統計と画像解析、テキストマイニング、物理実験の制御などを組み合わせた複雑な解析パイプラインを構築する場合、Pythonの豊富さは貴重な資産となります。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:65
 msgid "Contents"
-msgstr ""
+msgstr "各章"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:69
 msgid "In this document, the Python inputs are represented with the sign \">>>\"."
@@ -5559,11 +5561,11 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:82
 msgid "Data representation and interaction"
-msgstr ""
+msgstr "データ表現とインタラクション"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:85
 msgid "Data as a table"
-msgstr ""
+msgstr "テーブルとしてのデータ"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:87
 msgid ""
@@ -5573,10 +5575,14 @@ msgid ""
 " giving the different attributes of the data, and rows the observations. For"
 " instance, the data contained in :download:`examples/brain_size.csv`:"
 msgstr ""
+"統計分析で考慮する設定は、異なる *attributes* または *features* のセットによって記述された複数の *observations*"
+" または *samples* "
+"です。データは2次元の表として見ることができる、または行列で、列はデータのさまざまな属性を示します、そして観測結果を並べます。 例えば、 "
+":download:`examples/brain_size.csv` に含まれるデータは:"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:100
 msgid "The pandas data-frame"
-msgstr ""
+msgstr "pandasのデータフレーム"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:104
 msgid ""
@@ -5586,18 +5592,21 @@ msgid ""
 "array as it has named columns, can contain a mixture of different data types"
 " by column, and has elaborate selection and pivotal mechanisms."
 msgstr ""
+"このデータを `pandas <https://pandas.pydata.org>`__ モジュールから "
+":class:`pandas.DataFrame` に保存し、操作します。 これはPythonのスプレッドシートテーブルに相当します。2次元の "
+"``numpy`` 配列とは異なり、名前付きカラムを持ち、カラムごとに異なるデータ型を混在させることができ、精巧な選択機構とピボット機構を持っています。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:112
 msgid "Creating dataframes: reading data files or converting arrays"
-msgstr ""
+msgstr "データフレームの作成: データファイルの読み込み、配列の変換"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst-1
 msgid "**Separator**"
-msgstr ""
+msgstr "**セパレータ**"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:116
 msgid "It is a CSV file, but the separator is \";\""
-msgstr ""
+msgstr "CSVファイルですが、セパレータは \";\" です。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:118
 msgid ""
@@ -5605,10 +5614,12 @@ msgid ""
 "observations of brain size and weight and IQ (Willerman et al. 1991), the "
 "data are a mixture of numerical and categorical values::"
 msgstr ""
+"**CSVファイルからの読み込み:** 脳の大きさ、重さ、IQを示す上記のCSVファイルを使用します (Willerman et al. 1991), "
+"データは数値とカテゴリー値の混合です::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:133
 msgid "**Missing values**"
-msgstr ""
+msgstr "**欠損値**"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:135
 msgid ""
