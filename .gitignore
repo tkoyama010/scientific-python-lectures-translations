@@ -1,8 +1,8 @@
 *.png
 _build/*
-locale/**/*.mo
-locale/pot/.doctrees
-locale/pot/_images/*
-locale/pot/_sphinx_design_static/*
-locale/pot/_static/*
+locales/**/*.mo
+locales/pot/.doctrees
+locales/pot/_images/*
+locales/pot/_sphinx_design_static/*
+locales/pot/_static/*
 tx
