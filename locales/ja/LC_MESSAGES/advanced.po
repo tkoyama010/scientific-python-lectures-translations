@@ -2918,7 +2918,7 @@ msgstr ""
 #: ../../scientific-python-lectures/advanced/debugging/index.rst:7
 #: ../../scientific-python-lectures/advanced/optimizing/index.rst:11
 msgid "**Author**: *Gaël Varoquaux*"
-msgstr ""
+msgstr "**Author**: *Gaël Varoquaux*"
 
 #: ../../scientific-python-lectures/advanced/debugging/index.rst:9
 msgid ""

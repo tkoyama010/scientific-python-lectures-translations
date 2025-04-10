@@ -798,7 +798,7 @@ msgstr "``scikit-image``: 画像処理"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:15
 msgid "**Author**: *Emmanuelle Gouillart*"
-msgstr "**Author**: *Emmanuelle Gouillart*"
+msgstr "**著者**: *Emmanuelle Gouillart*"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:17
 msgid ""
@@ -2980,7 +2980,7 @@ msgstr "scikit-learn: Pythonで機械学習"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:7
 msgid "**Authors**: *Gael Varoquaux*"
-msgstr ""
+msgstr "**著者**: *Gael Varoquaux*"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:5
 msgid "Prerequisites"
@@ -3057,6 +3057,9 @@ msgid ""
 "learn to behave more intelligently by somehow **generalizing** rather that "
 "just storing and retrieving data items like a database system would do."
 msgstr ""
+"機械学習は、 **人工知能** "
+"のサブフィールドと考えることができます。なぜなら、これらのアルゴリズムは、データベースシステムが行うようなデータ項目の保存と検索を行うだけでなく、何らかの方法で"
+" **一般化** することによって、より知的な振る舞いをコンピュータに学習させるためのビルディングブロックと考えることができるからです。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:70
 msgid "A classification problem"
@@ -3694,11 +3697,11 @@ msgstr "**質問**"
 msgid ""
 "Given these projections of the data, which numbers do you think a classifier"
 " might have trouble distinguishing?"
-msgstr ""
+msgstr "このようなデータ予測があった場合、分類器が識別に苦労しそうな数字はどれだと思いますか？"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:544
 msgid "Gaussian Naive Bayes Classification"
-msgstr ""
+msgstr "Gaussian単純ベイズ分類器"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:546
 msgid ""
@@ -3708,6 +3711,7 @@ msgid ""
 "If not, we can use the results of the simple method to give us clues about "
 "our data."
 msgstr ""
+"ほとんどの分類問題では、ベースライン分類を素早く提供するシンプルで高速な方法があるといいです。シンプルで高速な方法で十分なら、より複雑なモデルでCPUサイクルを浪費する必要はありません。そうでない場合は、単純な方法の結果から、データについての手がかりを得ることができます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:552
 msgid ""
@@ -5464,19 +5468,19 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:17
 msgid "Statistics in Python"
-msgstr ""
+msgstr "Pythonで統計"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:19
 msgid "**Author**: *Gaël Varoquaux*"
-msgstr ""
+msgstr "**著者**: *Gaël Varoquaux*"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst-1
 msgid "**Requirements**"
-msgstr ""
+msgstr "**必要条件**"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:23
 msgid "Standard scientific Python environment (NumPy, SciPy, matplotlib)"
-msgstr ""
+msgstr "標準的な科学的Python環境 (NumPy, SciPy, matplotlib)"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:25
 msgid "`Pandas <https://pandas.pydata.org/>`__"
@@ -5496,6 +5500,9 @@ msgid ""
 "`Anaconda Python <https://www.anaconda.com/distribution/>`_ or, preferably, "
 "use the package manager if you are under Ubuntu or other linux."
 msgstr ""
+"Pythonとこれらの依存関係をインストールするには、 `Anaconda Python "
+"<https://www.anaconda.com/distribution/>`_ "
+"をダウンロードするか、Ubuntuやその他のlinuxを使用している場合は、パッケージマネージャを使用することをお勧めします。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:37
 msgid ""
@@ -5504,6 +5511,9 @@ msgid ""
 "<https://docs.pymc.io/>`_, which implements a probabilistic programming "
 "language in Python."
 msgstr ""
+"**Pythonによるベイズ統計** : この章では、ベイズ統計のツールは扱いません。 "
+"ベイズモデリングで特に興味深いのは、Pythonで確率的プログラミング言語を実装した `PyMC <https://docs.pymc.io/>`_ "
+"です。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:43
 msgid ""
@@ -5511,6 +5521,8 @@ msgid ""
 "<https://greenteapress.com/wp/think-stats-2e>`_ book is available as free "
 "PDF or in print and is a great introduction to statistics."
 msgstr ""
+"**統計の本を読む**: `Think stats <https://greenteapress.com/wp/think-stats-2e>`_ "
+"ブックは無料のPDFまたは印刷物で入手でき、統計学の入門書として最適です。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:53
 msgid "**Why Python for statistics?**"
@@ -6176,7 +6188,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/sympy.rst:10
 msgid "**Author**: *Fabian Pedregosa*"
-msgstr ""
+msgstr "**著者**: *Fabian Pedregosa*"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:8
 msgid "Objectives"
