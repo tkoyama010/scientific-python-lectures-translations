@@ -5627,6 +5627,7 @@ msgid ""
 "specify the missing value (NA = not available) marker, we will not be able "
 "to do statistical analysis."
 msgstr ""
+"2人目の体重がCSVファイルにありません。欠損値 (NA = not available) マーカーを指定しなければ、統計分析はできません。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:141
 msgid ""
@@ -5634,10 +5635,12 @@ msgid ""
 "dictionary of 1D 'series', eg arrays or lists. If we have 3 ``numpy`` "
 "arrays::"
 msgstr ""
+"**配列からの作成**: :class:`pandas.DataFrame` は、配列やリストなどの1次元の 'series' "
+"の辞書と見なすこともできます。 3つの ``numpy`` 配列があるとします::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:150
 msgid "We can expose them as a :class:`pandas.DataFrame`::"
-msgstr ""
+msgstr ":class:`pandas.DataFrame` として触れることができます::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:167
 msgid ""
@@ -5645,31 +5648,36 @@ msgid ""
 " SQL, excel files, or other formats. See the `pandas documentation "
 "<https://pandas.pydata.org>`__."
 msgstr ""
+"**その他のインプット**: `pandas <https://pandas.pydata.org>`__ "
+"はSQL、エクセルファイル、その他のフォーマットからデータを入力することができます。 `pandas documentation "
+"<https://pandas.pydata.org>`__ を参照してください。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:174
 msgid "Manipulating data"
-msgstr ""
+msgstr "データの操作"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:176
 msgid "`data` is a :class:`pandas.DataFrame`, that resembles R's dataframe::"
-msgstr ""
+msgstr "`data` は :class:`pandas.DataFrame` で、Rのデータフレームに似ています::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:198
 msgid ""
 "For a quick view on a large dataframe, use its `describe` method: "
 ":meth:`pandas.DataFrame.describe`."
 msgstr ""
+"大きなデータフレームを素早く表示するには、 `describe` メソッドを使用します: "
+":meth:`pandas.DataFrame.describe`."
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:203
 msgid ""
 "**groupby**: splitting a dataframe on values of categorical variables::"
-msgstr ""
+msgstr "**groupby**: カテゴリ変数の値に関するデータフレームの分割::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:212
 msgid ""
 "`groupby_gender` is a powerful object that exposes many operations on the "
 "resulting group of dataframes::"
-msgstr ""
+msgstr "`groupby_gender` は、結果のデータフレーム群に対する多くの操作を公開する強力なオブジェクトです::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:224
 msgid ""
@@ -5678,41 +5686,45 @@ msgid ""
 "missing values in different subsets) or sum.  Groupby evaluation is lazy, no"
 " work is done until an aggregation function is applied."
 msgstr ""
+"`groupby_gender` でタブコンプリートを使えば、さらに検索できます。その他の一般的なグループ化関数には、median、count "
+"(異なるサブセットにおける欠損値の量を確認するのに便利です)、sumがあります。Groupbyの評価は遅延的であり、集約関数が適用されるまでは何も行われません。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst-1
 #: ../../scientific-python-lectures/packages/statistics/index.rst:174
 msgid "**Exercise**"
-msgstr ""
+msgstr "**例題**"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:242
 msgid "What is the mean value for VIQ for the full population?"
-msgstr ""
+msgstr "全母集団のVIQの平均値は？"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:243
 msgid "How many males/females were included in this study?"
-msgstr ""
+msgstr "この研究には何人の男女が参加しましたか？"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:245
 msgid ""
 "**Hint** use 'tab completion' to find out the methods that can be called, "
 "instead of 'mean' in the above example."
-msgstr ""
+msgstr "**ヒント** 上記の例では、 'mean' の代わりに 'tab completion' を使って、呼び出せるメソッドを調べます。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:248
 msgid ""
 "What is the average value of MRI counts expressed in log units, for males "
 "and females?"
-msgstr ""
+msgstr "男性と女性のMRI回数の平均値を対数単位で表すと？"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:253
 msgid ""
 "`groupby_gender.boxplot` is used for the plots above (see `this example "
 "<auto_examples/plot_pandas.html>`_)."
 msgstr ""
+"上記のプロットには `groupby_gender.boxplot` が使用されています ( `この例 "
+"<auto_examples/plot_pandas.html>`_ を参照)。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:259
 msgid "Plotting data"
-msgstr ""
+msgstr "データのプロット"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:263
 msgid ""
@@ -5720,10 +5732,12 @@ msgid ""
 "matplotlib behind the scene) to display statistics of the data in "
 "dataframes:"
 msgstr ""
+"Pandasには、データフレーム内のデータの統計情報を表示するためのプロットツール (:mod:`pandas.plotting`, "
+"裏でmatplotlibを使います) が用意されています:"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:267
 msgid "**Scatter matrices**::"
-msgstr ""
+msgstr "**散布図行列**::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst-1
 msgid "**Two populations**"
@@ -6084,17 +6098,19 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:776
 msgid "Pairplot: scatter matrices"
-msgstr ""
+msgstr "Pairplot: 散布行列"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:778
 msgid ""
 "We can easily have an intuition on the interactions between continuous "
 "variables using :func:`seaborn.pairplot` to display a scatter matrix::"
 msgstr ""
+"連続変数間の相互作用散布行列を表示するために :func:`seaborn.pairplot` "
+"を使用することにより、私たちは簡単に直感を持つことができます::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:791
 msgid "Categorical variables can be plotted as the hue::"
-msgstr ""
+msgstr "カテゴリー変数は、色相としてプロットすることができます::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:776
 msgid "**Look and feel and matplotlib settings**"
