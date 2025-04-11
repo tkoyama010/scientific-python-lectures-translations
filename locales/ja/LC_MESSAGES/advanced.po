@@ -1017,7 +1017,7 @@ msgstr ""
 #: ../../scientific-python-lectures/advanced/image_processing/index.rst:219
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst-1
 msgid "**Exercise**"
-msgstr ""
+msgstr "**例題**"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:696
 msgid "using only ``as_strided``.::"
