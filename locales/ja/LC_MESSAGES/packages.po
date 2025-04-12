@@ -5741,21 +5741,21 @@ msgstr "**散布図行列**::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst-1
 msgid "**Two populations**"
-msgstr ""
+msgstr "**2つの人口**"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:301
 msgid "The IQ metrics are bimodal, as if there are 2 sub-populations."
-msgstr ""
+msgstr "IQの指標は二峰性で、まるで2つの下位集団があるかのようです。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:311
 msgid ""
 "Plot the scatter matrix for males only, and for females only. Do you think "
 "that the 2 sub-populations correspond to gender?"
-msgstr ""
+msgstr "男性のみ、女性のみの散布行列をプロットします。2つのサブ集団は性別に対応していると思いますか？"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:316
 msgid "Hypothesis testing: comparing two groups"
-msgstr ""
+msgstr "仮説検証: 2つのグループの比較"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:318
 msgid ""
@@ -5764,6 +5764,9 @@ msgid ""
 "use the :mod:`scipy.stats` sub-module of `SciPy "
 "<https://docs.scipy.org/doc/>`_::"
 msgstr ""
+"`単純な統計検定 <https://en.wikipedia.org/wiki/Statistical_hypothesis_testing>`_ "
+"には、`SciPy <https://docs.scipy.org/doc/>`_ の :mod:`scipy.stats` "
+"サブモジュールを使用します::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:327
 msgid ""
