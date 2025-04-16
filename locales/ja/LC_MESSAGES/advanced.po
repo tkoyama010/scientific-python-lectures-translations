@@ -150,6 +150,8 @@ msgid ""
 "**00:00.000** total execution time for 1 file **from "
 "advanced/advanced_numpy/auto_examples**:"
 msgstr ""
+"**00:00.000** total execution time for 1 file **from "
+"advanced/advanced_numpy/auto_examples**:"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/auto_examples/sg_execution_times.rst:32
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/sg_execution_times.rst:32
@@ -274,6 +276,8 @@ msgid ""
 "Understanding how it works in detail helps in making efficient use of its "
 "flexibility, taking useful shortcuts."
 msgstr ""
+"NumPyは、Pythonの科学的ツール群の基盤となっています。 その目的は、メモリブロック内の多数のアイテムに対する効率的な操作を実装することです。 "
+"その仕組みを詳しく理解することで、柔軟性を効率的に活用し、便利なショートカットを利用することができます。"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:20
 msgid "This section covers:"
@@ -310,14 +314,14 @@ msgstr "前提条件"
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:38
 #: ../../scientific-python-lectures/advanced/debugging/index.rst:17
 msgid "NumPy"
-msgstr ""
+msgstr "NumPy"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:39
 #: ../../scientific-python-lectures/advanced/interfacing_with_c/interfacing_with_c.rst:622
 #: ../../scientific-python-lectures/advanced/interfacing_with_c/interfacing_with_c.rst:829
 #: ../../scientific-python-lectures/advanced/interfacing_with_c/interfacing_with_c.rst:908
 msgid "Cython"
-msgstr ""
+msgstr "Cython"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:40
 msgid "Pillow (Python imaging library, used in a couple of examples)"
@@ -470,7 +474,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:181
 msgid "chunk_id"
-msgstr ""
+msgstr "chunk_id"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:181
 msgid "``\"RIFF\"``"
@@ -478,7 +482,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:182
 msgid "chunk_size"
-msgstr ""
+msgstr "chunk_size"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:182
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:185
@@ -499,7 +503,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:184
 msgid "fmt_id"
-msgstr ""
+msgstr "fmt_id"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:184
 msgid "``\"fmt \"``"
@@ -507,11 +511,11 @@ msgstr ""
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:185
 msgid "fmt_size"
-msgstr ""
+msgstr "fmt_size"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:186
 msgid "audio_fmt"
-msgstr ""
+msgstr "audio_fmt"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:186
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:187
@@ -522,35 +526,35 @@ msgstr ""
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:187
 msgid "num_channels"
-msgstr ""
+msgstr "num_channels"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:188
 msgid "sample_rate"
-msgstr ""
+msgstr "sample_rate"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:189
 msgid "byte_rate"
-msgstr ""
+msgstr "byte_rate"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:190
 msgid "block_align"
-msgstr ""
+msgstr "block_align"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:191
 msgid "bits_per_sample"
-msgstr ""
+msgstr "bits_per_sample"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:192
 msgid "data_id"
-msgstr ""
+msgstr "data_id"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:192
 msgid "``\"data\"``"
-msgstr ""
+msgstr "``\"data\"``"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:193
 msgid "data_size"
-msgstr ""
+msgstr "data_size"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:196
 msgid "44-byte block of raw data (in the beginning of the file)"
@@ -566,7 +570,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:220
 msgid "wavreader.py"
-msgstr ""
+msgstr "wavreader.py"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:231
 msgid ""
@@ -689,30 +693,30 @@ msgstr ""
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:363
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:379
 msgid "``0x01``"
-msgstr ""
+msgstr "``0x01``"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:341
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:363
 msgid "||"
-msgstr ""
+msgstr "||"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:341
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:363
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:379
 msgid "``0x02``"
-msgstr ""
+msgstr "``0x02``"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:341
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:363
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:379
 msgid "``0x03``"
-msgstr ""
+msgstr "``0x03``"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:341
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:363
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:379
 msgid "``0x04``"
-msgstr ""
+msgstr "``0x04``"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:344
 msgid "4 of uint8, OR,"
@@ -740,7 +744,7 @@ msgstr ""
 #: ../../scientific-python-lectures/advanced/scipy_sparse/introduction.rst:55
 #: ../../scientific-python-lectures/advanced/scipy_sparse/storage_schemes.rst:39
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:351
 msgid "How to switch from one to another?"
@@ -772,7 +776,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:395
 msgid "view-colors.py"
-msgstr ""
+msgstr "view-colors.py"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:397
 msgid "You have RGBA data in an array::"
@@ -1230,7 +1234,7 @@ msgstr ""
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:995
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:1042
 msgid "``PyUfunc_f_f``"
-msgstr ""
+msgstr "``PyUfunc_f_f``"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:995
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:1042
@@ -1240,7 +1244,7 @@ msgstr ""
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:996
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:1043
 msgid "``PyUfunc_ff_f``"
-msgstr ""
+msgstr "``PyUfunc_ff_f``"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:996
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:1043
@@ -1250,7 +1254,7 @@ msgstr ""
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:997
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:1044
 msgid "``PyUfunc_d_d``"
-msgstr ""
+msgstr "``PyUfunc_d_d``"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:997
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:1044
@@ -1260,7 +1264,7 @@ msgstr ""
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:998
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:1045
 msgid "``PyUfunc_dd_d``"
-msgstr ""
+msgstr "``PyUfunc_dd_d``"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:998
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:1045
@@ -1270,7 +1274,7 @@ msgstr ""
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:999
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:1046
 msgid "``PyUfunc_D_D``"
-msgstr ""
+msgstr "``PyUfunc_D_D``"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:999
 msgid "``elementwise_func(npy_cdouble *input, npy_cdouble* output)``"
@@ -1279,7 +1283,7 @@ msgstr ""
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:1000
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:1047
 msgid "``PyUfunc_DD_D``"
-msgstr ""
+msgstr "``PyUfunc_DD_D``"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:1000
 msgid ""
@@ -1365,7 +1369,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:1073
 msgid "https://github.com/cython/cython/wiki/MarkLodato-CreatingUfuncs"
-msgstr ""
+msgstr "https://github.com/cython/cython/wiki/MarkLodato-CreatingUfuncs"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:1076
 msgid "Several accepted input types"
@@ -1381,7 +1385,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:1125
 msgid "**ufunc**"
-msgstr ""
+msgstr "**ufunc**"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:1127
 msgid "``output = elementwise_function(input)``"
@@ -1523,11 +1527,11 @@ msgstr ""
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:1263
 msgid "pilbuffer.py"
-msgstr ""
+msgstr "pilbuffer.py"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:1273
 msgid "**Q:**"
-msgstr ""
+msgstr "**Q:**"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:1275
 msgid ""
@@ -1561,7 +1565,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:1323
 msgid "::"
-msgstr ""
+msgstr "::"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:1338
 msgid "A more C-friendly variant of the array interface is also defined."

@@ -336,11 +336,11 @@ msgstr "まだ若いです。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:99
 msgid "Other scripting languages: Scilab, Octave, R, IDL, etc."
-msgstr ""
+msgstr "その他のスクリプト言語: Scilab, Octave, R, IDL, etc."
 
 #: ../../scientific-python-lectures/intro/intro.rst:103
 msgid "Open-source, free, or at least cheaper than Matlab."
-msgstr ""
+msgstr "オープンソースで無料、少なくともMatlabよりは安いです。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:105
 msgid "Some features can be very advanced (statistics in R, etc.)"
@@ -6876,7 +6876,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/numpy/array_object.rst:59
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #: ../../scientific-python-lectures/intro/numpy/array_object.rst:61
 msgid ""
