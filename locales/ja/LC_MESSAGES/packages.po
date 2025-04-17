@@ -5772,15 +5772,15 @@ msgstr ""
 msgid ""
 "SciPy is a vast library. For a quick summary to the whole library, see the "
 ":ref:`scipy <scipy>` chapter."
-msgstr ""
+msgstr "SciPyは膨大なライブラリです。ライブラリ全体への簡単な要約は、 :ref:`scipy <scipy>` 章を参照してください。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:332
 msgid "Student's t-test: the simplest statistical test"
-msgstr ""
+msgstr "Studentのt検定: 最も単純な統計検定"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:335
 msgid "One-sample tests: testing the value of a population mean"
-msgstr ""
+msgstr "標本検定: 母平均の検定"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:341
 msgid ""
@@ -5790,6 +5790,9 @@ msgid ""
 "`p-value <https://en.wikipedia.org/wiki/P-value>`_ (see the function's "
 "help)::"
 msgstr ""
+":func:`scipy.stats.ttest_1samp` は、データの基礎となる母集団の平均が与えられた値に等しいという帰無仮説を検定します。 "
+"これは `T statistic <https://en.wikipedia.org/wiki/Student%27s_t-test>`_ と "
+"`p-value <https://en.wikipedia.org/wiki/P-value>`_ を返します (関数のヘルプを参照) ::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:350
 msgid ""
