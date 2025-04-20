@@ -58,7 +58,7 @@ sh ./locale/update.sh
 
     https://readthedocs.org/dashboard/scientific-python-lectures/translations/
 
-## Contributors 
+## Contributors
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
