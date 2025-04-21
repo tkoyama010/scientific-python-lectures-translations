@@ -3807,14 +3807,14 @@ msgstr ""
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_GMM.rst:22
 msgid "Segmentation with Gaussian mixture models"
-msgstr ""
+msgstr "ガウス混合モデルによるセグメンテーション"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_GMM.rst:24
 msgid ""
 "This example performs a Gaussian mixture model analysis of the image "
 "histogram to find the right thresholds for separating foreground from "
 "background."
-msgstr ""
+msgstr "この例では、前景と背景を分離するための適切な閾値を見つけるために、画像ヒストグラムのガウス混合モデル分析を実行します。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_GMM.rst:87
 msgid ":download:`Download Jupyter notebook: plot_GMM.ipynb <plot_GMM.ipynb>`"
@@ -3835,6 +3835,9 @@ msgid ""
 "<sphx_glr_download_advanced_image_processing_auto_examples_plot_block_mean.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`Go to the end "
+"<sphx_glr_download_advanced_image_processing_auto_examples_plot_block_mean.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_block_mean.rst:22
 msgid "Plot the block mean of an image"
