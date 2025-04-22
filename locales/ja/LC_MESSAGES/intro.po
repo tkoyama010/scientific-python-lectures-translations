@@ -350,7 +350,7 @@ msgstr ""
 msgid ""
 "Fewer available algorithms than in Matlab, and the language is not more "
 "advanced."
-msgstr ""
+msgstr "利用可能なアルゴリズムはMatlabより少なく、言語も高度ではありません。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:112
 msgid ""
@@ -361,7 +361,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/intro.rst:117
 msgid "Python"
-msgstr ""
+msgstr "Python"
 
 #: ../../scientific-python-lectures/intro/intro.rst:121
 msgid "Very rich scientific computing libraries"
@@ -406,7 +406,7 @@ msgstr "より専門的なソフトウェアやツールボックスにあるよ
 
 #: ../../scientific-python-lectures/intro/intro.rst:144
 msgid "The scientific Python ecosystem"
-msgstr ""
+msgstr "科学的なPythonのエコシステム"
 
 #: ../../scientific-python-lectures/intro/intro.rst:146
 msgid ""
