@@ -21,7 +21,7 @@ jobs:
         with:
           python-version: "3.12"
       - name: Get Job URL
-        uses: Tiryoh/gha-jobid-action@v1
+        uses: Tiryoh/gha-jobid-action@be260d8673c9211a84cdcf37794ebd654ba81eef
         id: jobs
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
