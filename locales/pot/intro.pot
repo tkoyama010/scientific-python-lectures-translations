@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-29 00:12+0000\n"
+"POT-Creation-Date: 2025-04-24 00:13+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -9349,11 +9349,11 @@ msgid "Examples for the summary excercices"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/index.rst:23
-msgid ":ref:`sphx_glr_intro_scipy_summary-exercises_auto_examples_plot_optimize_lidar_complex_data.py`"
+msgid ":ref:`sphx_glr_intro_scipy_summary-exercises_auto_examples_plot_optimize_lidar_data.py`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/index.rst:40
-msgid ":ref:`sphx_glr_intro_scipy_summary-exercises_auto_examples_plot_optimize_lidar_data.py`"
+msgid ":ref:`sphx_glr_intro_scipy_summary-exercises_auto_examples_plot_optimize_lidar_complex_data.py`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/index.rst:57

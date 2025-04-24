@@ -9557,7 +9557,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/advanced/scipy_sparse/solvers.rst:126
 msgid "M"
-msgstr ""
+msgstr "M"
 
 #: ../../scientific-python-lectures/advanced/scipy_sparse/solvers.rst:127
 msgid ""
@@ -9670,7 +9670,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/advanced/scipy_sparse/storage_schemes.rst:5
 msgid "csr_array: Compressed Sparse Row format"
-msgstr ""
+msgstr "csr_array: Compressed Sparse Row 形式"
 
 #: ../../scientific-python-lectures/advanced/scipy_sparse/storage_schemes.rst:6
 msgid "csc_array: Compressed Sparse Column format"
@@ -9946,7 +9946,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/advanced/scipy_sparse/storage_schemes.rst:126
 msgid "python"
-msgstr ""
+msgstr "python"
 
 #: ../../scientific-python-lectures/advanced/scipy_sparse/storage_schemes.rst:128
 msgid "one axis only"
