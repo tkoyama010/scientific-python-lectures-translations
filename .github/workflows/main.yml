@@ -21,7 +21,7 @@ jobs:
         with:
           python-version: "3.12"
       - name: Get Job URL
-        uses: Tiryoh/gha-jobid-action@v1
+        uses: Tiryoh/gha-jobid-action@be260d8673c9211a84cdcf37794ebd654ba81eef
         id: jobs
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
@@ -33,7 +33,7 @@ jobs:
           submodules: true
           token: ${{ secrets.PERSONAL_ACCESSTOKEN }}
       - name: Setup SSH
-        uses: MrSquaare/ssh-setup-action@v3
+        uses: MrSquaare/ssh-setup-action@017f4d9537e3aa1ea64e34700b645ac0bb76b7ec
         with:
           host: github.com
           private-key: ${{ secrets.SSH_PRIVATE_KEY }}

@@ -3643,11 +3643,11 @@ msgstr "教師あり学習: 手書き文字の分類"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:485
 msgid "The nature of the data"
-msgstr ""
+msgstr "データの性質"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst-1
 msgid "Code and notebook"
-msgstr ""
+msgstr "コードとノートブック"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:489
 msgid ""
@@ -3655,6 +3655,8 @@ msgid ""
 "<sphx_glr_packages_scikit-"
 "learn_auto_examples_plot_digits_simple_classif.py>`"
 msgstr ""
+"このセクションのPythonコードとJupyterノートブックは :ref:`ここ<sphx_glr_packages_scikit-"
+"learn_auto_examples_plot_digits_simple_classif.py>` にあります。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:493
 msgid ""
@@ -3663,6 +3665,8 @@ msgid ""
 " before: we'll discuss some of the metrics which can be used in evaluating "
 "the effectiveness of a classification model. ::"
 msgstr ""
+"このセクションでは、手書き数字の分類にscikit-learnを適用します。 これは、以前見た虹彩の分類を少し超えるでしょう: "
+"ここでは、分類モデルの有効性を評価するために使用できるメトリクスについて説明します ::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:505
 msgid ""
@@ -3672,7 +3676,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:514
 msgid "Visualizing the Data on its principal components"
-msgstr ""
+msgstr "主成分でデータを可視化する"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:516
 msgid ""
@@ -3681,13 +3685,16 @@ msgid ""
 "straightforward one, `Principal Component Analysis (PCA) "
 "<https://en.wikipedia.org/wiki/Principal_component_analysis>`_."
 msgstr ""
+"多くの問題に対する良い最初のステップは、 *次元削減* 技術を使ってデータを可視化することである。 まずは一番簡単な `Principal "
+"Component Analysis (PCA) "
+"<https://en.wikipedia.org/wiki/Principal_component_analysis>`_ からです。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:521
 msgid ""
 "PCA seeks orthogonal linear combinations of the features which show the "
 "greatest variance, and as such, can help give you a good idea of the "
 "structure of the data set. ::"
-msgstr ""
+msgstr "PCAは、最大の分散を示す特徴の直交線形結合を求めます、 というように、データセットの構造を知るのに役立ちます ::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst-1
 msgid "**Question**"
@@ -3718,6 +3725,8 @@ msgid ""
 "One good method to keep in mind is Gaussian Naive Bayes "
 "(:class:`sklearn.naive_bayes.GaussianNB`)."
 msgstr ""
+"覚えておくといい方法のひとつが Gaussian Naive Bayes "
+"(:class:`sklearn.naive_bayes.GaussianNB`) です。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst-1
 msgid "Old scikit-learn versions"
@@ -3738,13 +3747,14 @@ msgid ""
 "classification. It is generally not sufficiently accurate for real-world "
 "data, but can perform surprisingly well, for instance on text data."
 msgstr ""
-"ガウシアン・ナイーブ・ベイズは、各特徴について、各学習ラベルにガウス分布を個別に当てはめ、これを用いて素早く大まかな分類を行います。一般的に、実世界のデータに対しては十分な精度が得られませんが、テキストデータなどでは驚くほど高い精度を発揮することがあります。"
+"Gaussian Naive Bayes "
+"は、各特徴について、各学習ラベルにガウス分布を個別に当てはめ、これを用いて素早く大まかな分類を行います。一般的に、実世界のデータに対しては十分な精度が得られませんが、テキストデータなどでは驚くほど高い精度を発揮することがあります。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:589
 msgid ""
 "As above, we plot the digits with the predicted labels to get an idea of how"
 " well the classification is working."
-msgstr ""
+msgstr "上記のように、予測されたラベルと数字をプロットして、分類がどの程度うまくいっているかを確認します。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:600
 msgid "Why did we split the data into training and validation sets?"
@@ -3759,7 +3769,7 @@ msgid ""
 "We'd like to measure the performance of our estimator without having to "
 "resort to plotting examples. A simple method might be to simply compare the "
 "number of matches::"
-msgstr ""
+msgstr "例をプロットすることなく、我々の推定器の性能を測定したいです。 単純な方法は、単純にマッチした数を比較することかもしれません::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:617
 msgid ""
@@ -3768,12 +3778,16 @@ msgid ""
 "performance of a classifier: several are available in the "
 ":mod:`sklearn.metrics` submodule."
 msgstr ""
+"450の予測の80％以上が入力と一致することがわかります。 しかし、分類器の性能を判断するために使用できる、より洗練された測定基準もあります: "
+":mod:`sklearn.metrics` サブモジュールにいくつか用意されています。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:622
 msgid ""
 "One of the most useful metrics is the ``classification_report``, which "
 "combines several measures and prints a table with the results::"
 msgstr ""
+"最も有用な測定基準のひとつは ``classification_report`` "
+"で、これはいくつかの測定基準を組み合わせ、その結果を表にしたものです::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:646
 msgid ""
@@ -3781,12 +3795,14 @@ msgid ""
 " *confusion matrix*: it helps us visualize which labels are being "
 "interchanged in the classification errors::"
 msgstr ""
+"この種のマルチラベル分類のためのもう1つの啓発的な指標は、 *混同行列* です: "
+"これは、分類エラーでどのラベルが入れ替わっているかを視覚化するのに役立ちます::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:662
 msgid ""
 "We see here that in particular, the numbers 1, 2, 3, and 9 are often being "
 "labeled 8."
-msgstr ""
+msgstr "特に、1、2、3、9の数字がしばしば8と表示されていることがわかります。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:667
 msgid "Supervised Learning: Regression of Housing Data"
@@ -3796,11 +3812,11 @@ msgstr "教師あり学習: 住宅データの回帰"
 msgid ""
 "Here we'll do a short example of a regression problem: learning a continuous"
 " value from a set of features."
-msgstr ""
+msgstr "ここでは、回帰問題の簡単な例を示します: 特徴の集合から連続値を学習します。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:673
 msgid "A quick look at the data"
-msgstr ""
+msgstr "データを見てみよう"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:677
 msgid ""
@@ -3808,6 +3824,8 @@ msgid ""
 "<sphx_glr_packages_scikit-"
 "learn_auto_examples_plot_california_prediction.py>`"
 msgstr ""
+"このセクションのPythonコードとJupyterノートブックは :ref:`ここ<sphx_glr_packages_scikit-"
+"learn_auto_examples_plot_california_prediction.py>` にあります。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:682
 msgid ""
@@ -3816,14 +3834,17 @@ msgid ""
 "well as the median price. The question is: can you predict the price of a "
 "new market given its attributes?::"
 msgstr ""
+"scikit-"
+"learnで利用可能なカリフォルニアの住宅価格セットを使用します。これは、カリフォルニア州の住宅市場の8つの属性と中央値の測定を記録したものです。 "
+"問題は: 新市場の価格をその属性から予測できるか？::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:694
 msgid "We can see that there are just over 20000 data points."
-msgstr ""
+msgstr "データポイントが20000以上あることがわかります。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:696
 msgid "The ``DESCR`` variable has a long description of the dataset::"
-msgstr ""
+msgstr "``DESCR`` 変数には、データセットに関する長い説明があります::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:747
 msgid ""
@@ -3831,16 +3852,18 @@ msgid ""
 "scatter plots, or other plot types. With matplotlib, let us show a histogram"
 " of the target values: the median price in each neighborhood::"
 msgstr ""
+"ヒストグラム、散布図、その他のプロットタイプを使ってデータの断片を素早く視覚化することは、しばしば役に立ちます。 "
+"matplotlibを使って、目標値のヒストグラムを表示してみましょう: 各地域の中央値::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:761
 msgid ""
 "Let's have a quick look to see if some features are more relevant than "
 "others for our problem::"
-msgstr ""
+msgstr "私たちの問題に関連する機能があるかどうか、簡単に見てみましょう::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:795
 msgid "This is a manual version of a technique called **feature selection**."
-msgstr ""
+msgstr "これは、 **特徴選択** と呼ばれるテクニックの手動バージョンです。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:799
 msgid ""
@@ -3849,10 +3872,12 @@ msgid ""
 "Automated methods exist which quantify this sort of exercise of choosing the"
 " most informative features."
 msgstr ""
+"機械学習では、特定の問題に対してどの特徴が最も有用かを決定するために、特徴選択を使用することが有用な場合があります。 "
+"最も有益な特徴を選択するこの種の作業を定量化する自動化された方法が存在します。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:805
 msgid "Predicting Home Prices: a Simple Linear Regression"
-msgstr ""
+msgstr "住宅価格の予測: 単回帰"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:807
 msgid ""
@@ -3861,10 +3886,12 @@ msgid ""
 "particularly simple one is ``LinearRegression``: this is basically a wrapper"
 " around an ordinary least squares calculation. ::"
 msgstr ""
+"では、 ``scikit-learn`` を使って住宅データに簡単な線形回帰を行ってみましょう。使用する回帰因子の可能性はたくさんあります。 "
+"特に簡単なのは ``LinearRegression`` です: これは基本的に、通常の最小二乗計算のラッパーです::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:827
 msgid "We can plot the error: expected as a function of predicted::"
-msgstr ""
+msgstr "誤差をプロットします: 予測値の関数として期待されます::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:834
 msgid ""
@@ -3874,20 +3901,22 @@ msgid ""
 "predicted price. There are some subtleties in this, however, which we'll "
 "cover in a later section."
 msgstr ""
+"いくつかのバイアスがあるのは明らかですが、予測は少なくとも実際の価格と相関しています。 "
+"例えば、真の価格と予測価格の間のRMS残差を計算することで、リグレッサーの性能を評価することが考えられます。しかし、これにはいくつかの微妙な点があり、後のセクションで説明します。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst-1
 msgid "**Exercise: Gradient Boosting Tree Regression**"
-msgstr ""
+msgstr "**例題: 勾配ブースティング回帰木**"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:843
 msgid ""
 "There are many other types of regressors available in scikit-learn: we'll "
 "try a more powerful one here."
-msgstr ""
+msgstr "scikit-learn では、他にも多くの種類のリグレッサーを利用できます: ここではもっと強力なものを試してみましょう。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:846
 msgid "**Use the GradientBoostingRegressor class to fit the housing data**."
-msgstr ""
+msgstr "**GradientBoostingRegressor クラスを使って、住宅データに適合させます**。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:848
 msgid ""
@@ -3895,6 +3924,9 @@ msgid ""
 ":class:`~sklearn.linear_model.LinearRegression` with "
 ":class:`~sklearn.ensemble.GradientBoostingRegressor`::"
 msgstr ""
+"**ヒント** 上記のコードの一部をコピー＆ペーストして、 "
+":class:`~sklearn.linear_model.LinearRegression` を "
+":class:`~sklearn.ensemble.GradientBoostingRegressor` に置き換えてください::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:855
 msgid ""
@@ -3902,6 +3934,8 @@ msgid ""
 "<sphx_glr_packages_scikit-"
 "learn_auto_examples_plot_california_prediction.py>`"
 msgstr ""
+"**解答** 解答は :ref:`この章のコード<sphx_glr_packages_scikit-"
+"learn_auto_examples_plot_california_prediction.py>` にあります。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:860
 msgid "Measuring prediction performance"
@@ -3909,7 +3943,7 @@ msgstr "予測性能の測定"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:863
 msgid "A quick test on the K-neighbors classifier"
-msgstr ""
+msgstr "K-neighbors分類器の簡単なテスト"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:865
 msgid ""
@@ -3919,6 +3953,9 @@ msgid ""
 "point based on the labels of the *K* nearest points in the parameter space. "
 "::"
 msgstr ""
+"ここでは引き続き数字データを見ていきますが、 K-Neighbors 分類器に切り替えてみましょう。 K-neighbors "
+"分類器は、インスタンスベースの分類器です。 K-neighbors 分類器は、パラメータ空間内の *K* "
+"個の最も近い点のラベルに基づいて、未知の点のラベルを予測します ::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:899
 msgid ""
@@ -3927,6 +3964,8 @@ msgid ""
 "samples it has already seen.  To really test how well this algorithm does, "
 "we need to try some samples it *hasn't* yet seen."
 msgstr ""
+"どうやら完璧な分類器を見つけたようです！ しかし、これは誤解を招きます: 分類器は基本的に、すでに見たすべてのサンプルを \"記憶\" "
+"します。このアルゴリズムがどれだけ優れているかを本当にテストするには、まだ見た *ことのない* サンプルを試す必要があります。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:904
 msgid ""
@@ -3934,24 +3973,26 @@ msgid ""
 "other instance-based model named \"decision tree\" to the California Housing"
 " price dataset we introduced previously::"
 msgstr ""
+"この問題は回帰モデルでも起こります。以下では、 \"決定木\" "
+"という別のインスタンスベースのモデルを、先に紹介したカリフォルニア州の住宅価格データセットに当てはめます::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:926
 msgid ""
 "Here again the predictions are seemingly perfect as the model was able to "
 "perfectly memorize the training set."
-msgstr ""
+msgstr "ここでも、モデルはトレーニングセットを完全に記憶することができたため、予測は一見完璧に見えます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:929
 msgid "**Performance on test set**"
-msgstr ""
+msgstr "**テストセットでのパフォーマンス**"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:931
 msgid "Performance on test set does not measure overfit (as described above)"
-msgstr ""
+msgstr "テストセットでの性能はオーバーフィットを測定しません (上述の通り)"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:934
 msgid "A correct approach: Using a validation set"
-msgstr ""
+msgstr "正しいアプローチ: 検証セットの使用"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:936
 msgid ""
@@ -3960,6 +4001,8 @@ msgid ""
 "of the samples that it has just seen would have a perfect score but would "
 "fail to predict anything useful on yet-unseen data."
 msgstr ""
+"予測関数のパラメータを学習し、それを同じデータでテストするのは方法論的に誤りです: "
+"今見たサンプルのラベルを繰り返すだけのモデルは満点ですが、まだ見たことのないデータに対して有用な予測はできないでしょう。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:941
 msgid "To avoid over-fitting, we have to define two different sets:"
@@ -4323,6 +4366,9 @@ msgid ""
 " steps will improve your model is what separates the successful machine "
 "learning practitioners from the unsuccessful."
 msgstr ""
+"その答えはしばしば直感に反します。 特に、 **より複雑なモデルを使うと、結果が悪くなることがあります。** また、 "
+"**トレーニングデータを追加しても結果が改善しないこともあります。** "
+"どのようなステップを踏めばモデルが改善されるかを判断する能力が、機械学習の成功者と失敗者を分けるのです。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1390
 msgid "Bias-variance trade-off: illustration on a simple regression problem"
@@ -4333,6 +4379,8 @@ msgid ""
 "Python code and Jupyter notebook for this section are found :ref:`here "
 "<sphx_glr_packages_scikit-learn_auto_examples_plot_variance_linear_regr.py>`"
 msgstr ""
+"このセクションのPythonコードとJupyterノートブックは :ref:`ここ<sphx_glr_packages_scikit-"
+"learn_auto_examples_plot_variance_linear_regr.py>` にあります。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1399
 msgid ""
