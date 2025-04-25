@@ -4889,7 +4889,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/advanced/image_processing/index.rst:12
 msgid "**Authors**: *Emmanuelle Gouillart, Gaël Varoquaux*"
-msgstr ""
+msgstr "**著者**: *Emmanuelle Gouillart, Gaël Varoquaux*"
 
 #: ../../scientific-python-lectures/advanced/image_processing/index.rst:15
 msgid ""
@@ -6337,6 +6337,10 @@ msgid ""
 "memory management cleverly. If you ever run into issues with large datasets,"
 " this is a reference to come back to for some inspiration."
 msgstr ""
+"`データコピーの回避に関する Gaël Varoquaux のブログ記事 <https://gael-"
+"varoquaux.info/programming/cython-example-of-exposing-c-computed-arrays-in-"
+"python-without-data-copies.html>`_ "
+"は、メモリ管理を巧みに処理する方法について、いくつかのヒントを与えてくれます。大規模なデータセットで問題にぶつかったら、インスピレーションを得るためにこのリファレンスに戻るべきです。"
 
 #: ../../scientific-python-lectures/advanced/interfacing_with_c/interfacing_with_c.rst:845
 msgid "Exercises"
@@ -7109,7 +7113,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:11
 msgid "**Authors**: *Gaël Varoquaux*"
-msgstr ""
+msgstr "**著者**: *Gaël Varoquaux*"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:13
 msgid ""

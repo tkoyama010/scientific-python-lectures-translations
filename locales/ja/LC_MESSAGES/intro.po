@@ -1841,17 +1841,19 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/language/python_language.rst:4
 msgid "The Python language"
-msgstr ""
+msgstr "Python言語"
 
 #: ../../scientific-python-lectures/intro/language/python_language.rst:6
 msgid ""
 "**Authors**: *Chris Burns, Christophe Combelles, Emmanuelle Gouillart, Gaël "
 "Varoquaux*"
 msgstr ""
+"**著者**: *Chris Burns, Christophe Combelles, Emmanuelle Gouillart, Gaël "
+"Varoquaux*"
 
 #: ../../scientific-python-lectures/intro/language/python_language.rst-1
 msgid "Python for scientific computing"
-msgstr ""
+msgstr "科学計算のためのPython"
 
 #: ../../scientific-python-lectures/intro/language/python_language.rst:11
 msgid ""
@@ -1861,6 +1863,9 @@ msgid ""
 "https://docs.python.org/3/tutorial. Dedicated books are also available, such"
 " as `Dive into Python 3 <https://diveintopython3.net/>`__."
 msgstr ""
+"ここではPython言語を紹介します。 ここでは、NumPyとSciPyを使い始めるために最低限必要なものだけを取り上げます。 "
+"この言語についてもっと学ぶには、優れたチュートリアル https://docs.python.org/3/tutorial をご覧ください。 `Dive"
+" into Python 3 <https://diveintopython3.net/>`__ のような専用本もあります。"
 
 #: ../../scientific-python-lectures/intro/language/python_language.rst:23
 msgid ""
@@ -5542,7 +5547,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/index.rst:15
 msgid "**Authors**: *Nicolas Rougier, Mike Müller, Gaël Varoquaux*"
-msgstr ""
+msgstr "**著者**: *Nicolas Rougier, Mike Müller, Gaël Varoquaux*"
 
 #: ../../scientific-python-lectures/intro/matplotlib/index.rst:19
 msgid "Chapter contents"
@@ -8395,6 +8400,8 @@ msgid ""
 "**Authors**: *Emmanuelle Gouillart, Didrik Pinte, Gaël Varoquaux, and Pauli "
 "Virtanen*"
 msgstr ""
+"**著者**: *Emmanuelle Gouillart, Didrik Pinte, Gaël Varoquaux, と Pauli "
+"Virtanen*"
 
 #: ../../scientific-python-lectures/intro/numpy/index.rst:14
 msgid ""
@@ -10269,13 +10276,15 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/index.rst:8
 msgid "SciPy : high-level scientific computing"
-msgstr ""
+msgstr "SciPy : 高水準科学計算"
 
 #: ../../scientific-python-lectures/intro/scipy/index.rst:10
 msgid ""
 "**Authors**: *Gaël Varoquaux, Adrien Chauve, Andre Espaze, Emmanuelle "
 "Gouillart, Ralf Gommers*"
 msgstr ""
+"**著者**: *Gaël Varoquaux, Adrien Chauve, Andre Espaze, Emmanuelle Gouillart, "
+"Ralf Gommers*"
 
 #: ../../scientific-python-lectures/intro/scipy/index.rst-1
 msgid "Scipy"

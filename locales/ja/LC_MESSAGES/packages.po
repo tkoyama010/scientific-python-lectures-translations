@@ -5849,6 +5849,8 @@ msgid ""
 "taken as evidence that the null hypothesis is false and that the population "
 "mean IQ (VIQ measure) is not 0."
 msgstr ""
+":math:`10^-28` というp値は、帰無仮説のもとではこのような極端な統計量が観測される可能性は低いことを示しています。 "
+"これは帰無仮説が偽であり、母集団の平均IQ（VIQ測定値）が0ではないことの証拠とみなすことができます。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:355
 msgid ""
