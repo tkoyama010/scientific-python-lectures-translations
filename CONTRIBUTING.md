@@ -1,1 +1,1 @@
-[Contributing](https://lectures.scientific-python.org/preface.html#contributing)
+https://lectures.scientific-python.org/preface.html#contributing
