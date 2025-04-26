@@ -344,7 +344,7 @@ msgstr "オープンソースで無料、少なくともMatlabよりは安いで
 
 #: ../../scientific-python-lectures/intro/intro.rst:105
 msgid "Some features can be very advanced (statistics in R, etc.)"
-msgstr ""
+msgstr "非常に高度な機能もあります (Rでの統計など)"
 
 #: ../../scientific-python-lectures/intro/intro.rst:109
 msgid ""
@@ -358,6 +358,8 @@ msgid ""
 " programs are very powerful, but they are restricted to a single type of "
 "usage, such as plotting."
 msgstr ""
+"ソフトウェアによっては、あるドメインに特化したものもあります。 例: 曲線を描くための "
+"Gnuplot。これらのプログラムは非常に強力ですが、プロットなど単一の使い方に限定されています。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:117
 msgid "Python"
@@ -414,28 +416,31 @@ msgid ""
 "for scientific computing. Below are the basic building blocks that can be "
 "combined to obtain a scientific computing environment:"
 msgstr ""
+"MatlabやRとは異なり、Pythonには科学計算のためのモジュールがあらかじめバンドルされているわけではありません。 "
+"以下は、科学計算環境を得るために組み合わせることができる基本的な構成要素です:"
 
 #: ../../scientific-python-lectures/intro/intro.rst:152
 msgid "**Python**, a generic and modern computing language"
-msgstr ""
+msgstr "**Python** 、汎用的でモダンなコンピューティング言語"
 
 #: ../../scientific-python-lectures/intro/intro.rst:154
 msgid ""
 "The language: flow control, data types (``string``, ``int``), data "
 "collections (lists, dictionaries), etc."
 msgstr ""
+"言語: フロー制御、データタイプ (``string``, ``int``) 、データ収集 (lists, dictionaries)、など。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:157
 msgid ""
 "Modules of the standard library: string processing, file management, simple "
 "network protocols."
-msgstr ""
+msgstr "標準ライブラリーのモジュール: 文字列処理、ファイル管理、簡単なネットワークプロトコル。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:160
 msgid ""
 "A large number of specialized modules or applications written in Python: web"
 " framework, etc. ... and scientific computing."
-msgstr ""
+msgstr "Pythonで書かれた多数の特殊なモジュールやアプリケーション: ウェブフレームワークなど ... と科学計算。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:164
 msgid "Development tools (automatic testing, documentation generation)"
