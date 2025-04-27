@@ -444,7 +444,7 @@ msgstr "Pythonで書かれた多数の特殊なモジュールやアプリケー
 
 #: ../../scientific-python-lectures/intro/intro.rst:164
 msgid "Development tools (automatic testing, documentation generation)"
-msgstr ""
+msgstr "開発ツール (自動テスト、ドキュメント作成)"
 
 #: ../../scientific-python-lectures/intro/intro.rst:168
 msgid ":ref:`chapter on Python language <python_language_chapter>`"
