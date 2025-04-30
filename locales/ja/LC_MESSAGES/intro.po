@@ -539,6 +539,7 @@ msgid ""
 "However, we recommend to install a scientific-computing distribution, that "
 "comes readily with optimized versions of scientific modules."
 msgstr ""
+"Pythonには様々なフレーバーがあり、インストールする方法もたくさんあります。しかし、科学計算モジュールの最適化されたバージョンがすぐに提供される科学計算ディストリビューションをインストールすることをお勧めします。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:230
 msgid "**Under Linux**"
@@ -548,7 +549,7 @@ msgstr ""
 msgid ""
 "If you have a recent distribution, most of the tools are probably packaged, "
 "and it is recommended to use your package manager."
-msgstr ""
+msgstr "最近のディストリビューションであれば、ほとんどのツールはパッケージ化されているので、パッケージマネージャーを使うことをお勧めします。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:235
 msgid "**Other systems**"
@@ -560,11 +561,11 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/intro.rst:242
 msgid "`Anaconda <https://www.anaconda.com/download/>`_"
-msgstr ""
+msgstr "`Anaconda <https://www.anaconda.com/download/>`_"
 
 #: ../../scientific-python-lectures/intro/intro.rst:243
 msgid "`WinPython <https://winpython.github.io>`_"
-msgstr ""
+msgstr "`WinPython <https://winpython.github.io>`_"
 
 #: ../../scientific-python-lectures/intro/intro.rst:247
 msgid "The workflow: interactive environments and text editors"
@@ -583,6 +584,8 @@ msgid ""
 "makes it harder for beginners to find their way, it makes it possible for "
 "Python to be used for programs, in web servers, or embedded devices."
 msgstr ""
+"Pythonは汎用言語です。 このように、恵まれた環境は一つではないし、その使い方も一つではありません。 "
+"そのため、初心者が道を見つけるのは難しくなりましたが、Pythonをプログラム、ウェブサーバー、組み込み機器に使用することが可能になりました。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:261
 msgid "Interactive work"
@@ -650,12 +653,14 @@ msgid ""
 "`Visual Studio Code <https://code.visualstudio.com/docs/languages/python>`_:"
 " integrates a Python console, notebooks, a debugger, ..."
 msgstr ""
+"`Visual Studio Code <https://code.visualstudio.com/docs/languages/python>`_:"
+" Pythonコンソール、ノートブック、デバッガ、...が統合されていいます"
 
 #: ../../scientific-python-lectures/intro/intro.rst:308
 msgid ""
 "Some of these are shipped by the various scientific Python distributions, "
 "and you can find them in the menus."
-msgstr ""
+msgstr "これらのいくつかは様々なサイエンティフィックPythonディストリビューションに同梱されており、メニューで見つけることができます。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:312
 msgid ""
@@ -679,6 +684,7 @@ msgid ""
 "instructions following each other, do plan to progressively evolve the "
 "script to a set of functions:"
 msgstr ""
+"スクリプトだけ、つまり互いに続く命令の詰まったファイルだけで作業するのは魅力的ですが、スクリプトを段階的に進化させ、一連の関数にすることを計画してほしいです:"
 
 #: ../../scientific-python-lectures/intro/intro.rst:347
 msgid "A script is not reusable, functions are."
@@ -687,7 +693,7 @@ msgstr ""
 #: ../../scientific-python-lectures/intro/intro.rst:349
 msgid ""
 "Thinking in terms of functions helps breaking the problem in small blocks."
-msgstr ""
+msgstr "関数で考えることは、問題を小さなブロックに分割するのに役立ちます。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:354
 msgid "IPython and Jupyter Tips and Tricks"
@@ -917,7 +923,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/language/basic_types.rst-1
 msgid "**Methods and Object-Oriented Programming**"
-msgstr ""
+msgstr "**メソッドとオブジェクト指向プログラミング**"
 
 #: ../../scientific-python-lectures/intro/language/basic_types.rst:219
 msgid ""
