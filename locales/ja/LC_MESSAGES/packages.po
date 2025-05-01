@@ -3084,6 +3084,8 @@ msgid ""
 " which is unlabeled, this algorithm could now **predict** whether it's a "
 "blue or a red point."
 msgstr ""
+"この分離線を引くことで、新しいデータに **汎化** できるモデルを学習したことになります: "
+"もしラベルのない平面に別の点を落とすとしたら、このアルゴリズムはその点が青か赤かを **予測** することができます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:92
 msgid "A regression problem"
