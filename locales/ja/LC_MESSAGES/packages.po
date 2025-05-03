@@ -3760,7 +3760,7 @@ msgstr "上記のように、予測されたラベルと数字をプロットし
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:600
 msgid "Why did we split the data into training and validation sets?"
-msgstr ""
+msgstr "なぜデータをトレーニングセットと検証セットに分けたのでしょうか？"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:603
 msgid "Quantitative Measurement of Performance"
