@@ -452,7 +452,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/intro.rst:170
 msgid "**Core numeric libraries**"
-msgstr ""
+msgstr "**コア数値演算ライブラリ**"
 
 #: ../../scientific-python-lectures/intro/intro.rst:172
 msgid ""
@@ -468,7 +468,7 @@ msgstr ""
 msgid ""
 "**SciPy** : high-level numerical routines. Optimization, regression, "
 "interpolation, etc https://scipy.org/"
-msgstr ""
+msgstr "**SciPy** : 高レベルの数値計算ルーチン。 最適化、回帰、補間など https://scipy.org/"
 
 #: ../../scientific-python-lectures/intro/intro.rst:184
 msgid ":ref:`chapter on SciPy <scipy>`"
@@ -589,7 +589,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/intro.rst:261
 msgid "Interactive work"
-msgstr ""
+msgstr "インタラクティブワーク"
 
 #: ../../scientific-python-lectures/intro/intro.rst:263
 msgid ""
@@ -598,6 +598,9 @@ msgid ""
 "<https://docs.jupyter.org/en/latest/content-quickstart.html>`_. They are "
 "handy to explore and understand algorithms."
 msgstr ""
+"`IPython <https://ipython.org>`__ コンソール、あるいはその所産である `Jupyter notebook "
+"<https://docs.jupyter.org/en/latest/content-quickstart.html>`_ "
+"とのインタラクティブな作業をお勧めします。 アルゴリズムを探求し、理解するのに便利です。"
 
 #: ../../scientific-python-lectures/intro/intro.rst-1
 msgid "Under the notebook"
@@ -609,25 +612,27 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/intro.rst:272
 msgid "Start `ipython`:"
-msgstr ""
+msgstr "`ipython` を開始します:"
 
 #: ../../scientific-python-lectures/intro/intro.rst:280
 msgid "Getting help by using the **?** operator after an object:"
-msgstr ""
+msgstr "オブジェクトの後に **?** 演算子を使ってヘルプを得ます:"
 
 #: ../../scientific-python-lectures/intro/intro.rst:288
 msgid "IPython user manual: https://ipython.readthedocs.io/en/stable/"
-msgstr ""
+msgstr "IPythonユーザーマニュアル: https://ipython.readthedocs.io/en/stable/"
 
 #: ../../scientific-python-lectures/intro/intro.rst:290
 msgid ""
 "Jupyter Notebook QuickStart: "
 "https://docs.jupyter.org/en/latest/start/index.html"
 msgstr ""
+"Jupyter Notebook クイックスタート: "
+"https://docs.jupyter.org/en/latest/start/index.html"
 
 #: ../../scientific-python-lectures/intro/intro.rst:294
 msgid "Elaboration of the work in an editor"
-msgstr ""
+msgstr "エディターによる作業の詳細"
 
 #: ../../scientific-python-lectures/intro/intro.rst:296
 msgid ""
@@ -635,18 +640,24 @@ msgid ""
 "but also to create and reuse Python files. For this, a powerful code editor "
 "will get you far. Here are several good easy-to-use editors:"
 msgstr ""
+"この先、インタラクティブに作業するだけでなく、Pythonファイルを作成し、再利用することも重要になります。そのためには、強力なコードエディターが役に立ちます。"
+" 使いやすいエディターをいくつか紹介しましょう:"
 
 #: ../../scientific-python-lectures/intro/intro.rst:300
 msgid ""
 "`Spyder <https://www.spyder-ide.org/>`_: integrates an IPython console, a "
 "debugger, a profiler..."
 msgstr ""
+"`Spyder <https://www.spyder-ide.org/>`_: IPythonコンソール、デバッガー、プロファイラー... "
+"が統合されています。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:302
 msgid ""
 "`PyCharm <https://www.jetbrains.com/pycharm>`_: integrates an IPython "
 "console, notebooks, a debugger... (freely available, but commercial)"
 msgstr ""
+"`PyCharm <https://www.jetbrains.com/pycharm>`_: "
+"IPythonコンソール、ノートブック、デバッガが統合されています... (自由に利用できますが、商用です)"
 
 #: ../../scientific-python-lectures/intro/intro.rst:305
 msgid ""
@@ -666,13 +677,13 @@ msgstr "これらのいくつかは様々なサイエンティフィックPython
 msgid ""
 "As an exercise, create a file `my_file.py` in a code editor, and add the "
 "following lines::"
-msgstr ""
+msgstr "練習として、コードエディターで `my_file.py` ファイルを作成し、以下の行を追加します::"
 
 #: ../../scientific-python-lectures/intro/intro.rst:318
 msgid ""
 "Now, you can run it in IPython console or a notebook and explore the "
 "resulting variables:"
-msgstr ""
+msgstr "IPythonのコンソールやノートブックで実行し、結果の変数を調べることができます:"
 
 #: ../../scientific-python-lectures/intro/intro.rst:294
 msgid "**From a script to functions**"
@@ -688,7 +699,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/intro.rst:347
 msgid "A script is not reusable, functions are."
-msgstr ""
+msgstr "スクリプトは再利用できませんが、関数は再利用できます。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:349
 msgid ""
@@ -697,7 +708,7 @@ msgstr "関数で考えることは、問題を小さなブロックに分割す
 
 #: ../../scientific-python-lectures/intro/intro.rst:354
 msgid "IPython and Jupyter Tips and Tricks"
-msgstr ""
+msgstr "IPythonとJupyterのヒントとコツ"
 
 #: ../../scientific-python-lectures/intro/intro.rst:356
 msgid ""
@@ -705,12 +716,17 @@ msgid ""
 "introduction to four useful features: *history*, *tab completion*, *magic "
 "functions*, and *aliases*."
 msgstr ""
+"ユーザーマニュアルには豊富な情報が掲載されています。 ここでは、4つの便利な機能を簡単に紹介します: *履歴* 、 *タブコンプリート* 、 "
+"*マジック機能* 、と *エイリアス* 。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:362
 msgid ""
 "**Command history** Like a UNIX shell, the IPython console supports command "
 "history. Type *up* and *down* to navigate previously typed commands:"
 msgstr ""
+"**コマンド履歴** "
+"UNIXシェルのように、IPythonコンソールはコマンドヒストリーをサポートしています。前に入力したコマンドをナビゲートするには、 *up* と "
+"*down* を入力します:"
 
 #: ../../scientific-python-lectures/intro/intro.rst:377
 msgid ""
@@ -1397,7 +1413,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/language/first_steps.rst:2
 msgid "First steps"
-msgstr ""
+msgstr "はじめの一歩"
 
 #: ../../scientific-python-lectures/intro/language/first_steps.rst:5
 msgid "Start the **Ipython** shell (an enhanced interactive Python shell):"

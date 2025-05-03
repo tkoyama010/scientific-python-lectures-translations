@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-29 00:12+0000\n"
+"POT-Creation-Date: 2025-05-03 07:20+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -3399,7 +3399,7 @@ msgstr ""
 msgid ""
 "given a multicolor image of an object through a telescope, determine whether"
 " that object is a star, a quasar, or a galaxy."
-msgstr ""
+msgstr "望遠鏡を通した天体の多色画像が与えられたら、その天体が恒星、クエーサー、銀河のどれであるかを判断する。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:311
 msgid "given a photograph of a person, identify the person in the photo."
@@ -3418,7 +3418,7 @@ msgid ""
 "What these tasks have in common is that there is one or more unknown "
 "quantities associated with the object which needs to be determined from "
 "other observed quantities."
-msgstr ""
+msgstr "これらのタスクに共通しているのは、対象物に関連する1つ以上の未知の量があり、それを他の観測された量から決定する必要があるということです。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:323
 msgid ""
@@ -3602,10 +3602,13 @@ msgid ""
 "set, whereas large k will push toward smoother decision boundaries in the "
 "feature space."
 msgstr ""
+"正則化は機械学習ではどこにでもあります。ほとんどのscikit-learnの推定量には、正則化の量を調整するパラメータがあります。例えば k-NN の "
+"場合、 'k' 、つまり判定に使われる最近傍の数です。 k=1 は正則化なし: "
+"学習セットでのエラーは0、一方、kが大きいと、特徴空間内の判定境界が滑らかになります。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:457
 msgid "Simple versus complex models for classification"
-msgstr ""
+msgstr "分類のための単純なモデルと複雑なモデル"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:468
 msgid "|linear|"
@@ -3764,7 +3767,7 @@ msgstr "なぜデータをトレーニングセットと検証セットに分け
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:603
 msgid "Quantitative Measurement of Performance"
-msgstr ""
+msgstr "パフォーマンスの定量的測定"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:605
 msgid ""
@@ -4008,29 +4011,31 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:941
 msgid "To avoid over-fitting, we have to define two different sets:"
-msgstr ""
+msgstr "過学習を避けるために、2つの異なるセットを定義する必要があります:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:943
 msgid ""
 "a training set X_train, y_train which is used for learning the parameters of"
 " a predictive model"
-msgstr ""
+msgstr "予測モデルのパラメータを学習するための学習セット X_train, y_train"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:946
 msgid ""
 "a testing set X_test, y_test which is used for evaluating the fitted "
 "predictive model"
-msgstr ""
+msgstr "予測モデルのフィッティングの評価をするための検証セット X_train, y_train"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:949
 msgid ""
 "In scikit-learn such a random split can be quickly computed with the "
 ":func:`~sklearn.model_selection.train_test_split` function::"
 msgstr ""
+"scikit-learn では、このようなランダム分割は "
+":func:`~sklearn.model_selection.train_test_split` 関数で素早く計算できます::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:962
 msgid "Now we train on the training data, and test on the testing data::"
-msgstr ""
+msgstr "トレーニングデータで訓練し、テストデータでテストします::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:997
 msgid ""
@@ -4038,22 +4043,24 @@ msgid ""
 "performance of an algorithm.  It appears in the bottom row of the "
 "classification report; it can also be accessed directly::"
 msgstr ""
+"平均化されたf1スコアは、アルゴリズムの全体的なパフォーマンスを測る便利な尺度としてよく使われます。分類レポートの最下段に表示されます; "
+"直接アクセスすることもできます::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1004
 msgid ""
 "The over-fitting we saw previously can be quantified by computing the "
 "f1-score on the training data itself::"
-msgstr ""
+msgstr "先に見た過学習は、教師データ自体のf1スコアを計算することで定量化できます::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1012
 msgid ""
 "**Regression metrics** In the case of regression models, we need to use "
 "different metrics, such as explained variance."
-msgstr ""
+msgstr "**回帰測定基準** 回帰モデルの場合、説明分散のような異なる指標を使う必要があります。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1016
 msgid "Model Selection via Validation"
-msgstr ""
+msgstr "検証によるモデルの選択"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1020
 msgid ""
@@ -4062,6 +4069,7 @@ msgid ""
 "validation tools in place, we can ask quantitatively which of the three "
 "estimators works best for this dataset."
 msgstr ""
+"ガウスナイーブ、サポートベクターマシン、K近傍法を数字データセットに適用しました。これらの検証ツールが揃ったので、3つの推定量のうちどれがこのデータセットに最適かを定量的に問うことができます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1025
 msgid ""
@@ -4089,7 +4097,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1075
 msgid "Cross-validation"
-msgstr ""
+msgstr "交差検証"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1077
 msgid ""
@@ -4098,10 +4106,13 @@ msgid ""
 "automatically compute score on all these folds. Here we do "
 ":class:`~sklearn.model_selection.KFold` with k=5. ::"
 msgstr ""
+"交差検証は、 'folds' と呼ばれる訓練セットとテストセットのペアでデータを繰り返し分割することからなります。 Scikit-"
+"learnには、これらすべてのフォールドのスコアを自動的に計算する関数が用意されています。 ここではk=5で "
+":class:`~sklearn.model_selection.KFold` とします。 ::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1087
 msgid "We can use different splitting strategies, such as random splitting::"
-msgstr ""
+msgstr "ランダム分割など、さまざまな分割戦略を用いることができます::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1096
 msgid ""
@@ -4109,6 +4120,9 @@ msgid ""
 "learn.org/stable/modules/cross_validation.html#cross-validation-iterators>`_"
 " in scikit-learn. They are often useful to take in account non iid datasets."
 msgstr ""
+"scikit-learnには `様々な交差検証戦略 <https://scikit-"
+"learn.org/stable/modules/cross_validation.html#cross-validation-iterators>`_"
+" が存在します。 これらはしばしば、非同一データセットを考慮するのに有用です。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1102
 msgid "Hyperparameter optimization with cross-validation"
@@ -4167,7 +4181,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1171
 msgid "Built-in Hyperparameter Search"
-msgstr ""
+msgstr "内蔵ハイパーパラメータ探索"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1173
 msgid ""
@@ -4180,14 +4194,20 @@ msgid ""
 ":class:`~sklearn.linear_model.LassoCV`, respectively.  Parameter search on "
 "these estimators can be performed as follows::"
 msgstr ""
+"scikit-learnのいくつかのモデルでは、交差検証は大規模なデータセットでより効率的に実行できます。 "
+"この場合、特定のモデルの交差検証バージョンが含まれます。 :class:`~sklearn.linear_model.Ridge` と "
+":class:`~sklearn.linear_model.Lasso` の交差検証バージョンはそれぞれ "
+":class:`~sklearn.linear_model.RidgeCV` と "
+":class:`~sklearn.linear_model.LassoCV` "
+"です。これらの推定量に対するパラメータ探索は以下のように行うことができます::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1189
 msgid "We see that the results match those returned by GridSearchCV"
-msgstr ""
+msgstr "GridSearchCV が返す結果と一致することがわかります。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1192
 msgid "Nested cross-validation"
-msgstr ""
+msgstr "ネストされた交差検証"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1194
 msgid ""
@@ -4197,6 +4217,10 @@ msgid ""
 "objects. Here there are 2 cross-validation loops going on, this is called "
 "*'nested cross validation'*::"
 msgstr ""
+"これらの推定量の性能はどのように測定するのでしょうか？ "
+"ハイパーパラメータを設定するためにデータを使用したので、実際に新しいデータでテストする必要があります。これは、CVオブジェクトに "
+":func:`~sklearn.model_selection.cross_val_score` "
+"を実行することで可能になります。ここでは2つの交差検証ループが行われています、 これは *'入れ子交差検証'* と呼ばれます::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1207
 msgid ""
@@ -4206,6 +4230,10 @@ msgid ""
 "hyper-parameter is harder for Lasso, thus the estimation error on this "
 "hyper-parameter is larger."
 msgstr ""
+"これらの結果は、上記のカーブの最良の結果とは一致しないことに注意してください、 また、 "
+":class:`~sklearn.linear_model.LassoCV` は "
+":class:`~sklearn.linear_model.RidgeCV` "
+"を下回っているようです。その理由は、ハイパーパラメータの設定がLassoの方が難しいため、このハイパーパラメータの推定誤差が大きくなるからです。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1214
 msgid "Unsupervised Learning: Dimensionality Reduction and Visualization"
@@ -4219,7 +4247,7 @@ msgstr "教師なし学習は、yのないX: つまりラベルのないデー�
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1220
 msgid "Dimensionality Reduction: PCA"
-msgstr ""
+msgstr "次元削減: PCA"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1222
 msgid ""
@@ -4230,6 +4258,10 @@ msgid ""
 "original data. We'll use :class:`sklearn.decomposition.PCA` on the iris "
 "dataset::"
 msgstr ""
+"次元削減は、元の特徴セットよりも小さい新しい人工的な特徴セットを導き出します。ここでは `Principal Component Analysis "
+"(PCA) <https://en.wikipedia.org/wiki/Principal_component_analysis>`__ とします、 "
+"元のデータの分散の大部分を保持しようとする次元削減です。虹彩データセットに :class:`sklearn.decomposition.PCA` "
+"を使います::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1235
 msgid ""
@@ -4237,20 +4269,24 @@ msgid ""
 "original features using a truncated Singular Value Decomposition of the "
 "matrix X, to project the data onto a base of the top singular vectors."
 msgstr ""
+":class:`~sklearn.decomposition.PCA` は、行列Xの切断特異値分解を用いて、元の特徴の線形結合を計算します、 "
+"それを使用して、データを上位特異ベクトルの底辺に投影します。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1247
 msgid ""
 "Once fitted, :class:`~sklearn.decomposition.PCA` exposes the singular "
 "vectors in the ``components_`` attribute::"
 msgstr ""
+":class:`~sklearn.decomposition.PCA` がフィッティングされると、 ``components_`` "
+"属性の特異ベクトルが表示されます::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1254
 msgid "Other attributes are available as well::"
-msgstr ""
+msgstr "その他の属性も利用可能です::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1259
 msgid "Let us project the iris dataset along those first two dimensions:::"
-msgstr ""
+msgstr "虹彩データセットを最初の2次元に沿って投影してみましょう:::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1265
 msgid ""
@@ -4506,6 +4542,10 @@ msgid ""
 "explained variance is very high, while on the validation set, it is low. "
 "Choosing ``d`` around 4 or 5 gets us the best tradeoff."
 msgstr ""
+"この図は、なぜ検証が重要なのかを示しています。プロットの左側には、非常に次数の低い多項式があり、データにフィットしていません。このため、訓練セットと検証セットの両方で、説明される分散が低くなります。"
+" "
+"プロットの右端には、非常に次数の高い多項式があり、データにオーバーフィットしています。これは、トレーニングの説明済み分散が非常に高いのに対して、検証セットでは低いことからもわかります。"
+" ``d`` の4、5番あたりを選べば、最高のトレードオフが得られます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1550
 msgid ""
