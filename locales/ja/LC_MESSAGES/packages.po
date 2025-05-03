@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-03 07:20+0000\n"
+"POT-Creation-Date: 2025-05-03 12:30+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -4294,18 +4294,20 @@ msgid ""
 " which means that the data is now centered on both components with unit "
 "variance::"
 msgstr ""
+":class:`~sklearn.decomposition.PCA` ``normalizes`` と ``whitens`` "
+"は、データが単位分散で両成分を中心とすることを意味します::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1273
 msgid ""
 "Furthermore, the samples components do no longer carry any linear "
 "correlation::"
-msgstr ""
+msgstr "さらに、サンプル成分はもはや線形相関を持ちません::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1280
 msgid ""
 "With a number of retained components 2 or 3, PCA is useful to visualize the "
 "dataset::"
-msgstr ""
+msgstr "保持される成分の数が2または3である場合、PCAはデータセットを視覚化するのに有効です::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1296
 msgid ""
@@ -4369,6 +4371,8 @@ msgid ""
 "This section is adapted from `Andrew Ng's excellent Coursera course "
 "<https://www.coursera.org/course/ml>`__"
 msgstr ""
+"このセクションは `Andrew Ng's excellent Coursera course "
+"<https://www.coursera.org/course/ml>`__ からの抜粋です"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1370
 msgid ""
@@ -4572,32 +4576,35 @@ msgid ""
 "full training set. This curve gives a quantitative view into how beneficial "
 "it will be to add training samples."
 msgstr ""
+"学習曲線は、訓練点と検証点の数の関数として訓練点と検証点のスコアを示します。訓練データのサブセットで訓練する場合、訓練スコアは完全な訓練セットではなく、このサブセットを使用して計算されることに注意してください。この曲線は、学習サンプルを追加することがどれだけ有益かを定量的に示しています。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1561
 msgid "**Questions:**"
-msgstr ""
+msgstr "**質問:**"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1573
 msgid ""
 "As the number of training samples are increased, what do you expect to see "
 "for the training score? For the validation score?"
-msgstr ""
+msgstr "学習サンプルの数を増やすと、学習スコアはどうなりますか？ 検証スコアは？"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1575
 msgid ""
 "Would you expect the training score to be higher or lower than the "
 "validation score? Would you ever expect this to change?"
-msgstr ""
+msgstr "学習のスコアが検証のスコアより高くなると予想しますか、低くなると予想しますか？これが変わると思いますか？"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1579
 msgid ""
 ":mod:`scikit-learn` provides "
 ":func:`sklearn.model_selection.learning_curve`::"
 msgstr ""
+":mod:`scikit-learn` は :func:`sklearn.model_selection.learning_curve` "
+"を提供します::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1598
 msgid "For a ``degree=1`` model"
-msgstr ""
+msgstr "``degree=1`` モデルの場合"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1600
 msgid ""
@@ -4605,6 +4612,8 @@ msgid ""
 " set, while the training score *generally decreases* with a growing training"
 " set. As the training size increases, they will converge to a single value."
 msgstr ""
+"検証スコアは訓練セットが大きくなるにつれて *一般的に増加* し、訓練スコアは訓練セットが大きくなるにつれて *一般的に減少* "
+"することに注意してください。訓練サイズが大きくなるにつれて、それらは単一の値に収束します。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1605
 msgid ""
@@ -4623,7 +4632,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1617
 msgid "A high-bias model can be improved by:"
-msgstr ""
+msgstr "高バイアスモデルは、次のようにして改善できます:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1619
 msgid "Using a more sophisticated model (i.e. in this case, increase ``d``)"
@@ -4649,7 +4658,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1633
 msgid "For a ``degree=15`` model"
-msgstr ""
+msgstr "``degree=15`` モデルの場合"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1636
 msgid ""
@@ -5903,6 +5912,8 @@ msgid ""
 "nearly true for reasonably large samples drawn from populations that follow "
 "a variety of non-normal distributions."
 msgstr ""
+"技術的には、t検定のp値は、母集団から抽出された標本の平均が正規分布しているという仮定の下で導かれます。この条件は、母集団自体が正規分布している場合に正確に満たされます;"
+" しかし、中心極限定理により、この条件は、様々な非正規分布に従う母集団から引かれた適度に大きなサンプルに対してほぼ当てはまります。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:362
 msgid ""
@@ -5911,10 +5922,13 @@ msgid ""
 " test <https://en.wikipedia.org/wiki/Wilcoxon_signed-rank_test>`_, which "
 "relaxes this assumption at the expense of test power::"
 msgstr ""
+"それにもかかわらず、正規性の仮定に違反することが検定の結論に影響することを懸念する場合、 `Wilcoxon signed-rank test "
+"<https://en.wikipedia.org/wiki/Wilcoxon_signed-rank_test>`_ "
+"を使えば、検定力を犠牲にしてこの仮定を緩和することができます::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:371
 msgid "Two-sample t-test: testing for difference across populations"
-msgstr ""
+msgstr "二標本のt検定: 集団間の差の検定"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:373
 msgid ""
@@ -5923,6 +5937,8 @@ msgid ""
 " there is a difference in population means), we perform a two-sample t-test "
 "using :func:`scipy.stats.ttest_ind`::"
 msgstr ""
+"以上、男女の平均VIQが異なることを見てきました。この差が有意かどうかを検証するため (そして、母集団の平均値に差があることを示唆するため)、 "
+":func:`scipy.stats.ttest_ind` を用いて2標本のt検定を行います::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:383
 msgid ""
@@ -5930,6 +5946,9 @@ msgid ""
 "<https://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U>`_, "
 ":func:`scipy.stats.mannwhitneyu`."
 msgstr ""
+"対応するノンパラメトリック検定は `Mann–Whitney U test "
+"<https://en.wikipedia.org/wiki/Mann%E2%80%93Whitney_U>`_ 、 "
+":func:`scipy.stats.mannwhitneyu` です。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:391
 msgid "Paired tests: repeated measurements on the same individuals"
