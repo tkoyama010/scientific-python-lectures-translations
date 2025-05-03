@@ -37,13 +37,15 @@ jobs:
         with:
           host: github.com
           private-key: ${{ secrets.SSH_PRIVATE_KEY }}
-      - name: install
+      - uses: awalsh128/cache-apt-pkgs-action@5902b33ae29014e6ca012c5d8025d4346556bd40
+        with:
+          packages: libopenblas-dev
+          version: 1.0
+      - uses: py-actions/py-dependency-install@30aa0023464ed4b5b116bd9fbdab87acf01a484e
+        with:
+          path: requirements.txt
+      - name: install transifex cli
         run: |
-          sudo apt-get update
-          sudo apt-get install -y --no-install-recommends libopenblas-dev
-          (cd scientific-python-lectures; git fetch origin; git checkout main; git reset --hard origin/main; git branch -a)
-          pip3 install -U pip setuptools
-          pip3 install -r ./requirements.txt
           curl -o- https://raw.githubusercontent.com/transifex/cli/master/install.sh | bash
           mv tx /usr/local/bin/tx
       - name: update
