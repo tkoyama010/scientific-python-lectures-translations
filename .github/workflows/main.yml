@@ -37,11 +37,11 @@ jobs:
         with:
           host: github.com
           private-key: ${{ secrets.SSH_PRIVATE_KEY }}
-      - uses: awalsh128/cache-apt-pkgs-action@v1.4.3
+      - uses: awalsh128/cache-apt-pkgs-action@5902b33ae29014e6ca012c5d8025d4346556bd40
         with:
           packages: libopenblas-dev
           version: 1.0
-      - uses: py-actions/py-dependency-install@v4.1.0
+      - uses: py-actions/py-dependency-install@30aa0023464ed4b5b116bd9fbdab87acf01a484e
         with:
           path: requirements.txt
       - name: install transifex cli
