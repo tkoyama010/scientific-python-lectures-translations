@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-03 12:30+0000\n"
+"POT-Creation-Date: 2025-05-05 00:14+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -5952,13 +5952,15 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:391
 msgid "Paired tests: repeated measurements on the same individuals"
-msgstr ""
+msgstr "ペアテスト: 同一個体に対する反復測定"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:398
 msgid ""
 "PIQ, VIQ, and FSIQ give three measures of IQ. Let us test whether FISQ and "
 "PIQ are significantly different. We can use an \"independent sample\" test::"
 msgstr ""
+"PIQ、VIQ、FSIQはIQの3つの尺度を与えます。 FISQとPIQが有意に異なるかどうかを検証してみましょう。 \"独立サンプル\" "
+"テストを使用することができます::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:404
 msgid ""
@@ -5969,28 +5971,32 @@ msgid ""
 "test\" or `\"repeated measures test\" "
 "<https://en.wikipedia.org/wiki/Repeated_measures_design>`_::"
 msgstr ""
+"このアプローチの問題点は、観測データ間の重要な関係を無視していることです: FSIQとPIQは同じ人を対象に測定されます。 "
+"したがって、被験者間のばらつきによる分散は交絡となり、検定の検出力を低下させます。 このばらつきは、 \"対応のある検定\" または "
+"`\"反復測定検定\"<https://en.wikipedia.org/wiki/Repeated_measures_design>`_ "
+"を用いて取り除くことができます::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:419
 msgid ""
 "This is equivalent to a one-sample test on the differences between paired "
 "observations::"
-msgstr ""
+msgstr "これは、一対のオブザベーション間の差に関する1標本検定に相当します::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:425
 msgid ""
 "Accordingly, we can perform a nonparametric version of the test with "
 "``wilcoxon``."
-msgstr ""
+msgstr "したがって、 ``wilcoxon`` でノンパラメトリック版の検定を行うことができます。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:434
 msgid "Test the difference between weights in males and females."
-msgstr ""
+msgstr "男性と女性の体重の差を調べます。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:436
 msgid ""
 "Use non parametric statistics to test the difference between VIQ in males "
 "and females."
-msgstr ""
+msgstr "ノンパラメトリック統計を使って、男女のVIQの違いを検定します。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:439
 msgid ""
@@ -6000,7 +6006,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:445
 msgid "Linear models, multiple factors, and analysis of variance"
-msgstr ""
+msgstr "線形モデル、多因子、分散分析"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:448
 msgid "\"formulas\" to specify statistical models in Python"
