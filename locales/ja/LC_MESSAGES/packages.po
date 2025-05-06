@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-06 00:14+0000\n"
+"POT-Creation-Date: 2025-05-06 12:31+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -2281,21 +2281,21 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_iris_knn.rst:22
 msgid "Nearest-neighbor prediction on iris"
-msgstr ""
+msgstr "虹彩の最近傍予測"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_iris_knn.rst:24
 msgid ""
 "Plot the decision boundary of nearest neighbor decision on iris, first with "
 "a single nearest neighbor, and then using 3 nearest neighbors."
-msgstr ""
+msgstr "虹彩の最近傍判定の判定境界をプロットします。最初は1つの最近傍を使用し、次に3つの最近傍を使用します。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_iris_knn.rst:58
 msgid "Put the result into a color plot"
-msgstr ""
+msgstr "結果をカラープロットにする"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_iris_knn.rst:78
 msgid "And now, redo the analysis with 3 neighbors"
-msgstr ""
+msgstr "そして今度は、3つの近傍を使って分析をやり直します。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_iris_knn.rst:111
 msgid ""
@@ -2574,26 +2574,26 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_polynomial_regression.rst:22
 msgid "Plot fitting a 9th order polynomial"
-msgstr ""
+msgstr "9次の多項式にフィッティングするプロット"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_polynomial_regression.rst:24
 msgid ""
 "Fits data generated from a 9th order polynomial with model of 4th order and "
 "9th order polynomials, to demonstrate that often simpler models are to be "
 "preferred"
-msgstr ""
+msgstr "9次の多項式から生成されたデータを、4次と9次の多項式のモデルでフィットさせ、より単純なモデルが好まれることが多いことを示します。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_polynomial_regression.rst:55
 msgid "The data"
-msgstr ""
+msgstr "データ"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_polynomial_regression.rst:67
 msgid "Fitting 4th and 9th order polynomials"
-msgstr ""
+msgstr "4次および9次多項式のフィッティング"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_polynomial_regression.rst:69
 msgid "For this we need to engineer features: the n_th powers of x:"
-msgstr ""
+msgstr "そのために必要なのは、機能をエンジニアすることです: xのn乗:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_polynomial_regression.rst:97
 msgid "Ground truth"
@@ -4166,7 +4166,7 @@ msgstr "質問"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1154
 msgid "Can we trust our results to be actually useful?"
-msgstr ""
+msgstr "結果が本当に役に立つと信じていいのでしょうか？"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1157
 msgid "Automatically Performing Grid Search"
@@ -4178,6 +4178,8 @@ msgid ""
 "as well as a dictionary of parameter values to be searched. We can find the "
 "optimal parameters this way::"
 msgstr ""
+":class:`sklearn.grid_search.GridSearchCV` は、推定器と検索するパラメータ値の辞書で構成されます。 "
+"最適なパラメータは次のようにして求めることができます::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1171
 msgid "Built-in Hyperparameter Search"
@@ -4317,6 +4319,9 @@ msgid ""
 "insight into the distribution of the different flowers in parameter space: "
 "notably, *iris setosa* is much more distinct than the other two species."
 msgstr ""
+"なお、この投影は、(色で表される)ラベルに関するいかなる情報も *持たず* に決定されました: これは、学習が **教師なし** であるという意味です。"
+" とはいえ、投影によって、パラメータ空間におけるさまざまな花の分布を知ることができます: 特に、 *iris setosa* "
+"は他の2種よりもはるかにはっきりしています。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1305
 msgid "Visualization with a non-linear embedding: tSNE"
@@ -4340,6 +4345,8 @@ msgid ""
 "As :class:`~sklearn.manifold.TSNE` cannot be applied to new data, we need to"
 " use its `fit_transform` method."
 msgstr ""
+":class:`~sklearn.manifold.TSNE` は新しいデータには適用できないので、 `fit_transform` "
+"メソッドを使う必要があります。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1340
 msgid ""
@@ -4349,7 +4356,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst-1
 msgid "Exercise: Other dimension reduction of digits"
-msgstr ""
+msgstr "練習: 数字の異次元化"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1351
 msgid ""
@@ -4860,12 +4867,12 @@ msgstr ""
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:3
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:4
 msgid "Full code for the figures"
-msgstr ""
+msgstr "画像の全コード"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:5
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:6
 msgid "Code examples for the statistics chapter."
-msgstr ""
+msgstr "統計の章のコード例。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:24
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:25
@@ -4919,7 +4926,7 @@ msgstr ":ref:`sphx_glr_packages_statistics_auto_examples_plot_airfare.py`"
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:172
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/solutions/index.rst:6
 msgid "Solutions to this chapter's exercises"
-msgstr ""
+msgstr "この章の練習問題の解答"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:190
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:191
@@ -5043,33 +5050,33 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_iris_analysis.rst:22
 msgid "Analysis of Iris petal and sepal sizes"
-msgstr ""
+msgstr "アイリスの花弁とがく片の大きさの分析"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_iris_analysis.rst:24
 msgid "Illustrate an analysis on a real dataset:"
-msgstr ""
+msgstr "実際のデータセットで分析を説明します:"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_iris_analysis.rst:26
 msgid "Visualizing the data to formulate intuitions"
-msgstr ""
+msgstr "直観を形成するためにデータを視覚化する"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_iris_analysis.rst:27
 msgid "Fitting of a linear model"
-msgstr ""
+msgstr "線形モデルのフィッティング"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_iris_analysis.rst:28
 msgid ""
 "Hypothesis test of the effect of a categorical variable in the presence of a"
 " continuous confound"
-msgstr ""
+msgstr "連続的交絡因子が存在する場合のカテゴリー変数の効果の仮説検定"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_iris_analysis.rst:49
 msgid "Plot a scatter matrix"
-msgstr ""
+msgstr "散布行列をプロットします"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_iris_analysis.rst:68
 msgid "Statistical analysis"
-msgstr ""
+msgstr "統計分析"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_iris_analysis.rst:97
 msgid ""
@@ -5105,7 +5112,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_paired_boxplots.rst:22
 msgid "Boxplots and paired differences"
-msgstr ""
+msgstr "箱ひげ図と一組の差"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_paired_boxplots.rst:24
 msgid ""
@@ -5115,6 +5122,8 @@ msgid ""
 " in the difference and the spread of the difference (\"paired\" by subject) "
 "is much smaller than the spread of the individual measures."
 msgstr ""
+"FSIQ、PIQ、両者の対の差の箱ひげ図をプロットします: FSIQとPIQのスプレッド (エラーバー) は非常に大きいですが、被験者による系統的 "
+"(共通) 効果があります。 この効果は差で相殺され、差の広がり (被験者ごとの \"ペア\") は、個々の測定値の広がりよりもはるかに小さいです。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_paired_boxplots.rst:61
 msgid ""
@@ -5152,7 +5161,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_pandas.rst:22
 msgid "Plotting simple quantities of a pandas dataframe"
-msgstr ""
+msgstr "pandasデータフレームの単純な量をプロットする"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_pandas.rst:24
 msgid ""
@@ -5161,10 +5170,12 @@ msgid ""
 "thanks to the pandas integrated plotting tool (that uses matplotlib behind "
 "the scene)."
 msgstr ""
+"この例では、数値とカテゴリーが混在したデータをCSVファイルから読み込み、(裏でmatplotlibを使っている) "
+"pandasの統合プロットツールを使って、女性と男性に分けていくつかの量をプロットしています。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_pandas.rst:29
 msgid "See http://pandas.pydata.org/pandas-docs/stable/visualization.html"
-msgstr ""
+msgstr "http://pandas.pydata.org/pandas-docs/stable/visualization.html を参照"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_pandas.rst:63
 msgid ""
@@ -5194,29 +5205,29 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_regression.rst:22
 msgid "Simple Regression"
-msgstr ""
+msgstr "単純回帰"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_regression.rst:24
 msgid ""
 "Fit a simple linear regression using 'statsmodels', compute corresponding "
 "p-values."
-msgstr ""
+msgstr "'statsmodels' を使って単純な線形回帰をフィットし、対応するp値を計算します。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_regression.rst:47
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_regression_3d.rst:52
 msgid "Generate and show the data"
-msgstr ""
+msgstr "データの作成と表示をします"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_regression.rst:67
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_regression_3d.rst:79
 msgid ""
 "Multilinear regression model, calculating fit, P-values, confidence "
 "intervals etc."
-msgstr ""
+msgstr "重回帰モデル、適合度、P値、信頼区間などの計算をします。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_regression.rst:94
 msgid "Plot the fitted model"
-msgstr ""
+msgstr "適合モデルをプロットします"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_regression.rst:118
 msgid ""
@@ -5251,17 +5262,17 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_regression_3d.rst:22
 msgid "Multiple Regression"
-msgstr ""
+msgstr "重回帰"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_regression_3d.rst:24
 msgid ""
 "Calculate using 'statsmodels' just the best fit, or all the corresponding "
 "statistical parameters."
-msgstr ""
+msgstr "'statsmodels' を使用して、最良フィットのみ、または対応するすべての統計パラメータを計算します。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_regression_3d.rst:27
 msgid "Also shows how to make 3d plots."
-msgstr ""
+msgstr "3Dプロットの作り方も紹介します。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_regression_3d.rst:124
 msgid ""
@@ -5380,7 +5391,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_wage_education_gender.rst:94
 msgid "statistical analysis"
-msgstr ""
+msgstr "統計分析"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_wage_education_gender.rst:112
 msgid ""
@@ -5514,7 +5525,7 @@ msgstr ""
 msgid ""
 "Going back to the brain size + IQ data, test if the VIQ of male and female "
 "are different after removing the effect of brain size, height and weight."
-msgstr ""
+msgstr "脳の大きさ + IQ のデータに戻り、脳の大きさ、身長、体重の影響を取り除いた後、男女のVIQが異なるかどうかを検証します。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/solutions/plot_brain_size.rst:28
 msgid ""
@@ -6193,23 +6204,25 @@ msgid ""
 msgstr ""
 "上記のアヤメの例では、萼片の幅の影響を取り除いた上で、花弁の長さがversicolorとvirginicaで異なるかどうかを検証したいです。これは、上記で推定された線形モデルにおいて、versicolorとvirginicaに関連する係数の差を検定することとして定式化することができます。"
 " (これは分散分析です、 `ANOVA <https://en.wikipedia.org/wiki/Analysis_of_variance>`_)。"
-" このために、推定されたパラメーターに **'コントラスト'のベクトル** を書きます: ``\"name[T.versicolor] - "
+" このために、推定されたパラメーターに ** 'コントラスト' のベクトル** を書きます: ``\"name[T.versicolor] - "
 "name[T.virginica]\"`` を `F-test <https://en.wikipedia.org/wiki/F-test>`_ "
 "でテストしたいです::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:736
 msgid "Is this difference significant?"
-msgstr ""
+msgstr "この違いは重要なのでしょうか？"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:751
 msgid "More visualization: seaborn for statistical exploration"
-msgstr ""
+msgstr "さらなる視覚化: 統計探索のためのseaborn"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:753
 msgid ""
 "`Seaborn <https://seaborn.pydata.org>`_ combines simple statistical fits "
 "with plotting on pandas dataframes."
 msgstr ""
+"`Seaborn <https://seaborn.pydata.org>`_ "
+"は、単純な統計的あてはめとpandasデータフレームへのプロットを組み合わせたものです。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:756
 msgid ""
@@ -6217,12 +6230,16 @@ msgid ""
 "500 individuals (`Berndt, ER. The Practice of Econometrics. 1991. NY: "
 "Addison-Wesley <https://lib.stat.cmu.edu/datasets/CPS_85_Wages>`_)."
 msgstr ""
+"500人分の賃金やその他多くの個人情報が記載されたデータを考えてみましょう (`Berndt, ER. The Practice of "
+"Econometrics. 1991. NY: Addison-Wesley "
+"<https://lib.stat.cmu.edu/datasets/CPS_85_Wages>`_)。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:762
 msgid ""
 "The full code loading and plotting of the wages data is found in "
 "`corresponding example <auto_examples/plot_wage_data.html>`_."
 msgstr ""
+"賃金データのロードとプロットの完全なコードは、 `対応する例にあります  <auto_examples/plot_wage_data.html>`_ 。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:776
 msgid "Pairplot: scatter matrices"
@@ -6242,7 +6259,7 @@ msgstr "カテゴリー変数は、色相としてプロットすることがで
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:776
 msgid "**Look and feel and matplotlib settings**"
-msgstr ""
+msgstr "**ルック&フィールとmatplotlibの設定**"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:804
 msgid ""
@@ -6250,6 +6267,8 @@ msgid ""
 "\"modern\", \"excel-like\" look. It does that upon import. You can reset the"
 " default using::"
 msgstr ""
+"Seabornはmatplotlibの図形のデフォルトを変更し、より \"モダン\" で \"Excelライク\" な外観を実現します。 "
+"インポート時にそうなります。 デフォルトをリセットするには::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:813
 msgid ""
@@ -6257,6 +6276,9 @@ msgid ""
 " see the `relevant section of the seaborn documentation "
 "<https://seaborn.pydata.org/tutorial/aesthetics.html>`_."
 msgstr ""
+"seabornの設定に戻したり、seabornのスタイリングをよりよく理解したりするには、 "
+"`seabornドキュメントの該当セクション<https://seaborn.pydata.org/tutorial/aesthetics.html>`_"
+" を参照してください 。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:819
 msgid "lmplot: plotting a univariate regression"
@@ -6267,10 +6289,11 @@ msgid ""
 "A regression capturing the relation between one variable and another, eg "
 "wage, and education, can be plotted using :func:`seaborn.lmplot`::"
 msgstr ""
+"ある変数と別の変数、例えば賃金と学歴の関係を表す回帰は、 :func:`seaborn.lmplot` を使ってプロットすることができます::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst-1
 msgid "**Robust regression**"
-msgstr ""
+msgstr "**ロバスト回帰**"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:839
 msgid ""
@@ -6287,14 +6310,19 @@ msgid ""
 "statsmodels by replacing the use of the OLS by a \"Robust Linear Model\", "
 ":func:`statsmodels.formula.api.rlm`."
 msgstr ""
+"外れ値の影響を受けにくい回帰を計算するには、 `robust model "
+"<https://en.wikipedia.org/wiki/Robust_statistics>`_ "
+"を使用する必要があります。これは、seabornではプロット関数に ``robust=True`` を使用し、statsmodelsではOLSの使用を "
+"\"Robust Linear Model\", :func:`statsmodels.formula.api.rlm` "
+"に置き換えることによって行われます。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:853
 msgid "Testing for interactions"
-msgstr ""
+msgstr "相互作用のテスト"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:860
 msgid "Do wages increase more with education for males than females?"
-msgstr ""
+msgstr "賃金は女性より男性の方が学歴とともに上昇するのでしょうか？"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:864
 msgid ""
@@ -6311,31 +6339,31 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:853
 msgid "**Take home messages**"
-msgstr ""
+msgstr "**持ち帰りメッセージ**"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:891
 msgid ""
 "Hypothesis testing and p-values give you the **significance** of an effect /"
 " difference."
-msgstr ""
+msgstr "仮説検定とp値は、効果 / 差の **有意性** を示します。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:894
 msgid ""
 "**Formulas** (with categorical variables) enable you to express rich links "
 "in your data."
-msgstr ""
+msgstr "(カテゴリ変数を使った) **数式** によって、データ内のリッチなリンクを表現することができます。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:897
 msgid ""
 "**Visualizing** your data and fitting simple models give insight into the "
 "data."
-msgstr ""
+msgstr "データを **視覚化** し、簡単なモデルを当てはめることで、データに対する洞察が得られます。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:900
 msgid ""
 "**Conditionning** (adding factors that can explain all or part of the "
 "variation) is an important modeling aspect that changes the interpretation."
-msgstr ""
+msgstr "**コンディショニング** (変動のすべてまたは一部を説明できる要因を加える) は解釈を変える重要なモデリングアスペクトです。"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:8
 msgid "Sympy : Symbolic Mathematics in Python"
