@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-06 12:31+0000\n"
+"POT-Creation-Date: 2025-05-08 12:47+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -2424,7 +2424,7 @@ msgstr ""
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_linear_regression.rst:22
 #: ../../scientific-python-lectures/packages/statistics/index.rst:451
 msgid "A simple linear regression"
-msgstr ""
+msgstr "単純な線形回帰"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_linear_regression.rst:71
 msgid ""
@@ -6021,13 +6021,14 @@ msgstr "線形モデル、多因子、分散分析"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:448
 msgid "\"formulas\" to specify statistical models in Python"
-msgstr ""
+msgstr "Pythonで統計モデルを指定する \"式\""
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:458
 msgid ""
 "Given two set of observations, `x` and `y`, we want to test the hypothesis "
 "that `y` is a linear function of `x`. In other terms:"
 msgstr ""
+"2組の観測値、 `x` と `y` が与えられたとき、我々は `y` が `x` の線形関数であるという仮説を検定したいです。 言い換えると:"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:461
 msgid ":math:`y = x * \\textit{coef} + \\textit{intercept} + e`"
@@ -6038,20 +6039,24 @@ msgid ""
 "where `e` is observation noise. We will use the `statsmodels "
 "<https://www.statsmodels.org/>`_ module to:"
 msgstr ""
+"ここで `e` は観測ノイズです。 `statsmodels <https://www.statsmodels.org/>`_ "
+"モジュールを使って次のことを行います:"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:466
 msgid ""
 "Fit a linear model. We will use the simplest strategy, `ordinary least "
 "squares <https://en.wikipedia.org/wiki/Ordinary_least_squares>`_ (OLS)."
 msgstr ""
+"線形モデルを当てはめます。 最も単純な戦略である `ordinary least squares "
+"<https://en.wikipedia.org/wiki/Ordinary_least_squares>`_ (OLS) を使います。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:469
 msgid "Test that `coef` is non zero."
-msgstr ""
+msgstr "`coef` がゼロでないことをテストします。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:473
 msgid "First, we generate simulated data according to the model::"
-msgstr ""
+msgstr "まず、モデルに従ってシミュレーションデータを作成します::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst-1
 msgid "**\"formulas\" for statistics in Python**"
