@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-08 12:47+0000\n"
+"POT-Creation-Date: 2025-05-09 00:13+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -2326,11 +2326,11 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_iris_scatter.rst:22
 msgid "Plot 2D views of the iris dataset"
-msgstr ""
+msgstr "アヤメの花データセットの2Dビューをプロット"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_iris_scatter.rst:24
 msgid "Plot a simple scatter plot of 2 features of the iris dataset."
-msgstr ""
+msgstr "アヤメの花データセットの2つの特徴の単純な散布図をプロットします。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_iris_scatter.rst:26
 msgid ""
@@ -2462,7 +2462,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_measuring_performance.rst:22
 msgid "Measuring Decision Tree performance"
-msgstr ""
+msgstr "決定木のパフォーマンス測定"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_measuring_performance.rst:24
 msgid "Demonstrates overfit when testing on train set."
@@ -2528,16 +2528,16 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_pca.rst:23
 msgid "Demo PCA in 2D"
-msgstr ""
+msgstr "2次元PCAのデモ"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_pca.rst:27
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_tsne.rst:33
 msgid "Load the iris data"
-msgstr ""
+msgstr "アヤメの花データを読み込みます"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_pca.rst:42
 msgid "Fit a PCA"
-msgstr ""
+msgstr "PCAに合わせます"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_pca.rst:56
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_tsne.rst:62
@@ -3219,7 +3219,7 @@ msgstr "**簡単な質問:**"
 msgid ""
 "**If we want to design an algorithm to recognize iris species, what might "
 "the data be?**"
-msgstr "**虹彩の種類を認識するアルゴリズムを設計する場合、どのようなデータが考えられるでしょう？**"
+msgstr "**アヤメの花の種類を認識するアルゴリズムを設計する場合、どのようなデータが考えられるでしょう？**"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:164
 msgid "Remember: we need a 2D array of size ``[n_samples x n_features]``."
@@ -3242,7 +3242,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:175
 msgid "Loading the Iris Data with Scikit-learn"
-msgstr "Scikit-learnでアヤメの花データを読み込む"
+msgstr "scikit-learnでアヤメの花データを読み込む"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:177
 msgid ""
@@ -4262,7 +4262,7 @@ msgid ""
 msgstr ""
 "次元削減は、元の特徴セットよりも小さい新しい人工的な特徴セットを導き出します。ここでは `Principal Component Analysis "
 "(PCA) <https://en.wikipedia.org/wiki/Principal_component_analysis>`__ とします、 "
-"元のデータの分散の大部分を保持しようとする次元削減です。虹彩データセットに :class:`sklearn.decomposition.PCA` "
+"元のデータの分散の大部分を保持しようとする次元削減です。アヤメの花データセットに :class:`sklearn.decomposition.PCA` "
 "を使います::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1235
@@ -4288,7 +4288,7 @@ msgstr "その他の属性も利用可能です::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1259
 msgid "Let us project the iris dataset along those first two dimensions:::"
-msgstr "虹彩データセットを最初の2次元に沿って投影してみましょう:::"
+msgstr "アヤメの花データセットを最初の2次元に沿って投影してみましょう:::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1265
 msgid ""
@@ -4325,7 +4325,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1305
 msgid "Visualization with a non-linear embedding: tSNE"
-msgstr ""
+msgstr "非線形埋め込みによる可視化: tSNE"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1307
 msgid ""
@@ -4335,6 +4335,9 @@ msgid ""
 "dataset, as the digits are vectors of dimension 8*8 = 64. Embedding them in "
 "2D enables visualization::"
 msgstr ""
+"視覚化には、より複雑な埋め込みが有効です (統計分析では、コントロールが難しくなります)。 :class:`sklearn.manifold.TSNE`"
+" はそのような強力な多様体学習法です。 数字は 8*8=64 次元のベクトルなので、これを *数字* データセットに適用します。 "
+"2Dに埋め込むことで視覚化が可能になります::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst-1
 msgid "fit_transform"
@@ -4353,6 +4356,8 @@ msgid ""
 ":class:`sklearn.manifold.TSNE` separates quite well the different classes of"
 " digits even though it had no access to the class information."
 msgstr ""
+":class:`sklearn.manifold.TSNE` "
+"は、クラス情報にアクセスできなかったにもかかわらず、数字の異なるクラスを非常にうまく分離しました。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst-1
 msgid "Exercise: Other dimension reduction of digits"
@@ -6060,25 +6065,27 @@ msgstr "まず、モデルに従ってシミュレーションデータを作成
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst-1
 msgid "**\"formulas\" for statistics in Python**"
-msgstr ""
+msgstr "**Pythonによる統計の \"公式\"**"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:486
 msgid ""
 "`See the statsmodels documentation "
 "<https://www.statsmodels.org/stable/example_formulas.html>`_"
 msgstr ""
+"`statsmodelsのドキュメントを参照 "
+"<https://www.statsmodels.org/stable/example_formulas.html>`_"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:491
 msgid "Then we specify an OLS model and fit it::"
-msgstr ""
+msgstr "次に、OLSモデルを指定し、それを当てはめます::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:496
 msgid "We can inspect the various statistics derived from the fit::"
-msgstr ""
+msgstr "fitから得られる様々な統計量を調べることができます::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst-1
 msgid "Terminology:"
-msgstr ""
+msgstr "用語解説:"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:527
 msgid ""
@@ -6087,6 +6094,9 @@ msgid ""
 "discussed in more detail `here "
 "<https://www.statsmodels.org/devel/endog_exog.html>`_."
 msgstr ""
+"statsmodelsは統計用語を使用します: 統計モデルにおける `y` 変数は '内生的' と呼ばれ、 `x` 変数は '外生的' と呼ばれます。"
+"  これについては、 `こちら<https://www.statsmodels.org/devel/endog_exog.html>`_ "
+"で詳しく説明しています。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:532
 msgid ""
@@ -6094,6 +6104,7 @@ msgid ""
 "`x` (exogenous) represents the features you are using to make the "
 "prediction."
 msgstr ""
+"単純化すると、 `y` (endogenous) は予測しようとする値で、 `x` (exogenous) は予測を行うために使用する特徴を表します。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:540
 msgid ""
@@ -6113,11 +6124,11 @@ msgstr "脳の大きさに関するデータに戻りましょう::"
 msgid ""
 "We can write a comparison between IQ of male and female using a linear "
 "model::"
-msgstr ""
+msgstr "男性と女性のIQの比較は、線形モデルを使って書くことができます::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:546
 msgid "**Tips on specifying model**"
-msgstr ""
+msgstr "**モデルを指定する際のヒント**"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:585
 msgid ""
@@ -6125,16 +6136,19 @@ msgid ""
 "categorical variable, and thus each of its different values are treated as "
 "different entities."
 msgstr ""
+"**カテゴリーを強制する**: 'Gender' "
+"は自動的にカテゴリー変数として検出されるため、その異なる値はそれぞれ異なるエンティティとして扱われます。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:589
 msgid "An integer column can be forced to be treated as categorical using::"
-msgstr ""
+msgstr "整数カラムをカテゴリーとして扱うには::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:593
 msgid ""
 "**Intercept**: We can remove the intercept using `- 1` in the formula, or "
 "force the use of an intercept using `+ 1`."
 msgstr ""
+"**インターセプト**: 式の中で `- 1` を使って切片を取り除くこともできるし、 `+ 1` を使って切片を強制的に使うこともできます。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:598
 msgid ""
@@ -6144,22 +6158,28 @@ msgid ""
 "is possible to specify different encodings for categorical variables "
 "(https://www.statsmodels.org/devel/contrasts.html)."
 msgstr ""
+"デフォルトでは、statsmodelsは、K個の可能な値を持つカテゴリー変数をK-1個の 'ダミー' ブーリアン変数として扱います "
+"(最後のレベルは切片項に吸収されます) 。 これは、ほとんどの場合、デフォルトの良い選択です - "
+"しかし、カテゴリー変数に対して異なるエンコーディングを指定することは可能です "
+"(https://www.statsmodels.org/devel/contrasts.html) 。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst-1
 msgid "**Link to t-tests between different FSIQ and PIQ**"
-msgstr ""
+msgstr "**異なるFSIQとPIQ間のt検定へのリンク**"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:610
 msgid ""
 "To compare different types of IQ, we need to create a \"long-form\" table, "
 "listing IQs, where the type of IQ is indicated by a categorical variable::"
 msgstr ""
+"異なるタイプのIQを比較します、 \"ロングフォーム\" "
+"テーブルを作成する必要があります、IQのタイプはカテゴリー変数で示されるため、IQを記載します::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:644
 msgid ""
 "We can see that we retrieve the same values for t-test and corresponding "
 "p-values for the effect of the type of iq than the previous t-test::"
-msgstr ""
+msgstr "t検定でも同じ値が得られることがわかります、そして、 iqのタイプの効果について、前のt検定よりも対応するp値です::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:653
 msgid "Multiple Regression: including multiple factors"
@@ -6183,13 +6203,13 @@ msgstr "このようなモデルは、 (`x`, `y`, `z`) 点の雲に平面を当�
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:673
 msgid "**Example: the iris data** (:download:`examples/iris.csv`)"
-msgstr ""
+msgstr "**例: アヤメの花データ** (:download:`examples/iris.csv`)"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:677
 msgid ""
 "Sepal and petal size tend to be related: bigger flowers are bigger! But is "
 "there in addition a systematic effect of species?"
-msgstr ""
+msgstr "がく片と花弁の大きさは関連する傾向があります: 大きな花はより大きいです！ しかし、それに加えて種による系統的な影響もあるのでしょうか？"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:721
 msgid "Post-hoc hypothesis testing: analysis of variance (ANOVA)"
@@ -6287,7 +6307,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:819
 msgid "lmplot: plotting a univariate regression"
-msgstr ""
+msgstr "lmplot: 単変量回帰のプロット"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:826
 msgid ""
@@ -6306,6 +6326,7 @@ msgid ""
 "that are outside of the main cloud to the right, they might be outliers, not"
 " representative of the population, but driving the regression."
 msgstr ""
+"上のプロットでは、右側の雲から外れたデータポイントがいくつかあるように見えますが、これは外れ値であり、母集団を代表するものではないが、回帰を推進しているのかもしれません。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:844
 msgid ""
