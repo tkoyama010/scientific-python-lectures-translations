@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-03-29 00:12+0000\n"
+"POT-Creation-Date: 2025-05-10 00:13+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -107,6 +107,8 @@ msgid ""
 "<sphx_glr_download_advanced_advanced_numpy_auto_examples_plot_maskedstats.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_advanced_numpy_auto_examples_plot_maskedstats.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/auto_examples/plot_maskedstats.rst:22
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst-1
@@ -3835,8 +3837,7 @@ msgid ""
 "<sphx_glr_download_advanced_image_processing_auto_examples_plot_block_mean.py>`"
 " to download the full example code."
 msgstr ""
-":ref:`Go to the end "
-"<sphx_glr_download_advanced_image_processing_auto_examples_plot_block_mean.py>`"
+":ref:`最後まで<sphx_glr_download_advanced_image_processing_auto_examples_plot_block_mean.py>`"
 " をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_block_mean.rst:22
