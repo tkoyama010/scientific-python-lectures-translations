@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-10 00:13+0000\n"
+"POT-Creation-Date: 2025-05-11 00:15+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -3066,7 +3066,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:70
 msgid "A classification problem"
-msgstr ""
+msgstr "分類問題"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:72
 msgid ""
@@ -3092,7 +3092,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:92
 msgid "A regression problem"
-msgstr ""
+msgstr "回帰問題"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:96
 msgid ""
