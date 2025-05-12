@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-10 00:13+0000\n"
+"POT-Creation-Date: 2025-05-12 18:09+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -1226,7 +1226,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/language/control_flow.rst:0
 msgid "``a == b``"
-msgstr ""
+msgstr "``a == b``"
 
 #: ../../scientific-python-lectures/intro/language/control_flow.rst:116
 msgid "Tests equality, with logics::"
@@ -1234,7 +1234,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/language/control_flow.rst:0
 msgid "``a is b``"
-msgstr ""
+msgstr "``a is b``"
 
 #: ../../scientific-python-lectures/intro/language/control_flow.rst:123
 msgid "Tests identity: both sides are the same object::"
@@ -1242,7 +1242,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/language/control_flow.rst:0
 msgid "``a in b``"
-msgstr ""
+msgstr "``a in b``"
 
 #: ../../scientific-python-lectures/intro/language/control_flow.rst:139
 msgid "For any collection ``b``: ``b`` contains ``a`` ::"
@@ -1338,6 +1338,8 @@ msgid ""
 "\\pi = 2 \\prod_{i=1}^{\\infty} \\frac{4i^2}{4i^2 - 1}\n"
 "\n"
 msgstr ""
+"\\pi = 2 \\prod_{i=1}^{\\infty} \\frac{4i^2}{4i^2 - 1}\n"
+"\n"
 
 #: ../../scientific-python-lectures/intro/language/exceptions.rst:2
 msgid "Exception handling in Python"
@@ -1739,6 +1741,14 @@ msgid ""
 "\\right.\n"
 "\n"
 msgstr ""
+"\\left\\{\n"
+"    \\begin{array}{ll}\n"
+"        U_{0} = 0 \\\\\n"
+"        U_{1} = 1 \\\\\n"
+"        U_{n+2} = U_{n+1} + U_{n}\n"
+"    \\end{array}\n"
+"\\right.\n"
+"\n"
 
 #: ../../scientific-python-lectures/intro/language/functions.rst-1
 msgid "Exercise: Quicksort"
@@ -2245,7 +2255,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/language/reusing_code.rst:391
 msgid "Packages"
-msgstr ""
+msgstr "パッケージ"
 
 #: ../../scientific-python-lectures/intro/language/reusing_code.rst:393
 msgid ""
@@ -2353,7 +2363,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/language/standard_library.rst:2
 msgid "Standard Library"
-msgstr ""
+msgstr "標準ライブラリ"
 
 #: ../../scientific-python-lectures/intro/language/standard_library.rst:4
 msgid "Reference document for this section:"
