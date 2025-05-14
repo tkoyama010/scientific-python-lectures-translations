@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-12 18:09+0000\n"
+"POT-Creation-Date: 2025-05-14 00:14+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -2141,7 +2141,7 @@ msgstr ""
 #: ../../scientific-python-lectures/intro/language/reusing_code.rst:268
 #: ../../scientific-python-lectures/intro/scipy/solutions.rst:94
 msgid "Solution:"
-msgstr ""
+msgstr "解答:"
 
 #: ../../scientific-python-lectures/intro/language/reusing_code.rst:275
 msgid "'__main__' and module loading"
@@ -8282,7 +8282,7 @@ msgstr ""
 #: ../../scientific-python-lectures/intro/numpy/exercises.rst:162
 msgid ""
 "Solution: :download:`Python source file <solutions/2_2_data_statistics.py>`"
-msgstr ""
+msgstr "解答: :download:`Python source file <solutions/2_2_data_statistics.py>`"
 
 #: ../../scientific-python-lectures/intro/numpy/exercises.rst:165
 msgid "Crude integral approximations"
@@ -8327,6 +8327,7 @@ msgid ""
 "Solution: :download:`Python source file "
 "<solutions/2_3_crude_integration.py>`"
 msgstr ""
+"解答: :download:`Python source file <solutions/2_3_crude_integration.py>`"
 
 #: ../../scientific-python-lectures/intro/numpy/exercises.rst:197
 msgid ""
@@ -8362,7 +8363,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/numpy/exercises.rst:233
 msgid "Solution: :download:`Python source file <solutions/2_4_mandelbrot.py>`"
-msgstr ""
+msgstr "解答: :download:`Python source file <solutions/2_4_mandelbrot.py>`"
 
 #: ../../scientific-python-lectures/intro/numpy/exercises.rst:236
 msgid "Markov chain"
@@ -8426,7 +8427,7 @@ msgstr ""
 #: ../../scientific-python-lectures/intro/numpy/exercises.rst:268
 msgid ""
 "Solution: :download:`Python source file <solutions/2_5_markov_chain.py>`"
-msgstr ""
+msgstr "解答: :download:`Python source file <solutions/2_5_markov_chain.py>`"
 
 #: ../../scientific-python-lectures/intro/numpy/index.rst:5
 msgid "NumPy: creating and manipulating numerical data"
@@ -12229,7 +12230,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/optimize-fit.rst:136
 msgid "And visualize the solution:"
-msgstr ""
+msgstr "そして解決策を可視化します:"
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/optimize-fit.rst:146
 msgid ""
@@ -12404,6 +12405,8 @@ msgid ""
 "Solution: :download:`Python source file "
 "<examples/plot_gumbell_wind_speed_prediction.py>`"
 msgstr ""
+"解答: :download:`Python source file "
+"<examples/plot_gumbell_wind_speed_prediction.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/stats-interpolate.rst:104
 msgid "Exercise with the Gumbell distribution"
@@ -12430,6 +12433,7 @@ msgid ""
 "Solution: :download:`Python source file "
 "<examples/plot_sprog_annual_maxima.py>`"
 msgstr ""
+"解答: :download:`Python source file <examples/plot_sprog_annual_maxima.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/stats-interpolate.rst:123
 msgid ""

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-13 00:14+0000\n"
+"POT-Creation-Date: 2025-05-14 00:14+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -2182,17 +2182,17 @@ msgstr ""
 msgid ""
 "These projected components correspond to factors in a linear combination of "
 "component images such that the combination approaches the original face."
-msgstr ""
+msgstr "これらの投影された成分は、組み合わせが元の顔に近づくような成分画像の線形結合の因子に対応します。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:190
 msgid "Doing the Learning: Support Vector Machines"
-msgstr ""
+msgstr "学びを実践する: サポートベクターマシン"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:192
 msgid ""
 "Now we'll perform support-vector-machine classification on this reduced "
 "dataset:"
-msgstr ""
+msgstr "では、この縮小されたデータセットに対してサポートベクトルマシン分類を実行しましょう:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:208
 msgid ""
@@ -2239,7 +2239,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:302
 msgid "A Note on Facial Recognition"
-msgstr ""
+msgstr "顔認識に関するメモ"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:304
 msgid ""
@@ -3167,7 +3167,7 @@ msgstr "簡単な例: アヤメの花データセット"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:138
 msgid "The application problem"
-msgstr ""
+msgstr "アプリケーションの問題"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:140
 msgid ""
@@ -3631,11 +3631,11 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:470
 msgid "A linear separation"
-msgstr ""
+msgstr "線形分離"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:470
 msgid "A non-linear separation"
-msgstr ""
+msgstr "非線形分離"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:475
 msgid ""
@@ -3644,6 +3644,8 @@ msgid ""
 "makes a decision based on a linear combination of features, is more complex "
 "than a non-linear one."
 msgstr ""
+"分類モデルの場合、 クラスを分ける決定境界はモデルの複雑さを表します。 "
+"例えば、特徴の線形結合に基づいて決定を下す、線形モデルは非線形モデルよりも複雑です。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:482
 msgid "Supervised Learning: Classification of Handwritten Digits"
@@ -3680,7 +3682,7 @@ msgstr ""
 msgid ""
 "Let us visualize the data and remind us what we're looking at (click on the "
 "figure for the full code)::"
-msgstr ""
+msgstr "データを視覚化し、私たちが何を見ているのかを思い出させてくれます (図をクリックするとフルコードが表示されます)::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:514
 msgid "Visualizing the Data on its principal components"
@@ -4094,12 +4096,19 @@ msgid ""
 "between 1 and 10. Note that :class:`~sklearn.naive_bayes.GaussianNB` does "
 "not have any adjustable hyperparameters. ::"
 msgstr ""
+"それぞれの分類器について、どのハイパーパラメータの値が、ディジットのデータに対して最良の結果を与えるでしょうか？  "
+":class:`~sklearn.svm.LinearSVC` には ``loss='l2'`` と ``loss='l1'`` を使います。  "
+":class:`~sklearn.neighbors.KNeighborsClassifier` には、1から10までの ``n_neighbors``"
+" を使います。 :class:`~sklearn.naive_bayes.GaussianNB` "
+"は調整可能なハイパーパラメータを持っていないことに注意してください。 ::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1071
 msgid ""
 "**Solution:** :ref:`code source <sphx_glr_packages_scikit-"
 "learn_auto_examples_plot_compare_classifiers.py>`"
 msgstr ""
+"**解答:** :ref:`code source <sphx_glr_packages_scikit-"
+"learn_auto_examples_plot_compare_classifiers.py>`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1075
 msgid "Cross-validation"
@@ -4152,7 +4161,7 @@ msgstr ""
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1119
 msgid ""
 "With the default hyper-parameters: we compute the cross-validation score::"
-msgstr ""
+msgstr "デフォルトのハイパーパラメータで、交差検証のスコアを計算します::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1130
 msgid "Basic Hyperparameter Optimization"
@@ -4377,6 +4386,8 @@ msgid ""
 "on the digits dataset. Could you judge their quality without knowing the "
 "labels ``y``? ::"
 msgstr ""
+":mod:`sklearn.manifold` には他にも多くの非線形埋め込みがあります。 digitsデータセットで試してみてください。 ``y`` "
+"というラベルを知らなくても、その品質を判断できるでしょうか？ ::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1360
 msgid "Parameter selection, Validation, and Testing"
@@ -4412,11 +4423,11 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1379
 msgid "Use simpler or more complicated model?"
-msgstr ""
+msgstr "よりシンプルなモデルを使うか、より複雑なモデルを使うか？"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1380
 msgid "Add more features to each observed data point?"
-msgstr ""
+msgstr "観測された各データポイントにさらに特徴を加えるのか？"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1381
 msgid "Add more training samples?"
@@ -4519,7 +4530,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst-1
 msgid "Polynomial regression with scikit-learn"
-msgstr ""
+msgstr "scikit-learnによる多項式回帰"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1465
 msgid ""

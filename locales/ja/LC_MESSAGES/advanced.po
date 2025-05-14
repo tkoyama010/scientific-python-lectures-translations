@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-10 00:13+0000\n"
+"POT-Creation-Date: 2025-05-14 00:14+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -1363,7 +1363,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:1059
 msgid "Solution: building an ufunc from scratch"
-msgstr ""
+msgstr "解答: ufuncをゼロから構築します"
 
 #: ../../scientific-python-lectures/advanced/advanced_numpy/index.rst:1071
 msgid "Most of the boilerplate could be automated by these Cython modules:"
