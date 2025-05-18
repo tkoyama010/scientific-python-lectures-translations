@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-14 00:14+0000\n"
+"POT-Creation-Date: 2025-05-18 00:15+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -2672,21 +2672,21 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_svm_non_linear.rst:22
 msgid "Example of linear and non-linear models"
-msgstr ""
+msgstr "線形モデルと非線形モデルの例"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_svm_non_linear.rst:24
 msgid ""
 "This is an example plot from the tutorial which accompanies an explanation "
 "of the support vector machine GUI."
-msgstr ""
+msgstr "これは、サポートベクターマシンのGUIの説明に付随するチュートリアルのプロット例です。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_svm_non_linear.rst:43
 msgid "data that is linearly separable"
-msgstr ""
+msgstr "線形分離可能なデータ"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_svm_non_linear.rst:98
 msgid "data with a non-linear separation"
-msgstr ""
+msgstr "非線形分離のデータ"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_svm_non_linear.rst:172
 msgid ""
@@ -3406,7 +3406,7 @@ msgstr "望遠鏡を通した天体の多色画像が与えられたら、その
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:311
 msgid "given a photograph of a person, identify the person in the photo."
-msgstr ""
+msgstr "人物の写真が与えられたら、写真に写っている人物を特定する。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:312
 msgid ""
@@ -3415,6 +3415,8 @@ msgid ""
 "systems*: a famous example is the `Netflix Prize "
 "<https://en.wikipedia.org/wiki/Netflix_prize>`__)."
 msgstr ""
+"ある人が観た映画のリストと、その人の個人的な評価が与えられたら、その人が好きそうな映画のリストを推薦する (いわゆる *レコメンダーシステム*: "
+"有名な例は `Netflix Prize <https://en.wikipedia.org/wiki/Netflix_prize>`__) 。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:319
 msgid ""
@@ -4869,6 +4871,8 @@ msgid ""
 "set. But if your goal is to gauge the error of a model on unknown data, "
 "using an independent test set is vital."
 msgstr ""
+"多くの機械学習の専門家は、テストセットと検証セットを分けていません。 "
+"しかし、未知のデータに対するモデルの誤差を測定することが目的であれば、独立したテストセットの使用は不可欠です。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1748
 msgid "**Going further**"
