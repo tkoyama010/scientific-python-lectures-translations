@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-19 00:15+0000\n"
+"POT-Creation-Date: 2025-05-19 18:11+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -2158,11 +2158,11 @@ msgstr ""
 msgid ""
 "The principal components measure deviations about this mean along orthogonal"
 " axes."
-msgstr ""
+msgstr "主成分は、直交する軸に沿って、この平均に関する偏差を測定します。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:144
 msgid "It is also interesting to visualize these principal components:"
-msgstr ""
+msgstr "これらの主成分を視覚化するのも興味深いです:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:159
 msgid ""
@@ -2375,7 +2375,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_linear_model_cv.rst:27
 msgid "Load the diabetes dataset"
-msgstr ""
+msgstr "糖尿病データセットをロードする"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_linear_model_cv.rst:42
 msgid "Compute the cross-validation score with the default hyper-parameters"
