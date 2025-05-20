@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-19 18:11+0000\n"
+"POT-Creation-Date: 2025-05-20 00:14+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -2371,7 +2371,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_linear_model_cv.rst:23
 msgid "Use the RidgeCV and LassoCV to set the regularization parameter"
-msgstr ""
+msgstr "RidgeCVとLassoCVを使用して正則化パラメータを設定する"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_linear_model_cv.rst:27
 msgid "Load the diabetes dataset"
@@ -2379,7 +2379,7 @@ msgstr "糖尿病データセットをロードする"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_linear_model_cv.rst:42
 msgid "Compute the cross-validation score with the default hyper-parameters"
-msgstr ""
+msgstr "デフォルトのハイパーパラメータでクロスバリデーションのスコアを計算します。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_linear_model_cv.rst:58
 msgid ""
@@ -6459,11 +6459,11 @@ msgstr "Sympy のドキュメントとインストール用パッケージは ht
 
 #: ../../scientific-python-lectures/packages/sympy.rst:38
 msgid "First Steps with SymPy"
-msgstr ""
+msgstr "SymPyの第一歩"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:42
 msgid "Using SymPy as a calculator"
-msgstr ""
+msgstr "SymPyを電卓として使う"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:44
 msgid ""
