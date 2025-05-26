@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-15 00:12+0000\n"
+"POT-Creation-Date: 2025-05-26 00:14+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -1445,7 +1445,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/language/first_steps.rst:23
 msgid "Once you have started the interpreter, type ::"
-msgstr ""
+msgstr "インタープリターを起動したら、次のようにタイプします ::"
 
 #: ../../scientific-python-lectures/intro/language/first_steps.rst:30
 msgid ""
@@ -1455,7 +1455,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/language/first_steps.rst:33
 msgid "To get yourself started, type the following stack of instructions ::"
-msgstr ""
+msgstr "手始めに、以下のスタックインストラクションを入力します ::"
 
 #: ../../scientific-python-lectures/intro/language/first_steps.rst:53
 msgid ""
@@ -1768,36 +1768,38 @@ msgid ""
 "Python. Since we will use the NumPy methods to read and write files, **you "
 "may skip this chapter at first reading**."
 msgstr ""
+"念のため、Pythonの入力と出力に関する情報をいくつか挙げておきます。 ファイルの読み書きにはNumPyのメソッドを使用します、 "
+"**初読時はこの章を飛ばしてもよいです** 。"
 
 #: ../../scientific-python-lectures/intro/language/io.rst:8
 msgid ""
 "We write or read **strings** to/from files (other types must be converted to"
 " strings). To write in a file::"
-msgstr ""
+msgstr "ファイルとの間で **文字列** を読み書きします（他の型は文字列に変換する必要があります）。 ファイルに書き込むには::"
 
 #: ../../scientific-python-lectures/intro/language/io.rst:17
 msgid "To read from a file"
-msgstr ""
+msgstr "ファイルから読み込むには"
 
 #: ../../scientific-python-lectures/intro/language/io.rst:35
 msgid "For more details: https://docs.python.org/3/tutorial/inputoutput.html"
-msgstr ""
+msgstr "詳細: https://docs.python.org/3/tutorial/inputoutput.html"
 
 #: ../../scientific-python-lectures/intro/language/io.rst:38
 msgid "Iterating over a file"
-msgstr ""
+msgstr "ファイルの反復処理"
 
 #: ../../scientific-python-lectures/intro/language/io.rst:54
 msgid "File modes"
-msgstr ""
+msgstr "ファイルモード"
 
 #: ../../scientific-python-lectures/intro/language/io.rst:56
 msgid "Read-only: ``r``"
-msgstr ""
+msgstr "読み取り専用: ``r``"
 
 #: ../../scientific-python-lectures/intro/language/io.rst:57
 msgid "Write-only: ``w``"
-msgstr ""
+msgstr "書き込み専用: ``w``"
 
 #: ../../scientific-python-lectures/intro/language/io.rst:59
 msgid "Note: Create a new file or *overwrite* existing file."
@@ -1805,19 +1807,19 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/language/io.rst:61
 msgid "Append a file: ``a``"
-msgstr ""
+msgstr "ファイルを追加します: ``a``"
 
 #: ../../scientific-python-lectures/intro/language/io.rst:62
 msgid "Read and Write: ``r+``"
-msgstr ""
+msgstr "読み書き: ``r+``"
 
 #: ../../scientific-python-lectures/intro/language/io.rst:63
 msgid "Binary mode: ``b``"
-msgstr ""
+msgstr "バイナリーモード: ``b``"
 
 #: ../../scientific-python-lectures/intro/language/io.rst:65
 msgid "Note: Use for binary files, especially on Windows."
-msgstr ""
+msgstr "注: 特にWindowsでは、バイナリファイルに使用します。"
 
 #: ../../scientific-python-lectures/intro/language/oop.rst:2
 msgid "Object-oriented programming (OOP)"
@@ -2367,49 +2369,49 @@ msgstr "標準ライブラリ"
 
 #: ../../scientific-python-lectures/intro/language/standard_library.rst:4
 msgid "Reference document for this section:"
-msgstr ""
+msgstr "このセクションの参考文献:"
 
 #: ../../scientific-python-lectures/intro/language/standard_library.rst:6
 msgid ""
 "The Python Standard Library documentation: "
 "https://docs.python.org/3/library/index.html"
-msgstr ""
+msgstr "Python 標準ライブラリのドキュメント: https://docs.python.org/3/library/index.html"
 
 #: ../../scientific-python-lectures/intro/language/standard_library.rst:9
 msgid "Python Essential Reference, David Beazley, Addison-Wesley Professional"
-msgstr ""
+msgstr "Pythonエッセンシャルリファレンス, David Beazley, Addison-Wesley Professional"
 
 #: ../../scientific-python-lectures/intro/language/standard_library.rst:12
 msgid "``os`` module: operating system functionality"
-msgstr ""
+msgstr "``os`` モジュール: オペレーティングシステム機能"
 
 #: ../../scientific-python-lectures/intro/language/standard_library.rst:14
 msgid "*\"A portable way of using operating system dependent functionality.\"*"
-msgstr ""
+msgstr "*\"オペレーティングシステムに依存する機能を使用するポータブルな方法。\"*"
 
 #: ../../scientific-python-lectures/intro/language/standard_library.rst:17
 msgid "Directory and file manipulation"
-msgstr ""
+msgstr "ディレクトリとファイルの操作"
 
 #: ../../scientific-python-lectures/intro/language/standard_library.rst:19
 msgid "Current directory:"
-msgstr ""
+msgstr "現在のディレクトリ:"
 
 #: ../../scientific-python-lectures/intro/language/standard_library.rst:28
 msgid "List a directory:"
-msgstr ""
+msgstr "ディレクトリのリスト:"
 
 #: ../../scientific-python-lectures/intro/language/standard_library.rst:35
 msgid "Make a directory:"
-msgstr ""
+msgstr "ディレクトリを作ります:"
 
 #: ../../scientific-python-lectures/intro/language/standard_library.rst:44
 msgid "Rename the directory:"
-msgstr ""
+msgstr "ディレクトリ名を変更します:"
 
 #: ../../scientific-python-lectures/intro/language/standard_library.rst:61
 msgid "Delete a file:"
-msgstr ""
+msgstr "ファイルを削除します:"
 
 #: ../../scientific-python-lectures/intro/language/standard_library.rst:78
 msgid "``os.path``: path manipulations"
@@ -2600,6 +2602,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_exercises_plot_exercise_1.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_exercises_plot_exercise_1.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/plot_exercise_1.rst:22
 msgid "Exercise 1"
@@ -2742,6 +2746,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_exercises_plot_exercise_10.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_exercises_plot_exercise_10.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/plot_exercise_10.rst:24
 msgid "Exercises with matplotlib."
@@ -2770,6 +2776,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_exercises_plot_exercise_2.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_exercises_plot_exercise_2.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/plot_exercise_2.rst:22
 msgid "Exercise 2"
@@ -2801,6 +2809,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_exercises_plot_exercise_3.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_exercises_plot_exercise_3.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/plot_exercise_3.rst:22
 msgid "Exercise 3"
@@ -2832,6 +2842,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_exercises_plot_exercise_4.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_exercises_plot_exercise_4.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/plot_exercise_4.rst:22
 msgid "Exercise 4"
@@ -2863,6 +2875,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_exercises_plot_exercise_5.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_exercises_plot_exercise_5.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/plot_exercise_5.rst:22
 msgid "Exercise 5"
@@ -2894,6 +2908,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_exercises_plot_exercise_6.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_exercises_plot_exercise_6.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/plot_exercise_6.rst:22
 msgid "Exercise 6"
@@ -2925,6 +2941,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_exercises_plot_exercise_7.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_exercises_plot_exercise_7.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/plot_exercise_7.rst:22
 msgid "Exercise 7"
@@ -2956,6 +2974,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_exercises_plot_exercise_8.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_exercises_plot_exercise_8.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/plot_exercise_8.rst:22
 msgid "Exercise 8"
@@ -2987,6 +3007,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_exercises_plot_exercise_9.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_exercises_plot_exercise_9.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/plot_exercise_9.rst:22
 msgid "Exercise 9"
@@ -3686,6 +3708,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_aliased.py>` "
 "to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_aliased.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_aliased.rst:22
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_antialiased.rst:22
@@ -3717,6 +3741,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_alpha.py>` to"
 " download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_alpha.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_alpha.rst:22
 msgid "Alpha: transparency"
@@ -3745,6 +3771,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_antialiased.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_antialiased.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_antialiased.rst:24
 msgid "The example shows aliased versus anti-aliased text."
@@ -3773,6 +3801,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_color.py>` to"
 " download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_color.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_color.rst:22
 msgid "The colors matplotlib line plots"
@@ -3801,6 +3831,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_colormaps.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_colormaps.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_colormaps.rst:22
 #: ../../scientific-python-lectures/intro/matplotlib/index.rst:1247
@@ -3833,6 +3865,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_dash_capstyle.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_dash_capstyle.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_dash_capstyle.rst:22
 msgid "Dash capstyle"
@@ -3865,6 +3899,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_dash_joinstyle.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_dash_joinstyle.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_dash_joinstyle.rst:22
 msgid "Dash join style"
@@ -3898,6 +3934,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_linestyles.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_linestyles.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_linestyles.rst:22
 msgid "Linestyles"
@@ -3929,6 +3967,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_linewidth.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_linewidth.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_linewidth.rst:22
 msgid "Linewidth"
@@ -3960,6 +4000,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_markers.py>` "
 "to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_markers.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_markers.rst:22
 #: ../../scientific-python-lectures/intro/matplotlib/index.rst:1241
@@ -3991,6 +4033,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_mec.py>` to "
 "download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_mec.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_mec.rst:22
 msgid "Marker edge color"
@@ -4018,6 +4062,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_mew.py>` to "
 "download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_mew.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_mew.rst:22
 msgid "Marker edge width"
@@ -4045,6 +4091,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_mfc.py>` to "
 "download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_mfc.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_mfc.rst:22
 msgid "Marker face color"
@@ -4072,6 +4120,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_ms.py>` to "
 "download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_ms.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_ms.rst:22
 msgid "Marker size"
@@ -4099,6 +4149,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_solid_capstyle.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_solid_capstyle.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_solid_capstyle.rst:22
 msgid "Solid cap style"
@@ -4132,6 +4184,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_solid_joinstyle.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_solid_joinstyle.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_solid_joinstyle.rst:22
 msgid "Solid joint style"
@@ -4165,6 +4219,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_ticks.py>` to"
 " download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_options_plot_ticks.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_ticks.rst:22
 msgid "Locators for tick on axis"
@@ -4303,6 +4359,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_plot_axes.py>` to download"
 " the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_plot_axes.py>` "
+"をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_axes.rst:22
 msgid "Simple axes example"
@@ -4331,6 +4389,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_plot_axes-2.py>` to "
 "download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_plot_axes-2.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_axes-2.rst:22
 #: ../../scientific-python-lectures/intro/matplotlib/index.rst:591
@@ -4361,6 +4421,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_plot_bad.py>` to download "
 "the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_plot_bad.py>` "
+"をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_bad.rst:22
 msgid "A simple plotting example"
@@ -4388,6 +4450,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_plot_bar.py>` to download "
 "the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_plot_bar.py>` "
+"をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_bar.rst:22
 msgid "Bar plots"
@@ -4415,6 +4479,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_plot_contour.py>` to "
 "download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_plot_contour.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_contour.rst:22
 msgid "Displaying the contours of a function"
@@ -4447,6 +4513,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_plot_good.py>` to download"
 " the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_plot_good.py>` "
+"をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_good.rst:22
 msgid "A simple, good-looking plot"
@@ -4475,6 +4543,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_plot_grid.py>` to download"
 " the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_plot_grid.py>` "
+"をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_grid.rst:22
 msgid "Grid"
@@ -4503,6 +4573,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_plot_gridspec.py>` to "
 "download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_plot_gridspec.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_gridspec.rst:22
 msgid "GridSpec"
@@ -4533,6 +4605,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_plot_imshow.py>` to "
 "download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_plot_imshow.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_imshow.rst:22
 msgid "Imshow elaborate"
@@ -4562,6 +4636,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_plot_multiplot.py>` to "
 "download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_plot_multiplot.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_multiplot.rst:22
 #: ../../scientific-python-lectures/intro/matplotlib/index.rst:562
@@ -4594,6 +4670,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_plot_pie.py>` to download "
 "the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_plot_pie.py>` "
+"をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_pie.rst:22
 msgid "Pie chart"
@@ -4621,6 +4699,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_plot_plot.py>` to download"
 " the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_plot_plot.py>` "
+"をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_plot.rst:22
 msgid "Plot and filled plots"
@@ -4649,6 +4729,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_plot_plot3d.py>` to "
 "download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_plot_plot3d.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_plot3d-2.rst:22
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_plot3d.rst:22
@@ -4679,6 +4761,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_plot_plot3d-2.py>` to "
 "download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_plot_plot3d-2.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_plot3d-2.rst:24
 msgid "Demo 3D plotting with matplotlib and style the figure."
@@ -4705,6 +4789,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_plot_polar.py>` to "
 "download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_plot_polar.py>` "
+"をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_polar.rst:22
 msgid "Plotting in polar coordinates"
@@ -4734,6 +4820,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_plot_quiver.py>` to "
 "download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_plot_quiver.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_quiver.rst:22
 msgid "Plotting a vector field: quiver"
@@ -4765,6 +4853,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_plot_scatter.py>` to "
 "download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_plot_scatter.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_scatter.rst:22
 msgid "Plotting a scatter of points"
@@ -4796,6 +4886,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_plot_subplot-grid.py>` to "
 "download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_plot_subplot-"
+"grid.py>` をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_subplot-grid.rst:22
 msgid "Subplot grid"
@@ -4828,6 +4920,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_plot_subplot-"
 "horizontal.py>` to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_plot_subplot-"
+"horizontal.py>` をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_subplot-horizontal.rst:22
 msgid "Horizontal arrangement of subplots"
@@ -9380,7 +9474,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/plot_image_transform.rst:23
 msgid "Plot geometrical transformations on images"
-msgstr ""
+msgstr "画像に幾何学変換をプロットする"
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/plot_image_transform.rst:25
 msgid "Demo geometrical transformations of images."
@@ -10167,12 +10261,12 @@ msgstr ""
 #: ../../scientific-python-lectures/intro/scipy/image_processing/image_processing.rst:9
 #: ../../scientific-python-lectures/intro/scipy/image_processing/image_processing.rst:10
 msgid "Geometrical transformations on images"
-msgstr ""
+msgstr "画像の幾何学変換"
 
 #: ../../scientific-python-lectures/intro/scipy/image_processing/image_processing.rst:11
 #: ../../scientific-python-lectures/intro/scipy/image_processing/image_processing.rst:12
 msgid "Changing orientation, resolution, .. ::"
-msgstr ""
+msgstr "方向、解像度、...を変更します ::"
 
 #: ../../scientific-python-lectures/intro/scipy/image_processing/image_processing.rst:48
 #: ../../scientific-python-lectures/intro/scipy/image_processing/image_processing.rst:49
@@ -11809,6 +11903,9 @@ msgid ""
 "exercises_auto_examples_plot_optimize_lidar_complex_data_fit.py>` to "
 "download the full example code."
 msgstr ""
+":ref:`最後まで <sphx_glr_download_intro_scipy_summary-"
+"exercises_auto_examples_plot_optimize_lidar_complex_data_fit.py>` "
+"をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/plot_optimize_lidar_complex_data_fit.rst:22
 msgid "The lidar system, data and fit (2 of 2 datasets)"
@@ -11845,6 +11942,9 @@ msgid ""
 "exercises_auto_examples_plot_optimize_lidar_data.py>` to download the full "
 "example code."
 msgstr ""
+":ref:`最後まで <sphx_glr_download_intro_scipy_summary-"
+"exercises_auto_examples_plot_optimize_lidar_data.py>` "
+"をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/plot_optimize_lidar_data.rst:22
 msgid "The lidar system, data (1 of 2 datasets)"
@@ -11878,6 +11978,9 @@ msgid ""
 "exercises_auto_examples_plot_optimize_lidar_data_fit.py>` to download the "
 "full example code."
 msgstr ""
+":ref:`最後まで <sphx_glr_download_intro_scipy_summary-"
+"exercises_auto_examples_plot_optimize_lidar_data_fit.py>` "
+"をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/plot_optimize_lidar_data_fit.rst:22
 msgid "The lidar system, data and fit (1 of 2 datasets)"
@@ -11907,6 +12010,9 @@ msgid ""
 "exercises_auto_examples_plot_sprog_annual_maxima.py>` to download the full "
 "example code."
 msgstr ""
+":ref:`最後まで <sphx_glr_download_intro_scipy_summary-"
+"exercises_auto_examples_plot_sprog_annual_maxima.py>` "
+"をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/plot_sprog_annual_maxima.rst:22
 msgid "The Gumbell distribution, results"

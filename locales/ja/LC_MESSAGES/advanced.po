@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-14 00:14+0000\n"
+"POT-Creation-Date: 2025-05-26 00:14+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -3806,6 +3806,8 @@ msgid ""
 "<sphx_glr_download_advanced_image_processing_auto_examples_plot_GMM.py>` to "
 "download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_image_processing_auto_examples_plot_GMM.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_GMM.rst:22
 msgid "Segmentation with Gaussian mixture models"
@@ -3877,6 +3879,8 @@ msgid ""
 "<sphx_glr_download_advanced_image_processing_auto_examples_plot_blur.py>` to"
 " download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_image_processing_auto_examples_plot_blur.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_blur.rst:22
 msgid "Blurring of images"
@@ -3906,6 +3910,8 @@ msgid ""
 "<sphx_glr_download_advanced_image_processing_auto_examples_plot_clean_morpho.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_image_processing_auto_examples_plot_clean_morpho.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_clean_morpho.rst:22
 msgid "Cleaning segmentation with mathematical morphology"
@@ -3945,6 +3951,8 @@ msgid ""
 "<sphx_glr_download_advanced_image_processing_auto_examples_plot_denoising.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_image_processing_auto_examples_plot_denoising.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_denoising.rst:22
 msgid "Denoising an image with the median filter"
@@ -3982,6 +3990,8 @@ msgid ""
 "<sphx_glr_download_advanced_image_processing_auto_examples_plot_display_face.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_image_processing_auto_examples_plot_display_face.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_display_face.rst:22
 msgid "Display a Raccoon Face"
@@ -4019,6 +4029,8 @@ msgid ""
 "<sphx_glr_download_advanced_image_processing_auto_examples_plot_face.py>` to"
 " download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_image_processing_auto_examples_plot_face.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_face.rst:22
 msgid "Displaying a Raccoon Face"
@@ -4048,6 +4060,8 @@ msgid ""
 "<sphx_glr_download_advanced_image_processing_auto_examples_plot_face_denoise.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_image_processing_auto_examples_plot_face_denoise.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_face_denoise.rst:22
 msgid "Image denoising"
@@ -4085,6 +4099,8 @@ msgid ""
 "<sphx_glr_download_advanced_image_processing_auto_examples_plot_face_tv_denoise.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_image_processing_auto_examples_plot_face_tv_denoise.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_face_tv_denoise.rst:22
 msgid "Total Variation denoising"
@@ -4124,6 +4140,8 @@ msgid ""
 "<sphx_glr_download_advanced_image_processing_auto_examples_plot_find_edges.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_image_processing_auto_examples_plot_find_edges.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_find_edges.rst:22
 msgid "Finding edges with Sobel filters"
@@ -4160,6 +4178,8 @@ msgid ""
 "<sphx_glr_download_advanced_image_processing_auto_examples_plot_find_object.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_image_processing_auto_examples_plot_find_object.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_find_object.rst:22
 msgid "Find the bounding box of an object"
@@ -4198,6 +4218,8 @@ msgid ""
 "<sphx_glr_download_advanced_image_processing_auto_examples_plot_geom_face.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_image_processing_auto_examples_plot_geom_face.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_geom_face.rst:22
 #: ../../scientific-python-lectures/advanced/image_processing/index.rst:260
@@ -4236,6 +4258,8 @@ msgid ""
 "<sphx_glr_download_advanced_image_processing_auto_examples_plot_granulo.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_image_processing_auto_examples_plot_granulo.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_granulo.rst:22
 msgid "Granulometry"
@@ -4269,6 +4293,8 @@ msgid ""
 "<sphx_glr_download_advanced_image_processing_auto_examples_plot_greyscale_dilation.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_image_processing_auto_examples_plot_greyscale_dilation.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_greyscale_dilation.rst:22
 msgid "Greyscale dilation"
@@ -4308,6 +4334,8 @@ msgid ""
 "<sphx_glr_download_advanced_image_processing_auto_examples_plot_histo_segmentation.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_image_processing_auto_examples_plot_histo_segmentation.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_histo_segmentation.rst:22
 msgid "Histogram segmentation"
@@ -4347,6 +4375,8 @@ msgid ""
 "<sphx_glr_download_advanced_image_processing_auto_examples_plot_interpolation_face.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_image_processing_auto_examples_plot_interpolation_face.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_interpolation_face.rst:22
 msgid "Image interpolation"
@@ -4386,6 +4416,8 @@ msgid ""
 "<sphx_glr_download_advanced_image_processing_auto_examples_plot_measure_data.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_image_processing_auto_examples_plot_measure_data.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_measure_data.rst:22
 msgid "Measurements from images"
@@ -4423,6 +4455,8 @@ msgid ""
 "<sphx_glr_download_advanced_image_processing_auto_examples_plot_numpy_array.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_image_processing_auto_examples_plot_numpy_array.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_numpy_array.rst:22
 msgid "Image manipulation and NumPy arrays"
@@ -4462,6 +4496,8 @@ msgid ""
 "<sphx_glr_download_advanced_image_processing_auto_examples_plot_propagation.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_image_processing_auto_examples_plot_propagation.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_propagation.rst:22
 msgid "Opening, erosion, and propagation"
@@ -4499,6 +4535,8 @@ msgid ""
 "<sphx_glr_download_advanced_image_processing_auto_examples_plot_radial_mean.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_image_processing_auto_examples_plot_radial_mean.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_radial_mean.rst:22
 msgid "Radial mean"
@@ -4536,6 +4574,8 @@ msgid ""
 "<sphx_glr_download_advanced_image_processing_auto_examples_plot_sharpen.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_image_processing_auto_examples_plot_sharpen.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_sharpen.rst:22
 msgid "Image sharpening"
@@ -4571,6 +4611,8 @@ msgid ""
 "<sphx_glr_download_advanced_image_processing_auto_examples_plot_spectral_clustering.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_image_processing_auto_examples_plot_spectral_clustering.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_spectral_clustering.rst:22
 msgid "Segmentation with spectral clustering"
@@ -4614,6 +4656,8 @@ msgid ""
 "<sphx_glr_download_advanced_image_processing_auto_examples_plot_synthetic_data.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_image_processing_auto_examples_plot_synthetic_data.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_synthetic_data.rst:22
 msgid "Synthetic data"
@@ -4653,6 +4697,8 @@ msgid ""
 "<sphx_glr_download_advanced_image_processing_auto_examples_plot_watershed_segmentation.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_image_processing_auto_examples_plot_watershed_segmentation.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/image_processing/auto_examples/plot_watershed_segmentation.rst:22
 msgid "Watershed segmentation"
@@ -6581,6 +6627,8 @@ msgid ""
 "<sphx_glr_download_advanced_mathematical_optimization_auto_examples_plot_1d_optim.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_mathematical_optimization_auto_examples_plot_1d_optim.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_1d_optim.rst:22
 msgid "Brent's method"
@@ -6614,6 +6662,8 @@ msgid ""
 "<sphx_glr_download_advanced_mathematical_optimization_auto_examples_plot_compare_optimizers.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_mathematical_optimization_auto_examples_plot_compare_optimizers.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_compare_optimizers.rst:22
 msgid "Plotting the comparison of optimizers"
@@ -6653,6 +6703,8 @@ msgid ""
 "<sphx_glr_download_advanced_mathematical_optimization_auto_examples_plot_constraints.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_mathematical_optimization_auto_examples_plot_constraints.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_constraints.rst:22
 msgid "Constraint optimization: visualizing the geometry"
@@ -6690,6 +6742,8 @@ msgid ""
 "<sphx_glr_download_advanced_mathematical_optimization_auto_examples_plot_convex.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_mathematical_optimization_auto_examples_plot_convex.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_convex.rst:22
 msgid "Convex function"
@@ -6721,6 +6775,8 @@ msgid ""
 "<sphx_glr_download_advanced_mathematical_optimization_auto_examples_plot_curve_fitting.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_mathematical_optimization_auto_examples_plot_curve_fitting.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_curve_fitting.rst:22
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:915
@@ -6759,6 +6815,8 @@ msgid ""
 "<sphx_glr_download_advanced_mathematical_optimization_auto_examples_plot_exercise_flat_minimum.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_mathematical_optimization_auto_examples_plot_exercise_flat_minimum.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_exercise_flat_minimum.rst:22
 msgid "Finding a minimum in a flat neighborhood"
@@ -6819,6 +6877,8 @@ msgid ""
 "<sphx_glr_download_advanced_mathematical_optimization_auto_examples_plot_exercise_ill_conditioned.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_mathematical_optimization_auto_examples_plot_exercise_ill_conditioned.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_exercise_ill_conditioned.rst:22
 msgid "Alternating optimization"
@@ -6862,6 +6922,8 @@ msgid ""
 "<sphx_glr_download_advanced_mathematical_optimization_auto_examples_plot_gradient_descent.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_mathematical_optimization_auto_examples_plot_gradient_descent.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_gradient_descent.rst:22
 msgid "Gradient descent"
@@ -6917,6 +6979,8 @@ msgid ""
 "<sphx_glr_download_advanced_mathematical_optimization_auto_examples_plot_noisy.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_mathematical_optimization_auto_examples_plot_noisy.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_noisy.rst:22
 msgid "Noisy optimization problem"
@@ -6947,6 +7011,8 @@ msgid ""
 "<sphx_glr_download_advanced_mathematical_optimization_auto_examples_plot_non_bounds_constraints.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_mathematical_optimization_auto_examples_plot_non_bounds_constraints.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_non_bounds_constraints.rst:22
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/index.rst:946
@@ -6989,6 +7055,8 @@ msgid ""
 "<sphx_glr_download_advanced_mathematical_optimization_auto_examples_plot_smooth.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_advanced_mathematical_optimization_auto_examples_plot_smooth.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/advanced/mathematical_optimization/auto_examples/plot_smooth.rst:22
 msgid "Smooth vs non-smooth"
