@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-26 00:14+0000\n"
+"POT-Creation-Date: 2025-05-26 18:09+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -4955,6 +4955,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_plot_subplot-vertical.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_plot_subplot-"
+"vertical.py>` をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_subplot-vertical.rst:22
 msgid "Subplot plot arrangement vertical"
@@ -4988,6 +4990,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_plot_text.py>` to download"
 " the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_plot_text.py>` "
+"をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_text.rst:22
 msgid "Demo text printing"
@@ -5016,6 +5020,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_plot_ugly.py>` to download"
 " the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_plot_ugly.py>` "
+"をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_ugly.rst:22
 msgid "A example of plotting not quite right"
@@ -5044,6 +5050,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_pretty_plots_plot_bar_ext.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_pretty_plots_plot_bar_ext.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_bar_ext.rst:22
 msgid "Bar plot advanced"
@@ -5074,6 +5082,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_pretty_plots_plot_boxplot_ext.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_pretty_plots_plot_boxplot_ext.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_boxplot_ext.rst:22
 msgid "Boxplot with matplotlib"
@@ -5106,6 +5116,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_pretty_plots_plot_contour_ext.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_pretty_plots_plot_contour_ext.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_contour_ext.rst:22
 msgid "Display the contours of a function"
@@ -5140,6 +5152,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_pretty_plots_plot_grid_ext.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_pretty_plots_plot_grid_ext.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_grid_ext.rst:22
 msgid "Grid elaborate"
@@ -5170,6 +5184,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_pretty_plots_plot_imshow_ext.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_pretty_plots_plot_imshow_ext.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_imshow_ext.rst:22
 msgid "Imshow demo"
@@ -5201,6 +5217,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_pretty_plots_plot_multiplot_ext.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_pretty_plots_plot_multiplot_ext.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_multiplot_ext.rst:22
 msgid "Multiple plots vignette"
@@ -5233,6 +5251,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_pretty_plots_plot_pie_ext.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_pretty_plots_plot_pie_ext.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_pie_ext.rst:22
 msgid "Pie chart vignette"
@@ -5263,6 +5283,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_pretty_plots_plot_plot3d_ext.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_pretty_plots_plot_plot3d_ext.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_plot3d_ext.rst:22
 msgid "3D plotting vignette"
@@ -5294,6 +5316,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_pretty_plots_plot_plot_ext.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_pretty_plots_plot_plot_ext.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_plot_ext.rst:22
 msgid "Plot example vignette"
@@ -5324,6 +5348,8 @@ msgid ""
 "<sphx_glr_download_intro_matplotlib_auto_examples_pretty_plots_plot_polar_ext.py>`"
 " to download the full example code."
 msgstr ""
+":ref:`最後まで<sphx_glr_download_intro_matplotlib_auto_examples_pretty_plots_plot_polar_ext.py>`"
+" をクリックすると完全なサンプルコードをダウンロードできます。"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_polar_ext.rst:22
 msgid "Plotting in polar, decorated"
@@ -9478,7 +9504,7 @@ msgstr "画像に幾何学変換をプロットする"
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/plot_image_transform.rst:25
 msgid "Demo geometrical transformations of images."
-msgstr ""
+msgstr "画像の幾何学的変換をデモ。"
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/plot_image_transform.rst:81
 msgid ""
