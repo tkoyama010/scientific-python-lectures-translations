@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-29 00:14+0000\n"
+"POT-Creation-Date: 2025-06-01 00:17+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -2773,18 +2773,18 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_variance_linear_regr.rst:53
 msgid "Without noise, as linear regression fits the data perfectly"
-msgstr ""
+msgstr "ノイズがなければ、線形回帰はデータに完全にフィットします。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_variance_linear_regr.rst:69
 msgid ""
 "In real life situation, we have noise (e.g. measurement noise) in our data:"
-msgstr ""
+msgstr "現実の状況では、データにノイズ (例えば測定ノイズなど) が含まれます:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_variance_linear_regr.rst:85
 msgid ""
 "As we can see, our linear model captures and amplifies the noise in the "
 "data. It displays a lot of variance."
-msgstr ""
+msgstr "見てわかるように、この線形モデルはデータのノイズをとらえ、増幅しています。 多くの分散を表示しています。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_variance_linear_regr.rst:88
 msgid ""
@@ -4468,6 +4468,8 @@ msgid ""
 "to higher-dimensional datasets. We'll explore a simple **linear regression**"
 " problem, with :mod:`sklearn.linear_model`."
 msgstr ""
+"簡単な1次元回帰問題から始めましょう。これにより、データとモデルを簡単に視覚化することができ、結果は高次元のデータセットにも簡単に一般化できます。 "
+"単純な **線形回帰** 問題を :mod:`sklearn.linear_model` で探ってみます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1410
 msgid ""
