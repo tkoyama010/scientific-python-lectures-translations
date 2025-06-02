@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-01 00:17+0000\n"
+"POT-Creation-Date: 2025-06-02 00:15+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -3180,19 +3180,19 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:152
 msgid "|setosa_picture|"
-msgstr ""
+msgstr "|setosa_picture|"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:145
 msgid "setosa_picture"
-msgstr ""
+msgstr "setosa_picture"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:152
 msgid "|versicolor_picture|"
-msgstr ""
+msgstr "|versicolor_picture|"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:147
 msgid "versicolor_picture"
-msgstr ""
+msgstr "versicolor_picture"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:152
 msgid "|virginica_picture|"
@@ -3617,7 +3617,7 @@ msgstr "分類のための単純なモデルと複雑なモデル"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:468
 msgid "|linear|"
-msgstr ""
+msgstr "|linear|"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:459
 msgid "linear"
@@ -3625,7 +3625,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:468
 msgid "|nonlinear|"
-msgstr ""
+msgstr "|nonlinear|"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:463
 msgid "nonlinear"
@@ -6057,7 +6057,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:461
 msgid ":math:`y = x * \\textit{coef} + \\textit{intercept} + e`"
-msgstr ""
+msgstr ":math:`y = x * \\textit{coef} + \\textit{intercept} + e`"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:463
 msgid ""
@@ -6213,7 +6213,7 @@ msgstr "変数 `z`  (従属変数) を2つの変数 `x` と `y` で説明する�
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:665
 msgid ":math:`z = x \\, c_1 + y \\, c_2 + i + e`"
-msgstr ""
+msgstr ":math:`z = x \\, c_1 + y \\, c_2 + i + e`"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:667
 msgid ""

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-31 00:14+0000\n"
+"POT-Creation-Date: 2025-06-02 00:15+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -462,7 +462,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/intro.rst:177
 msgid ":ref:`chapter on numpy <numpy>`"
-msgstr ""
+msgstr ":ref:`numpyの章 <numpy>`"
 
 #: ../../scientific-python-lectures/intro/intro.rst:179
 msgid ""
@@ -472,7 +472,7 @@ msgstr "**SciPy** : 高レベルの数値計算ルーチン。 最適化、回�
 
 #: ../../scientific-python-lectures/intro/intro.rst:184
 msgid ":ref:`chapter on SciPy <scipy>`"
-msgstr ""
+msgstr ":ref:`SciPyの章 <scipy>`"
 
 #: ../../scientific-python-lectures/intro/intro.rst:186
 msgid ""
@@ -482,11 +482,11 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/intro.rst:191
 msgid ":ref:`chapter on matplotlib <matplotlib>`"
-msgstr ""
+msgstr ":ref:`matplotlibの章 <matplotlib>`"
 
 #: ../../scientific-python-lectures/intro/intro.rst:193
 msgid "**Advanced interactive environments**:"
-msgstr ""
+msgstr "**高度なインタラクティブ環境**:"
 
 #: ../../scientific-python-lectures/intro/intro.rst:195
 msgid "**IPython**, an advanced **Python console** https://ipython.org/"
@@ -748,7 +748,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/intro.rst:401
 msgid "Other useful magic functions are:"
-msgstr ""
+msgstr "その他、便利なマジック機能があります:"
 
 #: ../../scientific-python-lectures/intro/intro.rst:403
 msgid "``%cd`` to change the current directory."
@@ -852,7 +852,7 @@ msgstr ""
 msgid ""
 "Python provides many efficient types of containers, in which collections of "
 "objects can be stored."
-msgstr ""
+msgstr "Pythonは、オブジェクトのコレクションを格納できる効率的なコンテナの種類を数多く提供しています。"
 
 #: ../../scientific-python-lectures/intro/language/basic_types.rst:75
 msgid "Lists"
@@ -902,7 +902,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/language/basic_types.rst:143
 msgid "The elements of a list may have different types::"
-msgstr ""
+msgstr "リストの要素には、さまざまな型があります::"
 
 #: ../../scientific-python-lectures/intro/language/basic_types.rst:153
 msgid ""
@@ -980,7 +980,7 @@ msgstr ""
 msgid ""
 "Strings are collections like lists. Hence they can be indexed and sliced, "
 "using the same syntax and rules."
-msgstr ""
+msgstr "文字列はリストと同じコレクションです。 したがって、同じ構文とルールでインデックスを作成したり、スライスしたりすることができます。"
 
 #: ../../scientific-python-lectures/intro/language/basic_types.rst:266
 msgid "Indexing::"
@@ -2624,6 +2624,8 @@ msgid ""
 ":download:`Download Python source code: plot_exercise_1.py "
 "<plot_exercise_1.py>`"
 msgstr ""
+":download:`Download Python source code: plot_exercise_1.py "
+"<plot_exercise_1.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/plot_exercise_1.rst:59
 msgid ":download:`Download zipped: plot_exercise_1.zip <plot_exercise_1.zip>`"
@@ -2764,6 +2766,8 @@ msgid ""
 ":download:`Download Python source code: plot_exercise_10.py "
 "<plot_exercise_10.py>`"
 msgstr ""
+":download:`Download Python source code: plot_exercise_10.py "
+"<plot_exercise_10.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/plot_exercise_10.rst:128
 msgid ""
@@ -2798,6 +2802,8 @@ msgid ""
 ":download:`Download Python source code: plot_exercise_2.py "
 "<plot_exercise_2.py>`"
 msgstr ""
+":download:`Download Python source code: plot_exercise_2.py "
+"<plot_exercise_2.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/plot_exercise_2.rst:81
 msgid ":download:`Download zipped: plot_exercise_2.zip <plot_exercise_2.zip>`"
@@ -2831,6 +2837,8 @@ msgid ""
 ":download:`Download Python source code: plot_exercise_3.py "
 "<plot_exercise_3.py>`"
 msgstr ""
+":download:`Download Python source code: plot_exercise_3.py "
+"<plot_exercise_3.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/plot_exercise_3.rst:68
 msgid ":download:`Download zipped: plot_exercise_3.zip <plot_exercise_3.zip>`"
@@ -2864,6 +2872,8 @@ msgid ""
 ":download:`Download Python source code: plot_exercise_4.py "
 "<plot_exercise_4.py>`"
 msgstr ""
+":download:`Download Python source code: plot_exercise_4.py "
+"<plot_exercise_4.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/plot_exercise_4.rst:66
 msgid ":download:`Download zipped: plot_exercise_4.zip <plot_exercise_4.zip>`"
@@ -2897,6 +2907,8 @@ msgid ""
 ":download:`Download Python source code: plot_exercise_5.py "
 "<plot_exercise_5.py>`"
 msgstr ""
+":download:`Download Python source code: plot_exercise_5.py "
+"<plot_exercise_5.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/plot_exercise_5.rst:69
 msgid ":download:`Download zipped: plot_exercise_5.zip <plot_exercise_5.zip>`"
@@ -2930,6 +2942,8 @@ msgid ""
 ":download:`Download Python source code: plot_exercise_6.py "
 "<plot_exercise_6.py>`"
 msgstr ""
+":download:`Download Python source code: plot_exercise_6.py "
+"<plot_exercise_6.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/plot_exercise_6.rst:72
 msgid ":download:`Download zipped: plot_exercise_6.zip <plot_exercise_6.zip>`"
@@ -2963,6 +2977,8 @@ msgid ""
 ":download:`Download Python source code: plot_exercise_7.py "
 "<plot_exercise_7.py>`"
 msgstr ""
+":download:`Download Python source code: plot_exercise_7.py "
+"<plot_exercise_7.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/plot_exercise_7.rst:80
 msgid ":download:`Download zipped: plot_exercise_7.zip <plot_exercise_7.zip>`"
@@ -2996,6 +3012,8 @@ msgid ""
 ":download:`Download Python source code: plot_exercise_8.py "
 "<plot_exercise_8.py>`"
 msgstr ""
+":download:`Download Python source code: plot_exercise_8.py "
+"<plot_exercise_8.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/plot_exercise_8.rst:82
 msgid ":download:`Download zipped: plot_exercise_8.zip <plot_exercise_8.zip>`"
@@ -3029,6 +3047,8 @@ msgid ""
 ":download:`Download Python source code: plot_exercise_9.py "
 "<plot_exercise_9.py>`"
 msgstr ""
+":download:`Download Python source code: plot_exercise_9.py "
+"<plot_exercise_9.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/plot_exercise_9.rst:125
 msgid ":download:`Download zipped: plot_exercise_9.zip <plot_exercise_9.zip>`"
@@ -3693,6 +3713,9 @@ msgid ""
 "auto_examples_python.zip "
 "</intro/matplotlib/auto_examples/auto_examples_python.zip>`"
 msgstr ""
+":download:`Download all examples in Python source code: "
+"auto_examples_python.zip "
+"</intro/matplotlib/auto_examples/auto_examples_python.zip>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:1183
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:1184
@@ -3730,6 +3753,7 @@ msgstr ""
 msgid ""
 ":download:`Download Python source code: plot_aliased.py <plot_aliased.py>`"
 msgstr ""
+":download:`Download Python source code: plot_aliased.py <plot_aliased.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_aliased.rst:68
 msgid ":download:`Download zipped: plot_aliased.zip <plot_aliased.zip>`"
@@ -3760,6 +3784,7 @@ msgstr ""
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_alpha.rst:61
 msgid ":download:`Download Python source code: plot_alpha.py <plot_alpha.py>`"
 msgstr ""
+":download:`Download Python source code: plot_alpha.py <plot_alpha.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_alpha.rst:65
 msgid ":download:`Download zipped: plot_alpha.zip <plot_alpha.zip>`"
@@ -3789,6 +3814,8 @@ msgid ""
 ":download:`Download Python source code: plot_antialiased.py "
 "<plot_antialiased.py>`"
 msgstr ""
+":download:`Download Python source code: plot_antialiased.py "
+"<plot_antialiased.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_antialiased.rst:67
 msgid ""
@@ -3820,6 +3847,7 @@ msgstr ""
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_color.rst:61
 msgid ":download:`Download Python source code: plot_color.py <plot_color.py>`"
 msgstr ""
+":download:`Download Python source code: plot_color.py <plot_color.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_color.rst:65
 msgid ":download:`Download zipped: plot_color.zip <plot_color.zip>`"
@@ -3854,6 +3882,8 @@ msgid ""
 ":download:`Download Python source code: plot_colormaps.py "
 "<plot_colormaps.py>`"
 msgstr ""
+":download:`Download Python source code: plot_colormaps.py "
+"<plot_colormaps.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_colormaps.rst:71
 msgid ":download:`Download zipped: plot_colormaps.zip <plot_colormaps.zip>`"
@@ -3887,6 +3917,8 @@ msgid ""
 ":download:`Download Python source code: plot_dash_capstyle.py "
 "<plot_dash_capstyle.py>`"
 msgstr ""
+":download:`Download Python source code: plot_dash_capstyle.py "
+"<plot_dash_capstyle.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_dash_capstyle.rst:91
 msgid ""
@@ -3921,6 +3953,8 @@ msgid ""
 ":download:`Download Python source code: plot_dash_joinstyle.py "
 "<plot_dash_joinstyle.py>`"
 msgstr ""
+":download:`Download Python source code: plot_dash_joinstyle.py "
+"<plot_dash_joinstyle.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_dash_joinstyle.rst:90
 msgid ""
@@ -3956,6 +3990,8 @@ msgid ""
 ":download:`Download Python source code: plot_linestyles.py "
 "<plot_linestyles.py>`"
 msgstr ""
+":download:`Download Python source code: plot_linestyles.py "
+"<plot_linestyles.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_linestyles.rst:112
 msgid ":download:`Download zipped: plot_linestyles.zip <plot_linestyles.zip>`"
@@ -3989,6 +4025,8 @@ msgid ""
 ":download:`Download Python source code: plot_linewidth.py "
 "<plot_linewidth.py>`"
 msgstr ""
+":download:`Download Python source code: plot_linewidth.py "
+"<plot_linewidth.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_linewidth.rst:67
 msgid ":download:`Download zipped: plot_linewidth.zip <plot_linewidth.zip>`"
@@ -4022,6 +4060,7 @@ msgstr ""
 msgid ""
 ":download:`Download Python source code: plot_markers.py <plot_markers.py>`"
 msgstr ""
+":download:`Download Python source code: plot_markers.py <plot_markers.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_markers.rst:112
 msgid ":download:`Download zipped: plot_markers.zip <plot_markers.zip>`"
@@ -4050,7 +4089,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_mec.rst:78
 msgid ":download:`Download Python source code: plot_mec.py <plot_mec.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: plot_mec.py <plot_mec.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_mec.rst:82
 msgid ":download:`Download zipped: plot_mec.zip <plot_mec.zip>`"
@@ -4079,7 +4118,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_mew.rst:73
 msgid ":download:`Download Python source code: plot_mew.py <plot_mew.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: plot_mew.py <plot_mew.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_mew.rst:77
 msgid ":download:`Download zipped: plot_mew.zip <plot_mew.zip>`"
@@ -4108,7 +4147,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_mfc.rst:76
 msgid ":download:`Download Python source code: plot_mfc.py <plot_mfc.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: plot_mfc.py <plot_mfc.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_mfc.rst:80
 msgid ":download:`Download zipped: plot_mfc.zip <plot_mfc.zip>`"
@@ -4137,7 +4176,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_ms.rst:74
 msgid ":download:`Download Python source code: plot_ms.py <plot_ms.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: plot_ms.py <plot_ms.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_ms.rst:78
 msgid ":download:`Download zipped: plot_ms.zip <plot_ms.zip>`"
@@ -4171,6 +4210,8 @@ msgid ""
 ":download:`Download Python source code: plot_solid_capstyle.py "
 "<plot_solid_capstyle.py>`"
 msgstr ""
+":download:`Download Python source code: plot_solid_capstyle.py "
+"<plot_solid_capstyle.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_solid_capstyle.rst:78
 msgid ""
@@ -4206,6 +4247,8 @@ msgid ""
 ":download:`Download Python source code: plot_solid_joinstyle.py "
 "<plot_solid_joinstyle.py>`"
 msgstr ""
+":download:`Download Python source code: plot_solid_joinstyle.py "
+"<plot_solid_joinstyle.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_solid_joinstyle.rst:73
 msgid ""
@@ -4240,6 +4283,7 @@ msgstr ""
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_ticks.rst:93
 msgid ":download:`Download Python source code: plot_ticks.py <plot_ticks.py>`"
 msgstr ""
+":download:`Download Python source code: plot_ticks.py <plot_ticks.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/plot_ticks.rst:97
 msgid ":download:`Download zipped: plot_ticks.zip <plot_ticks.zip>`"
@@ -4377,7 +4421,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_axes.rst:62
 msgid ":download:`Download Python source code: plot_axes.py <plot_axes.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: plot_axes.py <plot_axes.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_axes.rst:66
 msgid ":download:`Download zipped: plot_axes.zip <plot_axes.zip>`"
@@ -4410,6 +4454,7 @@ msgstr ""
 msgid ""
 ":download:`Download Python source code: plot_axes-2.py <plot_axes-2.py>`"
 msgstr ""
+":download:`Download Python source code: plot_axes-2.py <plot_axes-2.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_axes-2.rst:80
 msgid ":download:`Download zipped: plot_axes-2.zip <plot_axes-2.zip>`"
@@ -4438,7 +4483,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_bad.rst:60
 msgid ":download:`Download Python source code: plot_bad.py <plot_bad.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: plot_bad.py <plot_bad.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_bad.rst:64
 msgid ":download:`Download zipped: plot_bad.zip <plot_bad.zip>`"
@@ -4467,7 +4512,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_bar.rst:70
 msgid ":download:`Download Python source code: plot_bar.py <plot_bar.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: plot_bar.py <plot_bar.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_bar.rst:74
 msgid ":download:`Download zipped: plot_bar.zip <plot_bar.zip>`"
@@ -4502,6 +4547,7 @@ msgstr ""
 msgid ""
 ":download:`Download Python source code: plot_contour.py <plot_contour.py>`"
 msgstr ""
+":download:`Download Python source code: plot_contour.py <plot_contour.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_contour.rst:72
 msgid ":download:`Download zipped: plot_contour.zip <plot_contour.zip>`"
@@ -4531,7 +4577,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_good.rst:60
 msgid ":download:`Download Python source code: plot_good.py <plot_good.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: plot_good.py <plot_good.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_good.rst:64
 msgid ":download:`Download zipped: plot_good.zip <plot_good.zip>`"
@@ -4561,7 +4607,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_grid.rst:64
 msgid ":download:`Download Python source code: plot_grid.py <plot_grid.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: plot_grid.py <plot_grid.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_grid.rst:68
 msgid ":download:`Download zipped: plot_grid.zip <plot_grid.zip>`"
@@ -4594,6 +4640,7 @@ msgstr ""
 msgid ""
 ":download:`Download Python source code: plot_gridspec.py <plot_gridspec.py>`"
 msgstr ""
+":download:`Download Python source code: plot_gridspec.py <plot_gridspec.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_gridspec.rst:82
 msgid ":download:`Download zipped: plot_gridspec.zip <plot_gridspec.zip>`"
@@ -4625,6 +4672,7 @@ msgstr ""
 msgid ""
 ":download:`Download Python source code: plot_imshow.py <plot_imshow.py>`"
 msgstr ""
+":download:`Download Python source code: plot_imshow.py <plot_imshow.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_imshow.rst:70
 msgid ":download:`Download zipped: plot_imshow.zip <plot_imshow.zip>`"
@@ -4659,6 +4707,8 @@ msgid ""
 ":download:`Download Python source code: plot_multiplot.py "
 "<plot_multiplot.py>`"
 msgstr ""
+":download:`Download Python source code: plot_multiplot.py "
+"<plot_multiplot.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_multiplot.rst:70
 msgid ":download:`Download zipped: plot_multiplot.zip <plot_multiplot.zip>`"
@@ -4687,7 +4737,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_pie.rst:60
 msgid ":download:`Download Python source code: plot_pie.py <plot_pie.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: plot_pie.py <plot_pie.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_pie.rst:64
 msgid ":download:`Download zipped: plot_pie.zip <plot_pie.zip>`"
@@ -4717,7 +4767,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_plot.rst:67
 msgid ":download:`Download Python source code: plot_plot.py <plot_plot.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: plot_plot.py <plot_plot.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_plot.rst:71
 msgid ":download:`Download zipped: plot_plot.zip <plot_plot.zip>`"
@@ -4750,6 +4800,7 @@ msgstr ""
 msgid ""
 ":download:`Download Python source code: plot_plot3d.py <plot_plot3d.py>`"
 msgstr ""
+":download:`Download Python source code: plot_plot3d.py <plot_plot3d.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_plot3d.rst:65
 msgid ":download:`Download zipped: plot_plot3d.zip <plot_plot3d.zip>`"
@@ -4778,6 +4829,7 @@ msgstr ""
 msgid ""
 ":download:`Download Python source code: plot_plot3d-2.py <plot_plot3d-2.py>`"
 msgstr ""
+":download:`Download Python source code: plot_plot3d-2.py <plot_plot3d-2.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_plot3d-2.rst:86
 msgid ":download:`Download zipped: plot_plot3d-2.zip <plot_plot3d-2.zip>`"
@@ -4809,6 +4861,7 @@ msgstr ""
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_polar.rst:70
 msgid ":download:`Download Python source code: plot_polar.py <plot_polar.py>`"
 msgstr ""
+":download:`Download Python source code: plot_polar.py <plot_polar.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_polar.rst:74
 msgid ":download:`Download zipped: plot_polar.zip <plot_polar.zip>`"
@@ -4842,6 +4895,7 @@ msgstr ""
 msgid ""
 ":download:`Download Python source code: plot_quiver.py <plot_quiver.py>`"
 msgstr ""
+":download:`Download Python source code: plot_quiver.py <plot_quiver.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_quiver.rst:69
 msgid ":download:`Download zipped: plot_quiver.zip <plot_quiver.zip>`"
@@ -4875,6 +4929,7 @@ msgstr ""
 msgid ""
 ":download:`Download Python source code: plot_scatter.py <plot_scatter.py>`"
 msgstr ""
+":download:`Download Python source code: plot_scatter.py <plot_scatter.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_scatter.rst:67
 msgid ":download:`Download zipped: plot_scatter.zip <plot_scatter.zip>`"
@@ -4908,6 +4963,8 @@ msgid ""
 ":download:`Download Python source code: plot_subplot-grid.py <plot_subplot-"
 "grid.py>`"
 msgstr ""
+":download:`Download Python source code: plot_subplot-grid.py <plot_subplot-"
+"grid.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_subplot-grid.rst:75
 msgid ""
@@ -4942,6 +4999,8 @@ msgid ""
 ":download:`Download Python source code: plot_subplot-horizontal.py "
 "<plot_subplot-horizontal.py>`"
 msgstr ""
+":download:`Download Python source code: plot_subplot-horizontal.py "
+"<plot_subplot-horizontal.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_subplot-horizontal.rst:64
 msgid ""
@@ -4977,6 +5036,8 @@ msgid ""
 ":download:`Download Python source code: plot_subplot-vertical.py "
 "<plot_subplot-vertical.py>`"
 msgstr ""
+":download:`Download Python source code: plot_subplot-vertical.py "
+"<plot_subplot-vertical.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_subplot-vertical.rst:65
 msgid ""
@@ -5008,7 +5069,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_text.rst:86
 msgid ":download:`Download Python source code: plot_text.py <plot_text.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: plot_text.py <plot_text.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_text.rst:90
 msgid ":download:`Download zipped: plot_text.zip <plot_text.zip>`"
@@ -5038,7 +5099,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_ugly.rst:65
 msgid ":download:`Download Python source code: plot_ugly.py <plot_ugly.py>`"
-msgstr ""
+msgstr ":download:`Download Python source code: plot_ugly.py <plot_ugly.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/plot_ugly.rst:69
 msgid ":download:`Download zipped: plot_ugly.zip <plot_ugly.zip>`"
@@ -5071,6 +5132,7 @@ msgstr ""
 msgid ""
 ":download:`Download Python source code: plot_bar_ext.py <plot_bar_ext.py>`"
 msgstr ""
+":download:`Download Python source code: plot_bar_ext.py <plot_bar_ext.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_bar_ext.rst:103
 msgid ":download:`Download zipped: plot_bar_ext.zip <plot_bar_ext.zip>`"
@@ -5104,6 +5166,8 @@ msgid ""
 ":download:`Download Python source code: plot_boxplot_ext.py "
 "<plot_boxplot_ext.py>`"
 msgstr ""
+":download:`Download Python source code: plot_boxplot_ext.py "
+"<plot_boxplot_ext.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_boxplot_ext.rst:106
 msgid ""
@@ -5140,6 +5204,8 @@ msgid ""
 ":download:`Download Python source code: plot_contour_ext.py "
 "<plot_contour_ext.py>`"
 msgstr ""
+":download:`Download Python source code: plot_contour_ext.py "
+"<plot_contour_ext.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_contour_ext.rst:109
 msgid ""
@@ -5173,6 +5239,7 @@ msgstr ""
 msgid ""
 ":download:`Download Python source code: plot_grid_ext.py <plot_grid_ext.py>`"
 msgstr ""
+":download:`Download Python source code: plot_grid_ext.py <plot_grid_ext.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_grid_ext.rst:106
 msgid ":download:`Download zipped: plot_grid_ext.zip <plot_grid_ext.zip>`"
@@ -5206,6 +5273,8 @@ msgid ""
 ":download:`Download Python source code: plot_imshow_ext.py "
 "<plot_imshow_ext.py>`"
 msgstr ""
+":download:`Download Python source code: plot_imshow_ext.py "
+"<plot_imshow_ext.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_imshow_ext.rst:107
 msgid ":download:`Download zipped: plot_imshow_ext.zip <plot_imshow_ext.zip>`"
@@ -5239,6 +5308,8 @@ msgid ""
 ":download:`Download Python source code: plot_multiplot_ext.py "
 "<plot_multiplot_ext.py>`"
 msgstr ""
+":download:`Download Python source code: plot_multiplot_ext.py "
+"<plot_multiplot_ext.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_multiplot_ext.rst:102
 msgid ""
@@ -5272,6 +5343,7 @@ msgstr ""
 msgid ""
 ":download:`Download Python source code: plot_pie_ext.py <plot_pie_ext.py>`"
 msgstr ""
+":download:`Download Python source code: plot_pie_ext.py <plot_pie_ext.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_pie_ext.rst:106
 msgid ":download:`Download zipped: plot_pie_ext.zip <plot_pie_ext.zip>`"
@@ -5305,6 +5377,8 @@ msgid ""
 ":download:`Download Python source code: plot_plot3d_ext.py "
 "<plot_plot3d_ext.py>`"
 msgstr ""
+":download:`Download Python source code: plot_plot3d_ext.py "
+"<plot_plot3d_ext.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_plot3d_ext.rst:92
 msgid ":download:`Download zipped: plot_plot3d_ext.zip <plot_plot3d_ext.zip>`"
@@ -5337,6 +5411,7 @@ msgstr ""
 msgid ""
 ":download:`Download Python source code: plot_plot_ext.py <plot_plot_ext.py>`"
 msgstr ""
+":download:`Download Python source code: plot_plot_ext.py <plot_plot_ext.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_plot_ext.rst:102
 msgid ":download:`Download zipped: plot_plot_ext.zip <plot_plot_ext.zip>`"
@@ -5371,6 +5446,8 @@ msgid ""
 ":download:`Download Python source code: plot_polar_ext.py "
 "<plot_polar_ext.py>`"
 msgstr ""
+":download:`Download Python source code: plot_polar_ext.py "
+"<plot_polar_ext.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_polar_ext.rst:95
 msgid ":download:`Download zipped: plot_polar_ext.zip <plot_polar_ext.zip>`"
@@ -5402,6 +5479,8 @@ msgid ""
 ":download:`Download Python source code: plot_quiver_ext.py "
 "<plot_quiver_ext.py>`"
 msgstr ""
+":download:`Download Python source code: plot_quiver_ext.py "
+"<plot_quiver_ext.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_quiver_ext.rst:107
 msgid ":download:`Download zipped: plot_quiver_ext.zip <plot_quiver_ext.zip>`"
@@ -5433,6 +5512,8 @@ msgid ""
 ":download:`Download Python source code: plot_scatter_ext.py "
 "<plot_scatter_ext.py>`"
 msgstr ""
+":download:`Download Python source code: plot_scatter_ext.py "
+"<plot_scatter_ext.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_scatter_ext.rst:105
 msgid ""
@@ -5464,6 +5545,7 @@ msgstr ""
 msgid ""
 ":download:`Download Python source code: plot_text_ext.py <plot_text_ext.py>`"
 msgstr ""
+":download:`Download Python source code: plot_text_ext.py <plot_text_ext.py>`"
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/plot_text_ext.rst:128
 msgid ":download:`Download zipped: plot_text_ext.zip <plot_text_ext.zip>`"
@@ -7576,6 +7658,9 @@ msgid ""
 "auto_examples_python.zip "
 "</intro/numpy/auto_examples/auto_examples_python.zip>`"
 msgstr ""
+":download:`Download all examples in Python source code: "
+"auto_examples_python.zip "
+"</intro/numpy/auto_examples/auto_examples_python.zip>`"
 
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/index.rst:197
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/index.rst:198
@@ -7611,6 +7696,8 @@ msgid ""
 ":download:`Download Python source code: plot_basic1dplot.py "
 "<plot_basic1dplot.py>`"
 msgstr ""
+":download:`Download Python source code: plot_basic1dplot.py "
+"<plot_basic1dplot.py>`"
 
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/plot_basic1dplot.rst:57
 msgid ""
@@ -7643,6 +7730,8 @@ msgid ""
 ":download:`Download Python source code: plot_basic2dplot.py "
 "<plot_basic2dplot.py>`"
 msgstr ""
+":download:`Download Python source code: plot_basic2dplot.py "
+"<plot_basic2dplot.py>`"
 
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/plot_basic2dplot.rst:57
 msgid ""
@@ -7674,6 +7763,7 @@ msgstr ""
 msgid ""
 ":download:`Download Python source code: plot_chebyfit.py <plot_chebyfit.py>`"
 msgstr ""
+":download:`Download Python source code: plot_chebyfit.py <plot_chebyfit.py>`"
 
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/plot_chebyfit.rst:61
 msgid ":download:`Download zipped: plot_chebyfit.zip <plot_chebyfit.zip>`"
@@ -7705,6 +7795,8 @@ msgid ""
 ":download:`Download Python source code: plot_distances.py "
 "<plot_distances.py>`"
 msgstr ""
+":download:`Download Python source code: plot_distances.py "
+"<plot_distances.py>`"
 
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/plot_distances.rst:57
 msgid ":download:`Download zipped: plot_distances.zip <plot_distances.zip>`"
@@ -7747,6 +7839,7 @@ msgstr ""
 msgid ""
 ":download:`Download Python source code: plot_elephant.py <plot_elephant.py>`"
 msgstr ""
+":download:`Download Python source code: plot_elephant.py <plot_elephant.py>`"
 
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/plot_elephant.rst:98
 msgid ":download:`Download zipped: plot_elephant.zip <plot_elephant.zip>`"
@@ -7779,6 +7872,8 @@ msgid ""
 ":download:`Download Python source code: plot_mandelbrot.py "
 "<plot_mandelbrot.py>`"
 msgstr ""
+":download:`Download Python source code: plot_mandelbrot.py "
+"<plot_mandelbrot.py>`"
 
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/plot_mandelbrot.rst:82
 msgid ":download:`Download zipped: plot_mandelbrot.zip <plot_mandelbrot.zip>`"
@@ -7809,6 +7904,7 @@ msgstr ""
 msgid ""
 ":download:`Download Python source code: plot_polyfit.py <plot_polyfit.py>`"
 msgstr ""
+":download:`Download Python source code: plot_polyfit.py <plot_polyfit.py>`"
 
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/plot_polyfit.rst:61
 msgid ":download:`Download zipped: plot_polyfit.zip <plot_polyfit.zip>`"
@@ -7840,6 +7936,8 @@ msgid ""
 ":download:`Download Python source code: plot_populations.py "
 "<plot_populations.py>`"
 msgstr ""
+":download:`Download Python source code: plot_populations.py "
+"<plot_populations.py>`"
 
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/plot_populations.rst:59
 msgid ""
@@ -7874,6 +7972,8 @@ msgid ""
 ":download:`Download Python source code: plot_randomwalk.py "
 "<plot_randomwalk.py>`"
 msgstr ""
+":download:`Download Python source code: plot_randomwalk.py "
+"<plot_randomwalk.py>`"
 
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/plot_randomwalk.rst:80
 msgid ":download:`Download zipped: plot_randomwalk.zip <plot_randomwalk.zip>`"
@@ -9205,6 +9305,9 @@ msgid ""
 "auto_examples_python.zip "
 "</intro/scipy/auto_examples/auto_examples_python.zip>`"
 msgstr ""
+":download:`Download all examples in Python source code: "
+"auto_examples_python.zip "
+"</intro/scipy/auto_examples/auto_examples_python.zip>`"
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:434
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:435
@@ -9253,6 +9356,8 @@ msgid ""
 ":download:`Download Python source code: plot_2d_minimization.py "
 "<plot_2d_minimization.py>`"
 msgstr ""
+":download:`Download Python source code: plot_2d_minimization.py "
+"<plot_2d_minimization.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/plot_2d_minimization.rst:141
 msgid ""
@@ -9298,6 +9403,8 @@ msgid ""
 ":download:`Download Python source code: plot_connect_measurements.py "
 "<plot_connect_measurements.py>`"
 msgstr ""
+":download:`Download Python source code: plot_connect_measurements.py "
+"<plot_connect_measurements.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/plot_connect_measurements.rst:122
 msgid ""
@@ -9344,6 +9451,8 @@ msgid ""
 ":download:`Download Python source code: plot_curve_fit.py "
 "<plot_curve_fit.py>`"
 msgstr ""
+":download:`Download Python source code: plot_curve_fit.py "
+"<plot_curve_fit.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/plot_curve_fit.rst:108
 msgid ":download:`Download zipped: plot_curve_fit.zip <plot_curve_fit.zip>`"
@@ -9387,6 +9496,7 @@ msgstr ""
 msgid ""
 ":download:`Download Python source code: plot_detrend.py <plot_detrend.py>`"
 msgstr ""
+":download:`Download Python source code: plot_detrend.py <plot_detrend.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/plot_detrend.rst:88
 msgid ":download:`Download zipped: plot_detrend.zip <plot_detrend.zip>`"
@@ -9454,6 +9564,7 @@ msgstr ""
 msgid ""
 ":download:`Download Python source code: plot_fftpack.py <plot_fftpack.py>`"
 msgstr ""
+":download:`Download Python source code: plot_fftpack.py <plot_fftpack.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/plot_fftpack.rst:166
 msgid ":download:`Download zipped: plot_fftpack.zip <plot_fftpack.zip>`"
@@ -9485,6 +9596,8 @@ msgid ""
 ":download:`Download Python source code: plot_image_filters.py "
 "<plot_image_filters.py>`"
 msgstr ""
+":download:`Download Python source code: plot_image_filters.py "
+"<plot_image_filters.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/plot_image_filters.rst:92
 msgid ""
@@ -9517,6 +9630,8 @@ msgid ""
 ":download:`Download Python source code: plot_image_transform.py "
 "<plot_image_transform.py>`"
 msgstr ""
+":download:`Download Python source code: plot_image_transform.py "
+"<plot_image_transform.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/plot_image_transform.rst:89
 msgid ""
@@ -9546,6 +9661,8 @@ msgid ""
 ":download:`Download Python source code: plot_interpolation.py "
 "<plot_interpolation.py>`"
 msgstr ""
+":download:`Download Python source code: plot_interpolation.py "
+"<plot_interpolation.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/plot_interpolation.rst:95
 msgid ""
@@ -9578,6 +9695,8 @@ msgid ""
 ":download:`Download Python source code: plot_mathematical_morpho.py "
 "<plot_mathematical_morpho.py>`"
 msgstr ""
+":download:`Download Python source code: plot_mathematical_morpho.py "
+"<plot_mathematical_morpho.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/plot_mathematical_morpho.rst:92
 msgid ""
@@ -9613,6 +9732,8 @@ msgid ""
 ":download:`Download Python source code: plot_normal_distribution.py "
 "<plot_normal_distribution.py>`"
 msgstr ""
+":download:`Download Python source code: plot_normal_distribution.py "
+"<plot_normal_distribution.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/plot_normal_distribution.rst:68
 msgid ""
@@ -9650,6 +9771,8 @@ msgid ""
 ":download:`Download Python source code: plot_optimize_example1.py "
 "<plot_optimize_example1.py>`"
 msgstr ""
+":download:`Download Python source code: plot_optimize_example1.py "
+"<plot_optimize_example1.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/plot_optimize_example1.rst:82
 msgid ""
@@ -9695,6 +9818,8 @@ msgid ""
 ":download:`Download Python source code: plot_optimize_example2.py "
 "<plot_optimize_example2.py>`"
 msgstr ""
+":download:`Download Python source code: plot_optimize_example2.py "
+"<plot_optimize_example2.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/plot_optimize_example2.rst:135
 msgid ""
@@ -9735,6 +9860,7 @@ msgstr ""
 msgid ""
 ":download:`Download Python source code: plot_resample.py <plot_resample.py>`"
 msgstr ""
+":download:`Download Python source code: plot_resample.py <plot_resample.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/plot_resample.rst:87
 msgid ":download:`Download zipped: plot_resample.zip <plot_resample.zip>`"
@@ -9763,6 +9889,8 @@ msgid ""
 ":download:`Download Python source code: plot_solve_ivp_damped_spring_mass.py"
 " <plot_solve_ivp_damped_spring_mass.py>`"
 msgstr ""
+":download:`Download Python source code: plot_solve_ivp_damped_spring_mass.py"
+" <plot_solve_ivp_damped_spring_mass.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/plot_solve_ivp_damped_spring_mass.rst:76
 msgid ""
@@ -9798,6 +9926,8 @@ msgid ""
 ":download:`Download Python source code: plot_solve_ivp_simple.py "
 "<plot_solve_ivp_simple.py>`"
 msgstr ""
+":download:`Download Python source code: plot_solve_ivp_simple.py "
+"<plot_solve_ivp_simple.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/plot_solve_ivp_simple.rst:74
 msgid ""
@@ -9851,6 +9981,8 @@ msgid ""
 ":download:`Download Python source code: plot_spectrogram.py "
 "<plot_spectrogram.py>`"
 msgstr ""
+":download:`Download Python source code: plot_spectrogram.py "
+"<plot_spectrogram.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/plot_spectrogram.rst:130
 msgid ""
@@ -9877,6 +10009,7 @@ msgstr ""
 msgid ""
 ":download:`Download Python source code: plot_t_test.py <plot_t_test.py>`"
 msgstr ""
+":download:`Download Python source code: plot_t_test.py <plot_t_test.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/plot_t_test.rst:66
 msgid ":download:`Download zipped: plot_t_test.zip <plot_t_test.zip>`"
@@ -10034,6 +10167,8 @@ msgid ""
 ":download:`Download Python source code: plot_curvefit_temperature_data.py "
 "<plot_curvefit_temperature_data.py>`"
 msgstr ""
+":download:`Download Python source code: plot_curvefit_temperature_data.py "
+"<plot_curvefit_temperature_data.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/solutions/plot_curvefit_temperature_data.rst:113
 msgid ""
@@ -10107,6 +10242,8 @@ msgid ""
 ":download:`Download Python source code: plot_fft_image_denoise.py "
 "<plot_fft_image_denoise.py>`"
 msgstr ""
+":download:`Download Python source code: plot_fft_image_denoise.py "
+"<plot_fft_image_denoise.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/solutions/plot_fft_image_denoise.rst:181
 msgid ""
@@ -10189,6 +10326,8 @@ msgid ""
 ":download:`Download Python source code: plot_image_blur.py "
 "<plot_image_blur.py>`"
 msgstr ""
+":download:`Download Python source code: plot_image_blur.py "
+"<plot_image_blur.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/solutions/plot_image_blur.rst:165
 msgid ":download:`Download zipped: plot_image_blur.zip <plot_image_blur.zip>`"
@@ -10240,6 +10379,8 @@ msgid ""
 ":download:`Download Python source code: plot_periodicity_finder.py "
 "<plot_periodicity_finder.py>`"
 msgstr ""
+":download:`Download Python source code: plot_periodicity_finder.py "
+"<plot_periodicity_finder.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/solutions/plot_periodicity_finder.rst:111
 msgid ""
@@ -11809,6 +11950,9 @@ msgid ""
 "auto_examples_python.zip </intro/scipy/summary-"
 "exercises/auto_examples/auto_examples_python.zip>`"
 msgstr ""
+":download:`Download all examples in Python source code: "
+"auto_examples_python.zip </intro/scipy/summary-"
+"exercises/auto_examples/auto_examples_python.zip>`"
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/index.rst:162
 msgid ""
@@ -11847,6 +11991,9 @@ msgid ""
 "plot_cumulative_wind_speed_prediction.py "
 "<plot_cumulative_wind_speed_prediction.py>`"
 msgstr ""
+":download:`Download Python source code: "
+"plot_cumulative_wind_speed_prediction.py "
+"<plot_cumulative_wind_speed_prediction.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/plot_cumulative_wind_speed_prediction.rst:74
 msgid ""
@@ -11883,6 +12030,9 @@ msgid ""
 "plot_gumbell_wind_speed_prediction.py "
 "<plot_gumbell_wind_speed_prediction.py>`"
 msgstr ""
+":download:`Download Python source code: "
+"plot_gumbell_wind_speed_prediction.py "
+"<plot_gumbell_wind_speed_prediction.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/plot_gumbell_wind_speed_prediction.rst:81
 msgid ""
@@ -11916,6 +12066,8 @@ msgid ""
 ":download:`Download Python source code: plot_optimize_lidar_complex_data.py "
 "<plot_optimize_lidar_complex_data.py>`"
 msgstr ""
+":download:`Download Python source code: plot_optimize_lidar_complex_data.py "
+"<plot_optimize_lidar_complex_data.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/plot_optimize_lidar_complex_data.rst:61
 msgid ""
@@ -11955,6 +12107,9 @@ msgid ""
 "plot_optimize_lidar_complex_data_fit.py "
 "<plot_optimize_lidar_complex_data_fit.py>`"
 msgstr ""
+":download:`Download Python source code: "
+"plot_optimize_lidar_complex_data_fit.py "
+"<plot_optimize_lidar_complex_data_fit.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/plot_optimize_lidar_complex_data_fit.rst:79
 msgid ""
@@ -11991,6 +12146,8 @@ msgid ""
 ":download:`Download Python source code: plot_optimize_lidar_data.py "
 "<plot_optimize_lidar_data.py>`"
 msgstr ""
+":download:`Download Python source code: plot_optimize_lidar_data.py "
+"<plot_optimize_lidar_data.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/plot_optimize_lidar_data.rst:61
 msgid ""
@@ -12023,6 +12180,8 @@ msgid ""
 ":download:`Download Python source code: plot_optimize_lidar_data_fit.py "
 "<plot_optimize_lidar_data_fit.py>`"
 msgstr ""
+":download:`Download Python source code: plot_optimize_lidar_data_fit.py "
+"<plot_optimize_lidar_data_fit.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/plot_optimize_lidar_data_fit.rst:76
 msgid ""
@@ -12055,6 +12214,8 @@ msgid ""
 ":download:`Download Python source code: plot_sprog_annual_maxima.py "
 "<plot_sprog_annual_maxima.py>`"
 msgstr ""
+":download:`Download Python source code: plot_sprog_annual_maxima.py "
+"<plot_sprog_annual_maxima.py>`"
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/plot_sprog_annual_maxima.rst:61
 msgid ""
