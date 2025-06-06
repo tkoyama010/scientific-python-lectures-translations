@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-05 00:14+0000\n"
+"POT-Creation-Date: 2025-06-06 00:14+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -2114,6 +2114,11 @@ msgid ""
 "large download (~200MB) so we will do the tutorial on a simpler, less rich "
 "dataset. Feel free to explore the LFW dataset."
 msgstr ""
+"ここでは簡単な顔認識の例を見てみましょう。 理想的には、 :func:`sklearn.datasets.fetch_lfw_people` "
+"で利用可能な `Labeled Faces in the Wild <http://vis-www.cs.umass.edu/lfw/>`__ "
+"データのサブセットからなるデータセットを使うことです。 "
+"しかし、これは比較的大きなダウンロード（~200MB）なので、よりシンプルでリッチでないデータセットでチュートリアルを行うことにします。 "
+"LFWのデータセットをご自由にご覧ください。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:49
 msgid "Let's visualize these faces to see what we're working with"
@@ -2135,11 +2140,11 @@ msgstr ""
 msgid ""
 "We'll perform a Support Vector classification of the images. We'll do a "
 "typical train-test split on the images:"
-msgstr ""
+msgstr "画像のサポートベクトル分類を行います。典型的な訓練とテストの分割を画像で行います:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:99
 msgid "Preprocessing: Principal Component Analysis"
-msgstr ""
+msgstr "前処理: 主成分分析"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:101
 msgid ""
@@ -2147,12 +2152,14 @@ msgid ""
 "features to a manageable size, while maintaining most of the information in "
 "the dataset."
 msgstr ""
+"SVMにとって1850次元は多いです。 "
+"PCAを使えば、データセットの情報をほとんど維持したまま、1850の特徴を扱いやすいサイズに減らすことができます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:118
 msgid ""
 "One interesting part of PCA is that it computes the \"mean\" face, which can"
 " be interesting to examine:"
-msgstr ""
+msgstr "PCAの面白いところは、\"平均 \"顔を計算することです、 そしてそれを調べるのは興味深いことです:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:131
 msgid ""
@@ -2171,12 +2178,14 @@ msgid ""
 " take care of lighting conditions; the remaining components pull out certain"
 " identifying features: the nose, eyes, eyebrows, etc."
 msgstr ""
+"成分（\"固有顔\"）は、左上から右下に向かって重要度が高い順に並べられています。 "
+"最初のいくつかのコンポーネントは、主に照明条件を管理しているようです; 残りのコンポーネントは、特定の識別機能を引き出します: 鼻、目、眉毛などです。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:164
 msgid ""
 "With this projection computed, we can now project our original training and "
 "test data onto the PCA basis:"
-msgstr ""
+msgstr "この射影が計算されたので、元の訓練データとテストデータをPCA基底に射影することができます:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:185
 msgid ""
@@ -2199,6 +2208,7 @@ msgid ""
 "Finally, we can evaluate how well this classification did. First, we might "
 "plot a few of the test-cases with the labels learned from the training set:"
 msgstr ""
+"最後に、この分類がどの程度うまくいったかを評価することができます。まず、トレーニングセットから学習したラベルを使って、いくつかのテストケースをプロットしてみましょう:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:230
 msgid ""
@@ -2207,6 +2217,8 @@ msgid ""
 "derived from the pixel-level data, the algorithm correctly identifies a "
 "large number of the people in the images."
 msgstr ""
+"この分類器は、その学習モデルが単純であることを考えると、驚くほど多くの画像で正しいです！ "
+"ピクセルレベルのデータから導き出された150の特徴に線形分類器を用いることで、このアルゴリズムは画像内の多数の人物を正しく識別しました。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:235
 msgid ""
@@ -4494,7 +4506,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1424
 msgid "Visualizing the Bias/Variance Tradeoff"
-msgstr ""
+msgstr "バイアスとバリアンスのトレードオフの可視化"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1428
 msgid ""
@@ -4508,7 +4520,7 @@ msgstr ""
 msgid ""
 "On a given data, let us fit a simple polynomial regression model with "
 "varying degrees:"
-msgstr ""
+msgstr "与えられたデータについて、次数の異なる単純な多項回帰モデルを当てはめてみましょう:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1442
 msgid ""
