@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-06 00:14+0000\n"
+"POT-Creation-Date: 2025-06-07 00:14+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -2227,6 +2227,8 @@ msgid ""
 "shows the precision, recall and other measures of the \"goodness\" of the "
 "classification:"
 msgstr ""
+"この効果も、 :mod:`sklearn.metrics` が提供するいくつかの指標のいずれかを使って定量化することができる。 "
+"まず、分類レポートを作成し、精度、リコール、その他分類の \"良さ \"を示す尺度を表示します:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:253
 msgid ""
@@ -2235,10 +2237,12 @@ msgid ""
 "classifier would only have nonzero entries on the diagonal, with zeros on "
 "the off-diagonal:"
 msgstr ""
+"もう一つの興味深い指標は、 *混同行列* です、 これは、2つのアイテムが混在する頻度を示します。 "
+"完全な分類器の混同行列は、対角線上に0でない項目のみを持ち、非対角線上に0を持ちます:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:269
 msgid "Pipelining"
-msgstr ""
+msgstr "パイプライン"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:271
 msgid ""
@@ -2248,6 +2252,9 @@ msgid ""
 "reason scikit-learn provides a ``Pipeline`` object which automates this "
 "process. The above problem can be re-expressed as a pipeline as follows:"
 msgstr ""
+"上記では、サポートベクターマシン分類器を適用する前の前処理としてPCAを使用しました。 "
+"1つの推定器の出力を2番目の推定器の入力に直接差し込むのは、よく使われるパターンです; そのため scikit-learn はこの処理を自動化する "
+"``Pipeline`` オブジェクトを提供しています。 上記の問題は、次のようにパイプラインとして再表現できます:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:302
 msgid "A Note on Facial Recognition"
@@ -2261,6 +2268,9 @@ msgid ""
 "the field of facial recognition in particular, however, has shown that other"
 " more specific feature extraction methods are can be much more effective."
 msgstr ""
+"ここでは、顔認識の前処理としてPCA \"固有顔\" を使用しました。 "
+"これを選んだ理由は、PCAが広く適用可能な技法であり、さまざまな種類のデータに有効だからです。 "
+"特に顔認識分野の研究、しかし、他のもっと特殊な特徴抽出法の方がはるかに効果的であることが示されています。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:320
 msgid ""
@@ -4165,6 +4175,8 @@ msgid ""
 "l2 regularization, and *Lasso Regression*, which uses l1 regularization. "
 "Choosing their regularization parameter is important."
 msgstr ""
+"*リッジ回帰* のような正則化線形モデルを考えてみましょう、これはl2正則化を使用しています、また、l1正則化を使用する *ラッソ回帰* があります。 "
+"正則化パラメータの選択は重要です。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1108
 msgid ""
