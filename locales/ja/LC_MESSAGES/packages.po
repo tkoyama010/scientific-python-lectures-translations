@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-07 00:14+0000\n"
+"POT-Creation-Date: 2025-06-08 00:16+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -4515,6 +4515,10 @@ msgid ""
 "the data can support, depending on the amount of noise and of observations "
 "available."
 msgstr ""
+"これは、 **バイアスとばらつきのトレードオフ** の典型的な例です: 非正規化推定量は偏っていませんが、多くの分散を示すことがあります。 "
+"高正則化モデルは分散は少ないですがバイアスは大きいです。 このバイアスは必ずしも悪いことではありません: "
+"重要なのは、最良の予測性能をもたらすバイアスと分散のトレードオフを選択することです。 "
+"特定のデータセットには、そのデータがサポートできる最高の複雑さに対応するスイートスポットがあります、そしてそれは利用可能なノイズと観測の量に依存します。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1424
 msgid "Visualizing the Bias/Variance Tradeoff"
@@ -4573,11 +4577,11 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1476
 msgid "Validation Curves"
-msgstr ""
+msgstr "検証曲線"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1478
 msgid "Let us create a dataset like in the example above::"
-msgstr ""
+msgstr "上の例のようなデータセットを作ってみましょう::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1493
 msgid ""
@@ -4585,6 +4589,8 @@ msgid ""
 "data*, sampled from the same distribution as the train, but that will "
 "capture independent noise::"
 msgstr ""
+"モデルのバイアスと分散を定量化する中心的な方法は、 *test data* "
+"に適用することです、列車と同じ分布からサンプリングされますが、独立したノイズを捕捉します::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1504
 msgid ""
@@ -4594,12 +4600,17 @@ msgid ""
 "(*eg* with cross-validation). The model parameter is then adjusted so that "
 "the test error is minimized:"
 msgstr ""
+"**検証曲線** 検証曲線は、複雑さを制御するモデルのパラメータを変化させることで構成されます (ここでは多項式の次数) "
+"そして、訓練データ、およびテストデータ (*例* クロスバリデーション) に対するモデルの誤差を測定します. "
+"次に、テスト誤差が最小になるようにモデルパラメータを調整します:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1510
 msgid ""
 "We use :func:`sklearn.model_selection.validation_curve` to compute train and"
 " test error, and plot it::"
 msgstr ""
+":func:`sklearn.model_selection.validation_curve` "
+"を使って訓練誤差とテスト誤差を計算し、それをプロットします::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1539
 msgid ""
@@ -4631,7 +4642,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1561
 msgid "Learning Curves"
-msgstr ""
+msgstr "学習曲線"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1563
 msgid ""
@@ -4688,12 +4699,15 @@ msgid ""
 "learning curve, we can expect that adding more training data will not help: "
 "both lines converge to a relatively low score."
 msgstr ""
+"以上の議論から、 ``d = 1`` "
+"はデータにフィットしない高バイアス推定量であることがわかります。これは、トレーニングスコアと検証スコアの両方が低いという事実が示しています。 "
+"このような学習曲線に直面したとき、トレーニングデータを増やしても、何の役にも立たないことが予想されます: どちらの線も比較的低いスコアに収束します。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1614
 msgid ""
 "**When the learning curves have converged to a low score, we have a high "
 "bias model.**"
-msgstr ""
+msgstr "**学習曲線が低いスコアに収束したとき、バイアスの高いモデルとなります。**"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1617
 msgid "A high-bias model can be improved by:"
@@ -4701,25 +4715,25 @@ msgstr "高バイアスモデルは、次のようにして改善できます:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1619
 msgid "Using a more sophisticated model (i.e. in this case, increase ``d``)"
-msgstr ""
+msgstr "より洗練されたモデルの使用 (つまり、この場合は ``d`` を増やします)"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1620
 msgid "Gather more features for each sample."
-msgstr ""
+msgstr "各サンプルについて、より多くの特徴を集めます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1621
 msgid "Decrease regularization in a regularized model."
-msgstr ""
+msgstr "正則化モデルの正則化を減らします。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1623
 msgid ""
 "Increasing the number of samples, however, does not improve a high-bias "
 "model."
-msgstr ""
+msgstr "しかし、サンプル数を増やしても、高バイアスモデルは改善されません。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1626
 msgid "Now let's look at a high-variance (i.e. over-fit) model:"
-msgstr ""
+msgstr "次に、高バリアンス (つまりオーバーフィット) モデルを見てみましょう:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1633
 msgid "For a ``degree=15`` model"
@@ -4734,39 +4748,42 @@ msgid ""
 "set, the training score will continue to decrease, while the cross-"
 "validation error will continue to increase, until they meet in the middle."
 msgstr ""
+"ここでは、 ``d = 15`` の学習曲線を示します。 上記の議論から、``d = 15`` はデータに **オーバーフィット** する "
+"**高分散** 推定器であることがわかります。 これは、トレーニングスコアが検証スコアよりもはるかに高いという事実が示しています。 "
+"このトレーニングセットにさらにサンプルを追加すると、トレーニングスコアは減少し続け、クロスバリデーション誤差は増加し続け、両者が中間で出会うまで続きます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1646
 msgid ""
 "**Learning curves that have not yet converged with the full training set "
 "indicate a high-variance, over-fit model.**"
-msgstr ""
+msgstr "**全トレーニングセットでまだ収束していない学習曲線は、高バリアンスでオーバーフィットのモデルを示しています。**"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1649
 msgid "A high-variance model can be improved by:"
-msgstr ""
+msgstr "高バリアンスモデルは、次のようにして改善できます:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1651
 msgid "Gathering more training samples."
-msgstr ""
+msgstr "より多くのトレーニングサンプルを集めます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1652
 msgid ""
 "Using a less-sophisticated model (i.e. in this case, make ``d`` smaller)"
-msgstr ""
+msgstr "あまり洗練されていないモデルの使用 (つまり、この場合は ``d`` を小さくします)"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1654
 msgid "Increasing regularization."
-msgstr ""
+msgstr "正則化を進めます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1656
 msgid ""
 "In particular, gathering more features for each sample will not help the "
 "results."
-msgstr ""
+msgstr "特に、各サンプルについてより多くの特徴を集めても、結果の役には立ちません。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1660
 msgid "Summary on model selection"
-msgstr ""
+msgstr "モデル選択に関するまとめ"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1662
 msgid ""
@@ -4778,14 +4795,18 @@ msgid ""
 "training error and cross-validation error to determine whether our algorithm"
 " has high variance or high bias. But what do we do with this information?"
 msgstr ""
+"アルゴリズムが十分に機能していない原因として、次の2つが考えられることは前述したとおりです: 高いバイアス(アンダーフィット) と高い分散 "
+"(オーバーフィット)です。 我々のアルゴリズムを評価するために、トレーニングデータの一部をクロスバリデーション用に確保しました。 "
+"学習曲線のテクニックを使えば、データの部分集合を徐々に大きくして訓練し、訓練誤差と交差検証誤差を評価して、アルゴリズムが高分散か高バイアスかを判断することができます。"
+" しかし、この情報をどうするのでしょうか？"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1672
 msgid "High Bias"
-msgstr ""
+msgstr "高いバイアス"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1674
 msgid "If a model shows high **bias**, the following actions might help:"
-msgstr ""
+msgstr "モデルが高い **バイアス** を示した場合、以下の対処が役立つかもしれません:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1676
 msgid ""
@@ -4794,6 +4815,8 @@ msgid ""
 " the year the house was built, the size of the lot, etc. Adding these "
 "features to the training and test sets can improve a high-bias estimator"
 msgstr ""
+"**より多くの機能を追加します** 。住宅価格を予測する例で言えば、その家がある地域、 "
+"家が建てられた年、土地の広さなどなどの情報を活用することが役に立つかもしれません。これらの特徴をトレーニングセットとテストセットに加えることで、高バイアス推定量を改善することができます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1681
 msgid ""
