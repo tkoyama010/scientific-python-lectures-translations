@@ -8,11 +8,11 @@ repos:
         args: [--branch, main]
       - id: requirements-txt-fixer
       - id: trailing-whitespace
-        exclude: ^(locale)
+        exclude: ^(locales)
       - id: end-of-file-fixer
-        exclude: ^(locale)
+        exclude: ^(locales)
       - id: mixed-line-ending
-        exclude: ^(locale)
+        exclude: ^(locales)
   - repo: https://github.com/python-jsonschema/check-jsonschema
     rev: 0.33.0
     hooks:
@@ -27,9 +27,9 @@ repos:
     hooks:
       - id: ruff
         args: [--fix, --show-fixes]
-        exclude: ^(locale)
+        exclude: ^(locales)
       - id: ruff-format
-        exclude: ^(locale)
+        exclude: ^(locales)
   - repo: https://github.com/ComPWA/taplo-pre-commit
     rev: v0.9.3
     hooks:
