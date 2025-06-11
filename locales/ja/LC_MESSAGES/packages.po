@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-10 13:55+0000\n"
+"POT-Creation-Date: 2025-06-11 00:14+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -4852,28 +4852,30 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1697
 msgid "High Variance"
-msgstr "高バランス"
+msgstr "高分散"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1699
 msgid "If a model shows **high variance**, the following actions might help:"
-msgstr ""
+msgstr "モデルが高い **分散** を示した場合、以下の対処が役立つかもしれません:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1702
 msgid ""
 "**Use fewer features**. Using a feature selection technique may be useful, "
 "and decrease the over-fitting of the estimator."
-msgstr ""
+msgstr "**少ない機能を使います**。 特徴選択テクニックを使うことは有効で、推定値のオーバーフィッティングを減らすことができます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1704
 msgid ""
 "**Use a simpler model**. Model complexity and over-fitting go hand-in-hand."
-msgstr ""
+msgstr "**よりシンプルなモデルを使います**　。モデルの複雑さとオーバーフィッティングは密接に関係しています。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1706
 msgid ""
 "**Use more training samples**. Adding training samples can reduce the effect"
 " of over-fitting, and lead to improvements in a high variance estimator."
 msgstr ""
+"**より多くのトレーニングサンプルを使用します** 。 "
+"学習サンプルを追加することで、オーバーフィッティングの影響を軽減し、高分散推定量の改善につながります。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1709
 msgid ""
@@ -4881,6 +4883,7 @@ msgid ""
 "fitting. In a high-variance model, increasing regularization can lead to "
 "better results."
 msgstr ""
+"**レギュラー化します** 。正則化はオーバーフィッティングを防ぐために設計されています。 高分散モデルでは、正則化を進めるとより良い結果が得られます。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1713
 msgid ""
