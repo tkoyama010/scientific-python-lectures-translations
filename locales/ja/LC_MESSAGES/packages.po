@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-14 00:14+0000\n"
+"POT-Creation-Date: 2025-06-18 00:14+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -4899,7 +4899,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1721
 msgid "A last word of caution: separate validation and test set"
-msgstr ""
+msgstr "最後に一言: 検証セットとテストセットの分離"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1723
 msgid ""
@@ -4909,27 +4909,28 @@ msgid ""
 " be over-fit to the validation set. Because of this, the validation error "
 "tends to under-predict the classification error of new data."
 msgstr ""
+"ハイパーパラメータを決定するために検証スキームを使用することは、特定の検証セットにハイパーパラメータをフィットさせることを意味します。パラメータが訓練セットにオーバーフィットすることがあるのと同じように、ハイパーパラメータも検証セットにオーバーフィットすることがあります。このため、検証誤差は新しいデータの分類誤差を過小予測する傾向があります。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1730
 msgid "For this reason, it is recommended to split the data into three sets:"
-msgstr ""
+msgstr "このため、データを3つのセットに分けることが推奨されます:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1732
 msgid ""
 "The **training set**, used to train the model (usually ~60% of the data)"
-msgstr ""
+msgstr "モデルの学習に使用される **学習セット** (通常 ~60％のデータ)"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1734
 msgid ""
 "The **validation set**, used to validate the model (usually ~20% of the "
 "data)"
-msgstr ""
+msgstr "モデルの検証に使用される **検証セット** (通常 ~20％のデータ)"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1736
 msgid ""
 "The **test set**, used to evaluate the expected error of the validated model"
 " (usually ~20% of the data)"
-msgstr ""
+msgstr "検証済みモデルの期待誤差を評価するための **テストセット** (通常 ~20％のデータ)"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1739
 msgid ""
