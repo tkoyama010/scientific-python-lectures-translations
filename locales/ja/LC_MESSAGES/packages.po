@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-18 00:14+0000\n"
+"POT-Creation-Date: 2025-06-19 00:14+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -885,7 +885,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:81
 msgid "``scikit-image`` and the scientific Python ecosystem"
-msgstr ""
+msgstr "``scikit-image`` と科学的Pythonエコシステム"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:83
 msgid ""
@@ -989,7 +989,7 @@ msgstr ":mod:`data`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:126
 msgid "Test images and example data."
-msgstr ""
+msgstr "テスト画像とサンプルデータ。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:128
 msgid ":mod:`draw`"
@@ -997,7 +997,7 @@ msgstr ":mod:`draw`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:129
 msgid "Drawing primitives (lines, text, etc.) that operate on NumPy arrays."
-msgstr ""
+msgstr "NumPyの配列を操作する描画プリミティブ (線、テキストなど) 。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:132
 msgid ":mod:`exposure`"
@@ -1005,7 +1005,7 @@ msgstr ":mod:`exposure`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:133
 msgid "Image intensity adjustment, e.g., histogram equalization, etc."
-msgstr ""
+msgstr "画像強度調整、例、ヒストグラム等化など"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:135
 msgid ":mod:`feature`"
@@ -1013,7 +1013,7 @@ msgstr ":mod:`feature`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:136
 msgid "Feature detection and extraction, e.g., texture analysis corners, etc."
-msgstr ""
+msgstr "特徴検出と抽出、例、テクスチャー分析コーナーなど。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:138
 msgid ":mod:`filters`"
@@ -1021,7 +1021,7 @@ msgstr ":mod:`filters`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:139
 msgid "Sharpening, edge finding, rank filters, thresholding, etc."
-msgstr ""
+msgstr "シャープネス、エッジ検出、ランクフィルター、閾値処理など。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:141
 msgid ":mod:`graph`"
@@ -1029,7 +1029,7 @@ msgstr ":mod:`graph`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:142
 msgid "Graph-theoretic operations, e.g., shortest paths."
-msgstr ""
+msgstr "グラフ理論的操作、例えば最短経路。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:144
 msgid ":mod:`io`"
@@ -1037,7 +1037,7 @@ msgstr ":mod:`io`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:145
 msgid "Reading, saving, and displaying images and video."
-msgstr ""
+msgstr "画像やビデオの読み取り、保存、表示。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:147
 msgid ":mod:`measure`"
@@ -1045,7 +1045,7 @@ msgstr ":mod:`measure`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:148
 msgid "Measurement of image properties, e.g., region properties and contours."
-msgstr ""
+msgstr "画像特性の測定、例えば、リージョンプロパティや輪郭など。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:150
 msgid ":mod:`metrics`"
@@ -1054,7 +1054,7 @@ msgstr ":mod:`metrics`"
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:151
 msgid ""
 "Metrics corresponding to images, e.g. distance metrics, similarity, etc."
-msgstr ""
+msgstr "画像に対応するメトリクス、例えば、距離メトリクス、類似度など。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:153
 msgid ":mod:`morphology`"
@@ -1062,7 +1062,7 @@ msgstr ":mod:`morphology`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:154
 msgid "Morphological operations, e.g., opening or skeletonization."
-msgstr ""
+msgstr "形態学的操作、例えば、オープニングやスケルトン化。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:156
 msgid ":mod:`restoration`"
@@ -1071,7 +1071,7 @@ msgstr ":mod:`restoration`"
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:157
 msgid ""
 "Restoration algorithms, e.g., deconvolution algorithms, denoising, etc."
-msgstr ""
+msgstr "復元アルゴリズム、例えばデコンボリューションアルゴリズム、ノイズ除去など。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:159
 msgid ":mod:`segmentation`"
@@ -1079,7 +1079,7 @@ msgstr ":mod:`segmentation`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:160
 msgid "Partitioning an image into multiple regions."
-msgstr ""
+msgstr "画像を複数の領域に分割する。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:162
 msgid ":mod:`transform`"
@@ -1103,20 +1103,20 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:174
 msgid "We import ``scikit-image`` using the convention::"
-msgstr ""
+msgstr "``scikit-image`` をインポートするには::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:178
 msgid "Most functionality lives in subpackages, e.g.::"
-msgstr ""
+msgstr "ほとんどの機能はサブパッケージに含まれています、例えば::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:182
 msgid "You can list all submodules with::"
-msgstr ""
+msgstr "以下ですべてのサブモジュールを一覧できます::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:204
 msgid ""
 "Most ``scikit-image`` functions take NumPy ``ndarrays`` as arguments ::"
-msgstr ""
+msgstr "ほとんどの ``scikit-image`` 関数は、NumPyの ``ndarrays`` を引数にとります ::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:216
 msgid "Example data"
@@ -2655,7 +2655,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_separator.rst:22
 msgid "Simple picture of the formal problem of machine learning"
-msgstr ""
+msgstr "機械学習の形式的問題の単純なイメージ"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_separator.rst:24
 msgid ""
@@ -2787,11 +2787,11 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_variance_linear_regr.rst:23
 msgid "Plot variance and regularization in linear models"
-msgstr ""
+msgstr "線形モデルにおけるプロット分散と正則化"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_variance_linear_regr.rst:40
 msgid "We consider the situation where we have only 2 data point"
-msgstr ""
+msgstr "データポイントが2つしかない場合を考えます"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_variance_linear_regr.rst:53
 msgid "Without noise, as linear regression fits the data perfectly"
