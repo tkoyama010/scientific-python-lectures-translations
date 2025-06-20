@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-19 00:14+0000\n"
+"POT-Creation-Date: 2025-06-20 00:14+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -1120,13 +1120,13 @@ msgstr "ほとんどの ``scikit-image`` 関数は、NumPyの ``ndarrays`` を�
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:216
 msgid "Example data"
-msgstr ""
+msgstr "データ例"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:218
 msgid ""
 "To start off, we need example images to work with. The library ships with a "
 "few of these:"
-msgstr ""
+msgstr "手始めに、作業用のサンプル画像が必要です。 ライブラリーには、これらのうちのいくつかが同梱されています:"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:221
 msgid ":mod:`skimage.data` ::"
@@ -1134,7 +1134,7 @@ msgstr ":mod:`skimage.data` ::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:228
 msgid "Input/output, data types and colorspaces"
-msgstr ""
+msgstr "入出力、データ型、色空間"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:230
 msgid "I/O: :mod:`skimage.io`"
@@ -1142,7 +1142,7 @@ msgstr "I/O: :mod:`skimage.io`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:232
 msgid "Save an image to disk: :func:`skimage.io.imsave` ::"
-msgstr ""
+msgstr "画像をディスクに保存します: :func:`skimage.io.imsave` ::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:236
 msgid "Reading from files: :func:`skimage.io.imread` ::"
@@ -1153,10 +1153,12 @@ msgid ""
 "This works with many data formats supported by the `ImageIO "
 "<https://imageio.readthedocs.io>`__ library."
 msgstr ""
+"これは、 `ImageIO <https://imageio.readthedocs.io>`__ "
+"ライブラリーがサポートする多くのデータフォーマットで機能します。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:248
 msgid "Loading also works with URLs::"
-msgstr ""
+msgstr "ロードはURLでも機能します::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:253
 msgid "Data types"
