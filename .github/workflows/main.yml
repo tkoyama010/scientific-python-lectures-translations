@@ -9,7 +9,30 @@ on:
     branches:
       - main
 jobs:
+  update-submodule:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+          submodules: true
+          token: ${{ secrets.PERSONAL_ACCESSTOKEN }}
+      
+      - name: Update submodule
+        run: |
+          git submodule update --init --recursive
+          cd scientific-python-lectures
+          git fetch origin
+          git checkout origin/main
+          cd ..
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add scientific-python-lectures
+          git commit -m "Update submodule to latest main" || echo "No changes to commit"
+          git push origin ${GITHUB_REF#refs/heads/}
+
   script:
+    needs: update-submodule
     permissions:
       pull-requests: write
       issues: write
