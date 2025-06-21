@@ -41,7 +41,7 @@ jobs:
         with:
           packages: libopenblas-dev
           version: 1.0
-      - name: install transifex cli
+      - name: update submodule
         run: |
           (cd scientific-python-lectures; git fetch origin; git checkout main; git reset --hard origin/main; git branch -a)
       - uses: py-actions/py-dependency-install@30aa0023464ed4b5b116bd9fbdab87acf01a484e
