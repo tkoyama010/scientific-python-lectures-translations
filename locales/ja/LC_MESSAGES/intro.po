@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-11 00:14+0000\n"
+"POT-Creation-Date: 2025-06-23 23:27+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -557,7 +557,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/intro.rst:237
 msgid "There are several fully-featured scientific Python distributions:"
-msgstr ""
+msgstr "完全な機能を備えた科学用 Python ディストリビューションがいくつかあります:"
 
 #: ../../scientific-python-lectures/intro/intro.rst:242
 msgid "`Anaconda <https://www.anaconda.com/download/>`_"
@@ -862,7 +862,7 @@ msgstr ""
 msgid ""
 "A list is an ordered collection of objects, that may have different types. "
 "For example:"
-msgstr ""
+msgstr "リストは、異なる型を持つ可能性のあるオブジェクトの順序付けられたコレクションです。例えば:"
 
 #: ../../scientific-python-lectures/intro/language/basic_types.rst:88
 msgid "Indexing: accessing individual objects contained in the list::"
