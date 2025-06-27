@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-23 23:27+0000\n"
+"POT-Creation-Date: 2025-06-27 00:14+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -448,7 +448,7 @@ msgstr "開発ツール (自動テスト、ドキュメント作成)"
 
 #: ../../scientific-python-lectures/intro/intro.rst:168
 msgid ":ref:`chapter on Python language <python_language_chapter>`"
-msgstr ""
+msgstr ":ref:`chapter on Python language <python_language_chapter>`"
 
 #: ../../scientific-python-lectures/intro/intro.rst:170
 msgid "**Core numeric libraries**"
@@ -1067,7 +1067,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/language/basic_types.rst:398
 msgid "Assignment operator"
-msgstr ""
+msgstr "代入演算子"
 
 #: ../../scientific-python-lectures/intro/language/basic_types.rst:402
 msgid ""
@@ -1130,19 +1130,19 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/language/control_flow.rst:2
 msgid "Control Flow"
-msgstr ""
+msgstr "コントロールフロー"
 
 #: ../../scientific-python-lectures/intro/language/control_flow.rst:4
 msgid "Controls the order in which the code is executed."
-msgstr ""
+msgstr "コードの実行順序を制御します。"
 
 #: ../../scientific-python-lectures/intro/language/control_flow.rst:7
 msgid "if/elif/else"
-msgstr ""
+msgstr "if/elif/else"
 
 #: ../../scientific-python-lectures/intro/language/control_flow.rst:17
 msgid "**Blocks are delimited by indentation**"
-msgstr ""
+msgstr "**ブロックはインデントで区切られます**"
 
 #: ../../scientific-python-lectures/intro/language/control_flow.rst:21
 msgid ""
@@ -1162,7 +1162,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/language/control_flow.rst:45
 msgid "for/range"
-msgstr ""
+msgstr "for/range"
 
 #: ../../scientific-python-lectures/intro/language/control_flow.rst:47
 msgid "Iterating with an index::"
