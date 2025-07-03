@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-21 14:29+0000\n"
+"POT-Creation-Date: 2025-07-03 00:14+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -6478,7 +6478,7 @@ msgstr "**コンディショニング** (変動のすべてまたは一部を説
 
 #: ../../scientific-python-lectures/packages/sympy.rst:8
 msgid "Sympy : Symbolic Mathematics in Python"
-msgstr ""
+msgstr "Sympy : Pythonで学ぶ数式処理"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:10
 msgid "**Author**: *Fabian Pedregosa*"
@@ -6833,7 +6833,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/sympy.rst:421
 msgid "Differential Equations"
-msgstr ""
+msgstr "微分方程式"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:423
 msgid ""
@@ -6841,6 +6841,7 @@ msgid ""
 "differential equations, use dsolve. First, create an undefined function by "
 "passing cls=Function to the symbols function::"
 msgstr ""
+"SymPyは（いくつかの）常微分を解くことができます。微分方程式を解くにはdsolveを使います。まず、シンボル関数にcls=Functionを渡して未定義関数を作成します::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:429
 msgid ""
