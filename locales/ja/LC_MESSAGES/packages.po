@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-03 00:14+0000\n"
+"POT-Creation-Date: 2025-07-04 00:14+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -6519,6 +6519,9 @@ msgid ""
 "keeping the code as simple as possible and easily extensible.  SymPy is "
 "written entirely in Python and does not require any external libraries."
 msgstr ""
+"**SymPyとは？** SymPyは記号数学のためのPythonライブラリです。 "
+"このシステムは、MathematicaやMapleのようなシステムの代替となることを目指す一方で、コードをできる限りシンプルに保ち、簡単に拡張することができます。"
+" SymPyは完全にPythonで書かれており、外部ライブラリを必要としません。"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:29
 msgid ""
@@ -6537,7 +6540,7 @@ msgstr "SymPyを電卓として使う"
 #: ../../scientific-python-lectures/packages/sympy.rst:44
 msgid ""
 "SymPy defines three numerical types: ``Real``, ``Rational`` and ``Integer``."
-msgstr ""
+msgstr "SymPyは3つの数値型を定義しています: ``Real``, ``Rational`` と ``Integer``."
 
 #: ../../scientific-python-lectures/packages/sympy.rst:46
 msgid ""
@@ -6545,6 +6548,8 @@ msgid ""
 "the numerator and the denominator, so ``Rational(1, 2)`` represents 1/2, "
 "``Rational(5, 2)`` 5/2 and so on::"
 msgstr ""
+"有理数クラスは、有理数を2つの整数のペアとして表します: 分子と分母を表します、 ``Rational(1, 2)`` は1/2、 "
+"``Rational(5, 2)`` は5/2などを表します::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:59
 msgid ""
