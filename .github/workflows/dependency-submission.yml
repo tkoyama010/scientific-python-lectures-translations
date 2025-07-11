@@ -2,7 +2,7 @@ name: Dependency Submission
 
 on:
   push:
-    branches: [ main ]
+    branches: [main]
   pull_request:
 
 permissions:
@@ -16,12 +16,12 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: true
-          
+
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
-          
+          python-version: "3.12"
+
       - name: Submit Dependencies
         uses: actions/dependency-submission-action@v4
         with:
