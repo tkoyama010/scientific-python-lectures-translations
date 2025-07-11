@@ -1,9 +1,11 @@
 version: 2
 updates:
-  - package-ecosystem: "pip"
-    directory: "/"
-    schedule:
-      interval: "daily"
+  # Commented out pip ecosystem to prevent automatic dependency submission errors
+  # The repository uses a submodule that causes issues with dependency scanning
+  # - package-ecosystem: "pip"
+  #   directory: "/"
+  #   schedule:
+  #     interval: "daily"
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
