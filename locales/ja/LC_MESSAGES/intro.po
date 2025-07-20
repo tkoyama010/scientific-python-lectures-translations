@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-07-13 00:16+0000\n"
+"POT-Creation-Date: 2025-07-20 00:16+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -999,7 +999,7 @@ msgstr ""
 msgid ""
 "Accents and special characters can also be handled as in Python 3 strings "
 "consist of Unicode characters."
-msgstr ""
+msgstr "アクセント記号や特殊文字も、Python 3 の文字列と同様に Unicode 文字として扱われます。"
 
 #: ../../scientific-python-lectures/intro/language/basic_types.rst:298
 msgid ""
@@ -2192,7 +2192,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/language/reusing_code.rst:322
 msgid "How modules are found and imported"
-msgstr ""
+msgstr "モジュールがどのように見つかり、インポートされるか"
 
 #: ../../scientific-python-lectures/intro/language/reusing_code.rst:325
 msgid ""
