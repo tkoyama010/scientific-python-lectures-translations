@@ -33,7 +33,7 @@ jobs:
           submodules: true
           token: ${{ secrets.PERSONAL_ACCESSTOKEN }}
       - name: Setup SSH
-        uses: MrSquaare/ssh-setup-action@017f4d9537e3aa1ea64e34700b645ac0bb76b7ec
+        uses: MrSquaare/ssh-setup-action@7c2bf610bc02ced37f15ad1a68092145c47b9b4e
         with:
           host: github.com
           private-key: ${{ secrets.SSH_PRIVATE_KEY }}
