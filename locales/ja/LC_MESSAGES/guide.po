@@ -149,7 +149,7 @@ msgid ""
 "Make sure to read this `Documentation style guide`_ as well as these `tips, "
 "tricks`_ and conventions about documentation content and workflows."
 msgstr ""
-"ドキュメントの内容やワークフローに関する `tips, tricks`_ に加えて、 `Documentation style guide_` "
+"ドキュメントの内容やワークフローに関する `tips, tricks`_ に加えて、 `Documentation style guide`_ "
 "も必ず読んでください。"
 
 #: ../../scientific-python-lectures/guide/index.rst:24
