@@ -1,5 +1,4 @@
 coverage>=7.6
-docutils==0.20.1
 ipython
 matplotlib==3.10.1
 # Requirements from scientific-python-lectures submodule
