@@ -27,17 +27,17 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           job_name: script
       - name: checkout with submodule
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
         with:
           persist-credentials: false
           submodules: true
           token: ${{ secrets.PERSONAL_ACCESSTOKEN }}
       - name: Setup SSH
-        uses: MrSquaare/ssh-setup-action@017f4d9537e3aa1ea64e34700b645ac0bb76b7ec
+        uses: MrSquaare/ssh-setup-action@7c2bf610bc02ced37f15ad1a68092145c47b9b4e
         with:
           host: github.com
           private-key: ${{ secrets.SSH_PRIVATE_KEY }}
-      - uses: awalsh128/cache-apt-pkgs-action@4c82c3ccdc1344ee11e9775dbdbdf43aa8a5614e
+      - uses: awalsh128/cache-apt-pkgs-action@2c09a5e66da6c8016428a2172bd76e5e4f14bb17
         with:
           packages: libopenblas-dev
           version: 1.0
