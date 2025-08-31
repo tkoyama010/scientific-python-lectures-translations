@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-27 23:18+0000\n"
+"POT-Creation-Date: 2025-08-31 00:15+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -873,7 +873,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:57
 msgid "``dtype`` (``np.uint8``, ``np.uint16``, ``np.float``)"
-msgstr ""
+msgstr "``dtype`` (``np.uint8``, ``np.uint16``, ``np.float``)"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:0
 msgid "filters"
@@ -5636,7 +5636,7 @@ msgstr ""
 msgid ""
 "Here we plot a scatter matrix to get intuitions on our results. This goes "
 "beyond what was asked in the exercise"
-msgstr ""
+msgstr "ここでは結果の直観を得るために散布行列をプロットする。これは演習で求められた内容を超えるものです"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/solutions/plot_brain_size.rst:96
 msgid ""
@@ -5767,6 +5767,7 @@ msgid ""
 "The reason is that on such questions controlling the truth of a claim "
 "actually matters to many people."
 msgstr ""
+"このチュートリアルの例の一部は、ジェンダー問題を中心に選ばれています。その理由は、こうした問題においては、主張の真偽を確かめることが多くの人々にとって実際に重要だからです。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:82
 msgid "Data representation and interaction"
@@ -6455,7 +6456,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:885
 msgid "Can we conclude that education benefits males more than females?"
-msgstr ""
+msgstr "教育は女性よりも男性により多くの利益をもたらすと結論づけられるでしょうか？"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:853
 msgid "**Take home messages**"
@@ -6495,15 +6496,15 @@ msgstr "**著者**: *Fabian Pedregosa*"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:8
 msgid "Objectives"
-msgstr ""
+msgstr "目的"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:14
 msgid "Evaluate expressions with arbitrary precision."
-msgstr ""
+msgstr "任意精度で式を評価します。"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:15
 msgid "Perform algebraic manipulations on symbolic expressions."
-msgstr ""
+msgstr "記号式に対して代数操作を実行します。"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:16
 msgid "Perform basic calculus tasks (limits, differentiation and"
@@ -6687,10 +6688,13 @@ msgid ""
 "variable, point)``, so to compute the limit of :math:`f(x)` as :math:`x "
 "\\rightarrow 0`, you would issue ``limit(f, x, 0)``::"
 msgstr ""
+"SymPyでは極限は簡単に使用できます。構文は ``limit(function, variable, point)`` に従います。したがって、 "
+":math:`f(x)` が :math:`x \\rightarrow 0` として極限を取ることを計算するには、 ``limit(f, x, "
+"0)`` を実行します::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:189
 msgid "you can also calculate the limit at infinity::"
-msgstr ""
+msgstr "無限大における極限も計算できます::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:204
 msgid "Differentiation"
@@ -6700,7 +6704,7 @@ msgstr ""
 msgid ""
 "You can differentiate any SymPy expression using ``diff(func, var)``. "
 "Examples::"
-msgstr ""
+msgstr "SymPyの任意の式は、 ``diff(func, var)`` を用いて微分できます。 例::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:218
 msgid "You can check that it is correct by::"
@@ -6715,6 +6719,8 @@ msgid ""
 "\\sec(x) = \\frac{1}{\\cos(x)} and \\sec^2(x) = \\tan^2(x) + 1.\n"
 "\n"
 msgstr ""
+"\\sec(x) = \\frac{1}{\\cos(x)} and \\sec^2(x) = \\tan^2(x) + 1.\n"
+"\n"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:230
 msgid "You can check this as well::"
@@ -6746,7 +6752,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/sympy.rst:277
 msgid "Integration"
-msgstr ""
+msgstr "積分"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:279
 msgid ""
@@ -6821,7 +6827,7 @@ msgstr ""
 #: ../../scientific-python-lectures/packages/sympy.rst:384
 msgid ""
 "Solve the system of equations :math:`x + y = 2`, :math:`2\\cdot x + y = 0`"
-msgstr ""
+msgstr "連立方程式を解いてください :math:`x + y = 2`, :math:`2\\cdot x + y = 0`"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:385
 msgid ""
@@ -6831,7 +6837,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/sympy.rst:389
 msgid "Linear Algebra"
-msgstr ""
+msgstr "線形代数"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:394
 msgid "Matrices"
@@ -6861,7 +6867,7 @@ msgstr ""
 msgid ""
 "f and g are now undefined functions. We can call f(x), and it will represent"
 " an unknown function::"
-msgstr ""
+msgstr "f と g は現在未定義の関数です。 f(x) と呼ぶことができ、それは未知の関数を表します::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:446
 msgid ""
@@ -6870,18 +6876,22 @@ msgid ""
 "separable equations, you can use keyword ``hint='separable'`` to force "
 "dsolve to resolve it as a separable equation::"
 msgstr ""
+"この関数にはキーワード引数を指定することで、最適な解法システムの選択を支援できます。例えば、分離可能な方程式であることが分かっている場合、キーワード "
+"``hint='separable'`` を使用してdsolveに分離可能な方程式として解くよう強制できます::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:461
 msgid "Solve the Bernoulli differential equation"
-msgstr ""
+msgstr "ベルヌーイの微分方程式を解いてください"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:463
 msgid ""
 "x \\frac{d f(x)}{x} + f(x) - f(x)^2=0\n"
 "\n"
 msgstr ""
+"x \\frac{d f(x)}{x} + f(x) - f(x)^2=0\n"
+"\n"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:466
 msgid ""
 "Solve the same equation using ``hint='Bernoulli'``. What do you observe ?"
-msgstr ""
+msgstr "同じ方程式を ``hint='Bernoulli'`` を使用して解いてください。どのような結果が得られますか？"

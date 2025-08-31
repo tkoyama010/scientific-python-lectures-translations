@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-27 23:35+0000\n"
+"POT-Creation-Date: 2025-08-31 00:15+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -506,15 +506,17 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/intro.rst:204
 msgid "**sympy** for :ref:`symbolic computing <sympy>`"
-msgstr ""
+msgstr "**sympy** は :ref:`symbolic computing <sympy>` を行うためのものです。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:206
 msgid "**scikit-image** for :ref:`image processing <scikit_image>`"
-msgstr ""
+msgstr "**scikit-image** は :ref:`image processing <scikit_image>` を行うためのものです。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:208
 msgid "**scikit-learn** for :ref:`machine learning <scikit-learn_chapter>`"
 msgstr ""
+"**scikit-learn** は :ref:`machine learning <scikit-learn_chapter>` "
+"を行うためのものです。"
 
 #: ../../scientific-python-lectures/intro/intro.rst:210
 msgid ""
@@ -523,15 +525,15 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/intro.rst:214
 msgid ":ref:`chapters on advanced topics <advanced_topics_part>`"
-msgstr ""
+msgstr ":ref:`chapters on advanced topics <advanced_topics_part>`"
 
 #: ../../scientific-python-lectures/intro/intro.rst:216
 msgid ":ref:`chapters on packages and applications <applications_part>`"
-msgstr ""
+msgstr ":ref:`chapters on packages and applications <applications_part>`"
 
 #: ../../scientific-python-lectures/intro/intro.rst:225
 msgid "Before starting: Installing a working environment"
-msgstr ""
+msgstr "開始前に: 動作環境のインストール"
 
 #: ../../scientific-python-lectures/intro/intro.rst:226
 msgid ""
@@ -543,7 +545,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/intro.rst:230
 msgid "**Under Linux**"
-msgstr ""
+msgstr "**Linux環境下で**"
 
 #: ../../scientific-python-lectures/intro/intro.rst:232
 msgid ""
@@ -553,7 +555,7 @@ msgstr "最近のディストリビューションであれば、ほとんどの
 
 #: ../../scientific-python-lectures/intro/intro.rst:235
 msgid "**Other systems**"
-msgstr ""
+msgstr "**その他のシステム**"
 
 #: ../../scientific-python-lectures/intro/intro.rst:237
 msgid "There are several fully-featured scientific Python distributions:"
@@ -687,7 +689,7 @@ msgstr "IPythonのコンソールやノートブックで実行し、結果の�
 
 #: ../../scientific-python-lectures/intro/intro.rst:294
 msgid "**From a script to functions**"
-msgstr ""
+msgstr "**スクリプトから関数へ**"
 
 #: ../../scientific-python-lectures/intro/intro.rst:343
 msgid ""
@@ -769,7 +771,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/intro.rst:433
 msgid ":ref:`Chapter on optimizing code <optimizing_code_chapter>`"
-msgstr ""
+msgstr ":ref:`Chapter on optimizing code <optimizing_code_chapter>`"
 
 #: ../../scientific-python-lectures/intro/intro.rst:435
 msgid ""
@@ -780,7 +782,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/intro.rst:456
 msgid ":ref:`Chapter on debugging <debugging_chapter>`"
-msgstr ""
+msgstr ":ref:`Chapter on debugging <debugging_chapter>`"
 
 #: ../../scientific-python-lectures/intro/intro.rst:460
 msgid ""
