@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-08-31 00:15+0000\n"
+"POT-Creation-Date: 2025-09-02 00:13+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -1107,7 +1107,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/language/basic_types.rst:418
 msgid "A single object can have several names bound to it:"
-msgstr ""
+msgstr "単一のオブジェクトには複数の名前が紐付けられることがあります:"
 
 #: ../../scientific-python-lectures/intro/language/basic_types.rst:440
 msgid "to change a list *in place*, use indexing/slices:"
