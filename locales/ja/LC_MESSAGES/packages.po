@@ -1371,7 +1371,7 @@ msgid ""
 "on arbitrary-dimensional arrays."
 msgstr ""
 "基本的な数理形態学は :mod:`scipy.ndimage.morphology` にも実装されています。 "
-"``scipy.ndimage``の実装は任意の次元の配列に対して動作します。"
+"``scipy.ndimage`` の実装は任意の次元の配列に対して動作します。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:391
 msgid "Example of filters comparison: image denoising"
@@ -6084,7 +6084,7 @@ msgid ""
 msgstr ""
 "このアプローチの問題点は、観測データ間の重要な関係を無視していることです: FSIQとPIQは同じ人を対象に測定されます。 "
 "したがって、被験者間のばらつきによる分散は交絡となり、検定の検出力を低下させます。 このばらつきは、 \"対応のある検定\" または "
-"`\"反復測定検定\"<https://en.wikipedia.org/wiki/Repeated_measures_design>`_ "
+"`\"反復測定検定\" <https://en.wikipedia.org/wiki/Repeated_measures_design>`_ "
 "を用いて取り除くことができます::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:419
@@ -6190,7 +6190,7 @@ msgid ""
 "<https://www.statsmodels.org/devel/endog_exog.html>`_."
 msgstr ""
 "statsmodelsは統計用語を使用します: 統計モデルにおける `y` 変数は '内生的' と呼ばれ、 `x` 変数は '外生的' と呼ばれます。"
-"  これについては、 `こちら<https://www.statsmodels.org/devel/endog_exog.html>`_ "
+"  これについては、 `こちら <https://www.statsmodels.org/devel/endog_exog.html>`_ "
 "で詳しく説明しています。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:532
@@ -6397,7 +6397,7 @@ msgid ""
 "<https://seaborn.pydata.org/tutorial/aesthetics.html>`_."
 msgstr ""
 "seabornの設定に戻したり、seabornのスタイリングをよりよく理解したりするには、 "
-"`seabornドキュメントの該当セクション<https://seaborn.pydata.org/tutorial/aesthetics.html>`_"
+"`seabornドキュメントの該当セクション <https://seaborn.pydata.org/tutorial/aesthetics.html>`_"
 " を参照してください 。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:819
