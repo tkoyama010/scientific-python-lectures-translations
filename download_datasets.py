@@ -17,11 +17,9 @@ def download():
 
     print(f"Downloading datasets to {data_home.absolute()}...")
 
-    # Override urllib User-Agent to avoid 403 errors from Cloudflare
+    # Override urllib User-Agent to avoid 403 errors
     opener = urllib.request.build_opener()
-    opener.addheaders = [
-        ("User-Agent", "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36")
-    ]
+    opener.addheaders = [("User-agent", "Mozilla/5.0")]
     urllib.request.install_opener(opener)
 
     # Import after setting up opener
