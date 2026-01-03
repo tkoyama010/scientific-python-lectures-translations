@@ -10,6 +10,13 @@ build:
   jobs:
     post_create_environment:
       - cp -a locales scientific-python-lectures/
+    post_install:
+      # Download scikit-learn datasets before sphinx-gallery runs
+      - python download_datasets.py
+  commands:
+    # Set environment variable for scikit-learn to use cached data
+    - export SCIKIT_LEARN_DATA=$PWD/scikit_learn_data
+    - python -m sphinx -T -b html -d _build/doctrees -D language=ja scientific-python-lectures $READTHEDOCS_OUTPUT/html
 
 submodules:
   include:
