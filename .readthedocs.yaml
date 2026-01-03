@@ -7,14 +7,12 @@ build:
   apt_packages:
     - gfortran
     - libopenblas-dev
-  commands:
-    - pip install -r requirements.txt
-    - cp -a locales scientific-python-lectures/
-    # Download scikit-learn datasets before sphinx-gallery runs
-    - python download_datasets.py
-    # Set environment variable for scikit-learn to use cached data
-    - export SCIKIT_LEARN_DATA=$PWD/scikit_learn_data
-    - python -m sphinx -T -b html -d _build/doctrees -D language=ja scientific-python-lectures $READTHEDOCS_OUTPUT/html
+  jobs:
+    post_create_environment:
+      - cp -a locales scientific-python-lectures/
+    post_install:
+      # Download scikit-learn datasets before sphinx-gallery runs
+      - python download_datasets.py
 
 submodules:
   include:
@@ -23,3 +21,7 @@ submodules:
 
 sphinx:
   configuration: scientific-python-lectures/conf.py
+
+python:
+  install:
+    - requirements: requirements.txt
