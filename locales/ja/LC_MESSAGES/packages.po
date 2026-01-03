@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2025
+# Copyright (C) 2026
 # This file is distributed under the same license as the Scientific Python Lectures package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-01 00:15+0000\n"
+"POT-Creation-Date: 2026-01-02 07:35+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -34,7 +34,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1612
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1644
-#: ../../../../../../../tmp/<rst_epilog>:9
+#: ../../../../../../../tmp/<rst_epilogue>:9
 msgid "|clear-floats|"
 msgstr "|clear-floats|"
 
@@ -45,67 +45,58 @@ msgstr "scikit-imageの章の例"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:22
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:23
-msgid ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_check.py`"
-msgstr ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_check.py`"
+msgid ":doc:`/packages/scikit-image/auto_examples/plot_check`"
+msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:39
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:40
-msgid ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_camera.py`"
-msgstr ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_camera.py`"
+msgid ":doc:`/packages/scikit-image/auto_examples/plot_camera`"
+msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:56
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:57
-msgid ""
-":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_camera_uint.py`"
+msgid ":doc:`/packages/scikit-image/auto_examples/plot_camera_uint`"
 msgstr ""
-":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_camera_uint.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:73
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:74
-msgid ""
-":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_equalize_hist.py`"
+msgid ":doc:`/packages/scikit-image/auto_examples/plot_equalize_hist`"
 msgstr ""
-":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_equalize_hist.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:90
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:91
-msgid ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_sobel.py`"
-msgstr ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_sobel.py`"
+msgid ":doc:`/packages/scikit-image/auto_examples/plot_sobel`"
+msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:107
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:108
-msgid ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_boundaries.py`"
+msgid ":doc:`/packages/scikit-image/auto_examples/plot_boundaries`"
 msgstr ""
-":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_boundaries.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:124
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:125
-msgid ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_threshold.py`"
-msgstr ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_threshold.py`"
+msgid ":doc:`/packages/scikit-image/auto_examples/plot_threshold`"
+msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:141
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:142
-msgid ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_features.py`"
-msgstr ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_features.py`"
+msgid ":doc:`/packages/scikit-image/auto_examples/plot_features`"
+msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:158
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:159
-msgid ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_labels.py`"
-msgstr ":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_labels.py`"
+msgid ":doc:`/packages/scikit-image/auto_examples/plot_labels`"
+msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:175
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:176
-msgid ""
-":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_filter_coins.py`"
+msgid ":doc:`/packages/scikit-image/auto_examples/plot_filter_coins`"
 msgstr ""
-":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_filter_coins.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:192
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:193
-msgid ""
-":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_segmentations.py`"
+msgid ":doc:`/packages/scikit-image/auto_examples/plot_segmentations`"
 msgstr ""
-":ref:`sphx_glr_packages_scikit-image_auto_examples_plot_segmentations.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:229
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:230
@@ -1225,7 +1216,7 @@ msgid ""
 "images."
 msgstr ""
 
-#: ../../scientific-python-lectures/packages/scikit-image/index.rst-1
+#: ../../scientific-python-lectures/packages/scikit-image/index.rst:319
 msgid "3D images"
 msgstr "3D画像"
 
@@ -1238,8 +1229,8 @@ msgstr ""
 "``skimage`` "
 "のほとんどの関数は、入力引数として3D画像を受け取ることができます。ある関数が3D画像（例えばMRIやCT画像）に使用できるかどうかは、docstringを確認してください。"
 
-#: ../../scientific-python-lectures/packages/scikit-image/index.rst-1
-#: ../../scientific-python-lectures/packages/scikit-image/index.rst:624
+#: ../../scientific-python-lectures/packages/scikit-image/index.rst:327
+#: ../../scientific-python-lectures/packages/scikit-image/index.rst:651
 msgid "Exercise"
 msgstr "例題"
 
@@ -1345,7 +1336,7 @@ msgstr ""
 msgid "Opening removes small objects and smoothes corners."
 msgstr ""
 
-#: ../../scientific-python-lectures/packages/scikit-image/index.rst-1
+#: ../../scientific-python-lectures/packages/scikit-image/index.rst:480
 msgid "Grayscale mathematical morphology"
 msgstr ""
 
@@ -1371,9 +1362,9 @@ msgid ""
 "on arbitrary-dimensional arrays."
 msgstr ""
 "基本的な数理形態学は :mod:`scipy.ndimage.morphology` にも実装されています。 "
-"``scipy.ndimage`` の実装は任意の次元の配列に対して動作します。"
+"``scipy.ndimage``の実装は任意の次元の配列に対して動作します。"
 
-#: ../../scientific-python-lectures/packages/scikit-image/index.rst:391
+#: ../../scientific-python-lectures/packages/scikit-image/index.rst:497
 msgid "Example of filters comparison: image denoising"
 msgstr "フィルターの比較例: 画像のノイズ除去"
 
@@ -1406,7 +1397,7 @@ msgstr ""
 "`Otsu method <https://en.wikipedia.org/wiki/Otsu%27s_method>`_ "
 "は、前景と背景を分離する閾値を見つけるための単純なヒューリスティックである。"
 
-#: ../../scientific-python-lectures/packages/scikit-image/index.rst-1
+#: ../../scientific-python-lectures/packages/scikit-image/index.rst:534
 msgid "Earlier scikit-image versions"
 msgstr "以前の scikit-image バージョン"
 
@@ -1481,7 +1472,7 @@ msgstr ""
 "ランダムウォーカーアルゴリズム (:func:`skimage.segmentation.random_walker`) "
 "はWatershedに似ていますが、より \"確率的\" なアプローチです。 画像内のラベルの拡散という考えに基づいています::"
 
-#: ../../scientific-python-lectures/packages/scikit-image/index.rst-1
+#: ../../scientific-python-lectures/packages/scikit-image/index.rst:641
 msgid "Postprocessing label images"
 msgstr "ラベル画像の後処理"
 
@@ -1534,7 +1525,7 @@ msgstr ""
 "プロパティによっては、別のAPIで :mod:`scipy.ndimage.measurements` に関数が用意されています (リストが返されます)"
 " 。"
 
-#: ../../scientific-python-lectures/packages/scikit-image/index.rst-1
+#: ../../scientific-python-lectures/packages/scikit-image/index.rst:682
 msgid "Exercise (continued)"
 msgstr "例題 (続き)"
 
@@ -1638,127 +1629,88 @@ msgstr "scikit-learnの章の例"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:22
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:23
-msgid ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_pca.py`"
-msgstr ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_pca.py`"
+msgid ":doc:`/packages/scikit-learn/auto_examples/plot_pca`"
+msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:39
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:40
-msgid ""
-":ref:`sphx_glr_packages_scikit-"
-"learn_auto_examples_plot_measuring_performance.py`"
+msgid ":doc:`/packages/scikit-learn/auto_examples/plot_measuring_performance`"
 msgstr ""
-":ref:`sphx_glr_packages_scikit-"
-"learn_auto_examples_plot_measuring_performance.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:56
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:57
-msgid ""
-":ref:`sphx_glr_packages_scikit-"
-"learn_auto_examples_plot_linear_regression.py`"
+msgid ":doc:`/packages/scikit-learn/auto_examples/plot_linear_regression`"
 msgstr ""
-":ref:`sphx_glr_packages_scikit-"
-"learn_auto_examples_plot_linear_regression.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:73
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:74
-msgid ""
-":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_iris_scatter.py`"
+msgid ":doc:`/packages/scikit-learn/auto_examples/plot_iris_scatter`"
 msgstr ""
-":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_iris_scatter.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:90
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:91
-msgid ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_tsne.py`"
-msgstr ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_tsne.py`"
+msgid ":doc:`/packages/scikit-learn/auto_examples/plot_tsne`"
+msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:107
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:108
-msgid ""
-":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_linear_model_cv.py`"
+msgid ":doc:`/packages/scikit-learn/auto_examples/plot_linear_model_cv`"
 msgstr ""
-":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_linear_model_cv.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:124
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:125
-msgid ""
-":ref:`sphx_glr_packages_scikit-"
-"learn_auto_examples_plot_variance_linear_regr.py`"
+msgid ":doc:`/packages/scikit-learn/auto_examples/plot_variance_linear_regr`"
 msgstr ""
-":ref:`sphx_glr_packages_scikit-"
-"learn_auto_examples_plot_variance_linear_regr.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:141
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:142
-msgid ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_separator.py`"
-msgstr ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_separator.py`"
+msgid ":doc:`/packages/scikit-learn/auto_examples/plot_separator`"
+msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:158
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:159
-msgid ""
-":ref:`sphx_glr_packages_scikit-"
-"learn_auto_examples_plot_compare_classifiers.py`"
+msgid ":doc:`/packages/scikit-learn/auto_examples/plot_compare_classifiers`"
 msgstr ""
-":ref:`sphx_glr_packages_scikit-"
-"learn_auto_examples_plot_compare_classifiers.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:175
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:176
-msgid ""
-":ref:`sphx_glr_packages_scikit-"
-"learn_auto_examples_plot_polynomial_regression.py`"
+msgid ":doc:`/packages/scikit-learn/auto_examples/plot_polynomial_regression`"
 msgstr ""
-":ref:`sphx_glr_packages_scikit-"
-"learn_auto_examples_plot_polynomial_regression.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:192
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:193
-msgid ""
-":ref:`sphx_glr_packages_scikit-"
-"learn_auto_examples_plot_california_prediction.py`"
+msgid ":doc:`/packages/scikit-learn/auto_examples/plot_california_prediction`"
 msgstr ""
-":ref:`sphx_glr_packages_scikit-"
-"learn_auto_examples_plot_california_prediction.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:209
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:210
-msgid ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_iris_knn.py`"
-msgstr ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_iris_knn.py`"
+msgid ":doc:`/packages/scikit-learn/auto_examples/plot_iris_knn`"
+msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:226
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:227
-msgid ""
-":ref:`sphx_glr_packages_scikit-"
-"learn_auto_examples_plot_digits_simple_classif.py`"
+msgid ":doc:`/packages/scikit-learn/auto_examples/plot_digits_simple_classif`"
 msgstr ""
-":ref:`sphx_glr_packages_scikit-"
-"learn_auto_examples_plot_digits_simple_classif.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:243
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:244
-msgid ":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_eigenfaces.py`"
+msgid ":doc:`/packages/scikit-learn/auto_examples/plot_eigenfaces`"
 msgstr ""
-":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_eigenfaces.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:260
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:261
-msgid ""
-":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_svm_non_linear.py`"
+msgid ":doc:`/packages/scikit-learn/auto_examples/plot_svm_non_linear`"
 msgstr ""
-":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_svm_non_linear.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:277
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:278
-msgid ""
-":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_bias_variance.py`"
+msgid ":doc:`/packages/scikit-learn/auto_examples/plot_bias_variance`"
 msgstr ""
-":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_bias_variance.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:294
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:295
-msgid ""
-":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_ML_flow_chart.py`"
+msgid ":doc:`/packages/scikit-learn/auto_examples/plot_ML_flow_chart`"
 msgstr ""
-":ref:`sphx_glr_packages_scikit-learn_auto_examples_plot_ML_flow_chart.py`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:337
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:338
@@ -3011,7 +2963,7 @@ msgstr "scikit-learn: Pythonで機械学習"
 msgid "**Authors**: *Gael Varoquaux*"
 msgstr "**著者**: *Gael Varoquaux*"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/index.rst:5
+#: ../../scientific-python-lectures/packages/scikit-learn/index.rst:13
 msgid "Prerequisites"
 msgstr "前提条件"
 
@@ -3031,7 +2983,7 @@ msgstr ":ref:`matplotlib (オプション) <matplotlib>`"
 msgid ":ref:`ipython (the enhancements come handy) <interactive_work>`"
 msgstr ":ref:`ipython (機能拡張は便利) <interactive_work>`"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/index.rst-1
+#: ../../scientific-python-lectures/packages/scikit-learn/index.rst:22
 msgid "**Acknowledgements**"
 msgstr "**謝辞**"
 
@@ -3240,7 +3192,7 @@ msgstr "ブルーフラッグ"
 msgid "Virginica Iris"
 msgstr "バージニアアイリス"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/index.rst-1
+#: ../../scientific-python-lectures/packages/scikit-learn/index.rst:158
 msgid "**Quick Question:**"
 msgstr "**簡単な質問:**"
 
@@ -3351,7 +3303,7 @@ msgid ""
 " a time using a scatter plot:"
 msgstr "このデータは4次元ですが、散布図を使って一度に2つの次元を視覚化できます:"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/index.rst-1
+#: ../../scientific-python-lectures/packages/scikit-learn/index.rst:245
 msgid "**Exercise**:"
 msgstr ""
 
@@ -3683,7 +3635,9 @@ msgstr "教師あり学習: 手書き文字の分類"
 msgid "The nature of the data"
 msgstr "データの性質"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/index.rst-1
+#: ../../scientific-python-lectures/packages/scikit-learn/index.rst:487
+#: ../../scientific-python-lectures/packages/scikit-learn/index.rst:675
+#: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1392
 msgid "Code and notebook"
 msgstr "コードとノートブック"
 
@@ -3734,7 +3688,8 @@ msgid ""
 "structure of the data set. ::"
 msgstr "PCAは、最大の分散を示す特徴の直交線形結合を求めます、 というように、データセットの構造を知るのに役立ちます ::"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/index.rst-1
+#: ../../scientific-python-lectures/packages/scikit-learn/index.rst:537
+#: ../../scientific-python-lectures/packages/scikit-learn/index.rst:597
 msgid "**Question**"
 msgstr "**質問**"
 
@@ -3766,7 +3721,7 @@ msgstr ""
 "覚えておくといい方法のひとつが Gaussian Naive Bayes "
 "(:class:`sklearn.naive_bayes.GaussianNB`) です。"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/index.rst-1
+#: ../../scientific-python-lectures/packages/scikit-learn/index.rst:555
 msgid "Old scikit-learn versions"
 msgstr "古い scikit-image バージョン"
 
@@ -3942,7 +3897,7 @@ msgstr ""
 "いくつかのバイアスがあるのは明らかですが、予測は少なくとも実際の価格と相関しています。 "
 "例えば、真の価格と予測価格の間のRMS残差を計算することで、リグレッサーの性能を評価することが考えられます。しかし、これにはいくつかの微妙な点があり、後のセクションで説明します。"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/index.rst-1
+#: ../../scientific-python-lectures/packages/scikit-learn/index.rst:840
 msgid "**Exercise: Gradient Boosting Tree Regression**"
 msgstr "**例題: 勾配ブースティング回帰木**"
 
@@ -4209,7 +4164,7 @@ msgstr ""
 "alphaの関数としてクロスバリデーションのスコアを計算します、 :class:`~sklearn.linear_model.Lasso` と "
 ":class:`~sklearn.linear_model.Ridge` の正則化の強さ。0.0001から1の間で20のalpha値を選びます::"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/index.rst-1
+#: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1151
 msgid "Question"
 msgstr "質問"
 
@@ -4388,7 +4343,7 @@ msgstr ""
 " はそのような強力な多様体学習法です。 数字は 8*8=64 次元のベクトルなので、これを *数字* データセットに適用します。 "
 "2Dに埋め込むことで視覚化が可能になります::"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/index.rst-1
+#: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1333
 msgid "fit_transform"
 msgstr "fit_transform"
 
@@ -4408,7 +4363,7 @@ msgstr ""
 ":class:`sklearn.manifold.TSNE` "
 "は、クラス情報にアクセスできなかったにもかかわらず、数字の異なるクラスを非常にうまく分離しました。"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/index.rst-1
+#: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1348
 msgid "Exercise: Other dimension reduction of digits"
 msgstr "練習: 数字の異次元化"
 
@@ -4575,7 +4530,7 @@ msgid ""
 "algorithm."
 msgstr ""
 
-#: ../../scientific-python-lectures/packages/scikit-learn/index.rst-1
+#: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1463
 msgid "Polynomial regression with scikit-learn"
 msgstr "scikit-learnによる多項式回帰"
 
@@ -4665,7 +4620,7 @@ msgid ""
 msgstr ""
 "学習曲線は、訓練点と検証点の数の関数として訓練点と検証点のスコアを示します。訓練データのサブセットで訓練する場合、訓練スコアは完全な訓練セットではなく、このサブセットを使用して計算されることに注意してください。この曲線は、学習サンプルを追加することがどれだけ有益かを定量的に示しています。"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1561
+#: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1570
 msgid "**Questions:**"
 msgstr "**質問:**"
 
@@ -4984,51 +4939,43 @@ msgstr "統計の章のコード例。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:24
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:25
-msgid ""
-":ref:`sphx_glr_packages_statistics_auto_examples_plot_paired_boxplots.py`"
+msgid ":doc:`/packages/statistics/auto_examples/plot_paired_boxplots`"
 msgstr ""
-":ref:`sphx_glr_packages_statistics_auto_examples_plot_paired_boxplots.py`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:41
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:42
-msgid ":ref:`sphx_glr_packages_statistics_auto_examples_plot_pandas.py`"
-msgstr ":ref:`sphx_glr_packages_statistics_auto_examples_plot_pandas.py`"
+msgid ":doc:`/packages/statistics/auto_examples/plot_pandas`"
+msgstr ""
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:58
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:59
-msgid ""
-":ref:`sphx_glr_packages_statistics_auto_examples_plot_iris_analysis.py`"
+msgid ":doc:`/packages/statistics/auto_examples/plot_iris_analysis`"
 msgstr ""
-":ref:`sphx_glr_packages_statistics_auto_examples_plot_iris_analysis.py`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:75
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:76
-msgid ":ref:`sphx_glr_packages_statistics_auto_examples_plot_regression.py`"
-msgstr ":ref:`sphx_glr_packages_statistics_auto_examples_plot_regression.py`"
+msgid ":doc:`/packages/statistics/auto_examples/plot_regression`"
+msgstr ""
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:92
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:93
-msgid ""
-":ref:`sphx_glr_packages_statistics_auto_examples_plot_regression_3d.py`"
+msgid ":doc:`/packages/statistics/auto_examples/plot_regression_3d`"
 msgstr ""
-":ref:`sphx_glr_packages_statistics_auto_examples_plot_regression_3d.py`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:109
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:110
-msgid ""
-":ref:`sphx_glr_packages_statistics_auto_examples_plot_wage_education_gender.py`"
+msgid ":doc:`/packages/statistics/auto_examples/plot_wage_education_gender`"
 msgstr ""
-":ref:`sphx_glr_packages_statistics_auto_examples_plot_wage_education_gender.py`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:126
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:127
-msgid ":ref:`sphx_glr_packages_statistics_auto_examples_plot_wage_data.py`"
-msgstr ":ref:`sphx_glr_packages_statistics_auto_examples_plot_wage_data.py`"
+msgid ":doc:`/packages/statistics/auto_examples/plot_wage_data`"
+msgstr ""
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:143
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:144
-msgid ":ref:`sphx_glr_packages_statistics_auto_examples_plot_airfare.py`"
-msgstr ":ref:`sphx_glr_packages_statistics_auto_examples_plot_airfare.py`"
+msgid ":doc:`/packages/statistics/auto_examples/plot_airfare`"
+msgstr ""
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:171
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:172
@@ -5039,10 +4986,8 @@ msgstr "この章の練習問題の解答"
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:190
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:191
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/solutions/index.rst:25
-msgid ""
-":ref:`sphx_glr_packages_statistics_auto_examples_solutions_plot_brain_size.py`"
+msgid ":doc:`/packages/statistics/auto_examples/solutions/plot_brain_size`"
 msgstr ""
-":ref:`sphx_glr_packages_statistics_auto_examples_solutions_plot_brain_size.py`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:219
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:220
@@ -5683,7 +5628,7 @@ msgstr "Pythonで統計"
 msgid "**Author**: *Gaël Varoquaux*"
 msgstr "**著者**: *Gaël Varoquaux*"
 
-#: ../../scientific-python-lectures/packages/statistics/index.rst-1
+#: ../../scientific-python-lectures/packages/statistics/index.rst:21
 msgid "**Requirements**"
 msgstr "**必要条件**"
 
@@ -5810,7 +5755,7 @@ msgstr ""
 msgid "Creating dataframes: reading data files or converting arrays"
 msgstr "データフレームの作成: データファイルの読み込み、配列の変換"
 
-#: ../../scientific-python-lectures/packages/statistics/index.rst-1
+#: ../../scientific-python-lectures/packages/statistics/index.rst:114
 msgid "**Separator**"
 msgstr "**セパレータ**"
 
@@ -5899,8 +5844,11 @@ msgstr ""
 "`groupby_gender` でタブコンプリートを使えば、さらに検索できます。その他の一般的なグループ化関数には、median、count "
 "(異なるサブセットにおける欠損値の量を確認するのに便利です)、sumがあります。Groupbyの評価は遅延的であり、集約関数が適用されるまでは何も行われません。"
 
-#: ../../scientific-python-lectures/packages/statistics/index.rst-1
-#: ../../scientific-python-lectures/packages/statistics/index.rst:174
+#: ../../scientific-python-lectures/packages/statistics/index.rst:239
+#: ../../scientific-python-lectures/packages/statistics/index.rst:308
+#: ../../scientific-python-lectures/packages/statistics/index.rst:431
+#: ../../scientific-python-lectures/packages/statistics/index.rst:537
+#: ../../scientific-python-lectures/packages/statistics/index.rst:741
 msgid "**Exercise**"
 msgstr "**例題**"
 
@@ -5949,7 +5897,7 @@ msgstr ""
 msgid "**Scatter matrices**::"
 msgstr "**散布図行列**::"
 
-#: ../../scientific-python-lectures/packages/statistics/index.rst-1
+#: ../../scientific-python-lectures/packages/statistics/index.rst:299
 msgid "**Two populations**"
 msgstr "**2つの人口**"
 
@@ -6084,7 +6032,7 @@ msgid ""
 msgstr ""
 "このアプローチの問題点は、観測データ間の重要な関係を無視していることです: FSIQとPIQは同じ人を対象に測定されます。 "
 "したがって、被験者間のばらつきによる分散は交絡となり、検定の検出力を低下させます。 このばらつきは、 \"対応のある検定\" または "
-"`\"反復測定検定\" <https://en.wikipedia.org/wiki/Repeated_measures_design>`_ "
+"`\"反復測定検定\"<https://en.wikipedia.org/wiki/Repeated_measures_design>`_ "
 "を用いて取り除くことができます::"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:419
@@ -6158,7 +6106,7 @@ msgstr "`coef` がゼロでないことをテストします。"
 msgid "First, we generate simulated data according to the model::"
 msgstr "まず、モデルに従ってシミュレーションデータを作成します::"
 
-#: ../../scientific-python-lectures/packages/statistics/index.rst-1
+#: ../../scientific-python-lectures/packages/statistics/index.rst:484
 msgid "**\"formulas\" for statistics in Python**"
 msgstr "**Pythonによる統計の \"公式\"**"
 
@@ -6178,7 +6126,7 @@ msgstr "次に、OLSモデルを指定し、それを当てはめます::"
 msgid "We can inspect the various statistics derived from the fit::"
 msgstr "fitから得られる様々な統計量を調べることができます::"
 
-#: ../../scientific-python-lectures/packages/statistics/index.rst-1
+#: ../../scientific-python-lectures/packages/statistics/index.rst:525
 msgid "Terminology:"
 msgstr "用語解説:"
 
@@ -6190,7 +6138,7 @@ msgid ""
 "<https://www.statsmodels.org/devel/endog_exog.html>`_."
 msgstr ""
 "statsmodelsは統計用語を使用します: 統計モデルにおける `y` 変数は '内生的' と呼ばれ、 `x` 変数は '外生的' と呼ばれます。"
-"  これについては、 `こちら <https://www.statsmodels.org/devel/endog_exog.html>`_ "
+"  これについては、 `こちら<https://www.statsmodels.org/devel/endog_exog.html>`_ "
 "で詳しく説明しています。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:532
@@ -6221,7 +6169,7 @@ msgid ""
 "model::"
 msgstr "男性と女性のIQの比較は、線形モデルを使って書くことができます::"
 
-#: ../../scientific-python-lectures/packages/statistics/index.rst:546
+#: ../../scientific-python-lectures/packages/statistics/index.rst:583
 msgid "**Tips on specifying model**"
 msgstr "**モデルを指定する際のヒント**"
 
@@ -6258,7 +6206,7 @@ msgstr ""
 "しかし、カテゴリー変数に対して異なるエンコーディングを指定することは可能です "
 "(https://www.statsmodels.org/devel/contrasts.html) 。"
 
-#: ../../scientific-python-lectures/packages/statistics/index.rst-1
+#: ../../scientific-python-lectures/packages/statistics/index.rst:608
 msgid "**Link to t-tests between different FSIQ and PIQ**"
 msgstr "**異なるFSIQとPIQ間のt検定へのリンク**"
 
@@ -6377,7 +6325,7 @@ msgstr ""
 msgid "Categorical variables can be plotted as the hue::"
 msgstr "カテゴリー変数は、色相としてプロットすることができます::"
 
-#: ../../scientific-python-lectures/packages/statistics/index.rst:776
+#: ../../scientific-python-lectures/packages/statistics/index.rst:802
 msgid "**Look and feel and matplotlib settings**"
 msgstr "**ルック&フィールとmatplotlibの設定**"
 
@@ -6397,7 +6345,7 @@ msgid ""
 "<https://seaborn.pydata.org/tutorial/aesthetics.html>`_."
 msgstr ""
 "seabornの設定に戻したり、seabornのスタイリングをよりよく理解したりするには、 "
-"`seabornドキュメントの該当セクション <https://seaborn.pydata.org/tutorial/aesthetics.html>`_"
+"`seabornドキュメントの該当セクション<https://seaborn.pydata.org/tutorial/aesthetics.html>`_"
 " を参照してください 。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:819
@@ -6411,7 +6359,7 @@ msgid ""
 msgstr ""
 "ある変数と別の変数、例えば賃金と学歴の関係を表す回帰は、 :func:`seaborn.lmplot` を使ってプロットすることができます::"
 
-#: ../../scientific-python-lectures/packages/statistics/index.rst-1
+#: ../../scientific-python-lectures/packages/statistics/index.rst:835
 msgid "**Robust regression**"
 msgstr "**ロバスト回帰**"
 
@@ -6458,7 +6406,7 @@ msgstr ""
 msgid "Can we conclude that education benefits males more than females?"
 msgstr "教育は女性よりも男性により多くの利益をもたらすと結論づけられるでしょうか？"
 
-#: ../../scientific-python-lectures/packages/statistics/index.rst:853
+#: ../../scientific-python-lectures/packages/statistics/index.rst:889
 msgid "**Take home messages**"
 msgstr "**持ち帰りメッセージ**"
 
@@ -6494,7 +6442,7 @@ msgstr "Sympy : Pythonで学ぶ数式処理"
 msgid "**Author**: *Fabian Pedregosa*"
 msgstr "**著者**: *Fabian Pedregosa*"
 
-#: ../../scientific-python-lectures/packages/sympy.rst:8
+#: ../../scientific-python-lectures/packages/sympy.rst:12
 msgid "Objectives"
 msgstr "目的"
 
@@ -6579,11 +6527,11 @@ msgid ""
 "There is also a class representing mathematical infinity, called ``oo``::"
 msgstr ""
 
-#: ../../scientific-python-lectures/packages/sympy.rst:42
-#: ../../scientific-python-lectures/packages/sympy.rst:155
-#: ../../scientific-python-lectures/packages/sympy.rst:251
-#: ../../scientific-python-lectures/packages/sympy.rst:325
-#: ../../scientific-python-lectures/packages/sympy.rst:421
+#: ../../scientific-python-lectures/packages/sympy.rst:85
+#: ../../scientific-python-lectures/packages/sympy.rst:169
+#: ../../scientific-python-lectures/packages/sympy.rst:268
+#: ../../scientific-python-lectures/packages/sympy.rst:381
+#: ../../scientific-python-lectures/packages/sympy.rst:458
 msgid "**Exercises**"
 msgstr ""
 
@@ -6615,7 +6563,7 @@ msgid ""
 " ``*``, ``**`` (arithmetic), ``&``, ``|``, ``~``, ``>>``, ``<<`` (boolean)."
 msgstr ""
 
-#: ../../scientific-python-lectures/packages/sympy.rst:93
+#: ../../scientific-python-lectures/packages/sympy.rst:113
 msgid "**Printing**"
 msgstr ""
 
@@ -6791,7 +6739,7 @@ msgid ""
 "equations::"
 msgstr ""
 
-#: ../../scientific-python-lectures/packages/sympy.rst-1
+#: ../../scientific-python-lectures/packages/sympy.rst:340
 msgid "**Systems of linear equations**"
 msgstr ""
 

@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2025
+# Copyright (C) 2026
 # This file is distributed under the same license as the Scientific Python Lectures package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-10 00:15+0000\n"
+"POT-Creation-Date: 2026-01-02 07:35+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -148,7 +148,7 @@ msgstr ""
 #: ../../scientific-python-lectures/intro/matplotlib/index.rst:490
 #: ../../scientific-python-lectures/intro/matplotlib/index.rst:574
 #: ../../scientific-python-lectures/intro/matplotlib/index.rst:757
-#: ../../../../../../../tmp/<rst_epilog>:9
+#: ../../../../../../../tmp/<rst_epilogue>:9
 msgid "|clear-floats|"
 msgstr "|clear-floats|"
 
@@ -604,7 +604,7 @@ msgstr ""
 "<https://docs.jupyter.org/en/latest/content-quickstart.html>`_ "
 "とのインタラクティブな作業をお勧めします。 アルゴリズムを探求し、理解するのに便利です。"
 
-#: ../../scientific-python-lectures/intro/intro.rst-1
+#: ../../scientific-python-lectures/intro/intro.rst:268
 msgid "Under the notebook"
 msgstr ""
 
@@ -687,7 +687,7 @@ msgid ""
 "resulting variables:"
 msgstr "IPythonのコンソールやノートブックで実行し、結果の変数を調べることができます:"
 
-#: ../../scientific-python-lectures/intro/intro.rst:294
+#: ../../scientific-python-lectures/intro/intro.rst:341
 msgid "**From a script to functions**"
 msgstr "**スクリプトから関数へ**"
 
@@ -792,7 +792,7 @@ msgid ""
 "typing ``alias``)."
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/intro.rst:354
+#: ../../scientific-python-lectures/intro/intro.rst:465
 msgid "**Getting help**"
 msgstr ""
 
@@ -939,7 +939,7 @@ msgstr ""
 msgid "Sort::"
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/language/basic_types.rst-1
+#: ../../scientific-python-lectures/intro/language/basic_types.rst:217
 msgid "**Methods and Object-Oriented Programming**"
 msgstr "**メソッドとオブジェクト指向プログラミング**"
 
@@ -953,7 +953,7 @@ msgid ""
 "tutorial."
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/language/basic_types.rst:237
+#: ../../scientific-python-lectures/intro/language/basic_types.rst:226
 msgid "**Discovering methods:**"
 msgstr ""
 
@@ -1325,10 +1325,15 @@ msgid ""
 "comprehension with a rather self-explaining syntax."
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/language/control_flow.rst:236
-#: ../../scientific-python-lectures/intro/language/standard_library.rst-1
+#: ../../scientific-python-lectures/intro/language/control_flow.rst:249
+#: ../../scientific-python-lectures/intro/language/standard_library.rst:272
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/plot_exercise_10.rst:22
-#: ../../scientific-python-lectures/intro/scipy/image_processing/image_processing.rst-1
+#: ../../scientific-python-lectures/intro/scipy/image_processing/image_processing.rst:75
+#: ../../scientific-python-lectures/intro/scipy/image_processing/image_processing.rst:76
+#: ../../scientific-python-lectures/intro/scipy/image_processing/image_processing.rst:186
+#: ../../scientific-python-lectures/intro/scipy/image_processing/image_processing.rst:187
+#: ../../scientific-python-lectures/intro/scipy/image_processing/image_processing.rst:209
+#: ../../scientific-python-lectures/intro/scipy/image_processing/image_processing.rst:210
 msgid "Exercise"
 msgstr "例題"
 
@@ -1723,7 +1728,7 @@ msgstr ""
 msgid "Exercises"
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/language/functions.rst:356
+#: ../../scientific-python-lectures/intro/language/functions.rst:358
 msgid "Exercise: Fibonacci sequence"
 msgstr ""
 
@@ -1754,7 +1759,7 @@ msgstr ""
 "\\right.\n"
 "\n"
 
-#: ../../scientific-python-lectures/intro/language/functions.rst-1
+#: ../../scientific-python-lectures/intro/language/functions.rst:375
 msgid "Exercise: Quicksort"
 msgstr ""
 
@@ -1894,7 +1899,7 @@ msgstr ""
 "**著者**: *Chris Burns, Christophe Combelles, Emmanuelle Gouillart, Gaël "
 "Varoquaux*"
 
-#: ../../scientific-python-lectures/intro/language/python_language.rst-1
+#: ../../scientific-python-lectures/intro/language/python_language.rst:9
 msgid "Python for scientific computing"
 msgstr "科学計算のためのPython"
 
@@ -2276,7 +2281,7 @@ msgid "From Ipython:"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/language/reusing_code.rst:445
-#: ../../scientific-python-lectures/intro/numpy/elaborate_arrays.rst:201
+#: ../../scientific-python-lectures/intro/numpy/elaborate_arrays.rst:238
 msgid "Good practices"
 msgstr ""
 
@@ -2347,9 +2352,9 @@ msgid ""
 "`Style Guide for Python Code <https://peps.python.org/pep-0008>`_."
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/language/reusing_code.rst-1
-#: ../../scientific-python-lectures/intro/matplotlib/index.rst-1
-#: ../../scientific-python-lectures/intro/numpy/operations.rst-1
+#: ../../scientific-python-lectures/intro/language/reusing_code.rst:506
+#: ../../scientific-python-lectures/intro/matplotlib/index.rst:1033
+#: ../../scientific-python-lectures/intro/numpy/operations.rst:873
 msgid "**Quick read**"
 msgstr ""
 
@@ -2533,71 +2538,61 @@ msgstr ""
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/index.rst:27
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:448
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:449
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_1.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/exercises/plot_exercise_1`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/index.rst:44
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:465
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:466
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_4.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/exercises/plot_exercise_4`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/index.rst:61
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:482
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:483
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_3.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/exercises/plot_exercise_3`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/index.rst:78
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:499
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:500
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_5.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/exercises/plot_exercise_5`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/index.rst:95
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:516
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:517
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_6.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/exercises/plot_exercise_6`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/index.rst:112
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:533
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:534
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_2.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/exercises/plot_exercise_2`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/index.rst:129
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:550
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:551
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_7.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/exercises/plot_exercise_7`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/index.rst:146
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:567
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:568
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_8.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/exercises/plot_exercise_8`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/index.rst:163
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:584
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:585
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_9.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/exercises/plot_exercise_9`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/index.rst:180
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:601
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:602
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_exercises_plot_exercise_10.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/exercises/plot_exercise_10`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/exercises/plot_exercise_1.rst:13
@@ -3387,114 +3382,112 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:28
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:29
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_pie.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_pie`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:45
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:46
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_good.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_good`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:62
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:63
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_scatter.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_scatter`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:79
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:80
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_multiplot.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_multiplot`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:96
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:97
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_subplot-horizontal.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_subplot-horizontal`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:113
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:114
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_subplot-vertical.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_subplot-vertical`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:130
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:131
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_bad.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_bad`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:147
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:148
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_axes.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_axes`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:164
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:165
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_plot3d.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_plot3d`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:181
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:182
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_imshow.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_imshow`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:198
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:199
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_quiver.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_quiver`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:215
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:216
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_contour.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_contour`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:232
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:233
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_ugly.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_ugly`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:249
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:250
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_plot.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_plot`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:266
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:267
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_polar.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_polar`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:283
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:284
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_bar.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_bar`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:300
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:301
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_subplot-grid.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_subplot-grid`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:317
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:318
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_axes-2.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_axes-2`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:334
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:335
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_grid.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_grid`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:351
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:352
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_plot3d-2.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_plot3d-2`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:368
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:369
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_gridspec.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_gridspec`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:385
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:386
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_plot_text.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_text`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:618
@@ -3506,111 +3499,103 @@ msgstr ""
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:637
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:638
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/index.rst:27
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_color.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/options/plot_color`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:654
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:655
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/index.rst:44
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_linewidth.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/options/plot_linewidth`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:671
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:672
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/index.rst:61
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_alpha.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/options/plot_alpha`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:688
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:689
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/index.rst:78
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_aliased.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/options/plot_aliased`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:705
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:706
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/index.rst:95
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_antialiased.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/options/plot_antialiased`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:722
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:723
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/index.rst:112
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_ms.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/options/plot_ms`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:739
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:740
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/index.rst:129
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_mew.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/options/plot_mew`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:756
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:757
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/index.rst:146
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_colormaps.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/options/plot_colormaps`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:773
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:774
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/index.rst:163
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_solid_joinstyle.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/options/plot_solid_joinstyle`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:790
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:791
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/index.rst:180
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_solid_capstyle.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/options/plot_solid_capstyle`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:807
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:808
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/index.rst:197
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_mec.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/options/plot_mec`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:824
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:825
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/index.rst:214
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_mfc.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/options/plot_mfc`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:841
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:842
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/index.rst:231
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_dash_capstyle.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/options/plot_dash_capstyle`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:858
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:859
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/index.rst:248
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_dash_joinstyle.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/options/plot_dash_joinstyle`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:875
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:876
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/index.rst:265
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_markers.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/options/plot_markers`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:892
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:893
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/index.rst:282
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_linestyles.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/options/plot_linestyles`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:909
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:910
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/options/index.rst:299
-msgid ":ref:`sphx_glr_intro_matplotlib_auto_examples_options_plot_ticks.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/options/plot_ticks`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:925
@@ -3622,92 +3607,79 @@ msgstr ""
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:944
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:945
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/index.rst:26
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_plot3d_ext.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/pretty_plots/plot_plot3d_ext`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:961
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:962
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/index.rst:43
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_polar_ext.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/pretty_plots/plot_polar_ext`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:978
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:979
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/index.rst:60
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_plot_ext.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/pretty_plots/plot_plot_ext`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:995
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:996
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/index.rst:77
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_multiplot_ext.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/pretty_plots/plot_multiplot_ext`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:1012
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:1013
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/index.rst:94
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_boxplot_ext.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/pretty_plots/plot_boxplot_ext`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:1029
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:1030
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/index.rst:111
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_scatter_ext.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/pretty_plots/plot_scatter_ext`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:1046
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:1047
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/index.rst:128
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_pie_ext.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/pretty_plots/plot_pie_ext`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:1063
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:1064
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/index.rst:145
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_imshow_ext.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/pretty_plots/plot_imshow_ext`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:1080
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:1081
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/index.rst:162
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_bar_ext.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/pretty_plots/plot_bar_ext`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:1097
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:1098
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/index.rst:179
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_quiver_ext.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/pretty_plots/plot_quiver_ext`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:1114
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:1115
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/index.rst:196
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_contour_ext.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/pretty_plots/plot_contour_ext`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:1131
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:1132
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/index.rst:213
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_grid_ext.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/pretty_plots/plot_grid_ext`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:1148
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:1149
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/pretty_plots/index.rst:230
-msgid ""
-":ref:`sphx_glr_intro_matplotlib_auto_examples_pretty_plots_plot_text_ext.py`"
+msgid ":doc:`/intro/matplotlib/auto_examples/pretty_plots/plot_text_ext`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:1179
@@ -5778,7 +5750,7 @@ msgstr ""
 msgid "Matplotlib: plotting"
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/matplotlib/index.rst-1
+#: ../../scientific-python-lectures/intro/matplotlib/index.rst:10
 msgid "**Thanks**"
 msgstr ""
 
@@ -6974,7 +6946,7 @@ msgid ""
 "well suited for this)"
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/numpy/advanced_operations.rst:132
+#: ../../scientific-python-lectures/intro/numpy/advanced_operations.rst:122
 msgid "Reminder: Navigating the filesystem with IPython"
 msgstr ""
 
@@ -7035,7 +7007,7 @@ msgid ""
 "... if somebody uses it, there's probably also a Python library for it."
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/numpy/advanced_operations.rst-1
+#: ../../scientific-python-lectures/intro/numpy/advanced_operations.rst:196
 msgid "Exercise: Text data files"
 msgstr ""
 
@@ -7046,7 +7018,7 @@ msgid ""
 "rows. Save the smaller dataset to ``pop2.txt``."
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/numpy/advanced_operations.rst-1
+#: ../../scientific-python-lectures/intro/numpy/advanced_operations.rst:217
 msgid "NumPy internals"
 msgstr ""
 
@@ -7172,7 +7144,7 @@ msgstr ""
 msgid "**2-D, 3-D, ...**:"
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/numpy/array_object.rst:138
+#: ../../scientific-python-lectures/intro/numpy/array_object.rst:179
 msgid "**Exercise: Simple arrays**"
 msgstr ""
 
@@ -7213,7 +7185,7 @@ msgstr ""
 msgid ":mod:`np.random`: random numbers (Mersenne Twister PRNG):"
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/numpy/array_object.rst:190
+#: ../../scientific-python-lectures/intro/numpy/array_object.rst:256
 msgid "**Exercise: Creating arrays using functions**"
 msgstr ""
 
@@ -7349,7 +7321,7 @@ msgstr ""
 msgid "More in the: :ref:`matplotlib chapter <matplotlib>`"
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/numpy/array_object.rst:352
+#: ../../scientific-python-lectures/intro/numpy/array_object.rst:436
 msgid "**Exercise: Simple visualizations**"
 msgstr ""
 
@@ -7420,7 +7392,7 @@ msgstr ""
 msgid "You can also combine assignment and slicing:"
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/numpy/array_object.rst:445
+#: ../../scientific-python-lectures/intro/numpy/array_object.rst:552
 msgid "**Exercise: Indexing and slicing**"
 msgstr ""
 
@@ -7437,7 +7409,7 @@ msgid ""
 "expression to create the array:"
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/numpy/array_object.rst-1
+#: ../../scientific-python-lectures/intro/numpy/array_object.rst:571
 msgid "**Exercise: Array creation**"
 msgstr ""
 
@@ -7459,7 +7431,7 @@ msgstr ""
 msgid "*Hint*: Examine the docstring for ``diag``."
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/numpy/array_object.rst-1
+#: ../../scientific-python-lectures/intro/numpy/array_object.rst:595
 msgid "Exercise: Tiling for array creation"
 msgstr ""
 
@@ -7492,7 +7464,7 @@ msgid ""
 " memory and time."
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/numpy/array_object.rst:607
+#: ../../scientific-python-lectures/intro/numpy/array_object.rst:659
 msgid "Worked example: Prime number sieve"
 msgstr ""
 
@@ -7590,7 +7562,7 @@ msgstr ""
 msgid "The image below illustrates various fancy indexing applications"
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/numpy/array_object.rst:738
+#: ../../scientific-python-lectures/intro/numpy/array_object.rst:793
 msgid "**Exercise: Fancy indexing**"
 msgstr ""
 
@@ -7612,47 +7584,47 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/index.rst:22
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/index.rst:23
-msgid ":ref:`sphx_glr_intro_numpy_auto_examples_plot_basic1dplot.py`"
+msgid ":doc:`/intro/numpy/auto_examples/plot_basic1dplot`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/index.rst:39
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/index.rst:40
-msgid ":ref:`sphx_glr_intro_numpy_auto_examples_plot_basic2dplot.py`"
+msgid ":doc:`/intro/numpy/auto_examples/plot_basic2dplot`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/index.rst:56
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/index.rst:57
-msgid ":ref:`sphx_glr_intro_numpy_auto_examples_plot_distances.py`"
+msgid ":doc:`/intro/numpy/auto_examples/plot_distances`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/index.rst:73
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/index.rst:74
-msgid ":ref:`sphx_glr_intro_numpy_auto_examples_plot_polyfit.py`"
+msgid ":doc:`/intro/numpy/auto_examples/plot_polyfit`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/index.rst:90
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/index.rst:91
-msgid ":ref:`sphx_glr_intro_numpy_auto_examples_plot_chebyfit.py`"
+msgid ":doc:`/intro/numpy/auto_examples/plot_chebyfit`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/index.rst:107
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/index.rst:108
-msgid ":ref:`sphx_glr_intro_numpy_auto_examples_plot_populations.py`"
+msgid ":doc:`/intro/numpy/auto_examples/plot_populations`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/index.rst:124
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/index.rst:125
-msgid ":ref:`sphx_glr_intro_numpy_auto_examples_plot_elephant.py`"
+msgid ":doc:`/intro/numpy/auto_examples/plot_elephant`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/index.rst:141
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/index.rst:142
-msgid ":ref:`sphx_glr_intro_numpy_auto_examples_plot_mandelbrot.py`"
+msgid ":doc:`/intro/numpy/auto_examples/plot_mandelbrot`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/index.rst:158
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/index.rst:159
-msgid ":ref:`sphx_glr_intro_numpy_auto_examples_plot_randomwalk.py`"
+msgid ":doc:`/intro/numpy/auto_examples/plot_randomwalk`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/numpy/auto_examples/index.rst:193
@@ -8215,7 +8187,7 @@ msgstr ""
 msgid "two 128-bit floats, platform-dependent"
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/numpy/elaborate_arrays.rst:142
+#: ../../scientific-python-lectures/intro/numpy/elaborate_arrays.rst:118
 msgid "Smaller data types"
 msgstr ""
 
@@ -8705,7 +8677,7 @@ msgstr ""
 msgid "**Matrix multiplication:**"
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/numpy/operations.rst-1
+#: ../../scientific-python-lectures/intro/numpy/operations.rst:79
 msgid "**Exercise: Elementwise operations**"
 msgstr ""
 
@@ -8785,7 +8757,7 @@ msgid ""
 ":ref:`scipy_linalg`"
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/numpy/operations.rst-1
+#: ../../scientific-python-lectures/intro/numpy/operations.rst:194
 msgid "Exercise other operations"
 msgstr ""
 
@@ -8837,7 +8809,7 @@ msgstr ""
 msgid "... and many more (best to learn as you go)."
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/numpy/operations.rst-1
+#: ../../scientific-python-lectures/intro/numpy/operations.rst:314
 msgid "**Exercise: Reductions**"
 msgstr ""
 
@@ -8849,7 +8821,7 @@ msgstr ""
 msgid "What is the difference between ``sum`` and ``cumsum``?"
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/numpy/operations.rst-1
+#: ../../scientific-python-lectures/intro/numpy/operations.rst:321
 msgid "Worked Example: diffusion using a random walk algorithm"
 msgstr ""
 
@@ -8902,16 +8874,16 @@ msgstr ""
 msgid "This works on arrays of the same size."
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/numpy/operations.rst:0
+#: ../../scientific-python-lectures/intro/numpy/operations.rst:423
 msgid ""
 "**Nevertheless**, It's also possible to do operations on arrays of different"
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/numpy/operations.rst:0
+#: ../../scientific-python-lectures/intro/numpy/operations.rst:424
 msgid "sizes if *NumPy* can transform these arrays so that they all have"
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/numpy/operations.rst:0
+#: ../../scientific-python-lectures/intro/numpy/operations.rst:425
 msgid "the same size: this conversion is called **broadcasting**."
 msgstr ""
 
@@ -8938,7 +8910,7 @@ msgid ""
 "dimensions than input data."
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/numpy/operations.rst:417
+#: ../../scientific-python-lectures/intro/numpy/operations.rst:497
 msgid "Worked Example: Broadcasting"
 msgstr ""
 
@@ -9051,7 +9023,7 @@ msgstr ""
 msgid "However, it must not be referred to somewhere else:"
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/numpy/operations.rst:728
+#: ../../scientific-python-lectures/intro/numpy/operations.rst:768
 msgid "**Exercise: Shape manipulations**"
 msgstr ""
 
@@ -9095,7 +9067,7 @@ msgstr ""
 msgid "Finding minima and maxima:"
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/numpy/operations.rst-1
+#: ../../scientific-python-lectures/intro/numpy/operations.rst:833
 msgid "**Exercise: Sorting**"
 msgstr ""
 
@@ -9185,88 +9157,87 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:22
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:23
-msgid ":ref:`sphx_glr_intro_scipy_auto_examples_plot_optimize_example1.py`"
+msgid ":doc:`/intro/scipy/auto_examples/plot_optimize_example1`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:39
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:40
-msgid ":ref:`sphx_glr_intro_scipy_auto_examples_plot_resample.py`"
+msgid ":doc:`/intro/scipy/auto_examples/plot_resample`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:56
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:57
-msgid ":ref:`sphx_glr_intro_scipy_auto_examples_plot_detrend.py`"
+msgid ":doc:`/intro/scipy/auto_examples/plot_detrend`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:73
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:74
-msgid ":ref:`sphx_glr_intro_scipy_auto_examples_plot_solve_ivp_simple.py`"
+msgid ":doc:`/intro/scipy/auto_examples/plot_solve_ivp_simple`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:90
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:91
-msgid ":ref:`sphx_glr_intro_scipy_auto_examples_plot_normal_distribution.py`"
+msgid ":doc:`/intro/scipy/auto_examples/plot_normal_distribution`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:107
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:108
-msgid ""
-":ref:`sphx_glr_intro_scipy_auto_examples_plot_solve_ivp_damped_spring_mass.py`"
+msgid ":doc:`/intro/scipy/auto_examples/plot_solve_ivp_damped_spring_mass`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:124
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:125
-msgid ":ref:`sphx_glr_intro_scipy_auto_examples_plot_t_test.py`"
+msgid ":doc:`/intro/scipy/auto_examples/plot_t_test`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:141
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:142
-msgid ":ref:`sphx_glr_intro_scipy_auto_examples_plot_curve_fit.py`"
+msgid ":doc:`/intro/scipy/auto_examples/plot_curve_fit`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:158
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:159
-msgid ":ref:`sphx_glr_intro_scipy_auto_examples_plot_spectrogram.py`"
+msgid ":doc:`/intro/scipy/auto_examples/plot_spectrogram`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:175
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:176
-msgid ":ref:`sphx_glr_intro_scipy_auto_examples_plot_mathematical_morpho.py`"
+msgid ":doc:`/intro/scipy/auto_examples/plot_mathematical_morpho`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:192
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:193
-msgid ":ref:`sphx_glr_intro_scipy_auto_examples_plot_image_transform.py`"
+msgid ":doc:`/intro/scipy/auto_examples/plot_image_transform`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:209
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:210
-msgid ":ref:`sphx_glr_intro_scipy_auto_examples_plot_connect_measurements.py`"
+msgid ":doc:`/intro/scipy/auto_examples/plot_connect_measurements`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:226
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:227
-msgid ":ref:`sphx_glr_intro_scipy_auto_examples_plot_optimize_example2.py`"
+msgid ":doc:`/intro/scipy/auto_examples/plot_optimize_example2`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:243
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:244
-msgid ":ref:`sphx_glr_intro_scipy_auto_examples_plot_image_filters.py`"
+msgid ":doc:`/intro/scipy/auto_examples/plot_image_filters`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:260
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:261
-msgid ":ref:`sphx_glr_intro_scipy_auto_examples_plot_2d_minimization.py`"
+msgid ":doc:`/intro/scipy/auto_examples/plot_2d_minimization`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:277
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:278
-msgid ":ref:`sphx_glr_intro_scipy_auto_examples_plot_fftpack.py`"
+msgid ":doc:`/intro/scipy/auto_examples/plot_fftpack`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:294
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:295
-msgid ":ref:`sphx_glr_intro_scipy_auto_examples_plot_interpolation.py`"
+msgid ":doc:`/intro/scipy/auto_examples/plot_interpolation`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:331
@@ -9278,28 +9249,26 @@ msgstr ""
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:350
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:351
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/solutions/index.rst:25
-msgid ""
-":ref:`sphx_glr_intro_scipy_auto_examples_solutions_plot_periodicity_finder.py`"
+msgid ":doc:`/intro/scipy/auto_examples/solutions/plot_periodicity_finder`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:367
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:368
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/solutions/index.rst:42
 msgid ""
-":ref:`sphx_glr_intro_scipy_auto_examples_solutions_plot_curvefit_temperature_data.py`"
+":doc:`/intro/scipy/auto_examples/solutions/plot_curvefit_temperature_data`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:384
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:385
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/solutions/index.rst:59
-msgid ":ref:`sphx_glr_intro_scipy_auto_examples_solutions_plot_image_blur.py`"
+msgid ":doc:`/intro/scipy/auto_examples/solutions/plot_image_blur`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:401
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:402
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/solutions/index.rst:76
-msgid ""
-":ref:`sphx_glr_intro_scipy_auto_examples_solutions_plot_fft_image_denoise.py`"
+msgid ":doc:`/intro/scipy/auto_examples/solutions/plot_fft_image_denoise`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/auto_examples/index.rst:430
@@ -10589,7 +10558,7 @@ msgstr ""
 "**著者**: *Gaël Varoquaux, Adrien Chauve, Andre Espaze, Emmanuelle Gouillart, "
 "Ralf Gommers*"
 
-#: ../../scientific-python-lectures/intro/scipy/index.rst-1
+#: ../../scientific-python-lectures/intro/scipy/index.rst:13
 msgid "Scipy"
 msgstr ""
 
@@ -11102,7 +11071,7 @@ msgid ""
 ":math:`b`::"
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/scipy/index.rst-1
+#: ../../scientific-python-lectures/intro/scipy/index.rst:497
 msgid "Exercise: Curve fitting of temperature data"
 msgstr ""
 
@@ -11186,7 +11155,7 @@ msgid ""
 "rather than the value of the variable we happened to label :math:`x_0`.)"
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/scipy/index.rst-1
+#: ../../scientific-python-lectures/intro/scipy/index.rst:600
 msgid "**Maximization?**"
 msgstr ""
 
@@ -11206,7 +11175,7 @@ msgid ""
 ":ref:`mathematical_optimization`."
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/scipy/index.rst-1
+#: ../../scientific-python-lectures/intro/scipy/index.rst:612
 msgid "Exercise: 2-D minimization"
 msgstr ""
 
@@ -11285,7 +11254,7 @@ msgid ""
 "variable's probability density function (PDF)::"
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/scipy/index.rst-1
+#: ../../scientific-python-lectures/intro/scipy/index.rst:674
 msgid "**Distribution objects and frozen distributions**"
 msgstr ""
 
@@ -11314,7 +11283,7 @@ msgid ""
 "was drawn, we are not surprised that these estimates are similar."
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/scipy/index.rst-1
+#: ../../scientific-python-lectures/intro/scipy/index.rst:698
 msgid "Exercise: Probability distributions"
 msgstr ""
 
@@ -11592,7 +11561,7 @@ msgid ""
 "<sphx_glr_intro_scipy_auto_examples_plot_fftpack.py>`"
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/scipy/index.rst-1
+#: ../../scientific-python-lectures/intro/scipy/index.rst:949
 msgid "`numpy.fft`"
 msgstr ""
 
@@ -11635,7 +11604,7 @@ msgstr ""
 msgid "image_blur"
 msgstr ""
 
-#: ../../scientific-python-lectures/intro/scipy/index.rst-1
+#: ../../scientific-python-lectures/intro/scipy/index.rst:975
 msgid "Exercise: Denoise moon landing image"
 msgstr ""
 
@@ -11908,44 +11877,42 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/index.rst:23
 msgid ""
-":ref:`sphx_glr_intro_scipy_summary-"
-"exercises_auto_examples_plot_optimize_lidar_complex_data.py`"
+":doc:`/intro/scipy/summary-"
+"exercises/auto_examples/plot_optimize_lidar_complex_data`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/index.rst:40
 msgid ""
-":ref:`sphx_glr_intro_scipy_summary-"
-"exercises_auto_examples_plot_optimize_lidar_data.py`"
+":doc:`/intro/scipy/summary-exercises/auto_examples/plot_optimize_lidar_data`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/index.rst:57
 msgid ""
-":ref:`sphx_glr_intro_scipy_summary-"
-"exercises_auto_examples_plot_sprog_annual_maxima.py`"
+":doc:`/intro/scipy/summary-exercises/auto_examples/plot_sprog_annual_maxima`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/index.rst:74
 msgid ""
-":ref:`sphx_glr_intro_scipy_summary-"
-"exercises_auto_examples_plot_optimize_lidar_data_fit.py`"
+":doc:`/intro/scipy/summary-"
+"exercises/auto_examples/plot_optimize_lidar_data_fit`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/index.rst:91
 msgid ""
-":ref:`sphx_glr_intro_scipy_summary-"
-"exercises_auto_examples_plot_optimize_lidar_complex_data_fit.py`"
+":doc:`/intro/scipy/summary-"
+"exercises/auto_examples/plot_optimize_lidar_complex_data_fit`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/index.rst:108
 msgid ""
-":ref:`sphx_glr_intro_scipy_summary-"
-"exercises_auto_examples_plot_cumulative_wind_speed_prediction.py`"
+":doc:`/intro/scipy/summary-"
+"exercises/auto_examples/plot_cumulative_wind_speed_prediction`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/index.rst:125
 msgid ""
-":ref:`sphx_glr_intro_scipy_summary-"
-"exercises_auto_examples_plot_gumbell_wind_speed_prediction.py`"
+":doc:`/intro/scipy/summary-"
+"exercises/auto_examples/plot_gumbell_wind_speed_prediction`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/index.rst:158

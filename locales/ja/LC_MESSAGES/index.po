@@ -1,5 +1,5 @@
 # SOME DESCRIPTIVE TITLE.
-# Copyright (C) 2025
+# Copyright (C) 2026
 # This file is distributed under the same license as the Scientific Python Lectures package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-11-17 00:15+0000\n"
+"POT-Creation-Date: 2026-01-02 07:35+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2024\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -29,7 +29,7 @@ msgstr "Scientific Python Lectures"
 msgid "One document to learn numerics, science, and data with Python"
 msgstr "Pythonで数値計算、科学、データを学ぶための1つのドキュメント"
 
-#: ../../scientific-python-lectures/index.rst-1
+#: ../../scientific-python-lectures/index.rst:91
 msgid "Download"
 msgstr "ダウンロード"
 
@@ -84,6 +84,6 @@ msgstr ""
 ":download:`ScientificPythonLectures.pdf` "
 ":download:`ScientificPythonLectures-simple.pdf`"
 
-#: ../../../../../../../tmp/<rst_epilog>:9
+#: ../../../../../../../tmp/<rst_epilogue>:9
 msgid "|clear-floats|"
 msgstr "|clear-floats|"
