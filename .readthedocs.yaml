@@ -10,9 +10,6 @@ build:
   jobs:
     post_create_environment:
       - cp -a locales scientific-python-lectures/
-    post_install:
-      # Download scikit-learn datasets before sphinx-gallery runs
-      - python download_datasets.py
 
 submodules:
   include:
