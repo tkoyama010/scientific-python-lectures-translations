@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Tetsuo Koyama <tkoyama010@gmail.com>, 2025
+# Tetsuo Koyama <tkoyama010@gmail.com>, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-01-23 00:16+0000\n"
+"POT-Creation-Date: 2026-02-05 18:47+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
-"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
+"Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -46,57 +46,57 @@ msgstr "scikit-imageの章の例"
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:22
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:23
 msgid ":doc:`/packages/scikit-image/auto_examples/plot_check`"
-msgstr ""
+msgstr ":doc:`/packages/scikit-image/auto_examples/plot_check`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:39
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:40
 msgid ":doc:`/packages/scikit-image/auto_examples/plot_camera`"
-msgstr ""
+msgstr ":doc:`/packages/scikit-image/auto_examples/plot_camera`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:56
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:57
 msgid ":doc:`/packages/scikit-image/auto_examples/plot_camera_uint`"
-msgstr ""
+msgstr ":doc:`/packages/scikit-image/auto_examples/plot_camera_uint`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:73
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:74
 msgid ":doc:`/packages/scikit-image/auto_examples/plot_equalize_hist`"
-msgstr ""
+msgstr ":doc:`/packages/scikit-image/auto_examples/plot_equalize_hist`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:90
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:91
 msgid ":doc:`/packages/scikit-image/auto_examples/plot_sobel`"
-msgstr ""
+msgstr ":doc:`/packages/scikit-image/auto_examples/plot_sobel`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:107
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:108
 msgid ":doc:`/packages/scikit-image/auto_examples/plot_boundaries`"
-msgstr ""
+msgstr ":doc:`/packages/scikit-image/auto_examples/plot_boundaries`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:124
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:125
 msgid ":doc:`/packages/scikit-image/auto_examples/plot_threshold`"
-msgstr ""
+msgstr ":doc:`/packages/scikit-image/auto_examples/plot_threshold`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:141
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:142
 msgid ":doc:`/packages/scikit-image/auto_examples/plot_features`"
-msgstr ""
+msgstr ":doc:`/packages/scikit-image/auto_examples/plot_features`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:158
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:159
 msgid ":doc:`/packages/scikit-image/auto_examples/plot_labels`"
-msgstr ""
+msgstr ":doc:`/packages/scikit-image/auto_examples/plot_labels`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:175
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:176
 msgid ":doc:`/packages/scikit-image/auto_examples/plot_filter_coins`"
-msgstr ""
+msgstr ":doc:`/packages/scikit-image/auto_examples/plot_filter_coins`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:192
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:193
 msgid ":doc:`/packages/scikit-image/auto_examples/plot_segmentations`"
-msgstr ""
+msgstr ":doc:`/packages/scikit-image/auto_examples/plot_segmentations`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:229
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:230
@@ -1630,87 +1630,91 @@ msgstr "scikit-learnの章の例"
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:22
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:23
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_pca`"
-msgstr ""
+msgstr ":doc:`/packages/scikit-learn/auto_examples/plot_pca`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:39
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:40
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_measuring_performance`"
 msgstr ""
+":doc:`/packages/scikit-learn/auto_examples/plot_measuring_performance`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:56
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:57
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_linear_regression`"
-msgstr ""
+msgstr ":doc:`/packages/scikit-learn/auto_examples/plot_linear_regression`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:73
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:74
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_iris_scatter`"
-msgstr ""
+msgstr ":doc:`/packages/scikit-learn/auto_examples/plot_iris_scatter`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:90
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:91
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_tsne`"
-msgstr ""
+msgstr ":doc:`/packages/scikit-learn/auto_examples/plot_tsne`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:107
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:108
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_linear_model_cv`"
-msgstr ""
+msgstr ":doc:`/packages/scikit-learn/auto_examples/plot_linear_model_cv`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:124
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:125
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_variance_linear_regr`"
-msgstr ""
+msgstr ":doc:`/packages/scikit-learn/auto_examples/plot_variance_linear_regr`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:141
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:142
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_separator`"
-msgstr ""
+msgstr ":doc:`/packages/scikit-learn/auto_examples/plot_separator`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:158
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:159
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_compare_classifiers`"
-msgstr ""
+msgstr ":doc:`/packages/scikit-learn/auto_examples/plot_compare_classifiers`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:175
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:176
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_polynomial_regression`"
 msgstr ""
+":doc:`/packages/scikit-learn/auto_examples/plot_polynomial_regression`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:192
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:193
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_california_prediction`"
 msgstr ""
+":doc:`/packages/scikit-learn/auto_examples/plot_california_prediction`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:209
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:210
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_iris_knn`"
-msgstr ""
+msgstr ":doc:`/packages/scikit-learn/auto_examples/plot_iris_knn`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:226
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:227
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_digits_simple_classif`"
 msgstr ""
+":doc:`/packages/scikit-learn/auto_examples/plot_digits_simple_classif`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:243
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:244
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_eigenfaces`"
-msgstr ""
+msgstr ":doc:`/packages/scikit-learn/auto_examples/plot_eigenfaces`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:260
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:261
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_svm_non_linear`"
-msgstr ""
+msgstr ":doc:`/packages/scikit-learn/auto_examples/plot_svm_non_linear`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:277
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:278
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_bias_variance`"
-msgstr ""
+msgstr ":doc:`/packages/scikit-learn/auto_examples/plot_bias_variance`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:294
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:295
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_ML_flow_chart`"
-msgstr ""
+msgstr ":doc:`/packages/scikit-learn/auto_examples/plot_ML_flow_chart`"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:337
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:338
@@ -4940,42 +4944,42 @@ msgstr "統計の章のコード例。"
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:24
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:25
 msgid ":doc:`/packages/statistics/auto_examples/plot_paired_boxplots`"
-msgstr ""
+msgstr ":doc:`/packages/statistics/auto_examples/plot_paired_boxplots`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:41
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:42
 msgid ":doc:`/packages/statistics/auto_examples/plot_pandas`"
-msgstr ""
+msgstr ":doc:`/packages/statistics/auto_examples/plot_pandas`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:58
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:59
 msgid ":doc:`/packages/statistics/auto_examples/plot_iris_analysis`"
-msgstr ""
+msgstr ":doc:`/packages/statistics/auto_examples/plot_iris_analysis`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:75
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:76
 msgid ":doc:`/packages/statistics/auto_examples/plot_regression`"
-msgstr ""
+msgstr ":doc:`/packages/statistics/auto_examples/plot_regression`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:92
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:93
 msgid ":doc:`/packages/statistics/auto_examples/plot_regression_3d`"
-msgstr ""
+msgstr ":doc:`/packages/statistics/auto_examples/plot_regression_3d`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:109
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:110
 msgid ":doc:`/packages/statistics/auto_examples/plot_wage_education_gender`"
-msgstr ""
+msgstr ":doc:`/packages/statistics/auto_examples/plot_wage_education_gender`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:126
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:127
 msgid ":doc:`/packages/statistics/auto_examples/plot_wage_data`"
-msgstr ""
+msgstr ":doc:`/packages/statistics/auto_examples/plot_wage_data`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:143
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:144
 msgid ":doc:`/packages/statistics/auto_examples/plot_airfare`"
-msgstr ""
+msgstr ":doc:`/packages/statistics/auto_examples/plot_airfare`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:171
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:172
@@ -4987,7 +4991,7 @@ msgstr "この章の練習問題の解答"
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:191
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/solutions/index.rst:25
 msgid ":doc:`/packages/statistics/auto_examples/solutions/plot_brain_size`"
-msgstr ""
+msgstr ":doc:`/packages/statistics/auto_examples/solutions/plot_brain_size`"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:219
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:220
