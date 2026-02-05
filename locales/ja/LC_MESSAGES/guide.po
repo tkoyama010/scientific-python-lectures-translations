@@ -406,18 +406,3 @@ msgstr "`:align: right` で配置された図形は浮動します。 それら�
 #: ../../scientific-python-lectures/guide/index.rst:207
 msgid "References"
 msgstr "参考文献"
-
-#: ../../scientific-python-lectures/guide/index.rst:209
-#, fuzzy
-msgid ".. target-notes::"
-msgstr ""
-
-#: ../../scientific-python-lectures/guide/index.rst:211
-#, fuzzy
-msgid ".. _`Documentation style guide`: https://documentation-style-guide-sphinx.readthedocs.org/en/latest/style-guide.html"
-msgstr ""
-
-#: ../../scientific-python-lectures/guide/index.rst:212
-#, fuzzy
-msgid ".. _`tips, tricks`: https://docness.readthedocs.org/en/latest/index.html"
-msgstr ""
