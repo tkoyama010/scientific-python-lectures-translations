@@ -1,6 +1,6 @@
 coverage>=7.6
 ipython
-matplotlib==3.10.1
+matplotlib==3.10.8
 # Requirements from scientific-python-lectures submodule
 # Inlined to avoid GitHub automatic dependency submission errors
 numpy==2.2.5
