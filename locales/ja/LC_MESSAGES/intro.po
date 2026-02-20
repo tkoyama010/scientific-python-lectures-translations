@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-02-13 00:21+0000\n"
+"POT-Creation-Date: 2026-02-20 00:18+0000\n"
 "PO-Revision-Date: 2024-11-27 19:15+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2025\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
@@ -3407,12 +3407,12 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:113
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:114
-msgid ":doc:`/intro/matplotlib/auto_examples/plot_bad`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_subplot-vertical`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:130
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:131
-msgid ":doc:`/intro/matplotlib/auto_examples/plot_subplot-vertical`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_bad`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:147
@@ -11877,13 +11877,13 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/index.rst:23
 msgid ""
-":doc:`/intro/scipy/summary-exercises/auto_examples/plot_optimize_lidar_data`"
+":doc:`/intro/scipy/summary-"
+"exercises/auto_examples/plot_optimize_lidar_complex_data`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/index.rst:40
 msgid ""
-":doc:`/intro/scipy/summary-"
-"exercises/auto_examples/plot_optimize_lidar_complex_data`"
+":doc:`/intro/scipy/summary-exercises/auto_examples/plot_optimize_lidar_data`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/index.rst:57
