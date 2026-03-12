@@ -9,7 +9,7 @@ patsy==1.0.2
 pickleshare
 Pillow
 pooch
-pre-commit==4.3.0
+pre-commit==4.5.1
 pyarrow==23.0.0
 pytest>=8.3
 requests
