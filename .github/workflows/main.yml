@@ -10,6 +10,7 @@ on:
       - main
 jobs:
   script:
+    environment: deploy
     permissions:
       pull-requests: write
       issues: write
