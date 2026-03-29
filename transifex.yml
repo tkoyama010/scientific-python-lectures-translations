@@ -1,0 +1,7 @@
+filters:
+  - filter_type: dir
+    file_format: PO
+    source_language: en
+    source_file_extension: pot
+    source_file: locales/pot/<path>.pot
+    translation_files_expression: locales/<lang>/LC_MESSAGES/<path>.po
