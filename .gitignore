@@ -32,3 +32,9 @@ env/
 
 # Logs
 *.log
+
+# Node.js
+node_modules/
+
+# Compiled message files
+messages.mo
