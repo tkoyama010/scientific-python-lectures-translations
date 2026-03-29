@@ -1,21 +1,21 @@
 coverage>=7.6
 ipython
-matplotlib==3.10.1
+matplotlib==3.10.8
 # Requirements from scientific-python-lectures submodule
 # Inlined to avoid GitHub automatic dependency submission errors
-numpy==2.2.5
-pandas==2.3.2
-patsy==1.0.1
+numpy==2.4.3
+pandas==3.0.1
+patsy==1.0.2
 pickleshare
 Pillow
 pooch
-pre-commit==4.3.0
-pyarrow==21.0.0
+pre-commit==4.5.1
+pyarrow==23.0.1
 pytest>=8.3
 requests
-scikit-image==0.25.2
-scikit-learn==1.6.1
-scipy==1.15.2
+scikit-image==0.26.0
+scikit-learn==1.8.0
+scipy==1.17.1
 seaborn==0.13.2
 sphinx>=8.2
 sphinx-copybutton
@@ -24,5 +24,5 @@ sphinx-gallery>=0.19
 # Additional requirements for translations
 sphinx-intl==2.3.2
 sphinxcontrib-jquery
-statsmodels==0.14.5
+statsmodels==0.14.6
 sympy==1.14.0
