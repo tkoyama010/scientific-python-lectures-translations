@@ -48,22 +48,13 @@ jobs:
       - uses: py-actions/py-dependency-install@30aa0023464ed4b5b116bd9fbdab87acf01a484e
         with:
           path: requirements.txt
-      - name: install transifex cli
-        run: |
-          curl -o- https://raw.githubusercontent.com/transifex/cli/master/install.sh | bash
-          mv tx /usr/local/bin/tx
       - name: update
-        env:
-          SPHINXINTL_TRANSIFEX_ORGANIZATION_NAME: tkoyama010
-          SPHINXINTL_TRANSIFEX_USERNAME: api
-          SPHINXINTL_TRANSIFEX_PROJECT_NAME: scientific-python-lectures-doc
-          TX_TOKEN: ${{ secrets.TX_TOKEN }}
         run: |
           sh ./locales/update.sh
       - name: git_config
         run: |
-          git config --global user.email $GITHUB_REPOSITORY
-          git config --global user.name $GITHUB_REPOSITORY
+          git config --global user.email "transifex-integration[bot]@users.noreply.github.com"
+          git config --global user.name "transifex-integration[bot]"
       - name: commit
         if: contains(github.event.head_commit.message, '[ci skip]') == false && contains(github.ref, 'main')
         env:
