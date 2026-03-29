@@ -1,11 +1,6 @@
 version: ">=1.0"
 # GitHub Actionsで使用するTransifex設定
 # pyvista-jsの設定を参考に
->>>>>>> 1670b7550dfe68a3f078597a875005ddff85e613
-files:
-  - source: "**/*.pot"
-    translation: "locales/%language%/LC_MESSAGES/%original_file_name%.po"
-    type: PO
 =======
 version: ">=1.0"
 # GitHub Actionsで使用するTransifex設定
