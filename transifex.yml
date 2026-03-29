@@ -1,0 +1,7 @@
+version: '>=1.0'
+# GitHub Actionsで使用するTransifex設定
+# pyvista-jsの設定を参考に
+files:
+  - source: '**/*.pot'
+    translation: 'locales/%language%/LC_MESSAGES/%original_file_name%.po'
+    type: PO
