@@ -1,4 +1,4 @@
-coverage>=7.6
+coverage>=7.13.5
 ipython
 matplotlib==3.10.8
 # Requirements from scientific-python-lectures submodule
