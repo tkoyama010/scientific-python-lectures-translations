@@ -10,7 +10,7 @@ pickleshare
 Pillow
 pooch
 pre-commit==4.5.1
-pyarrow==23.0.1
+pyarrow==24.0.0
 pytest>=9.0.3
 requests
 scikit-image==0.26.0
