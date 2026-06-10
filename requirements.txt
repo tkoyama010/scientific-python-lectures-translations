@@ -14,7 +14,7 @@ pyarrow==24.0.0
 pytest>=9.0.3
 requests
 scikit-image==0.26.0
-scikit-learn==1.8.0
+scikit-learn==1.9.0
 scipy==1.17.1
 seaborn==0.13.2
 sphinx>=9.1.0
