@@ -3,7 +3,7 @@ ipython
 matplotlib==3.11.0
 # Requirements from scientific-python-lectures submodule
 # Inlined to avoid GitHub automatic dependency submission errors
-numpy==2.4.4
+numpy==2.4.6
 pandas==3.0.3
 patsy==1.0.2
 pickleshare
