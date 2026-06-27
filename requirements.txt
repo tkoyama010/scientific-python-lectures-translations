@@ -11,7 +11,7 @@ Pillow
 pooch
 pre-commit==4.6.0
 pyarrow==24.0.0
-pytest>=9.0.3
+pytest>=9.1.0
 requests
 scikit-image==0.26.0
 scikit-learn==1.8.0
