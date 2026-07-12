@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Setup Python
-        uses: actions/setup-python@a309ff8b426b58ec0e2a45f0f869d46889d02405 # v6
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6
         with:
           python-version: "3.12"
       - name: Get Job URL
@@ -33,11 +33,12 @@ jobs:
           persist-credentials: false
           submodules: true
       - name: Setup SSH
+        if: contains(github.ref, 'main')
         uses: MrSquaare/ssh-setup-action@84a60849dca0e42e04b9b73f930036654e4672ab
         with:
           host: github.com
           private-key: ${{ secrets.SSH_PRIVATE_KEY }}
-      - uses: awalsh128/cache-apt-pkgs-action@681749ae568c81c2037cb9185e38b709b261bd2f
+      - uses: awalsh128/cache-apt-pkgs-action@553a35bb8ebd9fcabcb1c9451aa4c98e1b4ca8a9
         with:
           packages: libopenblas-dev
           version: 1.0
