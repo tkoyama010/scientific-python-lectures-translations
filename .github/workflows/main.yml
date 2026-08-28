@@ -1,19 +1,10 @@
-name: scientific-python-lectures-auto-update
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  push:
-    branches:
-      - main
-  pull_request:
-    branches:
-      - main
+---
 jobs:
   script:
     environment: deploy
     permissions:
-      pull-requests: write
       issues: write
+      pull-requests: write
       repository-projects: write
     runs-on: ubuntu-latest
     steps:
@@ -21,9 +12,9 @@ jobs:
         uses: actions/setup-python@5fda3b95a4ea91299a34e894583c3862153e4b97 # v7.0.0
         with:
           python-version: "3.12"
-      - name: Get Job URL
+      - id: jobs
+        name: Get Job URL
         uses: Tiryoh/gha-jobid-action@be260d8673c9211a84cdcf37794ebd654ba81eef
-        id: jobs
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           job_name: script
@@ -32,8 +23,8 @@ jobs:
         with:
           persist-credentials: false
           submodules: true
-      - name: Setup SSH
-        if: contains(github.ref, 'main')
+      - if: contains(github.ref, 'main')
+        name: Setup SSH
         uses: MrSquaare/ssh-setup-action@84a60849dca0e42e04b9b73f930036654e4672ab
         with:
           host: github.com
@@ -55,11 +46,11 @@ jobs:
         run: |
           git config --global user.email "transifex-integration[bot]@users.noreply.github.com"
           git config --global user.name "transifex-integration[bot]"
-      - name: commit
-        if: contains(github.event.head_commit.message, '[ci skip]') == false && contains(github.ref, 'main')
-        env:
-          JOB_ID: ${{ steps.jobs.outputs.job_id }}
+      - env:
           HTML_URL: ${{ steps.jobs.outputs.html_url }}
+          JOB_ID: ${{ steps.jobs.outputs.job_id }}
+        if: contains(github.event.head_commit.message, '[ci skip]') == false && contains(github.ref, 'main')
+        name: commit
         run: |
           git add .
           git commit --allow-empty -m "[ci skip] $JOB_ID
@@ -67,3 +58,14 @@ jobs:
           git remote -v
           git remote add github git@github.com:$GITHUB_REPOSITORY.git
           git push github main
+name: scientific-python-lectures-auto-update
+"on":
+  pull_request:
+    branches:
+      - main
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: 0 0 * * *
+...
