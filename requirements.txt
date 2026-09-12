@@ -1,4 +1,4 @@
-coverage>=7.15.4
+coverage>=7.16.0
 ipython
 matplotlib==3.11.1
 # Requirements from scientific-python-lectures submodule
@@ -22,7 +22,7 @@ sphinx-copybutton
 sphinx-gallery>=0.21.0
 
 # Additional requirements for translations
-sphinx-intl==2.3.2
+sphinx-intl==2.4.0
 sphinxcontrib-jquery
 statsmodels==0.15.0
 sympy==1.14.0

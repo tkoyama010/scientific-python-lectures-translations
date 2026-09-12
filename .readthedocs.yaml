@@ -1,24 +1,22 @@
-version: 2
-
+---
 build:
-  os: ubuntu-lts-latest
-  tools:
-    python: "3.12"
   apt_packages:
     - gfortran
     - libopenblas-dev
   jobs:
     post_create_environment:
       - cp -a locales scientific-python-lectures/
-
+  os: ubuntu-lts-latest
+  tools:
+    python: "3.12"
+python:
+  install:
+    - requirements: requirements.txt
+sphinx:
+  configuration: scientific-python-lectures/conf.py
 submodules:
   include:
     - scientific-python-lectures
   recursive: true
-
-sphinx:
-  configuration: scientific-python-lectures/conf.py
-
-python:
-  install:
-    - requirements: requirements.txt
+version: 2
+...
