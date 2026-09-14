@@ -45,7 +45,7 @@ repos:
       - exclude: ^(locales)
         id: ruff-format
     repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.16.6
+    rev: v0.16.7
   - hooks:
       - args:
           - --option
@@ -58,9 +58,9 @@ repos:
   - hooks:
       - id: zizmor
     repo: https://github.com/woodruffw/zizmor-pre-commit
-    rev: v1.30.0
+    rev: v1.30.1
   - hooks:
       - id: shfmt
     repo: https://github.com/scop/pre-commit-shfmt
-    rev: v3.13.1-1
+    rev: v3.14.1-1
 ...
