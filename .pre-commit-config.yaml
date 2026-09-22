@@ -20,16 +20,16 @@ repos:
       - id: check-github-workflows
     repo: https://github.com/python-jsonschema/check-jsonschema
     rev: 0.38.0
-  - repo: local
-    hooks:
-      - id: prettier
-        name: prettier
+  - hooks:
+      - additional_dependencies: [prettier@4.0.0-alpha.8]
         entry: prettier --write --ignore-unknown
+        id: prettier
         language: node
-        additional_dependencies: [prettier@4.0.0-alpha.8]
+        name: prettier
         types_or:
           - yaml
           - markdown
+    repo: local
   - hooks:
       - args:
           - --strict
