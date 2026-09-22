@@ -1,6 +1,6 @@
-coverage>=7.16.0
+coverage>=7.16.1
 ipython
-matplotlib==3.11.1
+matplotlib==3.11.2
 # Requirements from scientific-python-lectures submodule
 # Inlined to avoid GitHub automatic dependency submission errors
 numpy==2.5.3
@@ -14,7 +14,7 @@ pyarrow==25.0.1
 pytest>=9.1.1
 requests
 scikit-image==0.26.0
-scikit-learn==1.9.0
+scikit-learn==1.9.1
 scipy==1.18.1
 seaborn==0.13.2
 sphinx>=9.1.0
