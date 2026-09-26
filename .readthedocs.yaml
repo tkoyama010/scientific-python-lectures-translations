@@ -6,6 +6,8 @@ build:
   jobs:
     post_create_environment:
       - cp -a locales scientific-python-lectures/
+      - cp fix_target_notes_crash.py scientific-python-lectures/
+      - printf "\nextensions.append('fix_target_notes_crash')\n" >> scientific-python-lectures/conf.py
   os: ubuntu-lts-latest
   tools:
     python: "3.12"
