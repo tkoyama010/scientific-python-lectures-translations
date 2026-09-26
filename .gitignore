@@ -1,7 +1,6 @@
 *.png
 _build/*
 locales/**/*.mo
-locales/pot/*
 tx
 .aider*
 
