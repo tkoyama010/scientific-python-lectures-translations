@@ -1,5 +1,6 @@
 *.png
 _build/*
+.doctrees/*
 locales/**/*.mo
 tx
 .aider*
