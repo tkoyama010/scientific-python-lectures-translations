@@ -7,7 +7,7 @@ build:
     post_create_environment:
       - cp -a locales scientific-python-lectures/
       - cp fix_target_notes_crash.py scientific-python-lectures/
-      - printf "import os, sys\nsys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))\nextensions.append('fix_target_notes_crash')\n" >> scientific-python-lectures/conf.py
+      - cat rtd_conf_append.py >> scientific-python-lectures/conf.py
   os: ubuntu-lts-latest
   tools:
     python: "3.12"
