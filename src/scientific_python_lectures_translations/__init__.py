@@ -43,7 +43,6 @@ def main(argv=None) -> None:
         append_conf()
 
 
-
 class PruneStaleRefnames(Transform):
     default_priority = 539  # just before docutils TargetNotes (540)
 
