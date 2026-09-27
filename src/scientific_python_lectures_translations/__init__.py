@@ -26,7 +26,6 @@ def append_conf() -> None:
         f.write(_APPEND_LINE)
 
 
-
 class PruneStaleRefnames(Transform):
     default_priority = 539  # just before docutils TargetNotes (540)
 
