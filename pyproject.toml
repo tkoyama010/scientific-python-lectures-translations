@@ -10,4 +10,4 @@ requires-python = ">=3.9"
 version = "1.0"
 
 [tool.setuptools.packages.find]
-include = ["sphinx_translations_ext*"]
+where = ["src"]
