@@ -18,11 +18,16 @@ class PruneStaleRefnames(Transform):
     def apply(self):
         document = self.document
         for name, refs in list(document.refnames.items()):
-            attached = [
-                ref
-                for ref in refs
-                if ref.parent is not None and ref in ref.parent.children
-            ]
+            def is_attached(ref):
+                node = ref
+                while node is not document:
+                    parent = node.parent
+                    if parent is None or node not in parent.children:
+                        return False
+                    node = parent
+                return True
+
+            attached = [ref for ref in refs if is_attached(ref)]
             if len(attached) != len(refs):
                 document.refnames[name] = attached
 
