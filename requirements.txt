@@ -1,3 +1,5 @@
+# Local Sphinx extensions (installed as an editable package)
+-e .
 coverage>=7.16.1
 ipython
 matplotlib==3.11.2

@@ -8,8 +8,39 @@
 # This extension prunes references that are no longer attached to the doctree
 # just before TargetNotes runs, so translated documents build correctly.
 #
-# Remove this file once the underlying Sphinx issue is fixed upstream.
+# Remove this extension once the underlying Sphinx issue is fixed upstream.
+import pathlib
+
 from docutils.transforms import Transform
+
+_APPEND_LINE = (
+    'extensions.append("scientific_python_lectures_translations")'
+    "  # noqa: F821 -- injected into conf.py, which defines `extensions`\n"
+)
+
+
+def append_conf() -> None:
+    """Append this project's extension registration to the submodule conf.py."""
+    conf = pathlib.Path("scientific-python-lectures") / "conf.py"
+    with conf.open("a") as f:
+        f.write(_APPEND_LINE)
+
+
+def main(argv=None) -> None:
+    import argparse
+
+    parser = argparse.ArgumentParser(
+        prog="scientific-python-lectures-translations",
+        description="Tooling for the scientific-python-lectures translations",
+    )
+    subparsers = parser.add_subparsers(dest="command", required=True)
+    subparsers.add_parser(
+        "append-conf",
+        help="Append this project's extension to the submodule conf.py",
+    )
+    args = parser.parse_args(argv)
+    if args.command == "append-conf":
+        append_conf()
 
 
 class PruneStaleRefnames(Transform):
