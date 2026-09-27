@@ -9,7 +9,22 @@
 # just before TargetNotes runs, so translated documents build correctly.
 #
 # Remove this extension once the underlying Sphinx issue is fixed upstream.
+import pathlib
+
 from docutils.transforms import Transform
+
+_APPEND_LINE = (
+    'extensions.append("scientific_python_lectures_translations")'
+    "  # noqa: F821 -- injected into conf.py, which defines `extensions`\n"
+)
+
+
+def append_conf() -> None:
+    """Append this project's extension registration to the submodule conf.py."""
+    conf = pathlib.Path("scientific-python-lectures") / "conf.py"
+    with conf.open("a") as f:
+        f.write(_APPEND_LINE)
+
 
 
 class PruneStaleRefnames(Transform):

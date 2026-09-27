@@ -6,7 +6,8 @@ build:
   jobs:
     post_create_environment:
       - cp -a locales scientific-python-lectures/
-      - cat conf_append.py >> scientific-python-lectures/conf.py
+    post_install:
+      - append-conf
   os: ubuntu-lts-latest
   tools:
     python: "3.12"
