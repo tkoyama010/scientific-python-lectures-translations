@@ -8,7 +8,7 @@
 # This extension prunes references that are no longer attached to the doctree
 # just before TargetNotes runs, so translated documents build correctly.
 #
-# Remove this file once the underlying Sphinx issue is fixed upstream.
+# Remove this extension once the underlying Sphinx issue is fixed upstream.
 from docutils.transforms import Transform
 
 

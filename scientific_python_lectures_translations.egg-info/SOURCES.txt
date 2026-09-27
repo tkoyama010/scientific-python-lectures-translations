@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+scientific_python_lectures_translations.egg-info/PKG-INFO
+scientific_python_lectures_translations.egg-info/SOURCES.txt
+scientific_python_lectures_translations.egg-info/dependency_links.txt
+scientific_python_lectures_translations.egg-info/requires.txt
+scientific_python_lectures_translations.egg-info/top_level.txt
+sphinx_translations_ext/__init__.py

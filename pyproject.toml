@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "scientific-python-lectures-translations"
+version = "1.0"
+description = "Local Sphinx extensions for the scientific-python-lectures translations"
+requires-python = ">=3.9"
+dependencies = ["docutils"]
+
+[tool.setuptools.packages.find]
+include = ["sphinx_translations_ext*"]
