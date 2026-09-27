@@ -6,7 +6,7 @@ build:
   jobs:
     post_create_environment:
       - cp -a locales scientific-python-lectures/
-      - echo 'extensions.append("scientific_python_lectures_translations")' >> scientific-python-lectures/conf.py
+      - cat conf_append.py >> scientific-python-lectures/conf.py
   os: ubuntu-lts-latest
   tools:
     python: "3.12"
