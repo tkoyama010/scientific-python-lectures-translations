@@ -10,7 +10,7 @@ requires-python = ">=3.9"
 version = "1.0"
 
 [project.scripts]
-append-conf = "scientific_python_lectures_translations:append_conf"
+scientific-python-lectures-translations = "scientific_python_lectures_translations:main"
 
 [tool.setuptools.packages.find]
 where = ["src"]

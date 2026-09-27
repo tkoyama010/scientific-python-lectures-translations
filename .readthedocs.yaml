@@ -7,7 +7,7 @@ build:
     post_create_environment:
       - cp -a locales scientific-python-lectures/
     post_install:
-      - append-conf
+      - scientific-python-lectures-translations append-conf
   os: ubuntu-lts-latest
   tools:
     python: "3.12"

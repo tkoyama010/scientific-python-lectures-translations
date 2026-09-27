@@ -26,6 +26,24 @@ def append_conf() -> None:
         f.write(_APPEND_LINE)
 
 
+def main(argv=None) -> None:
+    import argparse
+
+    parser = argparse.ArgumentParser(
+        prog="scientific-python-lectures-translations",
+        description="Tooling for the scientific-python-lectures translations",
+    )
+    subparsers = parser.add_subparsers(dest="command", required=True)
+    subparsers.add_parser(
+        "append-conf",
+        help="Append this project's extension to the submodule conf.py",
+    )
+    args = parser.parse_args(argv)
+    if args.command == "append-conf":
+        append_conf()
+
+
+
 class PruneStaleRefnames(Transform):
     default_priority = 539  # just before docutils TargetNotes (540)
 
