@@ -18,6 +18,7 @@ class PruneStaleRefnames(Transform):
     def apply(self):
         document = self.document
         for name, refs in list(document.refnames.items()):
+
             def is_attached(ref):
                 node = ref
                 while node is not document:
