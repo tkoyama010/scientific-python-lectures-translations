@@ -1,0 +1,73 @@
+# Workaround for a Sphinx i18n bug: the ``Locale`` transform replaces
+# translated nodes with freshly parsed ones but leaves the original reference
+# nodes registered in ``document.refnames``.  The docutils ``TargetNotes``
+# transform (used by the ``.. target-notes::`` directive in guide/index.rst)
+# then iterates over those stale, detached nodes and crashes with
+# ``ValueError: <reference ...> is not in list``.
+#
+# This extension prunes references that are no longer attached to the doctree
+# just before TargetNotes runs, so translated documents build correctly.
+#
+# Remove this extension once the underlying Sphinx issue is fixed upstream.
+import pathlib
+
+from docutils.transforms import Transform
+
+_APPEND_LINE = (
+    'extensions.append("scientific_python_lectures_translations")'
+    "  # noqa: F821 -- injected into conf.py, which defines `extensions`\n"
+)
+
+
+def append_conf() -> None:
+    """Append this project's extension registration to the submodule conf.py."""
+    conf = pathlib.Path("scientific-python-lectures") / "conf.py"
+    with conf.open("a") as f:
+        f.write(_APPEND_LINE)
+
+
+def main(argv=None) -> None:
+    import argparse
+
+    parser = argparse.ArgumentParser(
+        prog="scientific-python-lectures-translations",
+        description="Tooling for the scientific-python-lectures translations",
+    )
+    subparsers = parser.add_subparsers(dest="command", required=True)
+    subparsers.add_parser(
+        "append-conf",
+        help="Append this project's extension to the submodule conf.py",
+    )
+    args = parser.parse_args(argv)
+    if args.command == "append-conf":
+        append_conf()
+
+
+class PruneStaleRefnames(Transform):
+    default_priority = 539  # just before docutils TargetNotes (540)
+
+    def apply(self):
+        document = self.document
+        for name, refs in list(document.refnames.items()):
+
+            def is_attached(ref):
+                node = ref
+                while node is not document:
+                    parent = node.parent
+                    if parent is None or node not in parent.children:
+                        return False
+                    node = parent
+                return True
+
+            attached = [ref for ref in refs if is_attached(ref)]
+            if len(attached) != len(refs):
+                document.refnames[name] = attached
+
+
+def setup(app):
+    app.add_transform(PruneStaleRefnames)
+    return {
+        "version": "1.0",
+        "parallel_read_safe": True,
+        "parallel_write_safe": True,
+    }
