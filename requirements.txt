@@ -7,7 +7,7 @@ matplotlib==3.11.2
 # Inlined to avoid GitHub automatic dependency submission errors
 # numpy 2.5+ removed implicit bool-to-int conversion, which breaks
 # sp.ndimage.find_objects(bool_array) in the examples
-numpy==2.2.5
+numpy==2.2.6
 # pandas 3.0 removed `delim_whitespace`, which breaks plot_airfare.py
 pandas==2.3.2
 patsy==1.0.3
