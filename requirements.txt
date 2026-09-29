@@ -21,7 +21,7 @@ requests
 scikit-image==0.26.0
 scikit-learn==1.9.1
 # scipy 1.18 rejects the boolean input used by the ndimage examples
-scipy==1.15.2
+scipy==1.15.3
 seaborn==0.13.2
 sphinx>=9.1.0
 sphinx-copybutton
