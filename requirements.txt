@@ -19,7 +19,7 @@ pyarrow==25.0.1
 pytest>=9.1.1
 requests
 scikit-image==0.26.0
-scikit-learn==1.9.1
+scikit-learn==1.7.2
 # scipy 1.18 rejects the boolean input used by the ndimage examples
 scipy==1.15.3
 seaborn==0.13.2
