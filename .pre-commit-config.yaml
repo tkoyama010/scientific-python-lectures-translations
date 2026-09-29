@@ -19,7 +19,7 @@ repos:
   - hooks:
       - id: check-github-workflows
     repo: https://github.com/python-jsonschema/check-jsonschema
-    rev: 0.38.0
+    rev: 0.38.2
   - hooks:
       - additional_dependencies: [prettier@4.0.0-alpha.8]
         entry: prettier --write --ignore-unknown
@@ -48,7 +48,7 @@ repos:
       - exclude: ^(locales)
         id: ruff-format
     repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.16.8
+    rev: v0.16.9
   - hooks:
       - args:
           - --option
