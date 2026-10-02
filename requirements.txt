@@ -2,7 +2,7 @@
 -e .
 coverage>=7.16.1
 ipython
-matplotlib==3.11.2
+matplotlib==3.10.9
 # Requirements from scientific-python-lectures submodule
 # Inlined to avoid GitHub automatic dependency submission errors
 # numpy 2.5+ removed implicit bool-to-int conversion, which breaks
