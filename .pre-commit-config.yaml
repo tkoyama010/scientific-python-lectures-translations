@@ -48,7 +48,7 @@ repos:
       - exclude: ^(locales)
         id: ruff-format
     repo: https://github.com/astral-sh/ruff-pre-commit
-    rev: v0.16.9
+    rev: v0.16.10
   - hooks:
       - args:
           - --option
