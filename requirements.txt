@@ -1,6 +1,6 @@
 # Local Sphinx extensions (installed as an editable package)
 -e .
-coverage>=7.16.1
+coverage>=7.16.2
 ipython
 matplotlib==3.10.9
 # Requirements from scientific-python-lectures submodule
