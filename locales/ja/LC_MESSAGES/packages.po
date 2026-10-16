@@ -11,8 +11,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-03-18 00:21+0000\n"
-"PO-Revision-Date: 2024-11-27 19:15+0000\n"
+"POT-Creation-Date: 2026-09-26 18:20+0000\n"
+"PO-Revision-Date: 2026-09-26 18:19+0000\n"
 "Last-Translator: Tetsuo Koyama <tkoyama010@gmail.com>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/tkoyama010/teams/202028/ja/)\n"
 "MIME-Version: 1.0\n"
@@ -43,75 +43,75 @@ msgstr "|clear-floats|"
 msgid "Examples for the scikit-image chapter"
 msgstr "scikit-imageの章の例"
 
-#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:22
-#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:23
+#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:26
+#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:27
 msgid ":doc:`/packages/scikit-image/auto_examples/plot_check`"
 msgstr ":doc:`/packages/scikit-image/auto_examples/plot_check`"
 
-#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:39
-#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:40
+#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:43
+#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:44
 msgid ":doc:`/packages/scikit-image/auto_examples/plot_camera`"
 msgstr ":doc:`/packages/scikit-image/auto_examples/plot_camera`"
 
-#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:56
-#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:57
+#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:60
+#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:61
 msgid ":doc:`/packages/scikit-image/auto_examples/plot_camera_uint`"
 msgstr ":doc:`/packages/scikit-image/auto_examples/plot_camera_uint`"
 
-#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:73
-#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:74
+#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:77
+#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:78
 msgid ":doc:`/packages/scikit-image/auto_examples/plot_equalize_hist`"
 msgstr ":doc:`/packages/scikit-image/auto_examples/plot_equalize_hist`"
 
-#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:90
-#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:91
+#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:94
+#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:95
 msgid ":doc:`/packages/scikit-image/auto_examples/plot_sobel`"
 msgstr ":doc:`/packages/scikit-image/auto_examples/plot_sobel`"
 
-#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:107
-#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:108
+#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:111
+#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:112
 msgid ":doc:`/packages/scikit-image/auto_examples/plot_boundaries`"
 msgstr ":doc:`/packages/scikit-image/auto_examples/plot_boundaries`"
 
-#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:124
-#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:125
+#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:128
+#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:129
 msgid ":doc:`/packages/scikit-image/auto_examples/plot_threshold`"
 msgstr ":doc:`/packages/scikit-image/auto_examples/plot_threshold`"
 
-#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:141
-#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:142
+#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:145
+#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:146
 msgid ":doc:`/packages/scikit-image/auto_examples/plot_features`"
 msgstr ":doc:`/packages/scikit-image/auto_examples/plot_features`"
 
-#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:158
-#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:159
+#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:162
+#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:163
 msgid ":doc:`/packages/scikit-image/auto_examples/plot_labels`"
 msgstr ":doc:`/packages/scikit-image/auto_examples/plot_labels`"
 
-#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:175
-#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:176
+#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:179
+#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:180
 msgid ":doc:`/packages/scikit-image/auto_examples/plot_filter_coins`"
 msgstr ":doc:`/packages/scikit-image/auto_examples/plot_filter_coins`"
 
-#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:192
-#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:193
+#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:196
+#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:197
 msgid ":doc:`/packages/scikit-image/auto_examples/plot_segmentations`"
 msgstr ":doc:`/packages/scikit-image/auto_examples/plot_segmentations`"
-
-#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:229
-#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:230
-msgid ""
-":download:`Download all examples in Python source code: "
-"auto_examples_python.zip </packages/scikit-"
-"image/auto_examples/auto_examples_python.zip>`"
-msgstr ""
-":download:`Download all examples in Python source code: "
-"auto_examples_python.zip </packages/scikit-"
-"image/auto_examples/auto_examples_python.zip>`"
 
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:233
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:234
 msgid ""
+":download:`Download all examples in Python source code: "
+"auto_examples_python.zip </packages/scikit-"
+"image/auto_examples/auto_examples_python.zip>`"
+msgstr ""
+":download:`Download all examples in Python source code: "
+"auto_examples_python.zip </packages/scikit-"
+"image/auto_examples/auto_examples_python.zip>`"
+
+#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:237
+#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:238
+msgid ""
 ":download:`Download all examples in Jupyter notebooks: "
 "auto_examples_jupyter.zip </packages/scikit-"
 "image/auto_examples/auto_examples_jupyter.zip>`"
@@ -120,8 +120,8 @@ msgstr ""
 "auto_examples_jupyter.zip </packages/scikit-"
 "image/auto_examples/auto_examples_jupyter.zip>`"
 
-#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:240
-#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:241
+#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:244
+#: ../../scientific-python-lectures/packages/scikit-image/auto_examples/index.rst:245
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_boundaries.rst:77
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_camera.rst:68
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_camera_uint.rst:72
@@ -133,8 +133,8 @@ msgstr ""
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_segmentations.rst:109
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_sobel.rst:74
 #: ../../scientific-python-lectures/packages/scikit-image/auto_examples/plot_threshold.rst:79
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:348
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:349
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:352
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:353
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_ML_flow_chart.rst:215
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_bias_variance.rst:229
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_california_prediction.rst:166
@@ -152,8 +152,8 @@ msgstr ""
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_svm_non_linear.rst:187
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_tsne.rst:114
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_variance_linear_regr.rst:133
-#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:230
-#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:231
+#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:238
+#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:239
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_airfare.rst:241
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_iris_analysis.rst:112
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_paired_boxplots.rst:76
@@ -848,19 +848,19 @@ msgstr "ピクセル"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:49
 msgid "array values: ``a[2, 3]``"
-msgstr ""
+msgstr "配列の値: ``a[2, 3]``"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:0
 msgid "channels"
-msgstr ""
+msgstr "チャンネル"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:53
 msgid "array dimensions"
-msgstr ""
+msgstr "配列の次元"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:0
 msgid "image encoding"
-msgstr ""
+msgstr "画像のエンコーディング"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:57
 msgid "``dtype`` (``np.uint8``, ``np.uint16``, ``np.float``)"
@@ -868,11 +868,11 @@ msgstr "``dtype`` (``np.uint8``, ``np.uint16``, ``np.float``)"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:0
 msgid "filters"
-msgstr ""
+msgstr "フィルタ"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:61
 msgid "functions (``numpy``, ``skimage``, ``scipy``)"
-msgstr ""
+msgstr "関数(``numpy``、``skimage``、``scipy``)"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:81
 msgid "``scikit-image`` and the scientific Python ecosystem"
@@ -1090,7 +1090,7 @@ msgstr "汎用ユーティリティ。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:172
 msgid "Importing"
-msgstr ""
+msgstr "インポート"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:174
 msgid "We import ``scikit-image`` using the convention::"
@@ -1137,7 +1137,7 @@ msgstr "画像をディスクに保存します: :func:`skimage.io.imsave` ::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:236
 msgid "Reading from files: :func:`skimage.io.imread` ::"
-msgstr ""
+msgstr "ファイルからの読み込み: :func:`skimage.io.imread` ::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:245
 msgid ""
@@ -1153,13 +1153,13 @@ msgstr "ロードはURLでも機能します::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:253
 msgid "Data types"
-msgstr ""
+msgstr "データ型"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:261
 msgid ""
 "Image ndarrays can be represented either by integers (signed or unsigned) or"
 " floats."
-msgstr ""
+msgstr "画像の ndarray は整数(符号付きまたは符号なし)または浮動小数点数で表現できます。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:264
 msgid "Careful with overflows with integer data types"
@@ -1169,7 +1169,7 @@ msgstr "整数データ型でのオーバーフローに注意してください
 msgid ""
 "Different integer sizes are possible: 8-, 16- or 32-bytes, signed or "
 "unsigned."
-msgstr ""
+msgstr "異なる整数サイズが可能です: 8、16、32 バイト、符号付きまたは符号なし。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:278
 msgid ""
@@ -1177,13 +1177,15 @@ msgid ""
 "supposed to lie in [-1, 1] (in order to have comparable contrast for all "
 "float images) ::"
 msgstr ""
+"重要な(疑わしいですが)``skimage`` の**慣習**: 浮動小数点の画像は [-1, 1] "
+"の範囲にあるべきです(すべての浮動小数点画像でコントラストを比較可能にするため)::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:286
 msgid ""
 "Some image processing routines need to work with float arrays, and may hence"
 " output an array with a different type and the data range from the input "
 "array ::"
-msgstr ""
+msgstr "いくつかの画像処理ルーチンは浮動小数点配列で動作する必要があるため、入力配列とは異なる型とデータ範囲の配列を出力することがあります::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:295
 msgid ""
@@ -1191,22 +1193,26 @@ msgid ""
 "and the data range, following skimage's conventions: ``util.img_as_float``, "
 "``util.img_as_ubyte``, etc."
 msgstr ""
+":mod:`skimage` は、skimage の慣習に従って dtype とデータ範囲の両方を変換するユーティリティ関数を提供します: "
+"``util.img_as_float``、``util.img_as_ubyte`` など。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:299
 msgid ""
 "See the `user guide <https://scikit-"
 "image.org/docs/stable/user_guide/data_types.html>`_ for more details."
 msgstr ""
+"詳細は `ユーザーガイド <https://scikit-"
+"image.org/docs/stable/user_guide/data_types.html>`_ を参照してください。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:304
 msgid "Colorspaces"
-msgstr ""
+msgstr "色空間"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:306
 msgid ""
 "Color images are of shape (N, M, 3) or (N, M, 4) (when an alpha channel "
 "encodes transparency) ::"
-msgstr ""
+msgstr "カラー画像は形状 (N, M, 3) または (N, M, 4) です(アルファチャンネルが透明度をエンコードするとき)::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:314
 msgid ""
@@ -1215,6 +1221,9 @@ msgid ""
 "etc. Check the docstring for the expected dtype (and data range) of input "
 "images."
 msgstr ""
+"異なる色空間(RGB、HSV、LAB など)間で変換するルーチンが :mod:`skimage.color` にあります: "
+"``color.rgb2hsv``、``color.lab2rgb`` など。入力画像の期待される dtype(とデータ範囲)については "
+"docstring を確認してください。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:319
 msgid "3D images"
@@ -1316,29 +1325,29 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:400
 msgid "Default structuring element: 4-connectivity of a pixel ::"
-msgstr ""
+msgstr "デフォルトの構造要素: ピクセルの 4 連結 ::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:414
 msgid ""
 "**Erosion** = minimum filter. Replace the value of a pixel by the minimal "
 "value covered by the structuring element.::"
-msgstr ""
+msgstr "**収縮** = 最小値フィルタ。ピクセルの値を、構造要素が覆う最小値で置き換えます。::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:444
 msgid "**Dilation**: maximum filter::"
-msgstr ""
+msgstr "**膨張**: 最大値フィルタ::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:461
 msgid "**Opening**: erosion + dilation::"
-msgstr ""
+msgstr "**オープニング**: 収縮 + 膨張::"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:478
 msgid "Opening removes small objects and smoothes corners."
-msgstr ""
+msgstr "オープニングは小さなオブジェクトを取り除き、角を滑らかにします。"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:480
 msgid "Grayscale mathematical morphology"
-msgstr ""
+msgstr "グレースケールの数理形態学"
 
 #: ../../scientific-python-lectures/packages/scikit-image/index.rst:482
 msgid ""
@@ -1627,97 +1636,97 @@ msgstr "全コード例"
 msgid "Examples for the scikit-learn chapter"
 msgstr "scikit-learnの章の例"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:22
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:23
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:26
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:27
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_pca`"
 msgstr ":doc:`/packages/scikit-learn/auto_examples/plot_pca`"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:39
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:40
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:43
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:44
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_measuring_performance`"
 msgstr ""
 ":doc:`/packages/scikit-learn/auto_examples/plot_measuring_performance`"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:56
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:57
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:60
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:61
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_linear_regression`"
 msgstr ":doc:`/packages/scikit-learn/auto_examples/plot_linear_regression`"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:73
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:74
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:77
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:78
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_iris_scatter`"
 msgstr ":doc:`/packages/scikit-learn/auto_examples/plot_iris_scatter`"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:90
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:91
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:94
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:95
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_tsne`"
 msgstr ":doc:`/packages/scikit-learn/auto_examples/plot_tsne`"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:107
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:108
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:111
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:112
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_linear_model_cv`"
 msgstr ":doc:`/packages/scikit-learn/auto_examples/plot_linear_model_cv`"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:124
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:125
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:128
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:129
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_variance_linear_regr`"
 msgstr ":doc:`/packages/scikit-learn/auto_examples/plot_variance_linear_regr`"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:141
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:142
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:145
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:146
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_separator`"
 msgstr ":doc:`/packages/scikit-learn/auto_examples/plot_separator`"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:158
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:159
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:162
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:163
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_compare_classifiers`"
 msgstr ":doc:`/packages/scikit-learn/auto_examples/plot_compare_classifiers`"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:175
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:176
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:179
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:180
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_polynomial_regression`"
 msgstr ""
 ":doc:`/packages/scikit-learn/auto_examples/plot_polynomial_regression`"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:192
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:193
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:196
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:197
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_california_prediction`"
 msgstr ""
 ":doc:`/packages/scikit-learn/auto_examples/plot_california_prediction`"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:209
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:210
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:213
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:214
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_iris_knn`"
 msgstr ":doc:`/packages/scikit-learn/auto_examples/plot_iris_knn`"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:226
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:227
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:230
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:231
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_digits_simple_classif`"
 msgstr ""
 ":doc:`/packages/scikit-learn/auto_examples/plot_digits_simple_classif`"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:243
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:244
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:247
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:248
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_eigenfaces`"
 msgstr ":doc:`/packages/scikit-learn/auto_examples/plot_eigenfaces`"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:260
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:261
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:264
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:265
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_svm_non_linear`"
 msgstr ":doc:`/packages/scikit-learn/auto_examples/plot_svm_non_linear`"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:277
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:278
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:281
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:282
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_bias_variance`"
 msgstr ":doc:`/packages/scikit-learn/auto_examples/plot_bias_variance`"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:294
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:295
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:298
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:299
 msgid ":doc:`/packages/scikit-learn/auto_examples/plot_ML_flow_chart`"
 msgstr ":doc:`/packages/scikit-learn/auto_examples/plot_ML_flow_chart`"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:337
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:338
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:341
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:342
 msgid ""
 ":download:`Download all examples in Python source code: "
 "auto_examples_python.zip </packages/scikit-"
@@ -1727,8 +1736,8 @@ msgstr ""
 "auto_examples_python.zip </packages/scikit-"
 "learn/auto_examples/auto_examples_python.zip>`"
 
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:341
-#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:342
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:345
+#: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/index.rst:346
 msgid ""
 ":download:`Download all examples in Jupyter notebooks: "
 "auto_examples_jupyter.zip </packages/scikit-"
@@ -2093,6 +2102,12 @@ msgid ""
 "<https://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html>`__,"
 " the *Open Computer Vision Library*."
 msgstr ""
+"これらの顔は既に位置特定され、共通のサイズにスケールされていることに注意してください。これは顔認識のための重要な前処理で、大量の訓練データを必要とする可能性のあるプロセスです。scikit-"
+"learn "
+"でも行えますが、課題はアルゴリズムが機能するのに十分な量の訓練データを集めることです。幸い、この部分は十分一般的なので、既に行われています。良いリソースの"
+" 1 つは `OpenCV "
+"<https://docs.opencv.org/2.4/modules/contrib/doc/facerec/facerec_tutorial.html>`__"
+" です。*Open Computer Vision Library* です。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_eigenfaces.rst:79
 msgid ""
@@ -2472,7 +2487,7 @@ msgstr "これは出来過ぎです: 訓練データでモデルをテストし�
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_measuring_performance.rst:83
 msgid "**The results are not valid**"
-msgstr ""
+msgstr "**結果は有効ではありません**"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_measuring_performance.rst:94
 msgid ""
@@ -2577,7 +2592,7 @@ msgstr "そのために必要なのは、機能をエンジニアすることで
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_polynomial_regression.rst:97
 msgid "Ground truth"
-msgstr ""
+msgstr "正解データ"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_polynomial_regression.rst:120
 msgid ""
@@ -2619,7 +2634,7 @@ msgstr "機械学習の形式的問題の単純なイメージ"
 msgid ""
 "This example generates simple synthetic data points and shows a separating "
 "hyperplane on them."
-msgstr ""
+msgstr "この例では、単純な合成データポイントを生成し、それらの上に分離超平面を表示します。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/auto_examples/plot_separator.rst:77
 msgid ""
@@ -3309,7 +3324,7 @@ msgstr "このデータは4次元ですが、散布図を使って一度に2つ�
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:245
 msgid "**Exercise**:"
-msgstr ""
+msgstr "**演習**:"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:248
 msgid ""
@@ -3603,7 +3618,7 @@ msgstr "|linear|"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:459
 msgid "linear"
-msgstr ""
+msgstr "線形"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:468
 msgid "|nonlinear|"
@@ -3611,7 +3626,7 @@ msgstr "|nonlinear|"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:463
 msgid "nonlinear"
-msgstr ""
+msgstr "非線形"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:470
 msgid "A linear separation"
@@ -4533,6 +4548,9 @@ msgid ""
 "(in this case, the polynomial degree d) in order to determine the best "
 "algorithm."
 msgstr ""
+"中央では ``d = 2`` "
+"に対して良い中間点が見つかりました。データにかなり良く適合し、両側の図で見られるバイアスと分散の問題に悩まされません。私たちが欲しいのは、バイアスと分散を定量的に特定し、最良のアルゴリズムを決定するためにメタパラメータ(この場合は多項式の次数"
+" d)を最適化する方法です。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1463
 msgid "Polynomial regression with scikit-learn"
@@ -4544,6 +4562,8 @@ msgid ""
 ":class:`~sklearn.preprocessing.PolynomialFeatures` and a "
 ":class:`~sklearn.linear_model.LinearRegression`::"
 msgstr ""
+"多項式回帰は、:class:`~sklearn.preprocessing.PolynomialFeatures` と "
+":class:`~sklearn.linear_model.LinearRegression` をパイプラインでつなぐことで構築されます::"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1476
 msgid "Validation Curves"
@@ -4609,6 +4629,11 @@ msgid ""
 "whether more training points will be helpful? A useful diagnostic for this "
 "are learning curves."
 msgstr ""
+"賢明な読者なら、何かがおかしいことに気付くでしょう: 上のプロットでは ``d = 4`` が最良の結果を与えます。しかし前のプロットでは ``d = "
+"6`` がデータに大幅に過剰適合することを見つけました。何が起きているのでしょう? 違いは使用される**訓練点の数**です。前の例では訓練点が 8 "
+"個だけでした。この例では 100 "
+"個です。経験則として、訓練点が多いほど複雑なモデルが使えます。しかし、与えられたモデルにとって、より多くの訓練点が役立つかどうかをどう判定すればよいのでしょう?"
+" このための有用な診断ツールが学習曲線です。"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1561
 msgid "Learning Curves"
@@ -4913,7 +4938,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1748
 msgid "**Going further**"
-msgstr ""
+msgstr "**さらに進む**"
 
 #: ../../scientific-python-lectures/packages/scikit-learn/index.rst:1750
 msgid ""
@@ -4930,6 +4955,10 @@ msgid ""
 "Andreas Müller (`notebooks available here "
 "<https://github.com/amueller/introduction_to_ml_with_python>`_)."
 msgstr ""
+"`Introduction to Machine Learning with Python "
+"<https://shop.oreilly.com/product/0636920030515.do>`_(Sarah Guido、Andreas "
+"Müller 著。`ノートブックはこちら "
+"<https://github.com/amueller/introduction_to_ml_with_python>`_)。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:3
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:4
@@ -4941,60 +4970,60 @@ msgstr "画像の全コード"
 msgid "Code examples for the statistics chapter."
 msgstr "統計の章のコード例。"
 
-#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:24
-#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:25
+#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:28
+#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:29
 msgid ":doc:`/packages/statistics/auto_examples/plot_paired_boxplots`"
 msgstr ":doc:`/packages/statistics/auto_examples/plot_paired_boxplots`"
 
-#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:41
-#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:42
+#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:45
+#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:46
 msgid ":doc:`/packages/statistics/auto_examples/plot_pandas`"
 msgstr ":doc:`/packages/statistics/auto_examples/plot_pandas`"
 
-#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:58
-#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:59
+#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:62
+#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:63
 msgid ":doc:`/packages/statistics/auto_examples/plot_iris_analysis`"
 msgstr ":doc:`/packages/statistics/auto_examples/plot_iris_analysis`"
 
-#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:75
-#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:76
+#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:79
+#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:80
 msgid ":doc:`/packages/statistics/auto_examples/plot_regression`"
 msgstr ":doc:`/packages/statistics/auto_examples/plot_regression`"
 
-#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:92
-#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:93
+#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:96
+#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:97
 msgid ":doc:`/packages/statistics/auto_examples/plot_regression_3d`"
 msgstr ":doc:`/packages/statistics/auto_examples/plot_regression_3d`"
 
-#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:109
-#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:110
+#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:113
+#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:114
 msgid ":doc:`/packages/statistics/auto_examples/plot_wage_education_gender`"
 msgstr ":doc:`/packages/statistics/auto_examples/plot_wage_education_gender`"
 
-#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:126
-#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:127
+#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:130
+#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:131
 msgid ":doc:`/packages/statistics/auto_examples/plot_wage_data`"
 msgstr ":doc:`/packages/statistics/auto_examples/plot_wage_data`"
 
-#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:143
-#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:144
+#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:147
+#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:148
 msgid ":doc:`/packages/statistics/auto_examples/plot_airfare`"
 msgstr ":doc:`/packages/statistics/auto_examples/plot_airfare`"
 
-#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:171
-#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:172
+#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:175
+#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:176
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/solutions/index.rst:6
 msgid "Solutions to this chapter's exercises"
 msgstr "この章の練習問題の解答"
 
-#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:190
-#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:191
-#: ../../scientific-python-lectures/packages/statistics/auto_examples/solutions/index.rst:25
+#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:198
+#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:199
+#: ../../scientific-python-lectures/packages/statistics/auto_examples/solutions/index.rst:29
 msgid ":doc:`/packages/statistics/auto_examples/solutions/plot_brain_size`"
 msgstr ":doc:`/packages/statistics/auto_examples/solutions/plot_brain_size`"
 
-#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:219
-#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:220
+#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:227
+#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:228
 msgid ""
 ":download:`Download all examples in Python source code: "
 "auto_examples_python.zip "
@@ -5004,8 +5033,8 @@ msgstr ""
 "auto_examples_python.zip "
 "</packages/statistics/auto_examples/auto_examples_python.zip>`"
 
-#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:223
-#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:224
+#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:231
+#: ../../scientific-python-lectures/packages/statistics/auto_examples/index.rst:232
 msgid ""
 ":download:`Download all examples in Jupyter notebooks: "
 "auto_examples_jupyter.zip "
@@ -5026,11 +5055,11 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_airfare.rst:22
 msgid "Air fares before and after 9/11"
-msgstr ""
+msgstr "9/11 の前後の航空券運賃"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_airfare.rst:24
 msgid "This is a business-intelligence (BI) like application."
-msgstr ""
+msgstr "これはビジネスインテリジェンス(BI)的な応用です。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_airfare.rst:26
 msgid ""
@@ -5038,6 +5067,7 @@ msgid ""
 " the year, paired accordingly to the trips, or forgetting the year, only as "
 "a function of the trip endpoints."
 msgstr ""
+"興味深いのは、運賃を年の関数として(旅行に応じてペアにして)研究したい場合や、年を忘れて旅行の終点だけの関数として研究したい場合があることです。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_airfare.rst:30
 msgid ""
@@ -5046,35 +5076,37 @@ msgid ""
 "significantly non-zero: the air fares have decreased between 2000 and 2001, "
 "and their dependence on distance travelled has also decreased"
 msgstr ""
+"statsmodels の線形モデルを使うと、OLS(通常最小二乗)でもロバストフィットでも、切片と傾きは有意に非ゼロであることが分かります: 2000"
+" 年から 2001 年の間に航空券運賃は低下し、移動距離への依存も低下しました"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_airfare.rst:46
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_wage_data.rst:48
 msgid "Load the data"
-msgstr ""
+msgstr "データを読み込む"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_airfare.rst:93
 msgid ""
 "Make a dataframe with the year as an attribute, instead of separate columns"
-msgstr ""
+msgstr "年を別々の列ではなく属性として持つデータフレームを作る"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_airfare.rst:132
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_wage_data.rst:94
 msgid "Plot scatter matrices highlighting different aspects"
-msgstr ""
+msgstr "さまざまな側面を強調する散布図行列をプロットする"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_airfare.rst:158
 msgid "Plot the difference in fare"
-msgstr ""
+msgstr "運賃の差をプロットする"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_airfare.rst:181
 msgid ""
 "Statistical testing: dependence of fare on distance and number of passengers"
-msgstr ""
+msgstr "統計検定: 運賃の距離と乗客数への依存"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_airfare.rst:201
 msgid ""
 "Statistical testing: regression of fare on distance: 2001/2000 difference"
-msgstr ""
+msgstr "統計検定: 距離に対する運賃の回帰: 2001/2000 の差"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_airfare.rst:226
 msgid ""
@@ -5358,19 +5390,20 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_wage_data.rst:22
 msgid "Visualizing factors influencing wages"
-msgstr ""
+msgstr "賃金に影響する要因の可視化"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_wage_data.rst:24
 msgid ""
 "This example uses seaborn to quickly plot various factors relating wages, "
 "experience, and education."
-msgstr ""
+msgstr "この例では、seaborn を使って賃金、経験、教育に関するさまざまな要因を素早くプロットします。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_wage_data.rst:27
 msgid ""
 "Seaborn (https://seaborn.pydata.org) is a library that combines "
 "visualization and statistical fits to show trends in data."
 msgstr ""
+"Seaborn(https://seaborn.pydata.org)は、可視化と統計フィットを組み合わせてデータの傾向を示すライブラリです。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_wage_data.rst:30
 msgid ""
@@ -5378,10 +5411,12 @@ msgid ""
 "like\" feeling. This changes affect other matplotlib figures. To restore "
 "defaults once this example is run, we would need to call plt.rcdefaults()."
 msgstr ""
+"seaborn をインポートすると、matplotlib のスタイルが\"エクセル風\"の感じに変わることに注意してください。この変更は他の "
+"matplotlib 図にも影響します。この例を実行した後にデフォルトを復元するには、plt.rcdefaults() を呼び出す必要があります。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_wage_data.rst:118
 msgid "Plot a simple regression"
-msgstr ""
+msgstr "簡単な回帰をプロットする"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_wage_data.rst:138
 msgid ""
@@ -5414,7 +5449,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_wage_education_gender.rst:22
 msgid "Test for an education/gender interaction in wages"
-msgstr ""
+msgstr "賃金における教育/性別の交互作用の検定"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_wage_education_gender.rst:24
 msgid ""
@@ -5422,6 +5457,8 @@ msgid ""
 " related to gender: not only does gender create an offset in wages, it also "
 "seems that wages increase more with education for males than females."
 msgstr ""
+"賃金は主に教育に依存します。ここでは、この依存が性別とどう関係するかを調べます: "
+"性別は賃金にオフセットを作るだけでなく、賃金の教育による増加は女性よりも男性の方が大きいようです。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_wage_education_gender.rst:29
 msgid ""
@@ -5429,14 +5466,16 @@ msgid ""
 "statsmodels' formulas "
 "(http://statsmodels.sourceforge.net/stable/example_formulas.html)."
 msgstr ""
+"私たちのデータはこの最後の仮説を支持するでしょうか? statsmodels の "
+"formulas(http://statsmodels.sourceforge.net/stable/example_formulas.html)を使って検定します。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_wage_education_gender.rst:35
 msgid "Load and massage the data"
-msgstr ""
+msgstr "データを読み込んで整える"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_wage_education_gender.rst:79
 msgid "simple plotting"
-msgstr ""
+msgstr "簡単なプロット"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_wage_education_gender.rst:94
 msgid "statistical analysis"
@@ -5446,18 +5485,18 @@ msgstr "統計分析"
 msgid ""
 "The plots above highlight that there is not only a different offset in wage "
 "but also a different slope"
-msgstr ""
+msgstr "上のプロットは、賃金のオフセットが違うだけでなく傾きも違うことを示しています"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_wage_education_gender.rst:115
 msgid "We need to model this using an interaction"
-msgstr ""
+msgstr "これを交互作用を使ってモデル化する必要があります"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_wage_education_gender.rst:130
 msgid ""
 "Looking at the p-value of the interaction of gender and education, the data "
 "does not support the hypothesis that education benefits males more than "
 "female (p-value > 0.05)."
-msgstr ""
+msgstr "性別と教育の交互作用の p 値を見ると、データは教育が女性より男性に有利だという仮説を支持していません(p 値 > 0.05)。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/plot_wage_education_gender.rst:153
 msgid ""
@@ -5566,7 +5605,7 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/solutions/plot_brain_size.rst:22
 msgid "Relating Gender and IQ"
-msgstr ""
+msgstr "性別と IQ の関係"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/solutions/plot_brain_size.rst:24
 #: ../../scientific-python-lectures/packages/statistics/index.rst:744
@@ -5579,7 +5618,7 @@ msgstr "脳の大きさ + IQ のデータに戻り、脳の大きさ、身長、
 msgid ""
 "Notice that here 'Gender' is a categorical value. As it is a non-float data "
 "type, statsmodels is able to automatically infer this."
-msgstr ""
+msgstr "ここで 'Gender' はカテゴリ値です。浮動小数点型でないデータ型なので、statsmodels は自動的にこれを推論できます。"
 
 #: ../../scientific-python-lectures/packages/statistics/auto_examples/solutions/plot_brain_size.rst:53
 msgid ""
@@ -5704,11 +5743,11 @@ msgstr "各章"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:69
 msgid "In this document, the Python inputs are represented with the sign \">>>\"."
-msgstr ""
+msgstr "この文書では、Python の入力は記号 \">>>\" で表されます。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:74
 msgid "**Disclaimer: Gender questions**"
-msgstr ""
+msgstr "**注意: 性別に関する質問**"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:76
 msgid ""
@@ -6065,7 +6104,7 @@ msgstr "ノンパラメトリック統計を使って、男女のVIQの違いを
 msgid ""
 "**Conclusion**: we find that the data does not support the hypothesis that "
 "males and females have different VIQ."
-msgstr ""
+msgstr "**結論**: データは男性と女性で VIQ が異なるという仮説を支持しません。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:445
 msgid "Linear models, multiple factors, and analysis of variance"
@@ -6405,6 +6444,10 @@ msgid ""
 "<https://www.statsmodels.org/devel/example_formulas.html#multiplicative-"
 "interactions>`_."
 msgstr ""
+"上のプロットは 2 つの異なるフィットで構成されています。2 つの母集団間の傾きの分散を検定する単一のモデルを定式化する必要があります。これは "
+"`\"交互作用\" "
+"<https://www.statsmodels.org/devel/example_formulas.html#multiplicative-"
+"interactions>`_ で行います。"
 
 #: ../../scientific-python-lectures/packages/statistics/index.rst:885
 msgid "Can we conclude that education benefits males more than females?"
@@ -6460,19 +6503,19 @@ msgstr "記号式に対して代数操作を実行します。"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:16
 msgid "Perform basic calculus tasks (limits, differentiation and"
-msgstr ""
+msgstr "基本的な微積分のタスク(極限、微分、"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:17
 msgid "integration) with symbolic expressions."
-msgstr ""
+msgstr "積分)を記号式で実行する。"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:18
 msgid "Solve polynomial and transcendental equations."
-msgstr ""
+msgstr "多項式方程式と超越方程式を解く。"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:19
 msgid "Solve some differential equations."
-msgstr ""
+msgstr "いくつかの微分方程式を解く。"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:23
 msgid ""
@@ -6520,16 +6563,18 @@ msgid ""
 "constants, like :math:`e`, :math:`pi`, :math:`oo` (Infinity), are treated as"
 " symbols and can be evaluated with arbitrary precision::"
 msgstr ""
+"SymPy はバックグラウンドで mpmath "
+"を使うため、任意精度演算で計算できます。そのため、:math:`e`、:math:`pi`、:math:`oo`(無限大)などの一部の特殊定数は記号として扱われ、任意の精度で評価できます::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:74
 msgid ""
 "as you see, ``evalf`` evaluates the expression to a floating-point number."
-msgstr ""
+msgstr "ご覧の通り、``evalf`` は式を浮動小数点数に評価します。"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:76
 msgid ""
 "There is also a class representing mathematical infinity, called ``oo``::"
-msgstr ""
+msgstr "数学的な無限大を表す ``oo`` というクラスもあります::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:85
 #: ../../scientific-python-lectures/packages/sympy.rst:169
@@ -6537,79 +6582,81 @@ msgstr ""
 #: ../../scientific-python-lectures/packages/sympy.rst:381
 #: ../../scientific-python-lectures/packages/sympy.rst:458
 msgid "**Exercises**"
-msgstr ""
+msgstr "**演習**"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:88
 msgid "Calculate :math:`\\sqrt{2}` with 100 decimals."
-msgstr ""
+msgstr ":math:`\\sqrt{2}` を 100 桁で計算してください。"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:89
 msgid "Calculate :math:`1/2 + 1/3` in rational arithmetic."
-msgstr ""
+msgstr ":math:`1/2 + 1/3` を有理数演算で計算してください。"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:93
 msgid "Symbols"
-msgstr ""
+msgstr "記号"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:95
 msgid ""
 "In contrast to other Computer Algebra Systems, in SymPy you have to declare "
 "symbolic variables explicitly::"
-msgstr ""
+msgstr "他の数式処理システムとは異なり、SymPy では記号変数を明示的に宣言する必要があります::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:101
 msgid "Then you can manipulate them::"
-msgstr ""
+msgstr "そうすれば操作できます::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:109
 msgid ""
 "Symbols can now be manipulated using some of python operators: ``+``, ``-``,"
 " ``*``, ``**`` (arithmetic), ``&``, ``|``, ``~``, ``>>``, ``<<`` (boolean)."
 msgstr ""
+"記号は Python の演算子の一部で操作できます: "
+"``+``、``-``、``*``、``**``(算術)、``&``、``|``、``~``、``>>``、``<<``(論理)。"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:113
 msgid "**Printing**"
-msgstr ""
+msgstr "**表示**"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:115
 msgid ""
 "Sympy allows for control of the display of the output. From here we use the "
 "following setting for printing::"
-msgstr ""
+msgstr "SymPy は出力の表示を制御できます。以降、表示には次の設定を使います::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:123
 msgid "Algebraic manipulations"
-msgstr ""
+msgstr "代数的操作"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:125
 msgid ""
 "SymPy is capable of performing powerful algebraic manipulations. We'll take "
 "a look into some of the most frequently used: expand and simplify."
-msgstr ""
+msgstr "SymPy は強力な代数的操作を実行できます。最もよく使われるものを見てみましょう: expand と simplify です。"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:129
 msgid "Expand"
-msgstr ""
+msgstr "展開"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:131
 msgid ""
 "Use this to expand an algebraic expression. It will try to denest powers and"
 " multiplications::"
-msgstr ""
+msgstr "これを使って代数式を展開します。べき乗と乗算のネストを解こうとします::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:142
 msgid "Further options can be given in form on keywords::"
-msgstr ""
+msgstr "さらにオプションをキーワードの形で与えられます::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:155
 msgid "Simplify"
-msgstr ""
+msgstr "簡約"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:157
 msgid ""
 "Use simplify if you would like to transform an expression into a simpler "
 "form::"
-msgstr ""
+msgstr "式をより簡単な形に変換したい場合は simplify を使います::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:164
 msgid ""
@@ -6617,22 +6664,24 @@ msgid ""
 "simplify exists: ``powsimp`` (simplification of exponents), ``trigsimp`` "
 "(for trigonometric expressions) , ``logcombine``, ``radsimp``, together."
 msgstr ""
+"簡約はやや曖昧な用語で、simplify のより正確な代替があります: "
+"``powsimp``(指数の簡約)、``trigsimp``(三角関数式)、``logcombine``、``radsimp``、together。"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:172
 msgid "Calculate the expanded form of :math:`(x+y)^6`."
-msgstr ""
+msgstr ":math:`(x+y)^6` の展開形を計算してください。"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:173
 msgid "Simplify the trigonometric expression :math:`\\sin(x) / \\cos(x)`"
-msgstr ""
+msgstr "三角関数式 :math:`\\sin(x) / \\cos(x)` を簡約してください"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:177
 msgid "Calculus"
-msgstr ""
+msgstr "微積分"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:180
 msgid "Limits"
-msgstr ""
+msgstr "極限"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:182
 msgid ""
@@ -6650,7 +6699,7 @@ msgstr "無限大における極限も計算できます::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:204
 msgid "Differentiation"
-msgstr ""
+msgstr "微分"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:206
 msgid ""
@@ -6660,11 +6709,11 @@ msgstr "SymPyの任意の式は、 ``diff(func, var)`` を用いて微分でき�
 
 #: ../../scientific-python-lectures/packages/sympy.rst:218
 msgid "You can check that it is correct by::"
-msgstr ""
+msgstr "次のようにして正しいことを確認できます::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:226
 msgid "Which is equivalent since"
-msgstr ""
+msgstr "次が等価だからです"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:228
 msgid ""
@@ -6676,31 +6725,31 @@ msgstr ""
 
 #: ../../scientific-python-lectures/packages/sympy.rst:230
 msgid "You can check this as well::"
-msgstr ""
+msgstr "これも同様に確認できます::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:238
 msgid ""
 "Higher derivatives can be calculated using the ``diff(func, var, n)`` "
 "method::"
-msgstr ""
+msgstr "高階微分は ``diff(func, var, n)`` メソッドで計算できます::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:251
 msgid "Series expansion"
-msgstr ""
+msgstr "級数展開"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:253
 msgid ""
 "SymPy also knows how to compute the Taylor series of an expression at a "
 "point. Use ``series(expr, var)``::"
-msgstr ""
+msgstr "SymPy はある点での式のテイラー級数の計算方法も知っています。``series(expr, var)`` を使ってください::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:271
 msgid "Calculate :math:`\\lim_{x\\rightarrow 0} \\sin(x)/x`"
-msgstr ""
+msgstr ":math:`\\lim_{x\\rightarrow 0} \\sin(x)/x` を計算してください"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:272
 msgid "Calculate the derivative of :math:`log(x)` for :math:`x`."
-msgstr ""
+msgstr ":math:`log(x)` の :math:`x` についての微分を計算してください。"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:277
 msgid "Integration"
@@ -6713,39 +6762,41 @@ msgid ""
 "the powerful extended Risch-Norman algorithm and some heuristics and pattern"
 " matching. You can integrate elementary functions::"
 msgstr ""
+"SymPy は ``integrate()`` 機能によって、超越初等関数と特殊関数の不定積分と定積分をサポートしています。強力な拡張 Risch-"
+"Norman アルゴリズムといくつかのヒューリスティクスとパターンマッチングを使います。初等関数を積分できます::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:295
 msgid "Also special functions are handled easily::"
-msgstr ""
+msgstr "特殊関数も簡単に扱えます::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:303
 msgid "It is possible to compute definite integral::"
-msgstr ""
+msgstr "定積分も計算できます::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:312
 msgid "Also improper integrals are supported as well::"
-msgstr ""
+msgstr "広義積分もサポートされています::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:325
 msgid "Equation solving"
-msgstr ""
+msgstr "方程式の求解"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:327
 msgid ""
 "SymPy is able to solve algebraic equations, in one and several variables "
 "using :func:`~sympy.solveset`::"
-msgstr ""
+msgstr "SymPy は :func:`~sympy.solveset` を使って 1 変数および複数変数の代数方程式を解けます::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:333
 msgid ""
 "As you can see it takes as first argument an expression that is supposed to "
 "be equaled to 0. It also has (limited) support for transcendental "
 "equations::"
-msgstr ""
+msgstr "ご覧の通り、最初の引数として 0 と等しいとされる式を受け取ります。超越方程式の(限られた)サポートもあります::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:340
 msgid "**Systems of linear equations**"
-msgstr ""
+msgstr "**連立一次方程式**"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:342
 msgid ""
@@ -6754,6 +6805,9 @@ msgid ""
 "giving a tuple as second argument. To do this you use the "
 ":func:`~sympy.solve` command::"
 msgstr ""
+"Sympy は多項式方程式の大部分を解けます。また、2 "
+"番目の引数としてタプルを与えることで、複数の変数についての複数の方程式を解くこともできます。これには :func:`~sympy.solve` "
+"コマンドを使います::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:351
 msgid ""
@@ -6761,6 +6815,8 @@ msgid ""
 "`factor` returns the polynomial factorized into irreducible terms, and is "
 "capable of computing the factorization over various domains::"
 msgstr ""
+"多項式方程式のもう 1 つの選択肢は `factor` です。`factor` "
+"は多項式を既約項に因数分解して返し、さまざまな体上での因数分解を計算できます::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:365
 msgid ""
@@ -6768,6 +6824,7 @@ msgid ""
 "certain boolean expression is satisfiable or not. For this, we use the "
 "function satisfiable::"
 msgstr ""
+"SymPy はブール方程式も解けます。つまり、あるブール式が充足可能かどうかを判定できます。これには satisfiable 関数を使います::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:372
 msgid ""
@@ -6775,6 +6832,8 @@ msgid ""
 "True. If an expression cannot be true, i.e. no values of its arguments can "
 "make the expression True, it will return False::"
 msgstr ""
+"これは、``x`` と ``y`` が両方 True のとき ``(x & y)`` が True であることを教えてくれます。式が True "
+"になれない場合、つまり引数のどの値も式を True にできない場合、False を返します::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:384
 msgid ""
@@ -6785,7 +6844,7 @@ msgstr "連立方程式を解いてください :math:`x + y = 2`, :math:`2\\cdo
 msgid ""
 "Are there boolean values ``x``, ``y`` that make ``(~x | y) & (~y | x)`` "
 "true?"
-msgstr ""
+msgstr "``(~x | y) & (~y | x)`` を真にするブール値 ``x``、``y`` はあるでしょうか?"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:389
 msgid "Linear Algebra"
@@ -6793,15 +6852,15 @@ msgstr "線形代数"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:394
 msgid "Matrices"
-msgstr ""
+msgstr "行列"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:396
 msgid "Matrices are created as instances from the Matrix class::"
-msgstr ""
+msgstr "行列は Matrix クラスのインスタンスとして作成されます::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:403
 msgid "unlike a NumPy array, you can also put Symbols in it::"
-msgstr ""
+msgstr "NumPy 配列とは異なり、記号も入れることができます::"
 
 #: ../../scientific-python-lectures/packages/sympy.rst:421
 msgid "Differential Equations"
