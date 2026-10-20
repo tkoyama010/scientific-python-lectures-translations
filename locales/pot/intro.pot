@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-26 18:20+0000\n"
+"POT-Creation-Date: 2026-10-20 00:19+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2664,12 +2664,12 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:117
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:118
-msgid ":doc:`/intro/matplotlib/auto_examples/plot_bad`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_subplot-vertical`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:134
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:135
-msgid ":doc:`/intro/matplotlib/auto_examples/plot_subplot-vertical`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_bad`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:151
