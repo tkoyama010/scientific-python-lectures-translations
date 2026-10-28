@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Scientific Python Lectures 2025.1rc0.dev0\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-10-22 00:18+0000\n"
+"POT-Creation-Date: 2026-10-28 19:29+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2664,12 +2664,12 @@ msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:117
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:118
-msgid ":doc:`/intro/matplotlib/auto_examples/plot_bad`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_subplot-vertical`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:134
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:135
-msgid ":doc:`/intro/matplotlib/auto_examples/plot_subplot-vertical`"
+msgid ":doc:`/intro/matplotlib/auto_examples/plot_bad`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/matplotlib/auto_examples/index.rst:151
@@ -9354,11 +9354,11 @@ msgid "Examples for the summary excercices"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/index.rst:27
-msgid ":doc:`/intro/scipy/summary-exercises/auto_examples/plot_optimize_lidar_complex_data`"
+msgid ":doc:`/intro/scipy/summary-exercises/auto_examples/plot_optimize_lidar_data`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/index.rst:44
-msgid ":doc:`/intro/scipy/summary-exercises/auto_examples/plot_optimize_lidar_data`"
+msgid ":doc:`/intro/scipy/summary-exercises/auto_examples/plot_optimize_lidar_complex_data`"
 msgstr ""
 
 #: ../../scientific-python-lectures/intro/scipy/summary-exercises/auto_examples/index.rst:61
